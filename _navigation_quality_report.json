@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-06-24T16:23:18.605061Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1252,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 208,
+    "average_inline_inbound_links_per_visible_page": 5.93,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14",
+        "title": "Dorothy Martin",
+        "permalink": "/dorothy-martin/",
+        "inline_inbound_count": 77
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "title": "Media",
+        "permalink": "/media/",
+        "inline_inbound_count": 74
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1",
+        "title": "Failed Predictions",
+        "permalink": "/failed-predictions/",
+        "inline_inbound_count": 58
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97",
+        "title": "Garland",
+        "permalink": "/garland/",
+        "inline_inbound_count": 56
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93",
+        "title": "Verification",
+        "permalink": "/verification/",
+        "inline_inbound_count": 47
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_unresolved_not_alien_f8453e",
+        "title": "Unresolved",
+        "permalink": "/unresolved/",
+        "inline_inbound_count": 45
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_uncertainty_as_confi_311851",
+        "title": "Uncertainty",
+        "permalink": "/uncertainty/",
+        "inline_inbound_count": 43
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b",
+        "title": "Collapse",
+        "permalink": "/collapse/",
+        "inline_inbound_count": 43
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_leader_recantation_816aba",
+        "title": "Leaders",
+        "permalink": "/leaders/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_disclosure_bureaucra_3e3ac5",
+        "title": "Disclosure",
+        "permalink": "/disclosure/",
+        "inline_inbound_count": 38
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647",
+        "title": "Ashtar",
+        "permalink": "/ashtar/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "title": "UFO Religion",
+        "permalink": "/ufo-religion/",
+        "inline_inbound_count": 34
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_project_blue_book_07c262_martin_blue_book_evi_e37e58",
+        "title": "Martin Case",
+        "permalink": "/martin-case/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3",
+        "title": "Dissonance",
+        "permalink": "/dissonance/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_empty_lawn_aftermath_9ef2d9",
+        "title": "Aftermath",
+        "permalink": "/aftermath/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_neighbor_anxiety_cou_e7b913",
+        "title": "Neighbours",
+        "permalink": "/neighbours/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_project_blue_book_07c262_untestable_prophecy_882b34",
+        "title": "After Failure",
+        "permalink": "/after-failure/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_public_ridicule_1faae3",
+        "title": "Ridicule",
+        "permalink": "/ridicule/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271",
+        "title": "Ashtar Command",
+        "permalink": "/ashtar-command/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e",
+        "title": "Apocalypse",
+        "permalink": "/apocalypse/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071",
+        "title": "Van Tassel",
+        "permalink": "/van-tassel/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_private_revelation_c_50f840",
+        "title": "Private Claims",
+        "permalink": "/private-claims/",
+        "inline_inbound_count": 18
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831",
+        "title": "Public Evidence",
+        "permalink": "/public-evidence/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b",
+        "title": "Social Support",
+        "permalink": "/social-support/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66",
+        "title": "1994 Ashtar",
+        "permalink": "/1994-ashtar/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_member_departures_512251",
+        "title": "Departures",
+        "permalink": "/departures/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_public_ridicule_1faae3_ufo_jokes_religious_0e3791",
+        "title": "Stigma",
+        "permalink": "/stigma/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_contactee_f6f321",
+        "title": "Giant Rock",
+        "permalink": "/giant-rock/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf",
+        "title": "Channeling",
+        "permalink": "/channeling/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_hale_bopp_spacecraft_2ba2cd",
+        "title": "Hale Bopp",
+        "permalink": "/hale-bopp-9e98fa/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_calibrated_sensor_ua_7c3077",
+        "title": "Multi Sensor",
+        "permalink": "/multi-sensor/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_police_concerns_a78e0d_children_emergency_p_22c2ca",
+        "title": "Children",
+        "permalink": "/children/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_project_blue_book_07c262_unidentified_not_ali_becdd7",
+        "title": "Unidentified Cases",
+        "permalink": "/unidentified-cases/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1",
+        "title": "Ridgedale",
+        "permalink": "/ridgedale/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_courtney_brown_remot_6c2b52",
+        "title": "Remote Viewing",
+        "permalink": "/remote-viewing/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be",
+        "title": "Mockery",
+        "permalink": "/mockery/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c",
+        "title": "Reframing",
+        "permalink": "/reframing/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_humanity_not_ready_d_015522",
+        "title": "Not Ready",
+        "permalink": "/not-ready/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_chen_recantation_39497b",
+        "title": "Recantation",
+        "permalink": "/recantation/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e",
+        "title": "Condon Report",
+        "permalink": "/condon-report/",
+        "inline_inbound_count": 6
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_costly_commitment_a171c2",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_leader_recantation_816aba",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_member_departures_512251",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_project_blue_book_07c262",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_public_ridicule_1faae3",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1",
+        "to": "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_costly_commitment_a171c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_leader_recantation_816aba",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_member_departures_512251",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_public_ridicule_1faae3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_aaro_case_resolution_0ce8f4",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_blue_book_unknowns_b1a09d",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_disclosure_bureaucra_3e3ac5",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_nasa_uap_data_limits_98cf7c",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_ufo_uap_term_shifts_78c030",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_unresolved_not_vindi_8c5444",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_costly_commitment_a171c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_leader_recantation_816aba",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_member_departures_512251",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_public_ridicule_1faae3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73_aetherius_spiritual_aaea94",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73_nettles_heavens_gate_a81268",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_costly_commitment_a171c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_leader_recantation_816aba",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_member_departures_512251",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_public_ridicule_1faae3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_aaro_case_imagery_acc349",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_calibrated_sensor_ua_7c3077",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_nasa_uap_evidence_st_e63014",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_uap_sensor_gaps_991df5",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_uap_smartphone_repor_da6710",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_unresolved_not_alien_f8453e",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_costly_commitment_a171c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_leader_recantation_816aba",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_member_departures_512251",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_nasa_uap_study_25636b",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_project_blue_book_07c262",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_public_ridicule_1faae3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_ufo_religion_672c73",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_chen_tao_tv_prophecy_fe25d5",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_countdown_tv_spectac_bd407c",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_garland_police_plann_1142d4",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_index",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_martin_media_myth_257fe7",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be",
+        "type": "child"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "ancestor"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1",
+        "type": "parent"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_costly_commitment_a171c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_george_van_tassel_8d2071",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_leader_recantation_816aba",
+        "type": "sibling"
+      },
+      {
+        "from": "failed_predictions_r_c5c2a1_police_concerns_a78e0d",
+        "to": "failed_predictions_r_c5c2a1_media_spectacle_1aedf5",
+        "type": "sibling"
+      }
+    ]
+  }
+}

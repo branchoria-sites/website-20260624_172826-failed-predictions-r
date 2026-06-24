@@ -1,0 +1,2706 @@
+{
+  "generated_at": "2026-06-24T17:23:21",
+  "passed": true,
+  "baseline": {
+    "article_pages": 205,
+    "amazon_specific_pages": 177,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 177,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "failed_predictions_r_c5c2a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_ashtar_1977_broadcas_0d15af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_cole_1994_fleet_8e9587": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hydrogen_bomb_warnin_0de4f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_loose_channel_author_375138": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_tuella_evacuation_lo_eb6470": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_channel_18_public_te_85cd54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_chen_recantation_39497b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_arrival_dead_9784be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_member_loss_after_fa_788559": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_observer_effect_9d89af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_public_sacrifice_a53554": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_recruitment_timing_6fb55f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_sister_thedra_persis_e3f4f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_covert_observers_af2880": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_cuyler_vigil_9e9296": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_dissonance_after_fai_b462c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_flood_deadline_f8c4f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_empty_lawn_aftermath_9ef2d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_police_respo_113aea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_neighbor_anxiety_cou_e7b913": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_atomic_fear_warnings_f0171b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_contactee_f6f321": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integratron_technica_5ca337": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_altered_secret_image_0bd70d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_art_bell_radio_loop_392188": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_courtney_brown_remot_6c2b52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shramek_photo_softwa_b3f796": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_uncertainty_as_confi_311851": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_worldwide_skywatcher_49dcad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_rumour_spr_35f290": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_real_hale_bopp_comet_ebbde8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_unfalsifiable_hale_b_754cda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_craft_to_spiritual_r_8e35ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_faith_saved_world_cl_a99c17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_hidden_success_vs_de_5838e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_outsider_doubt_hidde_c5f2bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_survival_as_rescue_p_becfe2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_war_nuclear_fea_60b1c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_contactee_network_as_3c6b43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_hydrogen_pseudoscien_b2c6d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_invisible_space_resc_72e1f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_mike_test_checkpoint_994342": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_ashtar_landing_ascen_c56fc0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_chen_tao_garland_71e290": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_failed_landing_redef_9ee9ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_martin_saucer_rescue_a5bcaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_ufo_date_public_resp_0de06a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_ufo_landing_testabil_2df3ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_chen_tao_tv_prophecy_fe25d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_countdown_tv_spectac_bd407c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_garland_police_plann_1142d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_martin_media_myth_257fe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_chen_tao_visa_attrit_92c9f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_costly_sacrifice_exi_fd292e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_media_pressure_attri_70b909": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_why_believers_leave_f449de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_misread_ufo_deadline_d36400": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_recanting_vs_repair_68e5d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_rolling_ufo_expectat_06f1c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_vaguer_ufo_dates_2d962f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_aaro_case_imagery_acc349": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_calibrated_sensor_ua_7c3077": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_nasa_uap_evidence_st_e63014": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_uap_sensor_gaps_991df5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_uap_smartphone_repor_da6710": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_unresolved_not_alien_f8453e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_aaro_hidden_programm_220d7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_blue_book_unidentifi_0a0f61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nasa_uap_data_8cb183": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nas_alien_leap_ccd14a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_sensors_over_stories_dcd39d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_belief_vs_danger_fc7de0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_children_emergency_p_22c2ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_heavens_gate_warning_3c74c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_landing_site_rumour_cf1766": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_rapport_policing_0f3692": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_religion_expert_advi_255b2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_alien_technology_cla_5a6637": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_martin_blue_book_evi_e37e58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_prophecy_proof_stand_c313f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_unidentified_not_ali_becdd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_untestable_prophecy_882b34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_costly_sacrifices_pu_e8587b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_hale_bopp_rumor_spre_301381": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_heavens_gate_mocking_7442c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_shame_leaving_ufo_gr_3cbfd6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_ufo_jokes_religious_0e3791": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_averted_apocalypse_s_b8e47f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_humanity_not_ready_d_015522": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_invisible_arrival_cl_b0c504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_official_reviews_int_8cb7ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_unarius_ritual_delay_c9f40d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_channelled_repair_up_10cbd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_martin_automatic_wri_aaa62d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_nasa_uap_public_data_22216d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_telepathic_claims_ch_9a36f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_aetherius_spiritual_aaea94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_nettles_heavens_gate_a81268": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_ashtar_rescue_ascens_029a69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_avertive_ufo_apocaly_1fe4c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_garland_fai_8ed952": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_postponed_d_a08571": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_public_sacrifice_res_44f5df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_spiritualised_ufo_re_fb6497": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_aaro_case_resolution_0ce8f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_blue_book_unknowns_b1a09d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_disclosure_bureaucra_3e3ac5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_nasa_uap_data_limits_98cf7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_ufo_uap_term_shifts_78c030": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_unresolved_not_vindi_8c5444": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_ashtar_pioneer_voyag_9f1b40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_1994_testable_d_e6b626": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_follower_roles_9bf21c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_government_disc_cc543f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_media_condition_e33c03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 211,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "failed_predictions_r_c5c2a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_chosen_survivors_sor_f88dde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_nuclear_fear_ufo_end_0044ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_planetary_rebirth_af_c60470": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_ashtar_1977_broadcas_0d15af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_cole_1994_fleet_8e9587": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hydrogen_bomb_warnin_0de4f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_loose_channel_author_375138": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_tuella_evacuation_lo_eb6470": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_channel_18_public_te_85cd54": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_chen_recantation_39497b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_arrival_dead_9784be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_member_loss_after_fa_788559": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_costly_ufo_predictio_f96d19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_dated_ufo_claims_1c8ec9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_hale_bopp_spacecraft_2ba2cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_martin_saucer_rescue_a5bcaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_nasa_uap_evidence_li_0d4e18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_project_blue_book_un_b6d60c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_observer_effect_9d89af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_public_sacrifice_a53554": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_recruitment_timing_6fb55f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_sister_thedra_persis_e3f4f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_costly_commitment_a171c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_costly_commitment_a171c2_chen_tao_garland_hom_f4a519": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_costly_commitment_a171c2_family_strain_saucer_223357": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_costly_commitment_a171c2_heavens_gate_renunci_cb5b14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_costly_commitment_a171c2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_costly_commitment_a171c2_selling_possessions_3306ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_costly_commitment_a171c2_social_support_costl_9b5d92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_covert_observers_af2880": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_cuyler_vigil_9e9296": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_dissonance_after_fai_b462c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_flood_deadline_f8c4f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_empty_lawn_aftermath_9ef2d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_police_respo_113aea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_neighbor_anxiety_cou_e7b913": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_atomic_fear_warnings_f0171b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_contactee_f6f321": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integratron_technica_5ca337": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_altered_secret_image_0bd70d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_art_bell_radio_loop_392188": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_courtney_brown_remot_6c2b52": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shramek_photo_softwa_b3f796": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_uncertainty_as_confi_311851": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_worldwide_skywatcher_49dcad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_rumour_spr_35f290": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_real_hale_bopp_comet_ebbde8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_unfalsifiable_hale_b_754cda": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_craft_to_spiritual_r_8e35ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_faith_saved_world_cl_a99c17": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_hidden_success_vs_de_5838e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_outsider_doubt_hidde_c5f2bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_survival_as_rescue_p_becfe2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_war_nuclear_fea_60b1c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_contactee_network_as_3c6b43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_hydrogen_pseudoscien_b2c6d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_invisible_space_resc_72e1f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_mike_test_checkpoint_994342": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_ashtar_landing_ascen_c56fc0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_chen_tao_garland_71e290": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_failed_landing_redef_9ee9ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_martin_saucer_rescue_a5bcaf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_ufo_date_public_resp_0de06a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed_ufo_landing_testabil_2df3ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_leader_recantation_816aba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_leader_recantation_816aba_chen_apology_authori_67a4e2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_leader_recantation_816aba_chen_tao_lockport_re_de88f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_leader_recantation_816aba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_leader_recantation_816aba_partial_recantation_a2413b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_leader_recantation_816aba_police_media_pressur_9a2e2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_leader_recantation_816aba_timing_errors_save_b_a571cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_chen_tao_tv_prophecy_fe25d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_countdown_tv_spectac_bd407c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_garland_police_plann_1142d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_martin_media_myth_257fe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_chen_tao_visa_attrit_92c9f0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_costly_sacrifice_exi_fd292e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_media_pressure_attri_70b909": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_member_departures_512251_why_believers_leave_f449de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_misread_ufo_deadline_d36400": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_recanting_vs_repair_68e5d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_rolling_ufo_expectat_06f1c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_vaguer_ufo_dates_2d962f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_aaro_case_imagery_acc349": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_calibrated_sensor_ua_7c3077": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_nasa_uap_evidence_st_e63014": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_uap_sensor_gaps_991df5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_uap_smartphone_repor_da6710": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_nasa_uap_study_25636b_unresolved_not_alien_f8453e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_aaro_hidden_programm_220d7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_blue_book_unidentifi_0a0f61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nasa_uap_data_8cb183": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nas_alien_leap_ccd14a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_sensors_over_stories_dcd39d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_belief_vs_danger_fc7de0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_children_emergency_p_22c2ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_heavens_gate_warning_3c74c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_landing_site_rumour_cf1766": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_rapport_policing_0f3692": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_police_concerns_a78e0d_religion_expert_advi_255b2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_alien_technology_cla_5a6637": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_martin_blue_book_evi_e37e58": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_prophecy_proof_stand_c313f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_unidentified_not_ali_becdd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_project_blue_book_07c262_untestable_prophecy_882b34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_costly_sacrifices_pu_e8587b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_hale_bopp_rumor_spre_301381": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_heavens_gate_mocking_7442c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_shame_leaving_ufo_gr_3cbfd6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_public_ridicule_1faae3_ufo_jokes_religious_0e3791": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_averted_apocalypse_s_b8e47f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_humanity_not_ready_d_015522": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_invisible_arrival_cl_b0c504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_official_reviews_int_8cb7ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_unarius_ritual_delay_c9f40d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_channelled_repair_up_10cbd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_martin_automatic_wri_aaa62d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_nasa_uap_public_data_22216d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_telepathic_claims_ch_9a36f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_aetherius_spiritual_aaea94": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_religion_672c73_nettles_heavens_gate_a81268": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_ashtar_rescue_ascens_029a69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_avertive_ufo_apocaly_1fe4c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_garland_fai_8ed952": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_postponed_d_a08571": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_public_sacrifice_res_44f5df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_spiritualised_ufo_re_fb6497": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_aaro_case_resolution_0ce8f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_blue_book_unknowns_b1a09d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_disclosure_bureaucra_3e3ac5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_nasa_uap_data_limits_98cf7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_ufo_uap_term_shifts_78c030": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269_unresolved_not_vindi_8c5444": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_chen_tao_public_test_4215d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_post_deadline_reinte_3820eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_private_revelation_c_50f840": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_sky_object_verificat_328ed7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_ufo_landing_success_138f79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_ashtar_pioneer_voyag_9f1b40": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_1994_testable_d_e6b626": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_follower_roles_9bf21c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_government_disc_cc543f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_media_condition_e33c03": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 205,
+  "regressions": []
+}

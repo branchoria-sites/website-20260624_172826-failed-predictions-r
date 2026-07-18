@@ -280,20 +280,20 @@ image: /assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorot
 
 ## Introduction
 
-[Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s failed 1954 flying-saucer rescue prophecy is usually remembered as the classic case of believers “doubling down” after disconfirmation. That interpretation became famous through *When Prophecy Fails* (1956), the study that helped inspire [cognitive dissonance]({{ 'dissonance/' | relative_url }}) theory. Yet the historical record is more complicated. Even the original account acknowledged that some followers left, lost confidence, or could not sustain their commitment. More recent archival research goes further, arguing that the celebrated story of collective hardening was substantially overstated and that the movement rapidly unravelled after the prophecy failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+[Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s failed 1954 flying-saucer rescue prophecy is usually remembered as the classic case of believers “doubling down” after disconfirmation. That interpretation became famous through *When Prophecy Fails* (1956), the study that helped inspire [cognitive dissonance]({{ 'dissonance/' | relative_url }}) theory. Yet the historical record is more complicated. Even the original account acknowledged that some followers left, lost confidence, or could not sustain their commitment. More recent archival research goes further, arguing that the celebrated story of collective hardening was substantially overstated and that the movement rapidly unravelled after the prophecy failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-1-dark.svg" | relative_url }}" alt="Martin Exits illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For understanding [member departures]({{ 'departures/' | relative_url }}) after failed UFO prophecies, the overlooked part of the [Martin case]({{ 'martin-case/' | relative_url }}) is often the most revealing. The key question is not whether a few believers found rationalisations. It is whether the group as a whole survived, retained members, and continued to act as a coherent movement. On that measure, the evidence points toward fragmentation, withdrawal, and eventual dissolution rather than a durable triumph of belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
+For understanding [member departures]({{ 'departures/' | relative_url }}) after failed UFO prophecies, the overlooked part of the [Martin case]({{ 'martin-case/' | relative_url }}) is often the most revealing. The key question is not whether a few believers found rationalisations. It is whether the group as a whole survived, retained members, and continued to act as a coherent movement. On that measure, the evidence points toward fragmentation, withdrawal, and eventual dissolution rather than a durable triumph of belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhblbZDXfZU" title="When “When Prophecy Fails” Fails (E350)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer">When “When Prophecy Fails” Fails (E350)</a></p><p class="youtube-embed-meta">Channel: QAA Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhblbZDXfZU">Open on YouTube</a></p></div></div></div>
 
 ## The textbook version of the case
 
-The familiar narrative comes from Leon Festinger, Henry Riecken, and Stanley Schachter’s participant-observation study of Martin’s circle, published under pseudonyms. In that account, the predicted catastrophe failed to occur, but a new revelation claimed that the group’s faith had persuaded God to spare the world. The researchers argued that some committed believers responded by increasing their public advocacy rather than abandoning the belief system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The familiar narrative comes from Leon Festinger, Henry Riecken, and Stanley Schachter’s participant-observation study of Martin’s circle, published under pseudonyms. In that account, the predicted catastrophe failed to occur, but a new revelation claimed that the group’s faith had persuaded God to spare the world. The researchers argued that some committed believers responded by increasing their public advocacy rather than abandoning the belief system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-What is often forgotten is that the original study never described a unanimous reaction. Even in the classic telling, reactions varied. Members differed in commitment, [social support]({{ 'social-support/' | relative_url }}), and willingness to continue believing. Several participants were portrayed as unable to maintain the same level of conviction and left the movement. The famous “doubling down” response was therefore only one part of the observed aftermath, not the whole story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+What is often forgotten is that the original study never described a unanimous reaction. Even in the classic telling, reactions varied. Members differed in commitment, [social support]({{ 'social-support/' | relative_url }}), and willingness to continue believing. Several participants were portrayed as unable to maintain the same level of conviction and left the movement. The famous “doubling down” response was therefore only one part of the observed aftermath, not the whole story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This distinction matters because later retellings frequently compressed a mixed outcome into a simple lesson: failed prophecy strengthens belief. The actual historical question is whether the movement retained enough people and momentum to remain viable.
 
@@ -304,225 +304,225 @@ This distinction matters because later retellings frequently compressed a mixed 
 
 The strongest evidence for departures comes from what happened after the immediate drama ended. Public attention often focuses on the hours after midnight on 21 December 1954, when believers waited for rescue by flying saucers. The longer-term trajectory is more revealing.
 
-The original study itself noted that some participants lacked the commitment or social reinforcement necessary to preserve belief after the failed prediction. These members drifted away or disengaged rather than embracing new rationalisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The original study itself noted that some participants lacked the commitment or social reinforcement necessary to preserve belief after the failed prediction. These members drifted away or disengaged rather than embracing new rationalisations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Subsequent critiques have also pointed to pressures that made continued commitment difficult. Members faced [ridicule]({{ 'ridicule/' | relative_url }}), hostile media attention, family tensions, and legal troubles surrounding leading figures in the movement. Such pressures created practical reasons to withdraw in addition to any loss of faith caused by the failed prophecy itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Debunking When Prophecy Fails &#124; PDFHow did Dorothy Martin and the group&#x27;s response to the failed prophecy challenge the interpretat...</span></span></span>
+Subsequent critiques have also pointed to pressures that made continued commitment difficult. Members faced [ridicule]({{ 'ridicule/' | relative_url }}), hostile media attention, family tensions, and legal troubles surrounding leading figures in the movement. Such pressures created practical reasons to withdraw in addition to any loss of faith caused by the failed prophecy itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Debunking When Prophecy Fails &#124; PDFHow did Dorothy Martin and the group&#x27;s response to the failed prophecy challenge the interpretat...</span></span></span>
 
-Importantly, departures did not always take the form of dramatic public renunciations. Small prophetic groups often shrink quietly. Members stop attending meetings, return to ordinary routines, reconnect with sceptical relatives, or simply cease investing effort in the movement. The Martin case appears to have included exactly this kind of attrition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Importantly, departures did not always take the form of dramatic public renunciations. Small prophetic groups often shrink quietly. Members stop attending meetings, return to ordinary routines, reconnect with sceptical relatives, or simply cease investing effort in the movement. The Martin case appears to have included exactly this kind of attrition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-2-dark.svg" | relative_url }}" alt="Martin Exits illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the archive changes the lesson
 
-The most significant challenge to the traditional interpretation comes from newly examined archival material analysed by historian Thomas Kelly. According to Kelly’s findings, the core claims that made the case famous are substantially inaccurate. Rather than entering a sustained phase of renewed conviction and recruitment, Martin reportedly recanted the failed prophecy, the group dissolved, and organised proselytising ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
+The most significant challenge to the traditional interpretation comes from newly examined archival material analysed by historian Thomas Kelly. According to Kelly’s findings, the core claims that made the case famous are substantially inaccurate. Rather than entering a sustained phase of renewed conviction and recruitment, Martin reportedly recanted the failed prophecy, the group dissolved, and organised proselytising ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
 
-Kelly argues that the archival documents show believers quickly abandoning the failed prediction rather than maintaining it through an enduring campaign of rationalisation. The evidence also suggests that public outreach had already been occurring before the prophecy failed, weakening the claim that post-failure publicity represented a distinctive surge caused by cognitive dissonance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
+Kelly argues that the archival documents show believers quickly abandoning the failed prediction rather than maintaining it through an enduring campaign of rationalisation. The evidence also suggests that public outreach had already been occurring before the prophecy failed, weakening the claim that post-failure publicity represented a distinctive surge caused by cognitive dissonance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
 
-If this interpretation is correct, then departures are not a side note to the Martin story. They are central to it. The movement’s inability to retain a stable body of committed followers becomes more important than the temporary efforts of a remaining core to explain away the failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
+If this interpretation is correct, then departures are not a side note to the Martin story. They are central to it. The movement’s inability to retain a stable body of committed followers becomes more important than the temporary efforts of a remaining core to explain away the failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
 
-The archival revision does not prove that believers never respond to failed prophecies by intensifying commitment. Many movements have shown that pattern under some conditions. What it does challenge is the tendency to treat Dorothy Martin’s group as the definitive example of that outcome. In this reading, the better lesson is that failed UFO prophecies can produce multiple reactions simultaneously: rationalisation among some participants, but departure, disillusionment, and organisational [collapse]({{ 'collapse/' | relative_url }}) among others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
+The archival revision does not prove that believers never respond to failed prophecies by intensifying commitment. Many movements have shown that pattern under some conditions. What it does challenge is the tendency to treat Dorothy Martin’s group as the definitive example of that outcome. In this reading, the better lesson is that failed UFO prophecies can produce multiple reactions simultaneously: rationalisation among some participants, but departure, disillusionment, and organisational [collapse]({{ 'collapse/' | relative_url }}) among others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yJ3ilyecMBU" title="When Prophecy Fails — The System Behind Doubling Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer">When Prophecy Fails — The System Behind Doubling Down</a></p><p class="youtube-embed-meta">Channel: Crisis in Perception</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yJ3ilyecMBU">Open on YouTube</a></p></div></div></div>
 
 ## What the Martin case now suggests about failed UFO prophecies
 
-Seen through the lens of member departures, the Martin episode looks less like a straightforward victory of belief over evidence and more like a fragmented social process. A few participants may have searched for explanations that preserved meaning. Others could not maintain the same level of commitment. The group itself appears to have lost coherence, and later archival research argues that it ultimately disbanded rather than flourishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Seen through the lens of member departures, the Martin episode looks less like a straightforward victory of belief over evidence and more like a fragmented social process. A few participants may have searched for explanations that preserved meaning. Others could not maintain the same level of commitment. The group itself appears to have lost coherence, and later archival research argues that it ultimately disbanded rather than flourishing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-That revised picture changes why the case remains important. The enduring myth is that Dorothy Martin’s followers proved believers always double down after a failed UFO prophecy. The historical record increasingly suggests a more nuanced conclusion: some believers stayed, some left, and the survival of the movement was far weaker than the textbook version implied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
+That revised picture changes why the case remains important. The enduring myth is that Dorothy Martin’s followers proved believers always double down after a failed UFO prophecy. The historical record increasingly suggests a more nuanced conclusion: some believers stayed, some left, and the survival of the movement was far weaker than the textbook version implied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-3-dark.svg" | relative_url }}" alt="Martin Exits illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_dorothy_martin_depar_c5eee1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Dorothy Martin&#x27;s Followers Really Double Down?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Dorothy Martin&#x27;s Followers Really Double Down?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Primary book associated with Dorothy Martin and member reactions after disconfirmation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Primary book associated with Dorothy Martin and member reactions after disconfirmation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Theory of Cognitive Dissonance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5291092-M.jpg" alt="Cover for A Theory of Cognitive Dissonance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Theory of Cognitive Dissonance">A Theory of Cognitive Dissonance</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Theory of Cognitive Dissonance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5291092-M.jpg" alt="Cover for A Theory of Cognitive Dissonance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Theory of Cognitive Dissonance">A Theory of Cognitive Dissonance</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger</p>
         
-        <p class="fr-book-desc">First published 1957. Subjects: Adaptability (Psychology), Cognitive dissonance, Cognitieve dissonantie, Dissonance cognitive, Desenvolvi...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1957. Subjects: Adaptability (Psychology), Cognitive dissonance, Cognitieve dissonantie, Dissonance cognitive, Desenvolvi...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
-        </h4>
-        <p class="fr-book-author">By Steven Hassan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
+</h4>
+<p class="fr-book-author">By Steven Hassan</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
-        </h4>
-        <p class="fr-book-author">By Amanda Montell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
+</h4>
+<p class="fr-book-author">By Amanda Montell</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Theory of Cognitive Dissonance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Theory of Cognitive Dissonance</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="martin-exits-did-dorothy-martin-s-followers-really-double-down-failed-predictions-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ That revised picture changes why the case remains important. The enduring myth i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ That revised picture changes why the case remains important. The enduring myth i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ That revised picture changes why the case remains important. The enduring myth i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ That revised picture changes why the case remains important. The enduring myth i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ That revised picture changes why the case remains important. The enduring myth i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,101 +728,101 @@ That revised picture changes why the case remains important. The enduring myth i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Debunking “When Prophecy Fails”  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Disconfirmed expectancy  
-   Link: <a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking When Prophecy Fails | PDFHow did Dorothy Martin and the group&#x27;s response to the failed prophecy challenge the interpretat...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking When Prophecy Fails | PDFHow did Dorothy Martin and the group&#x27;s response to the failed prophecy challenge the interpretat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Debunking “When Prophecy Fails”  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043?campaign=woletoc" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043?campaign=woletoc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrived, she...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043?campaign=woletoc" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043?campaign=woletoc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrived, she...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Doomsday cult  
-   Link: <a href="https://en.wikipedia.org/wiki/Doomsday_cult" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Doomsday_cult</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Doomsday_cult" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Doomsday_cult</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Dorothy Martin (May 2, 1900 – June 16, 1992) a.k.a. &quot;Marian Keech&quot;, later known as &quot;[Sister Thedra](&amp;#123;&amp;#123; &#x27;sister-thedra/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, was a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Dorothy Martin (May 2, 1900 – June 16, 1992) a.k.a. &quot;Marian Keech&quot;, later known as &quot;[Sister Thedra](&amp;#123;&amp;#123; &#x27;sister-thedra/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, was a...</p></details>
    Published: May 2, 1900  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They also expose...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They also expose...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iptrauma.org  
-   Link: <a href="https://iptrauma.org/history-of-psychotraumatology/" target="_blank" rel="noopener noreferrer nofollow">https://iptrauma.org/history-of-psychotraumatology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History of PsychotraumatologyIn the aftermath of traumatic events, humans have long recognized psychological wounds even if they lacked m...</p></details>
+   Link:<a href="https://iptrauma.org/history-of-psychotraumatology/" target="_blank" rel="noopener noreferrer nofollow">https://iptrauma.org/history-of-psychotraumatology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of PsychotraumatologyIn the aftermath of traumatic events, humans have long recognized psychological wounds even if they lacked m...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: deepdyve.com  
-   Link: <a href="https://www.deepdyve.com/browse/journals/0022-5061/1995/v31/i4" target="_blank" rel="noopener noreferrer nofollow">https://www.deepdyve.com/browse/journals/0022-5061/1995/v31/i4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of the History of the Behavioral SciencesThis essay examines social scientists&#x27; newfound interest in the American class system an...</p></details>
+   Link:<a href="https://www.deepdyve.com/browse/journals/0022-5061/1995/v31/i4" target="_blank" rel="noopener noreferrer nofollow">https://www.deepdyve.com/browse/journals/0022-5061/1995/v31/i4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of the History of the Behavioral SciencesThis essay examines social scientists&#x27; newfound interest in the American class system an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The group dissolved.” For example, Kelly provides evidence that the central couple, Charles and Lillian Laughead, who...Read more...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The group dissolved.” For example, Kelly provides evidence that the central couple, Charles and Lillian Laughead, who...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: toilville.notion.site  
    Title: When neither arrived, she recanted, her group  
-   Link: <a href="https://toilville.notion.site/Debunking-When-Prophecy-Fails-Kelly-2026-Journal-of-the-History-of-the-Behavioral-Sciences--2a3f83eb56f581c597e6de4827f81e37" target="_blank" rel="noopener noreferrer nofollow">https://toilville.notion.site/Debunking-When-Prophecy-Fails-Kelly-2026-Journal-of-the-History-of-the-Behavioral-Sciences--2a3f83eb56f581c597e6de4827f81e37</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails” - Kelly - 2026 - Journal of the...In 1954, Dorothy Martin predicted an apocalyptic flood and promi...</p></details>
+   Link:<a href="https://toilville.notion.site/Debunking-When-Prophecy-Fails-Kelly-2026-Journal-of-the-History-of-the-Behavioral-Sciences--2a3f83eb56f581c597e6de4827f81e37" target="_blank" rel="noopener noreferrer nofollow">https://toilville.notion.site/Debunking-When-Prophecy-Fails-Kelly-2026-Journal-of-the-History-of-the-Behavioral-Sciences--2a3f83eb56f581c597e6de4827f81e37</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails” - Kelly - 2026 - Journal of the...In 1954, Dorothy Martin predicted an apocalyptic flood and promi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n neither arrived, she recanted, her group dissolved...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n neither arrived, she recanted, her group dissolved...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying s...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...The cult did not persist, proselytize, or reinterpret its failure as a spiritua...</p></details>
+   Link:<a href="https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...The cult did not persist, proselytize, or reinterpret its failure as a spiritua...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lesswrong.com  
    Title: debunking when prophecy fails  
-   Link: <a href="https://www.lesswrong.com/posts/qth5r82ZhMEXzc25y/debunking-when-prophecy-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/qth5r82ZhMEXzc25y/debunking-when-prophecy-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”6 Nov 2025 — The documents reveal that the group actively proselytized well before the prophecy failed and...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/qth5r82ZhMEXzc25y/debunking-when-prophecy-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/qth5r82ZhMEXzc25y/debunking-when-prophecy-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”6 Nov 2025 — The documents reveal that the group actively proselytized well before the prophecy failed and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin & The Seekers  
-   Link: <a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vvFV1v8l-PI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — The System Behind Doubling Down...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vvFV1v8l-PI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — The System Behind Doubling Down...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10425152/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10425152/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>roots of trauma: a review of the history of psychotraumaby R Reis · 2023 — This article analyzes some of the historical and epistemologic...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10425152/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10425152/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>roots of trauma: a review of the history of psychotraumaby R Reis · 2023 — This article analyzes some of the historical and epistemologic...</p></details>

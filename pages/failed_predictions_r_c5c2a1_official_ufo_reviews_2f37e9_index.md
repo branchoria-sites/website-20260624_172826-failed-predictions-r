@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-official/
 description: Focused pages that expand on Official Reviews.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9
 parent_title: Official Reviews
@@ -16,7 +16,7 @@ parent_permalink: /official-reviews/
 
 # Explore Topics in Official Reviews
 
-The following pages expand on the main **[Official Reviews]({{ '/official-reviews/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Official Reviews]({{ '/official-reviews/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Claims]({{ '/aaro-claims/' | relative_url }})
 - [Blue Book]({{ '/blue-book-24012e/' | relative_url }})

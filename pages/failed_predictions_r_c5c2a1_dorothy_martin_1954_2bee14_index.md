@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-dorothy/
 description: Focused pages that expand on Dorothy Martin.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14
 parent_title: Dorothy Martin
@@ -16,7 +16,7 @@ parent_permalink: /dorothy-martin/
 
 # Explore Topics in Dorothy Martin
 
-The following pages expand on the main **[Dorothy Martin]({{ '/dorothy-martin/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Dorothy Martin]({{ '/dorothy-martin/' | relative_url }})** page and cover its key branches in.
 
 - [Aftermath dispute]({{ '/aftermath-dispute/' | relative_url }})
 - [Clarion messages]({{ '/clarion-messages/' | relative_url }})

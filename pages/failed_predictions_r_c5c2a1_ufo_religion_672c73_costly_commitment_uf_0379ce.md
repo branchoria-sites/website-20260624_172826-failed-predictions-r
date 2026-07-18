@@ -284,20 +284,20 @@ One of the most important features of failed UFO prophecies is not the predictio
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-1-dark.svg" | relative_url }}" alt="Commitment illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In UFO-based religious movements, promised rescue dates often ask followers to prepare for departure from ordinary society. By the time the expected spacecraft fails to arrive, believers may have invested money, status, friendships and identity in the prediction. That investment helps explain why some groups do not simply abandon the belief after a failed prophecy. Instead, they may reinterpret events, seek new explanations or become even more committed. The mechanism is not unique to UFO movements, but the classic flying-saucer rescue prophecies provide some of the clearest examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In UFO-based religious movements, promised rescue dates often ask followers to prepare for departure from ordinary society. By the time the expected spacecraft fails to arrive, believers may have invested money, status, friendships and identity in the prediction. That investment helps explain why some groups do not simply abandon the belief after a failed prophecy. Instead, they may reinterpret events, seek new explanations or become even more committed. The mechanism is not unique to UFO movements, but the classic flying-saucer rescue prophecies provide some of the clearest examples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## Practical Costs Before the Date
 
-The best-known case is [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s 1954 UFO rescue prophecy. Martin, leader of a small group later known as the Seekers, claimed to receive messages from extraterrestrial beings warning of a catastrophic flood. Faithful believers expected rescue by flying saucer before the disaster struck. The prediction was not merely something to believe; it demanded preparation. Followers altered their lives in anticipation of evacuation and survival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dorothy Martin (spiritualist</span><span class="citation-popover-snippet">Dorothy Martin (spiritualist</span></span></span>
+The best-known case is [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s 1954 UFO rescue prophecy. Martin, leader of a small group later known as the Seekers, claimed to receive messages from extraterrestrial beings warning of a catastrophic flood. Faithful believers expected rescue by flying saucer before the disaster struck. The prediction was not merely something to believe; it demanded preparation. Followers altered their lives in anticipation of evacuation and survival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dorothy Martin (spiritualist</span><span class="citation-popover-snippet">Dorothy Martin (spiritualist</span></span></span>
 
-Researchers and contemporary accounts reported that some believers gave away money, disposed of possessions, left employment, abandoned studies, ended relationships with sceptics and reorganised their daily lives around the expected rescue. Others gathered near the leadership circle and prepared for immediate departure. These were not symbolic gestures. They created real costs that would remain even if the prophecy failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Researchers and contemporary accounts reported that some believers gave away money, disposed of possessions, left employment, abandoned studies, ended relationships with sceptics and reorganised their daily lives around the expected rescue. Others gathered near the leadership circle and prepared for immediate departure. These were not symbolic gestures. They created real costs that would remain even if the prophecy failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 Several forms of commitment were especially significant:
 
 * **Material sacrifice:** possessions were sold, donated or abandoned because they were assumed to be unnecessary after rescue.
 * **Career sacrifice:** some followers left jobs or suffered employment consequences linked to their beliefs.
 * **Social sacrifice:** friendships and family ties were strained by public commitment to the prophecy.
-* **Reputational sacrifice:** believers risked [ridicule]({{ 'ridicule/' | relative_url }}) by openly identifying with a prediction that outsiders regarded as implausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+* **Reputational sacrifice:** believers risked [ridicule]({{ 'ridicule/' | relative_url }}) by openly identifying with a prediction that outsiders regarded as implausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 The larger the sacrifice, the harder it became to walk away cleanly once the deadline passed.
 
@@ -306,39 +306,39 @@ The larger the sacrifice, the harder it became to walk away cleanly once the dea
 
 ## Why a Simple Error Becomes Painful
 
-A failed UFO prediction creates an obvious contradiction. The promised rescue does not occur. Yet many believers have already behaved as though the prediction were true. Social psychologist Leon Festinger and his colleagues argued that this combination of strong belief and costly action creates intense psychological pressure when events prove the prophecy wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+A failed UFO prediction creates an obvious contradiction. The promised rescue does not occur. Yet many believers have already behaved as though the prediction were true. Social psychologist Leon Festinger and his colleagues argued that this combination of strong belief and costly action creates intense psychological pressure when events prove the prophecy wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Their influential analysis highlighted a key condition: believers are especially resistant to abandoning a prophecy when they have taken important actions that are difficult to reverse. The more public, costly or irreversible the commitment, the greater the tension produced by failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Their influential analysis highlighted a key condition: believers are especially resistant to abandoning a prophecy when they have taken important actions that are difficult to reverse. The more public, costly or irreversible the commitment, the greater the tension produced by failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 For a follower who merely entertained the possibility of alien rescue, the failed date may be embarrassing but manageable. For someone who left a job, surrendered savings or alienated family members, accepting that the prophecy was false carries a much higher emotional cost. It means admitting that those sacrifices achieved nothing.
 
-The issue is not simply stubbornness. The failed prediction threatens a person's story about themselves. If the prophecy was mistaken, then difficult decisions made in reliance on it may also appear mistaken. The psychological burden can therefore be much larger than the factual error alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Leon Festinger</span><span class="citation-popover-snippet">flying saucer that, according to Mrs. Keech, would ... commitment, Festinger wondered how they would react when the prophecy failed. He</span></span></span>
+The issue is not simply stubbornness. The failed prediction threatens a person's story about themselves. If the prophecy was mistaken, then difficult decisions made in reliance on it may also appear mistaken. The psychological burden can therefore be much larger than the factual error alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Leon Festinger</span><span class="citation-popover-snippet">flying saucer that, according to Mrs. Keech, would ... commitment, Festinger wondered how they would react when the prophecy failed. He</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-2-dark.svg" | relative_url }}" alt="Commitment illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Exit, Escalation and Reinterpretation
 
-After a rescue date passes without fulfilment, believers do not all react in the same way. Some leave immediately. Others remain committed. The level of prior sacrifice often helps explain the difference. Individuals with fewer investments can exit more easily, while those who have paid the highest costs may have stronger incentives to preserve the belief system in some form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+After a rescue date passes without fulfilment, believers do not all react in the same way. Some leave immediately. Others remain committed. The level of prior sacrifice often helps explain the difference. Individuals with fewer investments can exit more easily, while those who have paid the highest costs may have stronger incentives to preserve the belief system in some form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ### Leaving the Movement
 
-One response is straightforward abandonment. A failed rescue date can destroy confidence in the leader, the message or the supposed extraterrestrial source. Some followers conclude that the prediction was simply wrong and attempt to rebuild ordinary lives. Research on failed prophecy movements repeatedly finds that at least part of a movement typically takes this path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+One response is straightforward abandonment. A failed rescue date can destroy confidence in the leader, the message or the supposed extraterrestrial source. Some followers conclude that the prediction was simply wrong and attempt to rebuild ordinary lives. Research on failed prophecy movements repeatedly finds that at least part of a movement typically takes this path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oc7Nu1vh6V0" title="Dorothy Martin and the UFO Cult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oc7Nu1vh6V0" target="_blank" rel="noopener noreferrer">Dorothy Martin and the UFO Cult</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oc7Nu1vh6V0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oc7Nu1vh6V0">Open on YouTube</a></p></div></div></div>
 
 ### Reinterpreting the Failure
 
-Another response is reinterpretation. Instead of rejecting the prophecy, believers may change its meaning. The rescue was delayed. The event occurred spiritually rather than physically. Humanity was granted extra time. The aliens changed their plans. Such explanations preserve the core worldview while accounting for the missing spacecraft or absent catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cognitive_dissonance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cognitive dissonance</span><span class="citation-popover-snippet">Cognitive dissonance</span></span></span>
+Another response is reinterpretation. Instead of rejecting the prophecy, believers may change its meaning. The rescue was delayed. The event occurred spiritually rather than physically. Humanity was granted extra time. The aliens changed their plans. Such explanations preserve the core worldview while accounting for the missing spacecraft or absent catastrophe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cognitive_dissonance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cognitive dissonance</span><span class="citation-popover-snippet">Cognitive dissonance</span></span></span>
 
-In public discussion of the [Martin case]({{ 'martin-case/' | relative_url }}), one of the most famous reinterpretations was the claim that the group's faith had somehow helped avert disaster. Whether this accurately describes what happened in every detail remains debated by later scholars, but it illustrates the broader pattern: failure can be reframed as hidden success rather than admitted as error. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">TIL about Dorothy Martin who convinced a small group that</span><span class="citation-popover-snippet">TIL about Dorothy Martin who convinced a small group that...May 17, 2026 — Dorothy Martin who convinced a small group that aliens...</span><span class="citation-popover-meta">Published: May 17, 2026</span></span></span>
+In public discussion of the [Martin case]({{ 'martin-case/' | relative_url }}), one of the most famous reinterpretations was the claim that the group's faith had somehow helped avert disaster. Whether this accurately describes what happened in every detail remains debated by later scholars, but it illustrates the broader pattern: failure can be reframed as hidden success rather than admitted as error.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">TIL about Dorothy Martin who convinced a small group that</span><span class="citation-popover-snippet">TIL about Dorothy Martin who convinced a small group that...May 17, 2026 — Dorothy Martin who convinced a small group that aliens...</span><span class="citation-popover-meta">Published: May 17, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nh35j2S68DQ" title="UFO-Cult Suicide | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nh35j2S68DQ" target="_blank" rel="noopener noreferrer">UFO-Cult Suicide | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nh35j2S68DQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nh35j2S68DQ">Open on YouTube</a></p></div></div></div>
 
 ### Doubling Down
 
-Festinger's original theory proposed that, under certain conditions, failed prophecy could actually increase commitment. If believers had sacrificed heavily and still possessed supportive social networks, renewed evangelism and stronger conviction could reduce the discomfort caused by disconfirmation. Later scholars have debated how fully the Martin case fits that model, but the underlying mechanism remains influential in studies of failed prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Gwern+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Festinger's original theory proposed that, under certain conditions, failed prophecy could actually increase commitment. If believers had sacrificed heavily and still possessed supportive social networks, renewed evangelism and stronger conviction could reduce the discomfort caused by disconfirmation. Later scholars have debated how fully the Martin case fits that model, but the underlying mechanism remains influential in studies of failed prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Gwern+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-3-dark.svg" | relative_url }}" alt="Commitment illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_costly_commitment_uf_0379ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,197 +346,197 @@ Festinger's original theory proposed that, under certain conditions, failed prop
 
 The most revealing lesson from failed UFO rescue prophecies is that the strength of a movement often depends less on the prediction itself than on what followers have already invested in it. A failed date is easiest to abandon when belief has remained private and low-cost. It becomes far more difficult when believers have reorganised their lives around the expectation of extraterrestrial salvation.
 
-For that reason, costly commitment is a central mechanism in understanding failed UFO prophecies as religious movements. The sacrifice comes before the rescue date, but its consequences often shape what happens afterwards. Whether followers leave, reinterpret events or intensify their commitment, the practical and emotional costs already paid help determine how the failure is experienced and explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+For that reason, costly commitment is a central mechanism in understanding failed UFO prophecies as religious movements. The sacrifice comes before the rescue date, but its consequences often shape what happens afterwards. Whether followers leave, reinterpret events or intensify their commitment, the practical and emotional costs already paid help determine how the failure is experienced and explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sacrifice Makes Failed Prophecy Harder. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sacrifice Makes Failed Prophecy Harder. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Built around the classic UFO prophecy case that inspired cognitive dissonance theory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around the classic UFO prophecy case that inspired cognitive dissonance theory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why people defend commitments after costly errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people defend commitments after costly errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Covers commitment and consistency mechanisms relevant to prophecy groups.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers commitment and consistency mechanisms relevant to prophecy groups.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="commitment-be3c08-why-sacrifice-makes-failed-prophecy-harder-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ For that reason, costly commitment is a central mechanism in understanding faile
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ For that reason, costly commitment is a central mechanism in understanding faile
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ For that reason, costly commitment is a central mechanism in understanding faile
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ For that reason, costly commitment is a central mechanism in understanding faile
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ For that reason, costly commitment is a central mechanism in understanding faile
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,116 +742,116 @@ For that reason, costly commitment is a central mechanism in understanding faile
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Leon Festinger  
-   Link: <a href="https://www.britannica.com/biography/Leon-Festinger/[Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/[Cognitive-dissonance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>flying saucer that, according to Mrs. Keech, would... commitment, Festinger wondered how they would react when the prophecy failed. He...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Leon-Festinger/[Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/[Cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying saucer that, according to Mrs. Keech, would... commitment, Festinger wondered how they would react when the prophecy failed. He...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Seekers (rapturists)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Leon Festinger  
-   Link: <a href="https://en.wikipedia.org/wiki/Leon_Festinger" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Leon_Festinger</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Leon_Festinger" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Leon_Festinger</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Disconfirmed expectancy  
-   Link: <a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Cognitive dissonance  
-   Link: <a href="https://en.wikipedia.org/wiki/Cognitive_dissonance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_dissonance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cognitive_dissonance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cognitive_dissonance</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: TIL about Dorothy Martin who convinced a small group that  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that...May 17, 2026 — Dorothy Martin who convinced a small group that aliens...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that...May 17, 2026 — Dorothy Martin who convinced a small group that aliens...</p></details>
    Published: May 17, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gwern.net  
    Title: Debunking “When Prophecy Fails”  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrive...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrive...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ngs of how belief survives disconfirmation, and became a...</p></details>
+   Link:<a href="https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ngs of how belief survives disconfirmation, and became a...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] When Prophecy FailsUntil fairly recently Festinger&#x27;s theory of cognitive dissonance has been the standard paradigm for understandin...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] When Prophecy FailsUntil fairly recently Festinger&#x27;s theory of cognitive dissonance has been the standard paradigm for understandin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: A book which speaks to the current political climate  
-   Link: <a href="https://www.facebook.com/lauriebluedorn/posts/a-book-which-speaks-to-the-current-political-climatea-small-religious-group-had-/10153568898407825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lauriebluedorn/posts/a-book-which-speaks-to-the-current-political-climatea-small-religious-group-had-/10153568898407825/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 21, 1954. Some of Martin&#x27;s followers quit their jobs and sold their property, expecting to be rescued by a flying saucer when th...</p></details>
+   Link:<a href="https://www.facebook.com/lauriebluedorn/posts/a-book-which-speaks-to-the-current-political-climatea-small-religious-group-had-/10153568898407825/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lauriebluedorn/posts/a-book-which-speaks-to-the-current-political-climatea-small-religious-group-had-/10153568898407825/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 21, 1954. Some of Martin&#x27;s followers quit their jobs and sold their property, expecting to be rescued by a flying saucer when th...</p></details>
    Published: December 21, 1954  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying s...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: age-of-the-sage.org  
-   Link: <a href="https://www.age-of-the-sage.org/psychology/cognitive_dissonance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.age-of-the-sage.org/psychology/cognitive_dissonance.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a UFO doomsday cult increased their commitment to...Read more...</p></details>
+   Link:<a href="https://www.age-of-the-sage.org/psychology/cognitive_dissonance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.age-of-the-sage.org/psychology/cognitive_dissonance.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a UFO doomsday cult increased their commitment to...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theory-practice.sydney.edu.au  
    Title: leon festinger when prophecy fails 1956  
-   Link: <a href="https://theory-practice.sydney.edu.au/2016/08/leon-festinger-when-prophecy-fails-1956/" target="_blank" rel="noopener noreferrer nofollow">https://theory-practice.sydney.edu.au/2016/08/leon-festinger-when-prophecy-fails-1956/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger, &#x27;When Prophecy Fails&#x27; (1956)27 Aug 2016 — Leon Festinger&#x27;s &#x27;When Prophecy Fails&#x27; (1956) a superb empirical study of a cult, pl...</p></details>
+   Link:<a href="https://theory-practice.sydney.edu.au/2016/08/leon-festinger-when-prophecy-fails-1956/" target="_blank" rel="noopener noreferrer nofollow">https://theory-practice.sydney.edu.au/2016/08/leon-festinger-when-prophecy-fails-1956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger, &#x27;When Prophecy Fails&#x27; (1956)27 Aug 2016 — Leon Festinger&#x27;s &#x27;When Prophecy Fails&#x27; (1956) a superb empirical study of a cult, pl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalscience.com  
    Title: The Person Who Lies To You The Most…  
-   Link: <a href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=5174</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is You8 Sept 2021 — Many quit their jobs and left their families to move in with Dorothy. And although the flood wasn&#x27;t expected until De...</p></details>
+   Link:<a href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=5174</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is You8 Sept 2021 — Many quit their jobs and left their families to move in with Dorothy. And although the flood wasn&#x27;t expected until De...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theatlantic.com  
    Title: the christmas the aliens didnt come  
-   Link: <a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — Martin, who was involved in Scientology and interested in flying saucers, claimed to re...</p></details>
+   Link:<a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — Martin, who was involved in Scientology and interested in flying saucers, claimed to re...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neith...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neith...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bps.org.uk  
    Title: when when prophecy fails fails  
-   Link: <a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: psychologynoteshq.com  
    Title: cognitive dissonance theory  
-   Link: <a href="https://www.psychologynoteshq.com/cognitive-dissonance-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologynoteshq.com/cognitive-dissonance-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy Fails” study revealed that disconfirming evidence sometimes strengthens rather than weakens beliefs. After the doomsday prophecy...</p></details>
+   Link:<a href="https://www.psychologynoteshq.com/cognitive-dissonance-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologynoteshq.com/cognitive-dissonance-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy Fails” study revealed that disconfirming evidence sometimes strengthens rather than weakens beliefs. After the doomsday prophecy...</p></details>

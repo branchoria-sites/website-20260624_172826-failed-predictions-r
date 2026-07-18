@@ -447,15 +447,15 @@ image: /assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-overv
 
 ## Introduction
 
-Comet Hale–Bopp was one of the most spectacular astronomical events of the 1990s. It was a genuine comet, discovered in 1995 and visible to millions of people during its exceptionally bright 1997 appearance. Yet within parts of UFO culture, the comet became linked to claims that an alien spacecraft was travelling behind it. Those claims were widely circulated through talk radio, early internet forums and UFO networks, despite repeated challenges from astronomers. The resulting story is a notable example of a failed UFO prediction: a real celestial object became the foundation for expectations of extraterrestrial arrival, but no spacecraft was ever found. The Hale–Bopp episode illustrates how ambiguous images, [media]({{ 'media/' | relative_url }}) amplification and existing beliefs can transform an astronomical event into a powerful UFO rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+Comet Hale–Bopp was one of the most spectacular astronomical events of the 1990s. It was a genuine comet, discovered in 1995 and visible to millions of people during its exceptionally bright 1997 appearance. Yet within parts of UFO culture, the comet became linked to claims that an alien spacecraft was travelling behind it. Those claims were widely circulated through talk radio, early internet forums and UFO networks, despite repeated challenges from astronomers. The resulting story is a notable example of a failed UFO prediction: a real celestial object became the foundation for expectations of extraterrestrial arrival, but no spacecraft was ever found. The Hale–Bopp episode illustrates how ambiguous images, [media]({{ 'media/' | relative_url }}) amplification and existing beliefs can transform an astronomical event into a powerful UFO rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-overview.webp" | relative_url }}" alt="Overview image for Hale Bopp" loading="eager" decoding="sync" fetchpriority="high">
 ## The Alleged Companion Object
 
-The rumour began in late 1996 when amateur astronomer Chuck Shramek photographed Hale–Bopp and noticed what appeared to be a fuzzy object near the comet. Because his computer software did not identify the nearby light source, he reported it on the popular radio programme *Coast to Coast AM*, hosted by Art Bell. Shramek described what he believed was a “Saturn-like object” accompanying the comet. Within UFO circles, the unidentified feature was quickly interpreted as possible evidence of an extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+The rumour began in late 1996 when amateur astronomer Chuck Shramek photographed Hale–Bopp and noticed what appeared to be a fuzzy object near the comet. Because his computer software did not identify the nearby light source, he reported it on the popular radio programme *Coast to Coast AM*, hosted by Art Bell. Shramek described what he believed was a “Saturn-like object” accompanying the comet. Within UFO circles, the unidentified feature was quickly interpreted as possible evidence of an extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
-The claim gained further momentum when some UFO researchers and paranormal commentators argued that the object was too large or unusual to be an ordinary star. [Remote-viewing]({{ 'remote-viewing/' | relative_url }}) advocate Courtney Brown and others publicly suggested that a spacecraft might be travelling behind Hale–Bopp. The rumour evolved from an unexplained image into a broader prediction that an alien vessel was approaching Earth concealed by the comet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dlab.epfl.ch">[dlab @ EPFL+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dlab.epfl.ch</span><span class="citation-popover-snippet">ng Hale-Bopp. UFO enthusiasts, such as remote...Read more...</span></span></span>
+The claim gained further momentum when some UFO researchers and paranormal commentators argued that the object was too large or unusual to be an ordinary star. [Remote-viewing]({{ 'remote-viewing/' | relative_url }}) advocate Courtney Brown and others publicly suggested that a spacecraft might be travelling behind Hale–Bopp. The rumour evolved from an unexplained image into a broader prediction that an alien vessel was approaching Earth concealed by the comet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dlab.epfl.ch">[dlab @ EPFL+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dlab.epfl.ch</span><span class="citation-popover-snippet">ng Hale-Bopp. UFO enthusiasts, such as remote...Read more...</span></span></span>
 
 What made the claim attractive within UFO culture was that it appeared to combine several familiar themes at once:
 
@@ -469,19 +469,19 @@ What made the claim attractive within UFO culture was that it appeared to combin
 
 </div>
 
-These elements gave the story a sense of urgency that many earlier UFO rumours lacked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the man who spread the myth</span><span class="citation-popover-snippet">THE MAN WHO SPREAD THE MYTH13 Apr 1997 — Alien abductions, poltergeists, UFO encounters, remote viewing, ESP and other unlikely pheno...</span></span></span>
+These elements gave the story a sense of urgency that many earlier UFO rumours lacked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the man who spread the myth</span><span class="citation-popover-snippet">THE MAN WHO SPREAD THE MYTH13 Apr 1997 — Alien abductions, poltergeists, UFO encounters, remote viewing, ESP and other unlikely pheno...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-1-dark.svg" | relative_url }}" alt="Hale Bopp illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Rumour Spread
 
-The Hale–Bopp story emerged during a transitional media era. The internet was becoming widely available, but information still moved heavily through radio programmes, newsletters and online message boards. Art Bell's *Coast to Coast AM* had a large audience interested in UFOs, conspiracies and paranormal subjects. Discussion of the alleged companion object reached millions of listeners and generated extensive online debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the man who spread the myth</span><span class="citation-popover-snippet">THE MAN WHO SPREAD THE MYTH13 Apr 1997 — Alien abductions, poltergeists, UFO encounters, remote viewing, ESP and other unlikely pheno...</span></span></span>
+The Hale–Bopp story emerged during a transitional media era. The internet was becoming widely available, but information still moved heavily through radio programmes, newsletters and online message boards. Art Bell's *Coast to Coast AM* had a large audience interested in UFOs, conspiracies and paranormal subjects. Discussion of the alleged companion object reached millions of listeners and generated extensive online debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the man who spread the myth</span><span class="citation-popover-snippet">THE MAN WHO SPREAD THE MYTH13 Apr 1997 — Alien abductions, poltergeists, UFO encounters, remote viewing, ESP and other unlikely pheno...</span></span></span>
 
-Images claimed to show the companion object circulated rapidly across websites associated with UFO researchers. Some were presented as secret astronomical photographs supplied by anonymous experts. Later investigations found that at least some of these images were manipulated or misrepresented. One widely circulated “secret” image was traced to an astronomical photograph that had been altered and repackaged as evidence of a hidden object near the comet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH pictureFraudulent use of a IfA/UH picture. The &quot;Secret Image&quot;. On January 15, 1997, a new &quot;secret UFO pictu...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
+Images claimed to show the companion object circulated rapidly across websites associated with UFO researchers. Some were presented as secret astronomical photographs supplied by anonymous experts. Later investigations found that at least some of these images were manipulated or misrepresented. One widely circulated “secret” image was traced to an astronomical photograph that had been altered and repackaged as evidence of a hidden object near the comet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH pictureFraudulent use of a IfA/UH picture. The &quot;Secret Image&quot;. On January 15, 1997, a new &quot;secret UFO pictu...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
 
-The rumour also benefited from a common pattern in UFO culture: [uncertainty]({{ 'uncertainty/' | relative_url }}) being interpreted as confirmation. When observers could not immediately identify a feature in a photograph, some enthusiasts treated the lack of explanation as positive evidence for an extraordinary explanation. As the story spread, each repetition made the underlying claim appear more credible to believers, even though the original evidence remained weak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-snippet">Hale-Bopp companions?!?A Saturn-like companion was orbiting around Hale-Bopp, proving that Hale-Bopp is an alien spacecraft heading to...</span></span></span>
+The rumour also benefited from a common pattern in UFO culture: [uncertainty]({{ 'uncertainty/' | relative_url }}) being interpreted as confirmation. When observers could not immediately identify a feature in a photograph, some enthusiasts treated the lack of explanation as positive evidence for an extraordinary explanation. As the story spread, each repetition made the underlying claim appear more credible to believers, even though the original evidence remained weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-snippet">Hale-Bopp companions?!?A Saturn-like companion was orbiting around Hale-Bopp, proving that Hale-Bopp is an alien spacecraft heading to...</span></span></span>
 
-By early 1997, discussions of a spacecraft behind Hale–Bopp had become widespread enough that journalists, astronomers and sceptical investigators were actively responding to them. The claim had evolved from a single ambiguous photograph into a widely recognised UFO narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasvegassun.com">[Las Vegas Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasvegassun.com</span><span class="citation-popover-title">cult ufo belief may stem from nevada radio show</span><span class="citation-popover-snippet">He speculated that it was up to four times the size of the Earth. Astronomers...Read more...</span></span></span>
+By early 1997, discussions of a spacecraft behind Hale–Bopp had become widespread enough that journalists, astronomers and sceptical investigators were actively responding to them. The claim had evolved from a single ambiguous photograph into a widely recognised UFO narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasvegassun.com">[Las Vegas Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasvegassun.com</span><span class="citation-popover-title">cult ufo belief may stem from nevada radio show</span><span class="citation-popover-snippet">He speculated that it was up to four times the size of the Earth. Astronomers...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-3-dark.svg" | relative_url }}" alt="Hale Bopp illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -490,17 +490,17 @@ By early 1997, discussions of a spacecraft behind Hale–Bopp had become widespr
 
 ## What Astronomers and Observers Found
 
-Astronomers examined the alleged companion object and concluded that it was not evidence of an alien spacecraft. In Shramek's original image, the mysterious feature was identified as an ordinary star that had not been properly recognised by the software being used. Detailed reviews of the image and its coordinates showed that no unknown object was accompanying the comet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+Astronomers examined the alleged companion object and concluded that it was not evidence of an alien spacecraft. In Shramek's original image, the mysterious feature was identified as an ordinary star that had not been properly recognised by the software being used. Detailed reviews of the image and its coordinates showed that no unknown object was accompanying the comet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
-Professional and amateur astronomers also analysed other photographs circulating in UFO networks. Investigators demonstrated that several supposed companion images were misidentified stars, image-processing artefacts or manipulated versions of legitimate astronomical photographs. European Southern Observatory researchers published detailed examinations of the claims and explained the ordinary astronomical causes behind the alleged anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identi...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
+Professional and amateur astronomers also analysed other photographs circulating in UFO networks. Investigators demonstrated that several supposed companion images were misidentified stars, image-processing artefacts or manipulated versions of legitimate astronomical photographs. European Southern Observatory researchers published detailed examinations of the claims and explained the ordinary astronomical causes behind the alleged anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identi...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
 
-A key feature of the debunking process was independent observation. Hale–Bopp was one of the most observed comets in modern history. Thousands of astronomers, observatories and amateur [skywatchers]({{ 'skywatchers/' | relative_url }}) photographed it. If a massive spacecraft had been travelling alongside the comet, it would have appeared consistently across countless observations. No such object was detected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identi...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
+A key feature of the debunking process was independent observation. Hale–Bopp was one of the most observed comets in modern history. Thousands of astronomers, observatories and amateur [skywatchers]({{ 'skywatchers/' | relative_url }}) photographed it. If a massive spacecraft had been travelling alongside the comet, it would have appeared consistently across countless observations. No such object was detected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identi...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
 
 The contrast between the claim and the available evidence became increasingly clear:
 
 Claim within UFO rumourObservational findingA large object was travelling behind Hale–BoppThe original feature was identified as a known star or image artefactMultiple photographs confirmed a spacecraftSeveral widely circulated images were misidentified or alteredAstronomers were hiding the truthProfessional and amateur observers openly published analyses and image comparisonsAlien arrival was imminentNo spacecraft or companion object was detected by observers worldwide
 
-The predicted extraterrestrial presence never materialised, making the Hale–Bopp companion story a classic example of a failed UFO prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identi...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
+The predicted extraterrestrial presence never materialised, making the Hale–Bopp companion story a classic example of a failed UFO prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identi...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qnL2EvRqYzk" title="Hale-Bopp Anomaly Saga 1996-1997: Art Bell Interviews Dr Courtney Brown, Farsight Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qnL2EvRqYzk" target="_blank" rel="noopener noreferrer">Hale-Bopp Anomaly Saga 1996-1997: Art Bell Interviews Dr Courtney Brown, Farsight Institute</a></p><p class="youtube-embed-meta">Channel: Robert Jacob</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qnL2EvRqYzk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qnL2EvRqYzk">Open on YouTube</a></p></div></div></div>
@@ -509,205 +509,205 @@ The predicted extraterrestrial presence never materialised, making the Hale–Bo
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-2-dark.svg" | relative_url }}" alt="Hale Bopp illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Hale–Bopp Rumour Matters
 
-The significance of the Hale–Bopp episode extends beyond the specific claim. It demonstrates how a real astronomical event can become attached to extraordinary expectations. The comet itself was genuine, visually impressive and scientifically important. The spacecraft narrative emerged not from new astronomical discoveries but from interpretation, speculation and media circulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">19931 hale bopp</span><span class="citation-popover-snippet">Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Hale-Bopp, 39 people who were part of the &quot;Heaven&#x27;s Gate&quot; cult in Sa...</span></span></span>
+The significance of the Hale–Bopp episode extends beyond the specific claim. It demonstrates how a real astronomical event can become attached to extraordinary expectations. The comet itself was genuine, visually impressive and scientifically important. The spacecraft narrative emerged not from new astronomical discoveries but from interpretation, speculation and media circulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">19931 hale bopp</span><span class="citation-popover-snippet">Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Hale-Bopp, 39 people who were part of the &quot;Heaven&#x27;s Gate&quot; cult in Sa...</span></span></span>
 
-The case also reveals how UFO predictions can gain momentum before evidence is thoroughly examined. A single ambiguous image was amplified through trusted personalities, emerging internet networks and pre-existing beliefs about extraterrestrial visitors. By the time astronomers had addressed the claims in detail, the rumour had already become embedded within parts of UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the man who spread the myth</span><span class="citation-popover-snippet">THE MAN WHO SPREAD THE MYTH13 Apr 1997 — Alien abductions, poltergeists, UFO encounters, remote viewing, ESP and other unlikely pheno...</span></span></span>
+The case also reveals how UFO predictions can gain momentum before evidence is thoroughly examined. A single ambiguous image was amplified through trusted personalities, emerging internet networks and pre-existing beliefs about extraterrestrial visitors. By the time astronomers had addressed the claims in detail, the rumour had already become embedded within parts of UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the man who spread the myth</span><span class="citation-popover-snippet">THE MAN WHO SPREAD THE MYTH13 Apr 1997 — Alien abductions, poltergeists, UFO encounters, remote viewing, ESP and other unlikely pheno...</span></span></span>
 
-Within the broader history of failed UFO predictions, Hale–Bopp stands out because the underlying celestial event was real. The prediction did not fail because the comet failed to appear; it failed because the extraordinary claim attached to the comet—a hidden alien spacecraft approaching Earth—was not supported by observation. That distinction makes the Hale–Bopp rumour one of the clearest examples of how expectation can transform a genuine astronomical phenomenon into a UFO prophecy that ultimately collapses under scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+Within the broader history of failed UFO predictions, Hale–Bopp stands out because the underlying celestial event was real. The prediction did not fail because the comet failed to appear; it failed because the extraordinary claim attached to the comet—a hidden alien spacecraft approaching Earth—was not supported by observation. That distinction makes the Hale–Bopp rumour one of the clearest examples of how expectation can transform a genuine astronomical phenomenon into a UFO prophecy that ultimately collapses under scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/db5KsBXpNlA" title="Excerpt from Heavens Gate &quot; The Cult of Cults&quot; - Leader admitting he is a cult leader..idonotownshit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=db5KsBXpNlA" target="_blank" rel="noopener noreferrer">Excerpt from Heavens Gate &quot; The Cult of Cults&quot; - Leader admitting he is a cult leader..idonotownshit</a></p><p class="youtube-embed-meta">Channel: Nate Romanowski</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=db5KsBXpNlA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=db5KsBXpNlA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a Comet Became a UFO Rumour. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a Comet Became a UFO Rumour. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines UFO reports through a scientific lens, making it relevant to failed predictions and misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines UFO reports through a scientific lens, making it relevant to failed predictions and misinterpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for UFO claims, investigations and public interest surrounding alleged extraterrestrial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for UFO claims, investigations and public interest surrounding alleged extraterrestrial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how UFO rumours and misunderstood observations can spread despite scientific evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO rumours and misunderstood observations can spread despite scientific evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304459-M.jpg" alt="Cover for Bad astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad astronomy">Bad astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304459-M.jpg" alt="Cover for Bad astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad astronomy">Bad astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Astronomy, Miscellanea, Nonfiction, Physics, Popular works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Astronomy, Miscellanea, Nonfiction, Physics, Popular works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+astronomy+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News"><img src="{{ '/assets/images/marketplace-covers/5a5a38a0ca6a3e0a1ed8.jpg' | relative_url }}" alt="Listing image for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News"><img src="{{ '/assets/images/marketplace-covers/5a5a38a0ca6a3e0a1ed8.jpg' | relative_url }}" alt="Listing image for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97"><img src="{{ '/assets/images/marketplace-covers/c1fff52cf88ccad024e2.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97"><img src="{{ '/assets/images/marketplace-covers/c1fff52cf88ccad024e2.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047"><img src="{{ '/assets/images/marketplace-covers/677660f3a16a491b2990.jpg' | relative_url }}" alt="Listing image for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047"><img src="{{ '/assets/images/marketplace-covers/677660f3a16a491b2990.jpg' | relative_url }}" alt="Listing image for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus"><img src="{{ '/assets/images/marketplace-covers/169c37771b64fdcdb6b1.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus"><img src="{{ '/assets/images/marketplace-covers/169c37771b64fdcdb6b1.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp comet poster" data-ebay-reference="hale-bopp-how-a-comet-became-a-ufo-rumour-failed-predictions-hale-bopp-comet-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -723,7 +723,7 @@ Within the broader history of failed UFO predictions, Hale–Bopp stands out bec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -743,7 +743,7 @@ Within the broader history of failed UFO predictions, Hale–Bopp stands out bec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -775,7 +775,7 @@ Within the broader history of failed UFO predictions, Hale–Bopp stands out bec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -827,7 +827,7 @@ Within the broader history of failed UFO predictions, Hale–Bopp stands out bec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -872,7 +872,7 @@ Within the broader history of failed UFO predictions, Hale–Bopp stands out bec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -913,146 +913,146 @@ Within the broader history of failed UFO predictions, Hale–Bopp stands out bec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Comet Hale–Bopp  
-   Link: <a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Heaven's Gate: The End  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 —... Hale-Bopp.[10] Art Bell&#x27;s popular radio program discusses matters of i...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 —... Hale-Bopp.[10] Art Bell&#x27;s popular radio program discusses matters of i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dlab.epfl.ch  
-   Link: <a href="https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm" target="_blank" rel="noopener noreferrer nofollow">https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ng Hale-Bopp. UFO enthusiasts, such as remote...Read more...</p></details>
+   Link:<a href="https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm" target="_blank" rel="noopener noreferrer nofollow">https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng Hale-Bopp. UFO enthusiasts, such as remote...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MAN WHO SPREAD THE MYTH13 Apr 1997 — Alien abductions, poltergeists, UFO encounters, remote viewing, ESP and other unlikely pheno...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE MAN WHO SPREAD THE MYTH13 Apr 1997 — Alien abductions, poltergeists, UFO encounters, remote viewing, ESP and other unlikely pheno...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eso.org  
    Title: hb ufo tholen  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent use of a IfA/UH pictureFraudulent use of a IfA/UH picture. The &quot;Secret Image&quot;. On January 15, 1997, a new &quot;secret UFO pictu...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent use of a IfA/UH pictureFraudulent use of a IfA/UH picture. The &quot;Secret Image&quot;. On January 15, 1997, a new &quot;secret UFO pictu...</p></details>
    Published: January 15, 1997  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?A Saturn-like companion was orbiting around Hale-Bopp, proving that Hale-Bopp is an alien spacecraft heading to...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?A Saturn-like companion was orbiting around Hale-Bopp, proving that Hale-Bopp is an alien spacecraft heading to...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?Below is a table of &quot;UFOs&quot; obtained from the net, and a short description of what actually is the feature descr...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?Below is a table of &quot;UFOs&quot; obtained from the net, and a short description of what actually is the feature descr...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eso.org  
    Title: Hale-Bopp companions?!?  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identi...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identi...</p></details>
    Published: January 15, 1997  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: 19931 hale bopp  
-   Link: <a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Hale-Bopp, 39 people who were part of the &quot;Heaven&#x27;s Gate&quot; cult in Sa...</p></details>
+   Link:<a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Hale-Bopp, 39 people who were part of the &quot;Heaven&#x27;s Gate&quot; cult in Sa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)Heaven&#x27;s Gate was an American new religious movement known primarily for the mass suicide of its member...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)Heaven&#x27;s Gate was an American new religious movement known primarily for the mass suicide of its member...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: history.com  
    Title: heavens gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.com  
    Title: heavens gate mass suicide  
-   Link: <a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?Mar 7, 2023 — Inside a San Diego mansion, authorities discovered the remains of 39 mem...</p></details>
+   Link:<a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?Mar 7, 2023 — Inside a San Diego mansion, authorities discovered the remains of 39 mem...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lasvegassun.com  
    Title: cult ufo belief may stem from nevada radio show  
-   Link: <a href="https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/" target="_blank" rel="noopener noreferrer nofollow">https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He speculated that it was up to four times the size of the Earth. Astronomers...Read more...</p></details>
+   Link:<a href="https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/" target="_blank" rel="noopener noreferrer nofollow">https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He speculated that it was up to four times the size of the Earth. Astronomers...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pages.jh.edu  
-   Link: <a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkins Gazette: April 7, 1997The people, members of a group called Heaven&#x27;s Gate, apparently believed that Hale-Bopp marked the arrival...</p></details>
+   Link:<a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkins Gazette: April 7, 1997The people, members of a group called Heaven&#x27;s Gate, apparently believed that Hale-Bopp marked the arrival...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: c2c.fandom.com  
    Title: Art Bell  
-   Link: <a href="https://c2c.fandom.com/wiki/Art_Bell" target="_blank" rel="noopener noreferrer nofollow">https://c2c.fandom.com/wiki/Art_Bell</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BellBeginning in late 1996, Bell was criticized for reporting rumors that Comet Hale–Bopp was being closely followed by a UFO. It was spe...</p></details>
+   Link:<a href="https://c2c.fandom.com/wiki/Art_Bell" target="_blank" rel="noopener noreferrer nofollow">https://c2c.fandom.com/wiki/Art_Bell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BellBeginning in late 1996, Bell was criticized for reporting rumors that Comet Hale–Bopp was being closely followed by a UFO. It was spe...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellMy memory may be foggy, but I seem to recall that Whitley claimed his sources verified the Ha...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellMy memory may be foggy, but I seem to recall that Whitley claimed his sources verified the Ha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANOMALY. The story of a photo from space that…In less than 24 hours, the comet photo is debunked. The cult was Heaven&#x27;s Gate. The com...</p></details>
+   Link:<a href="https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANOMALY. The story of a photo from space that…In less than 24 hours, the comet photo is debunked. The cult was Heaven&#x27;s Gate. The com...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/106tp8g/hale_bopp_saga_super_cut/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/106tp8g/hale_bopp_saga_super_cut/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp Saga super cut: r/ArtBellSadly Chuck Shramek died just a few years later from cancer... The cult had purchased their mansion...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/106tp8g/hale_bopp_saga_super_cut/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/106tp8g/hale_bopp_saga_super_cut/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp Saga super cut: r/ArtBellSadly Chuck Shramek died just a few years later from cancer... The cult had purchased their mansion...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: podcast.sjrdesign.net  
-   Link: <a href="https://podcast.sjrdesign.net/shownotes_127.php" target="_blank" rel="noopener noreferrer nofollow">https://podcast.sjrdesign.net/shownotes_127.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PseudoAstronomy PodcastShownotes Episode 127Whitley Strieber, a claimed UFO and alien contactee and friend of Art Bell, was also on that...</p></details>
+   Link:<a href="https://podcast.sjrdesign.net/shownotes_127.php" target="_blank" rel="noopener noreferrer nofollow">https://podcast.sjrdesign.net/shownotes_127.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PseudoAstronomy PodcastShownotes Episode 127Whitley Strieber, a claimed UFO and alien contactee and friend of Art Bell, was also on that...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle Down - 50 Years of Unexplained Military Encounters...7 Apr 2026 — 43 JULY 16, 1952 – PAUL HILL – NASA UFO SIGHTING - HAMPTON, VIRG...</p></details>
+   Link:<a href="https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle Down - 50 Years of Unexplained Military Encounters...7 Apr 2026 — 43 JULY 16, 1952 – PAUL HILL – NASA UFO SIGHTING - HAMPTON, VIRG...</p></details>
    Published: July 16, 1952  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: portlandmercury.com  
    Title: However, the other images taken by many other astronomers, in fact do  
-   Link: <a href="https://www.portlandmercury.com/i-anonymous/2014/11/15/14218521/no-comet/comments/16" target="_blank" rel="noopener noreferrer nofollow">https://www.portlandmercury.com/i-anonymous/2014/11/15/14218521/no-comet/comments/16</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No Comet - I, Anonymous Blog - Portland Mercury | CommentsFurthermore, UH denied the existence of a companion object to so-called, Comet...</p></details>
+   Link:<a href="https://www.portlandmercury.com/i-anonymous/2014/11/15/14218521/no-comet/comments/16" target="_blank" rel="noopener noreferrer nofollow">https://www.portlandmercury.com/i-anonymous/2014/11/15/14218521/no-comet/comments/16</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No Comet - I, Anonymous Blog - Portland Mercury | CommentsFurthermore, UH denied the existence of a companion object to so-called, Comet...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sacred-texts.com  
    Title: Internet Sacred Text Archive Fraudulent Hale-Bopp Images  
-   Link: <a href="https://sacred-texts.com/ufo/halbopp3.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/halbopp3.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent Hale-Bopp Images... 1997, a new &quot;secret UFO picture&quot; was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites, after being an...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/halbopp3.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/halbopp3.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent Hale-Bopp Images... 1997, a new &quot;secret UFO picture&quot; was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites, after being an...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sfgate.com  
    Title: Cultists Saw Hale Bopp as a Heavenly Sign It 2848671  
-   Link: <a href="https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultists Saw Hale-Bopp as a Heavenly Sign / It meant UFO...28 Mar 1997 — Rumors of an impending UFO encounter, the arrival of the Hale-B...</p></details>
+   Link:<a href="https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultists Saw Hale-Bopp as a Heavenly Sign / It meant UFO...28 Mar 1997 — Rumors of an impending UFO encounter, the arrival of the Hale-B...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/1b39vfd/hate_to_bring_up_hale_bopp_again_but_we_all_agree/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1b39vfd/hate_to_bring_up_hale_bopp_again_but_we_all_agree/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nce the photo is proved fake he doesn&#x27;t say where the picture...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/1b39vfd/hate_to_bring_up_hale_bopp_again_but_we_all_agree/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1b39vfd/hate_to_bring_up_hale_bopp_again_but_we_all_agree/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nce the photo is proved fake he doesn&#x27;t say where the picture...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: art bell from project camelot and his 1996  
-   Link: <a href="https://www.reddit.com/r/KnowledgeFight/comments/1brrrj6/art_bell_from_project_camelot_and_his_1996/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/KnowledgeFight/comments/1brrrj6/art_bell_from_project_camelot_and_his_1996/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art Bell, from Project Camelot, and his 1996 reporting on...Heaven&#x27;s Gate probably didn&#x27;t pull it directly from Coast to Coast, but Art&#x27;...</p></details>
+   Link:<a href="https://www.reddit.com/r/KnowledgeFight/comments/1brrrj6/art_bell_from_project_camelot_and_his_1996/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/KnowledgeFight/comments/1brrrj6/art_bell_from_project_camelot_and_his_1996/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Art Bell, from Project Camelot, and his 1996 reporting on...Heaven&#x27;s Gate probably didn&#x27;t pull it directly from Coast to Coast, but Art&#x27;...</p></details>

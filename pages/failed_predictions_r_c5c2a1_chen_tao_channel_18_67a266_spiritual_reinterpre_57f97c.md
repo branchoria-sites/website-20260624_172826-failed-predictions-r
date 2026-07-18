@@ -274,42 +274,42 @@ image: /assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spi
 
 ## Introduction
 
-The most revealing part of the Chen Tao case came after the prophecy failed. [When God did not appear on Channel 18]({{ 'chen-tao/' | relative_url }}) on 25 March 1998 and did not physically arrive in Garland, Texas, on 31 March, the movement faced a problem common to many UFO and apocalyptic groups: how to preserve meaning when a prediction that was supposed to be publicly verifiable does not occur. Rather than abandoning the entire belief system immediately, Hon-Ming Chen and remaining followers began redefining what counted as fulfilment. Physical events became spiritual signs, missed deadlines became postponements, and apparent failures became evidence that divine plans had changed. This reinterpretation mechanism helps explain why some believers remain committed even after highly specific UFO-related prophecies [collapse]({{ 'collapse/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+The most revealing part of the Chen Tao case came after the prophecy failed. [When God did not appear on Channel 18]({{ 'chen-tao/' | relative_url }}) on 25 March 1998 and did not physically arrive in Garland, Texas, on 31 March, the movement faced a problem common to many UFO and apocalyptic groups: how to preserve meaning when a prediction that was supposed to be publicly verifiable does not occur. Rather than abandoning the entire belief system immediately, Hon-Ming Chen and remaining followers began redefining what counted as fulfilment. Physical events became spiritual signs, missed deadlines became postponements, and apparent failures became evidence that divine plans had changed. This reinterpretation mechanism helps explain why some believers remain committed even after highly specific UFO-related prophecies [collapse]({{ 'collapse/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-1-dark.svg" | relative_url }}" alt="Reinterpretation illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Reporters Became Part of the Fulfilment
 
-One of the earliest reinterpretations concerned the enormous media attention surrounding the prophecy. Before the predicted dates, journalists from around the world descended on [Garland]({{ 'garland/' | relative_url }}) to witness the expected events. The original prediction had envisioned a divine broadcast reaching a mass audience. After the failure, some within the movement increasingly treated the [media spectacle]({{ 'media/' | relative_url }}) itself as evidence that God's message had been delivered. The prophecy had not produced the anticipated supernatural television appearance, but it had succeeded in attracting television cameras and international publicity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+One of the earliest reinterpretations concerned the enormous media attention surrounding the prophecy. Before the predicted dates, journalists from around the world descended on [Garland]({{ 'garland/' | relative_url }}) to witness the expected events. The original prediction had envisioned a divine broadcast reaching a mass audience. After the failure, some within the movement increasingly treated the [media spectacle]({{ 'media/' | relative_url }}) itself as evidence that God's message had been delivered. The prophecy had not produced the anticipated supernatural television appearance, but it had succeeded in attracting television cameras and international publicity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
-Scholars examining the group noted that Chen Tao had deliberately structured its prophecy around modern media. The prediction was unusually “media-friendly”: it specified a television channel, a precise time and a public location. After the non-event, the relationship between the movement and reporters became part of the adaptive narrative. The very fact that journalists gathered to watch was interpreted by some believers as proof that the prophecy had already influenced the world in ways outsiders failed to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+Scholars examining the group noted that Chen Tao had deliberately structured its prophecy around modern media. The prediction was unusually “media-friendly”: it specified a television channel, a precise time and a public location. After the non-event, the relationship between the movement and reporters became part of the adaptive narrative. The very fact that journalists gathered to watch was interpreted by some believers as proof that the prophecy had already influenced the world in ways outsiders failed to recognise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
-This shift illustrates an important mechanism in failed UFO prophecies. When a supernatural event does not occur, attention generated by the prediction itself can be reframed as a meaningful outcome. The prophecy becomes significant not because the forecast happened, but because people watched for it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+This shift illustrates an important mechanism in failed UFO prophecies. When a supernatural event does not occur, attention generated by the prediction itself can be reframed as a meaningful outcome. The prophecy becomes significant not because the forecast happened, but because people watched for it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E2loW1NHCbk" title="Dreaming the Dreamer — Part II: Who Dreamed God? (The Hidden Architecture)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E2loW1NHCbk" target="_blank" rel="noopener noreferrer">Dreaming the Dreamer — Part II: Who Dreamed God? (The Hidden Architecture)</a></p><p class="youtube-embed-meta">Channel: yazan al hajari</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E2loW1NHCbk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E2loW1NHCbk">Open on YouTube</a></p></div></div></div>
 
 ## Dreams, Talking Objects and New Signs
 
-After the public failure, Chen Tao's focus moved away from easily testable predictions and toward experiences that were more subjective and difficult to falsify. Researchers who followed the group after Garland observed a growing emphasis on signs, visions and symbolic communication rather than dramatic public manifestations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
+After the public failure, Chen Tao's focus moved away from easily testable predictions and toward experiences that were more subjective and difficult to falsify. Researchers who followed the group after Garland observed a growing emphasis on signs, visions and symbolic communication rather than dramatic public manifestations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
 
-This transition mattered because subjective experiences cannot be disproved in the same way as a missed television appearance. A believer's dream, a perceived message in everyday events, or an unusual symbolic occurrence can always be interpreted as evidence that divine activity continues. In practice, this changed the standard of proof. Instead of asking whether God appeared at a specific time and place, followers were encouraged to look for indications that God's plans were unfolding in less obvious ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+This transition mattered because subjective experiences cannot be disproved in the same way as a missed television appearance. A believer's dream, a perceived message in everyday events, or an unusual symbolic occurrence can always be interpreted as evidence that divine activity continues. In practice, this changed the standard of proof. Instead of asking whether God appeared at a specific time and place, followers were encouraged to look for indications that God's plans were unfolding in less obvious ways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
-The movement's internal search for signs became especially visible in its treatment of earlier prophecies. Rather than abandoning prophetic claims, Chen and close associates revisited previous experiences and recordings, looking for hidden meanings that might explain why expected events had not occurred. The emphasis shifted from prediction to interpretation. Evidence was no longer sought primarily in future public events but in re-reading existing signs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
+The movement's internal search for signs became especially visible in its treatment of earlier prophecies. Rather than abandoning prophetic claims, Chen and close associates revisited previous experiences and recordings, looking for hidden meanings that might explain why expected events had not occurred. The emphasis shifted from prediction to interpretation. Evidence was no longer sought primarily in future public events but in re-reading existing signs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
 
-For students of [UFO religions]({{ 'ufo-religion/' | relative_url }}), this represents a common post-failure adaptation. Publicly observable fulfilment is replaced by private or symbolic fulfilment. The belief system survives because the definition of success changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+For students of [UFO religions]({{ 'ufo-religion/' | relative_url }}), this represents a common post-failure adaptation. Publicly observable fulfilment is replaced by private or symbolic fulfilment. The belief system survives because the definition of success changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-2-dark.svg" | relative_url }}" alt="Reinterpretation illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Date Moved from 1998 to 1999
 
-The most concrete reinterpretation involved time itself. Following the failed March 1998 events, Chen did not immediately abandon his apocalyptic expectations. Instead, the timetable was extended. According to later accounts, he argued that the anticipated catastrophes and divine interventions had been delayed rather than cancelled. God had supposedly postponed events, giving humanity additional time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+The most concrete reinterpretation involved time itself. Following the failed March 1998 events, Chen did not immediately abandon his apocalyptic expectations. Instead, the timetable was extended. According to later accounts, he argued that the anticipated catastrophes and divine interventions had been delayed rather than cancelled. God had supposedly postponed events, giving humanity additional time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
-The shift was visible in the movement's later predictions. Attention moved toward expected crises in 1999, including tensions involving Taiwan, Korea and a broader tribulation scenario. Yet even before those dates arrived, Chen's explanations became less precise. Researchers observed that predictions which had once been concrete began to be described in more abstract terms. A forecast of a specific military action could become a prediction of general tension; a failed disaster could be explained as something prevented through divine intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
+The shift was visible in the movement's later predictions. Attention moved toward expected crises in 1999, including tensions involving Taiwan, Korea and a broader tribulation scenario. Yet even before those dates arrived, Chen's explanations became less precise. Researchers observed that predictions which had once been concrete began to be described in more abstract terms. A forecast of a specific military action could become a prediction of general tension; a failed disaster could be explained as something prevented through divine intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
 
-When the anticipated 1999 developments also failed to materialise, the pattern continued. Chen and associates reportedly reviewed earlier recordings and signs in an effort to explain why disasters had not occurred. One explanation was that ritual actions performed by the group had helped avert the predicted crises. In this framework, failure became success: the disaster did not happen because believers had helped prevent it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
+When the anticipated 1999 developments also failed to materialise, the pattern continued. Chen and associates reportedly reviewed earlier recordings and signs in an effort to explain why disasters had not occurred. One explanation was that ritual actions performed by the group had helped avert the predicted crises. In this framework, failure became success: the disaster did not happen because believers had helped prevent it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
 
-This reinterpretation strategy transformed prophecy from a forecast into a conditional process. Instead of proving the prophecy wrong, the absence of catastrophe could be presented as evidence that divine intervention had altered the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
+This reinterpretation strategy transformed prophecy from a forecast into a conditional process. Instead of proving the prophecy wrong, the absence of catastrophe could be presented as evidence that divine intervention had altered the outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KaJ35xn1YU" title="USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer">USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KaJ35xn1YU">Open on YouTube</a></p></div></div></div>
@@ -330,206 +330,206 @@ Several linked adjustments occurred:
 
 * A missed deadline became a postponement.
 * A failed disaster became a disaster that had been prevented.
-* Media attention itself became evidence that something significant had happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+* Media attention itself became evidence that something significant had happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 </div>
 
-The result was a theological system capable of surviving disconfirmation. Although many members left after March 1998, those who remained were often the believers most willing to accept secondary explanations and reinterpretations. Researchers observed that the movement shrank dramatically but became more committed among its remaining core. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
+The result was a theological system capable of surviving disconfirmation. Although many members left after March 1998, those who remained were often the believers most willing to accept secondary explanations and reinterpretations. Researchers observed that the movement shrank dramatically but became more committed among its remaining core.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</span></span></span>
 
-Within the broader history of failed UFO prophecies, Chen Tao's response illustrates how a movement can move from literal expectations toward symbolic fulfilment without fully abandoning its original worldview. The predicted God on television never appeared, but for devoted followers the meaning of the prophecy was redefined rather than erased. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+Within the broader history of failed UFO prophecies, Chen Tao's response illustrates how a movement can move from literal expectations toward symbolic fulfilment without fully abandoning its original worldview. The predicted God on television never appeared, but for devoted followers the meaning of the prophecy was redefined rather than erased.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-3-dark.svg" | relative_url }}" alt="Reinterpretation illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_spiritual_reinterpre_57f97c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a Physical Failure Became Spiritual. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a Physical Failure Became Spiritual. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how religious groups reinterpret failed predictions and preserve belief after public prophetic failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how religious groups reinterpret failed predictions and preserve belief after public prophetic failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+End+of+the+World+Jonathan+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the End of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4943403-M.jpg" alt="Cover for A History of the End of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+the+End+of+the+World+Jonathan+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the End of the World">A History of the End of the World</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Kirsch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+End+of+the+World+Jonathan+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the End of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4943403-M.jpg" alt="Cover for A History of the End of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+the+End+of+the+World+Jonathan+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the End of the World">A History of the End of the World</a>
+</h4>
+<p class="fr-book-author">By Jonathan Kirsch</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Bible, End of the world, History of doctrines, Criticism, interpretation, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+the+End+of+the+World+Jonathan+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Bible, End of the world, History of doctrines, Criticism, interpretation, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+the+End+of+the+World+Jonathan+Kirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+End+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the End of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+End+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the End of the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="reinterpretation-how-a-physical-failure-became-spiritual-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ Within the broader history of failed UFO prophecies, Chen Tao's response illustr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ Within the broader history of failed UFO prophecies, Chen Tao's response illustr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ Within the broader history of failed UFO prophecies, Chen Tao's response illustr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ Within the broader history of failed UFO prophecies, Chen Tao's response illustr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ Within the broader history of failed UFO prophecies, Chen Tao's response illustr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,85 +735,85 @@ Within the broader history of failed UFO prophecies, Chen Tao's response illustr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOore07V45YRW_ZdDuIso1s0TqcGXEj6i5I67Po72A8ajRCD6B6SU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immediately following the failed prophecies of March 25 and 31, God&#x27;s Salvation Church.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopnnIXjujJ_3TkSQEtQ7CTu0lpYfUuJQcn3iKLSjYJrqLEDT_WJ" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopnnIXjujJ_3TkSQEtQ7CTu0lpYfUuJQcn3iKLSjYJrqLEDT_WJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained that God...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopnnIXjujJ_3TkSQEtQ7CTu0lpYfUuJQcn3iKLSjYJrqLEDT_WJ" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopnnIXjujJ_3TkSQEtQ7CTu0lpYfUuJQcn3iKLSjYJrqLEDT_WJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained that God...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7MkAEQ29Z6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7MkAEQ29Z6g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Prophecies: Revelation From God? Testing Jacobs, Goll...Biblically, false prophets are known by repeated failed prophecies, lack of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7MkAEQ29Z6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7MkAEQ29Z6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2026 Prophecies: Revelation From God? Testing Jacobs, Goll...Biblically, false prophets are known by repeated failed prophecies, lack of...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;How Prophecy Lives&quot;On March 25, the failure of a divine appearance on channel 18 prompted Master Chen to re...</p></details>
+   Link:<a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;How Prophecy Lives&quot;On March 25, the failure of a divine appearance on channel 18 prompted Master Chen to re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: end of the world prophecy exposed controversial ministry backtracks on doomsday  
-   Link: <a href="https://www.facebook.com/ITV6Kenya/posts/end-of-the-world-prophecy-exposed-controversial-ministry-backtracks-on-doomsday-/1199560188853145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ITV6Kenya/posts/end-of-the-world-prophecy-exposed-controversial-ministry-backtracks-on-doomsday-/1199560188853145/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;End of the World&quot; Prophecy Exposed? Controversial...03.31.1998 — Hon-Ming Chen claimed that God would come to earth in a flying saucer...</p></details>
+   Link:<a href="https://www.facebook.com/ITV6Kenya/posts/end-of-the-world-prophecy-exposed-controversial-ministry-backtracks-on-doomsday-/1199560188853145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ITV6Kenya/posts/end-of-the-world-prophecy-exposed-controversial-ministry-backtracks-on-doomsday-/1199560188853145/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;End of the World&quot; Prophecy Exposed? Controversial...03.31.1998 — Hon-Ming Chen claimed that God would come to earth in a flying saucer...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: uscirf.gov  
    Title: 2025 USCIRF Annual Report  
-   Link: <a href="https://www.uscirf.gov/sites/default/files/2025-03/2025%20USCIRF%20Annual%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uscirf.gov/sites/default/files/2025-03/2025%20USCIRF%20Annual%20Report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In March, the Eritrean government responded to the speech, claiming without evidence that the reports were unsubstantiated. In June, the...</p></details>
+   Link:<a href="https://www.uscirf.gov/sites/default/files/2025-03/2025%20USCIRF%20Annual%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uscirf.gov/sites/default/files/2025-03/2025%20USCIRF%20Annual%20Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In March, the Eritrean government responded to the speech, claiming without evidence that the reports were unsubstantiated. In June, the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/f909f1cadc3975076d21dea333d793ea628ea5c1" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/f909f1cadc3975076d21dea333d793ea628ea5c1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and FutureIn March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention of th...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/f909f1cadc3975076d21dea333d793ea628ea5c1" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/f909f1cadc3975076d21dea333d793ea628ea5c1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and FutureIn March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention of th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: taylorfrancis.com  
-   Link: <a href="https://www.taylorfrancis.com/chapters/chen-tao-god-salvation-church-richard-landes/10.4324/9780203009437-26" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/chen-tao-god-salvation-church-richard-landes/10.4324/9780203009437-26</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n whose adherents as of this writing were in the United...</p></details>
+   Link:<a href="https://www.taylorfrancis.com/chapters/chen-tao-god-salvation-church-richard-landes/10.4324/9780203009437-26" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/chen-tao-god-salvation-church-richard-landes/10.4324/9780203009437-26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n whose adherents as of this writing were in the United...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) God&#x27;s Descending in Clouds (Flying Saucers)3 Dec 2016 — Since midcentury, UFOs have received a modest amount of attention from soci...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) God&#x27;s Descending in Clouds (Flying Saucers)3 Dec 2016 — Since midcentury, UFOs have received a modest amount of attention from soci...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.45" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.45</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting God in Garland: A Model of Religious Tolerance1by LD Kliever · 1999 · Cited by 11 — On 25 March, God would make a nationwide...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.45" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.45</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting God in Garland: A Model of Religious Tolerance1by LD Kliever · 1999 · Cited by 11 — On 25 March, God would make a nationwide...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E2loW1NHCbk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E2loW1NHCbk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theology and Infinite Regress; 04:47 — Emergence of Cause...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E2loW1NHCbk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E2loW1NHCbk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theology and Infinite Regress; 04:47 — Emergence of Cause...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.uni-marburg.de  
-   Link: <a href="https://journals.uni-marburg.de/ubfind/Record/0004.1999.126.3761?lng=da&amp;print=1&amp;ui=stride" target="_blank" rel="noopener noreferrer nofollow">https://journals.uni-marburg.de/ubfind/Record/0004.1999.126.3761?lng=da&amp;print=1&amp;ui=stride</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uni-marburg.deGod&#x27;s Salvation Church: Past, Present and FutureIn March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the a...</p></details>
+   Link:<a href="https://journals.uni-marburg.de/ubfind/Record/0004.1999.126.3761?lng=da&amp;print=1&amp;ui=stride" target="_blank" rel="noopener noreferrer nofollow">https://journals.uni-marburg.de/ubfind/Record/0004.1999.126.3761?lng=da&amp;print=1&amp;ui=stride</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uni-marburg.deGod&#x27;s Salvation Church: Past, Present and FutureIn March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (UFO religion)It was founded by Hon-Ming Chen, they became notorious for a highly publicized failed millennial prophecy...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (UFO religion)It was founded by Hon-Ming Chen, they became notorious for a highly publicized failed millennial prophecy...</p></details>

@@ -284,11 +284,11 @@ When a UFO prophecy fails in private, believers can reinterpret the event within
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_media_pressure_attri_70b909-Illustration-1-dark.svg" | relative_url }}" alt="Media Pressure illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_media_pressure_attri_70b909-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_media_pressure_attri_70b909-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Several of the best-known UFO prophecy cases illustrate this tension. Media attention can accelerate [departures]({{ 'departures/' | relative_url }}) by making failure impossible to ignore. Yet the same publicity can also be reframed by remaining believers as evidence that their message reached the world, creating a new narrative that helps a committed core endure. The result is a complicated relationship between failed prophecy, [ridicule]({{ 'ridicule/' | relative_url }}), and member attrition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Several of the best-known UFO prophecy cases illustrate this tension. Media attention can accelerate [departures]({{ 'departures/' | relative_url }}) by making failure impossible to ignore. Yet the same publicity can also be reframed by remaining believers as evidence that their message reached the world, creating a new narrative that helps a committed core endure. The result is a complicated relationship between failed prophecy, [ridicule]({{ 'ridicule/' | relative_url }}), and member attrition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## Failure on a Public Stage
 
-The classic UFO-prophecy case surrounding Dorothy Martin's 1954 prediction did not unfold in isolation. Researchers, reporters, and curious observers were present before and after the expected catastrophe date. Later critiques of the famous *When Prophecy Fails* account argued that the group was not simply reacting to a failed prediction; it was reacting to a highly public event in which outsiders constantly demanded explanations. According to later analyses, media attention repeatedly pressed members to justify their commitment, potentially influencing how they behaved after the prophecy collapsed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The classic UFO-prophecy case surrounding Dorothy Martin's 1954 prediction did not unfold in isolation. Researchers, reporters, and curious observers were present before and after the expected catastrophe date. Later critiques of the famous *When Prophecy Fails* account argued that the group was not simply reacting to a failed prediction; it was reacting to a highly public event in which outsiders constantly demanded explanations. According to later analyses, media attention repeatedly pressed members to justify their commitment, potentially influencing how they behaved after the prophecy collapsed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This matters because public failure differs from private disappointment. Members are no longer comparing prophecy with reality only among themselves. They are doing so while facing:
 
@@ -303,9 +303,9 @@ This matters because public failure differs from private disappointment. Members
 
 </div>
 
-In Martin's case, later archival research suggests the group dispersed rapidly after the prophecy failed rather than evolving into a powerful missionary movement. The visibility of the failure likely increased the social pressure surrounding the event. Martin herself faced threats of official intervention and eventually left the area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
+In Martin's case, later archival research suggests the group dispersed rapidly after the prophecy failed rather than evolving into a powerful missionary movement. The visibility of the failure likely increased the social pressure surrounding the event. Martin herself faced threats of official intervention and eventually left the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
 
-The same pattern appeared decades later with Chen Tao (God's Salvation Church). By the time leader Hon-Ming Chen predicted that God would appear on American television and then physically in [Garland]({{ 'garland/' | relative_url }}), Texas, international media were already following the story. The prophecy became a spectacle long before the predicted dates arrived. Reporters and television crews gathered specifically to witness success or failure. When nothing happened, the disappointment occurred before a global audience rather than within a closed religious community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+The same pattern appeared decades later with Chen Tao (God's Salvation Church). By the time leader Hon-Ming Chen predicted that God would appear on American television and then physically in [Garland]({{ 'garland/' | relative_url }}), Texas, international media were already following the story. The prophecy became a spectacle long before the predicted dates arrived. Reporters and television crews gathered specifically to witness success or failure. When nothing happened, the disappointment occurred before a global audience rather than within a closed religious community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sPyWo4Ei5vU" title="USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer">USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sPyWo4Ei5vU">Open on YouTube</a></p></div></div></div>
@@ -328,7 +328,7 @@ Studies of prophetic movements repeatedly show that reactions are not uniform. S
 
 </div>
 
-The Chen Tao case illustrates this problem clearly. The movement's failed predictions became international news, and the resulting embarrassment was difficult to avoid. Subsequent research found substantial membership losses after the failed Garland prophecies, leaving a smaller but more devoted core. Public failure did not affect every member equally, but it increased the pressure on those already uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+The Chen Tao case illustrates this problem clearly. The movement's failed predictions became international news, and the resulting embarrassment was difficult to avoid. Subsequent research found substantial membership losses after the failed Garland prophecies, leaving a smaller but more devoted core. Public failure did not affect every member equally, but it increased the pressure on those already uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 Media exposure can therefore act as a multiplier. A prophecy that fails quietly may produce doubt. A prophecy that fails on television can produce doubt, shame, and social isolation simultaneously.
 
@@ -338,7 +338,7 @@ Media exposure can therefore act as a multiplier. A prophecy that fails quietly 
 
 Public scrutiny does not always destroy belief. Sometimes it becomes raw material for reinterpretation.
 
-One of the most discussed aspects of the Dorothy [Martin case]({{ 'martin-case/' | relative_url }}) was the claim that believers responded to disconfirmation by seeking publicity and spreading their message more aggressively. Although recent archival work has challenged parts of that narrative, the underlying mechanism remains important: attention itself can be redefined as meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">reinterpret its failure... The documents reveal that the group actively proselytized well before the prophecy failed and quickly abandon...</span></span></span>
+One of the most discussed aspects of the Dorothy [Martin case]({{ 'martin-case/' | relative_url }}) was the claim that believers responded to disconfirmation by seeking publicity and spreading their message more aggressively. Although recent archival work has challenged parts of that narrative, the underlying mechanism remains important: attention itself can be redefined as meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">reinterpret its failure... The documents reveal that the group actively proselytized well before the prophecy failed and quickly abandon...</span></span></span>
 
 Remaining believers may argue that:
 
@@ -355,7 +355,7 @@ Remaining believers may argue that:
 
 Such reinterpretations transform apparent failure into evidence of significance. Instead of asking why the prediction failed, members focus on why so many people were watching.
 
-Research on prophetic movements suggests that social support and a plausible reinterpretation are often more important than the original prediction itself. Public attention can inadvertently provide resources for both. The very journalists who expose a failed prophecy may also create a record showing that the group's message reached a large audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</span></span></span>
+Research on prophetic movements suggests that social support and a plausible reinterpretation are often more important than the original prediction itself. Public attention can inadvertently provide resources for both. The very journalists who expose a failed prophecy may also create a record showing that the group's message reached a large audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sp-9m8kTT6g" title="When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sp-9m8kTT6g" target="_blank" rel="noopener noreferrer">When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong!</a></p><p class="youtube-embed-meta">Channel: MythVision TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sp-9m8kTT6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sp-9m8kTT6g">Open on YouTube</a></p></div></div></div>
@@ -364,9 +364,9 @@ Research on prophetic movements suggests that social support and a plausible rei
 
 Media coverage creates two opposing pressures at once.
 
-On one side, cameras expose contradictions. Predictions are recorded, dates are fixed, and outcomes are visible. Failed prophecies become difficult to deny when newspapers, television stations, and later internet archives preserve the original claims. This transparency can encourage departures by preventing [leaders]({{ 'leaders/' | relative_url }}) from quietly revising what was predicted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+On one side, cameras expose contradictions. Predictions are recorded, dates are fixed, and outcomes are visible. Failed prophecies become difficult to deny when newspapers, television stations, and later internet archives preserve the original claims. This transparency can encourage departures by preventing [leaders]({{ 'leaders/' | relative_url }}) from quietly revising what was predicted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-On the other side, publicity can strengthen the commitment of a remaining minority. Shared criticism can produce solidarity. Believers may come to see themselves as a misunderstood group standing against a hostile world. In that setting, ridicule is not merely tolerated; it can become proof that outsiders refuse to recognise a deeper truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">1999 dawson</span><span class="citation-popover-snippet">When Prophecy Fails and Faith Persists5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et al., the...</span><span class="citation-popover-meta">Published: May 2004</span></span></span>
+On the other side, publicity can strengthen the commitment of a remaining minority. Shared criticism can produce solidarity. Believers may come to see themselves as a misunderstood group standing against a hostile world. In that setting, ridicule is not merely tolerated; it can become proof that outsiders refuse to recognise a deeper truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">1999 dawson</span><span class="citation-popover-snippet">When Prophecy Fails and Faith Persists5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et al., the...</span><span class="citation-popover-meta">Published: May 2004</span></span></span>
 
 This dual effect helps explain why public ridicule rarely produces a single outcome. It often accelerates departures among the uncertain while simultaneously deepening commitment among the most dedicated members.
 
@@ -376,201 +376,201 @@ This dual effect helps explain why public ridicule rarely produces a single outc
 
 The most important lesson from UFO prophecy failures is that public exposure reshapes the aftermath. The failed prediction remains the central event, but cameras, headlines, and public scrutiny alter how members experience it.
 
-For wavering believers, ridicule can make departure easier by exposing the gap between promise and reality. For committed believers, the same scrutiny can be woven into a new narrative about persecution, witness, or global attention. Cases such as Dorothy Martin's movement and Chen Tao demonstrate that media pressure is not merely an outside reaction to failed prophecy. It becomes part of the event itself, influencing who leaves, who stays, and how the failure is remembered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+For wavering believers, ridicule can make departure easier by exposing the gap between promise and reality. For committed believers, the same scrutiny can be woven into a new narrative about persecution, witness, or global attention. Cases such as Dorothy Martin's movement and Chen Tao demonstrate that media pressure is not merely an outside reaction to failed prophecy. It becomes part of the event itself, influencing who leaves, who stays, and how the failure is remembered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bkRjQ5juZXk" title="Festinger&#x27;s When Prophecy Fails: What Happens After the World Doesn&#x27;t End" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer">Festinger&#x27;s When Prophecy Fails: What Happens After the World Doesn&#x27;t End</a></p><p class="youtube-embed-meta">Channel: Psychology: Theories Explained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bkRjQ5juZXk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Cameras Change a Failed Prophecy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Cameras Change a Failed Prophecy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">The case involved extensive outside observation and publicity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The case involved extensive outside observation and publicity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Theory of Cognitive Dissonance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5291092-M.jpg" alt="Cover for A Theory of Cognitive Dissonance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Theory of Cognitive Dissonance">A Theory of Cognitive Dissonance</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Theory of Cognitive Dissonance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5291092-M.jpg" alt="Cover for A Theory of Cognitive Dissonance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Theory of Cognitive Dissonance">A Theory of Cognitive Dissonance</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger</p>
         
-        <p class="fr-book-desc">First published 1957. Subjects: Adaptability (Psychology), Cognitive dissonance, Cognitieve dissonantie, Dissonance cognitive, Desenvolvi...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1957. Subjects: Adaptability (Psychology), Cognitive dissonance, Cognitieve dissonantie, Dissonance cognitive, Desenvolvi...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
-        </h4>
-        <p class="fr-book-author">By Amanda Montell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
+</h4>
+<p class="fr-book-author">By Amanda Montell</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Going+Clear+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Going Clear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7254471-M.jpg" alt="Cover for Going Clear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Going+Clear+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Going Clear">Going Clear</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence Wright</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Going+Clear+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Going Clear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7254471-M.jpg" alt="Cover for Going Clear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Going+Clear+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Going Clear">Going Clear</a>
+</h4>
+<p class="fr-book-author">By Lawrence Wright</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Scientology, Hubbard, L. Ron (La Fayette Ron), 1911-1986, Doctrines, Scientologists, Cults.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Going+Clear+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Scientology, Hubbard, L. Ron (La Fayette Ron), 1911-1986, Doctrines, Scientologists, Cults.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Going+Clear+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Theory of Cognitive Dissonance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cultish</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Theory of Cognitive Dissonance</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cultish</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="media-pressure-how-cameras-change-a-failed-prophecy-failed-predictions-ufo-poster-book-books-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,117 +776,117 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2009.12.4.72</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2009.12.4.72</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: d-nb.info  
    Title: DNBGod's Salvation Church: Past, Present and Future  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</p></details>
    Published: April 11, 2004  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Debunking “When Prophecy Fails”  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reinterpret its failure... The documents reveal that the group actively proselytized well before the prophecy failed and quickly abandon...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reinterpret its failure... The documents reveal that the group actively proselytized well before the prophecy failed and quickly abandon...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gwern.net  
    Title: Debunking “When Prophecy Fails”  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrive...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrive...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gwern.net  
    Title: 1999 dawson  
-   Link: <a href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/sociology/1999-dawson.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith Persists5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et al., the...</p></details>
+   Link:<a href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/sociology/1999-dawson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith Persists5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et al., the...</p></details>
    Published: May 2004  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Szu-kuan Lo after the “failed” March 25, 1998 prophetic press conference (Anthony 1998a). Yet even in the form of...Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Szu-kuan Lo after the “failed” March 25, 1998 prophetic press conference (Anthony 1998a). Yet even in the form of...Read more...</p></details>
    Published: March 25, 1998  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: biblicalscholarship.wordpress.com  
    Title: debunking when prophecy fails  
-   Link: <a href="https://biblicalscholarship.wordpress.com/2025/11/17/debunking-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://biblicalscholarship.wordpress.com/2025/11/17/debunking-when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails - Biblical ScholarshipNov 17, 2025 — And even if the UFO cult had persisted, we should not conclude that... Posted i...</p></details>
+   Link:<a href="https://biblicalscholarship.wordpress.com/2025/11/17/debunking-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://biblicalscholarship.wordpress.com/2025/11/17/debunking-when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails - Biblical ScholarshipNov 17, 2025 — And even if the UFO cult had persisted, we should not conclude that... Posted i...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...Nov 13, 2025 — New research questions When Prophecy Fails, the classic study of...</p></details>
+   Link:<a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...Nov 13, 2025 — New research questions When Prophecy Fails, the classic study of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers r...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers r...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whose members became more devoted when their prophecy failed.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whose members became more devoted when their prophecy failed.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: christianscholars.com  
    Title: ” When Prophecy Fails failed to uphold basic scholarly standards.Read more  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Festinger, Leon, Riecken...It chronicles the experience of a UFO cult that believed the end of the world was at hand...</p></details>
+   Link:<a href="https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Festinger, Leon, Riecken...It chronicles the experience of a UFO cult that believed the end of the world was at hand...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cy. of cognitive dissonance would spare Martin&#x27;s group...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cy. of cognitive dissonance would spare Martin&#x27;s group...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alexquigley.co.uk  
    Title: when prophecies fail and evidence backfires  
-   Link: <a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2017 — Dorothy Martin was a charismatic leader with a unique skill. She... Instead of rejecting Martin and her failed prophecies...</p></details>
+   Link:<a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2017 — Dorothy Martin was a charismatic leader with a unique skill. She... Instead of rejecting Martin and her failed prophecies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hen Tao began moving to Garland, Texas, a bedroom...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hen Tao began moving to Garland, Texas, a bedroom...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 397254906 Debunking When Prophecy Fails  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bps.org.uk  
    Title: when when prophecy fails fails  
-   Link: <a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>

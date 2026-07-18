@@ -280,47 +280,47 @@ image: /assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_ha
 
 ## Introduction
 
-The fatal outcome of the Hale-Bopp prophecy did not arise from a single mistaken astronomical claim. It emerged from the convergence of three elements: a highly visible comet, an unsupported belief that a spacecraft was associated with it, and a theology that taught that physical death was not an ending but a transition to a higher extraterrestrial existence. By March 1997, members of Heaven’s Gate no longer treated the Hale-Bopp story as a hypothesis that could be tested. They regarded it as confirmation that the moment of departure from Earth had arrived. When the prediction was tied to a belief system that framed death as “graduation” to the “Next Level”, the failed UFO claim became the centrepiece of a fatal decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
+The fatal outcome of the Hale-Bopp prophecy did not arise from a single mistaken astronomical claim. It emerged from the convergence of three elements: a highly visible comet, an unsupported belief that a spacecraft was associated with it, and a theology that taught that physical death was not an ending but a transition to a higher extraterrestrial existence. By March 1997, members of Heaven’s Gate no longer treated the Hale-Bopp story as a hypothesis that could be tested. They regarded it as confirmation that the moment of departure from Earth had arrived. When the prediction was tied to a belief system that framed death as “graduation” to the “Next Level”, the failed UFO claim became the centrepiece of a fatal decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-1-dark.svg" | relative_url }}" alt="Fatal Outcome illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Final Days in Rancho Santa Fe
 
-In late March 1997, Heaven’s Gate members were living in a rented mansion in Rancho Santa Fe, California. The group had spent years preparing for the possibility of leaving Earth and interpreted the appearance of Comet Hale-Bopp as the sign they had been awaiting. Marshall Applewhite, the group’s leader, told followers that the time had come to leave their human bodies and join the “Level Above Human”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+In late March 1997, Heaven’s Gate members were living in a rented mansion in Rancho Santa Fe, California. The group had spent years preparing for the possibility of leaving Earth and interpreted the appearance of Comet Hale-Bopp as the sign they had been awaiting. Marshall Applewhite, the group’s leader, told followers that the time had come to leave their human bodies and join the “Level Above Human”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-The deaths were carried out in a highly organised manner over several days rather than in a single impulsive event. Members followed detailed instructions, wore matching clothing, and participated in a coordinated sequence intended to ensure that each wave of participants could assist the next. Investigators found 39 dead members after an anonymous tip brought authorities to the house on 26 March 1997. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">heavens gate cult members found dead</span><span class="citation-popover-snippet">Heaven&#x27;s Gate cult members found dead &#124; March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego...</span></span></span>
+The deaths were carried out in a highly organised manner over several days rather than in a single impulsive event. Members followed detailed instructions, wore matching clothing, and participated in a coordinated sequence intended to ensure that each wave of participants could assist the next. Investigators found 39 dead members after an anonymous tip brought authorities to the house on 26 March 1997.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">heavens gate cult members found dead</span><span class="citation-popover-snippet">Heaven&#x27;s Gate cult members found dead &#124; March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego...</span></span></span>
 
-What made the event distinct from many failed prophecies was that the expected fulfilment was not supposed to occur publicly on Earth. Followers believed that the proof of success would occur after death. This belief removed the possibility of immediate disconfirmation. If no spacecraft appeared in the sky, that absence did not automatically challenge the doctrine because the promised transition was understood to happen beyond ordinary observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
+What made the event distinct from many failed prophecies was that the expected fulfilment was not supposed to occur publicly on Earth. Followers believed that the proof of success would occur after death. This belief removed the possibility of immediate disconfirmation. If no spacecraft appeared in the sky, that absence did not automatically challenge the doctrine because the promised transition was understood to happen beyond ordinary observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jQvLNR_UTvU" title="HEAVENS GATE CULT - Exit statements" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jQvLNR_UTvU" target="_blank" rel="noopener noreferrer">HEAVENS GATE CULT - Exit statements</a></p><p class="youtube-embed-meta">Channel: Emma Kenny</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jQvLNR_UTvU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jQvLNR_UTvU">Open on YouTube</a></p></div></div></div>
 
 ## The Role of Coordinated Ritual and Farewell Messaging
 
-In the days before the deaths, members recorded farewell videos and prepared written “Earth Exit Statements”. These messages are striking because they rarely sound fearful or conflicted. Instead, many participants described anticipation, gratitude and certainty that they were about to move to a higher realm. The materials were intended to be released after their deaths and reflected a shared conviction that they were completing a mission rather than ending their lives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6929959/exclusive-cults-suicide-notes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">exclusive cults suicide notes</span><span class="citation-popover-snippet">EXCLUSIVE: Cult&#x27;s Suicide Notes29 Mar 1997 — The notes, called “Earth Exit Statements,” were recorded on two computer disks and sent...</span></span></span>
+In the days before the deaths, members recorded farewell videos and prepared written “Earth Exit Statements”. These messages are striking because they rarely sound fearful or conflicted. Instead, many participants described anticipation, gratitude and certainty that they were about to move to a higher realm. The materials were intended to be released after their deaths and reflected a shared conviction that they were completing a mission rather than ending their lives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6929959/exclusive-cults-suicide-notes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">exclusive cults suicide notes</span><span class="citation-popover-snippet">EXCLUSIVE: Cult&#x27;s Suicide Notes29 Mar 1997 — The notes, called “Earth Exit Statements,” were recorded on two computer disks and sent...</span></span></span>
 
 The farewell messages served several functions simultaneously:
 
 * They reinforced commitment by requiring members to publicly affirm the belief.
 * They created a collective narrative in which departure was portrayed as success.
 * They reduced space for doubt by surrounding individuals with others expressing confidence.
-* They transformed a private decision into a group ritual with a shared meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Before their deaths, many members left videotaped final</span><span class="citation-popover-snippet">Wiley Online LibraryComparing the Heaven&#x27;s Gate “Exit Statements” to...19 Nov 2025 — Introduction In 1997, the Heaven&#x27;s Gate religious g...</span></span></span>
+* They transformed a private decision into a group ritual with a shared meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Before their deaths, many members left videotaped final</span><span class="citation-popover-snippet">Wiley Online LibraryComparing the Heaven&#x27;s Gate “Exit Statements” to...19 Nov 2025 — Introduction In 1997, the Heaven&#x27;s Gate religious g...</span></span></span>
 
-Later analysis of the recorded statements found language patterns that differed from many conventional suicide notes. Researchers observed comparatively less emotional language, suggesting that participants framed the event through a highly structured religious worldview rather than as a personal crisis. While such findings do not explain every individual motivation, they support the view that members understood the act as a collective transition rather than a tragic sacrifice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Before their deaths, many members left videotaped final</span><span class="citation-popover-snippet">Wiley Online LibraryComparing the Heaven&#x27;s Gate “Exit Statements” to...19 Nov 2025 — Introduction In 1997, the Heaven&#x27;s Gate religious g...</span></span></span>
+Later analysis of the recorded statements found language patterns that differed from many conventional suicide notes. Researchers observed comparatively less emotional language, suggesting that participants framed the event through a highly structured religious worldview rather than as a personal crisis. While such findings do not explain every individual motivation, they support the view that members understood the act as a collective transition rather than a tragic sacrifice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Before their deaths, many members left videotaped final</span><span class="citation-popover-snippet">Wiley Online LibraryComparing the Heaven&#x27;s Gate “Exit Statements” to...19 Nov 2025 — Introduction In 1997, the Heaven&#x27;s Gate religious g...</span></span></span>
 
-The farewell recordings also reveal how thoroughly the Hale-Bopp interpretation had been integrated into the group’s worldview. The comet was not merely an astronomical object; it had become the timetable for a cosmic departure. Once that interpretation was accepted, participation in the ritual could be viewed as obedience rather than self-destruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
+The farewell recordings also reveal how thoroughly the Hale-Bopp interpretation had been integrated into the group’s worldview. The comet was not merely an astronomical object; it had become the timetable for a cosmic departure. Once that interpretation was accepted, participation in the ritual could be viewed as obedience rather than self-destruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-2-dark.svg" | relative_url }}" alt="Fatal Outcome illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Disconfirmation Lost Power Before the Deaths
 
-One of the most important questions is why contrary evidence failed to stop the process. Astronomers had challenged claims of a spacecraft associated with Hale-Bopp, and evidence for a hidden object near the comet had been discredited. Yet these developments had little effect on committed members. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
+One of the most important questions is why contrary evidence failed to stop the process. Astronomers had challenged claims of a spacecraft associated with Hale-Bopp, and evidence for a hidden object near the comet had been discredited. Yet these developments had little effect on committed members.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
 
-A key reason was that the belief system had evolved beyond dependence on the original UFO claim. Heaven’s Gate teachings increasingly treated Hale-Bopp as a symbolic marker rather than relying on a visible spacecraft that could be verified by independent observers. Even discussions on the group’s own website suggested that arguments about a “companion object” were secondary to the larger belief that the comet signalled the arrival of the Next Level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
+A key reason was that the belief system had evolved beyond dependence on the original UFO claim. Heaven’s Gate teachings increasingly treated Hale-Bopp as a symbolic marker rather than relying on a visible spacecraft that could be verified by independent observers. Even discussions on the group’s own website suggested that arguments about a “companion object” were secondary to the larger belief that the comet signalled the arrival of the Next Level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
 
-Another factor was the group’s long history of commitment. Members had often spent years or decades inside a tightly regulated community that encouraged separation from family, careers and previous identities. By 1997, many had invested so much of their lives in the movement that abandoning the prophecy would have required rejecting not only a prediction but an entire worldview. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+Another factor was the group’s long history of commitment. Members had often spent years or decades inside a tightly regulated community that encouraged separation from family, careers and previous identities. By 1997, many had invested so much of their lives in the movement that abandoning the prophecy would have required rejecting not only a prediction but an entire worldview.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-Research on failed prophecies has repeatedly shown that disconfirming evidence does not always weaken belief. In some movements, failed expectations are reinterpreted, rationalised or absorbed into a broader narrative. Heaven’s Gate represented an extreme version of this pattern. The Hale-Bopp claim was not exposed through a public failure witnessed by followers; instead, the group acted before the prediction could be tested in a way that members would accept as decisive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">of how religious groups.Read more</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — ABSTRACT: Almost everyone in the socio...</span><span class="citation-popover-meta">Published: October 23, 1999</span></span></span>
+Research on failed prophecies has repeatedly shown that disconfirming evidence does not always weaken belief. In some movements, failed expectations are reinterpreted, rationalised or absorbed into a broader narrative. Heaven’s Gate represented an extreme version of this pattern. The Hale-Bopp claim was not exposed through a public failure witnessed by followers; instead, the group acted before the prediction could be tested in a way that members would accept as decisive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">of how religious groups.Read more</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — ABSTRACT: Almost everyone in the socio...</span><span class="citation-popover-meta">Published: October 23, 1999</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lj_cyTt4SxE" title="The BRUTALITY Of The Heaven&#x27;s Gate Cult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer">The BRUTALITY Of The Heaven&#x27;s Gate Cult</a></p><p class="youtube-embed-meta">Channel: Kallmekris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lj_cyTt4SxE">Open on YouTube</a></p></div></div></div>
@@ -330,186 +330,186 @@ Research on failed prophecies has repeatedly shown that disconfirming evidence d
 
 ## How a Failed UFO Prediction Became Fatal
 
-The Hale-Bopp episode stands apart from most failed UFO predictions because the cost of error was irreversible. In many UFO-related prophecies, believers eventually confront the fact that the expected event did not occur. In Heaven’s Gate, the expectation was linked to a doctrine that redefined death as transportation to a higher level of existence. That theological shift insulated the prediction from ordinary reality checks and transformed a mistaken belief into a lethal course of action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</span></span></span>
+The Hale-Bopp episode stands apart from most failed UFO predictions because the cost of error was irreversible. In many UFO-related prophecies, believers eventually confront the fact that the expected event did not occur. In Heaven’s Gate, the expectation was linked to a doctrine that redefined death as transportation to a higher level of existence. That theological shift insulated the prediction from ordinary reality checks and transformed a mistaken belief into a lethal course of action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</span></span></span>
 
-The catastrophe was therefore not caused by the comet itself, nor solely by rumours of a spacecraft. It resulted from the interaction of an unsupported UFO narrative with a closed belief system that taught followers that leaving their bodies was the necessary step to reach salvation. Once Hale-Bopp was interpreted as the final signal, disconfirmation no longer functioned as a safeguard, and the prediction culminated in one of the most tragic outcomes associated with UFO-related prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
+The catastrophe was therefore not caused by the comet itself, nor solely by rumours of a spacecraft. It resulted from the interaction of an unsupported UFO narrative with a closed belief system that taught followers that leaving their bodies was the necessary step to reach salvation. Once Hale-Bopp was interpreted as the final signal, disconfirmation no longer functioned as a safeguard, and the prediction culminated in one of the most tragic outcomes associated with UFO-related prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-3-dark.svg" | relative_url }}" alt="Fatal Outcome illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_hale_bopp_fatal_outc_d82fea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a UFO Prediction Became Fatal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a UFO Prediction Became Fatal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores how people form and defend extraordinary beliefs, relevant to UFO prophecies and failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people form and defend extraordinary beliefs, relevant to UFO prophecies and failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Provides the foundational theory of cognitive dissonance that helps explain why disconfirmation lost power before the Heaven&#x27;s Gate tragedy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the foundational theory of cognitive dissonance that helps explain why disconfirmation lost power before the Heaven&#x27;s Gate tragedy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+Max+Cutler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12855606-M.jpg" alt="Cover for Cults" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+Max+Cutler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults">Cults</a>
-        </h4>
-        <p class="fr-book-author">By Max Cutler, Kevin Conley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+Max+Cutler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12855606-M.jpg" alt="Cover for Cults" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+Max+Cutler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults">Cults</a>
+</h4>
+<p class="fr-book-author">By Max Cutler, Kevin Conley</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+Max+Cutler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+Max+Cutler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="fatal-outcome-how-a-ufo-prediction-became-fatal-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ The catastrophe was therefore not caused by the comet itself, nor solely by rumo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ The catastrophe was therefore not caused by the comet itself, nor solely by rumo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ The catastrophe was therefore not caused by the comet itself, nor solely by rumo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -629,7 +629,7 @@ The catastrophe was therefore not caused by the comet itself, nor solely by rumo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -674,7 +674,7 @@ The catastrophe was therefore not caused by the comet itself, nor solely by rumo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -715,177 +715,177 @@ The catastrophe was therefore not caused by the comet itself, nor solely by rumo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: heavens gate mass suicide  
-   Link: <a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?7 Mar 2023 — Inside a San Diego mansion, authorities discovered the remains of 39 memb...</p></details>
+   Link:<a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?7 Mar 2023 — Inside a San Diego mansion, authorities discovered the remains of 39 memb...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: heavens gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: people.com  
    Title: heavens gate cult suicide anniversary 11914222  
-   Link: <a href="https://people.com/heavens-gate-cult-suicide-anniversary-11914222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/heavens-gate-cult-suicide-anniversary-11914222</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mass suicide was carried out over three days in Rancho Santa Fe, California, with members ingesting barbiturates mixed with applesauc...</p></details>
+   Link:<a href="https://people.com/heavens-gate-cult-suicide-anniversary-11914222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/heavens-gate-cult-suicide-anniversary-11914222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mass suicide was carried out over three days in Rancho Santa Fe, California, with members ingesting barbiturates mixed with applesauc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
    Title: exclusive cults suicide notes  
-   Link: <a href="https://time.com/archive/6929959/exclusive-cults-suicide-notes/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6929959/exclusive-cults-suicide-notes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EXCLUSIVE: Cult&#x27;s Suicide Notes29 Mar 1997 — The notes, called “Earth Exit Statements,” were recorded on two computer disks and sent...</p></details>
+   Link:<a href="https://time.com/archive/6929959/exclusive-cults-suicide-notes/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6929959/exclusive-cults-suicide-notes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXCLUSIVE: Cult&#x27;s Suicide Notes29 Mar 1997 — The notes, called “Earth Exit Statements,” were recorded on two computer disks and sent...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
    Title: Before their deaths, many members left videotaped final  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryComparing the Heaven&#x27;s Gate “Exit Statements” to...19 Nov 2025 — Introduction In 1997, the Heaven&#x27;s Gate religious g...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryComparing the Heaven&#x27;s Gate “Exit Statements” to...19 Nov 2025 — Introduction In 1997, the Heaven&#x27;s Gate religious g...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jstor.org  
    Title: of how religious groups.Read more  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — ABSTRACT: Almost everyone in the socio...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — ABSTRACT: Almost everyone in the socio...</p></details>
    Published: October 23, 1999  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Heavens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HeavensHeavens may refer to: The sky, low Earth orbit, or outer space (also celestial spheres or Biblical firmament); Heaven of genera...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heavens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HeavensHeavens may refer to: The sky, low Earth orbit, or outer space (also celestial spheres or Biblical firmament); Heaven of genera...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Heaven's Gate Cult Initiation Tape Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=AqSZhwu1Rwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AqSZhwu1Rwo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cult Next Door | Heaven&#x27;s Gate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AqSZhwu1Rwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AqSZhwu1Rwo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cult Next Door | Heaven&#x27;s Gate...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The BRUTALITY Of The Heaven's Gate Cult  
-   Link: <a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Heavens Gate Hale](&amp;#123;&amp;#123; &#x27;heaven-s-gate/&#x27; | relative_url &amp;#125;&amp;#125;) Bopp cult documentary full episode Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Heavens Gate Hale](&amp;#123;&amp;#123; &#x27;heaven-s-gate/&#x27; | relative_url &amp;#125;&amp;#125;) Bopp cult documentary full episode Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Richard Leland Neal  
-   Link: <a href="https://www.youtube.com/watch?v=wZqh6o5vfeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wZqh6o5vfeM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Heaven&#x27;s Gate&quot; documentary &quot;Hale-Bopp&quot; The Cult Next Door | Heaven&#x27;s Gate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wZqh6o5vfeM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wZqh6o5vfeM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Heaven&#x27;s Gate&quot; documentary &quot;Hale-Bopp&quot; The Cult Next Door | Heaven&#x27;s Gate...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: heavensgate.com  
-   Link: <a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</p></details>
+   Link:<a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members record farewell messagesHeaven&#x27;s Gate members were urged by Marshall Herff Applewhite to record goodbye messag...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members record farewell messagesHeaven&#x27;s Gate members were urged by Marshall Herff Applewhite to record goodbye messag...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/story/heavens-gate-cult-true-story-the-leader-movie-vera-farmiga" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/story/heavens-gate-cult-true-story-the-leader-movie-vera-farmiga</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history in March 1997, when 39 members were found dead in Rancho Santa Fe, California. Founded by Marshall Applewhite and Bonnie Nettles...</p></details>
+   Link:<a href="https://www.vanityfair.com/story/heavens-gate-cult-true-story-the-leader-movie-vera-farmiga" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/story/heavens-gate-cult-true-story-the-leader-movie-vera-farmiga</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history in March 1997, when 39 members were found dead in Rancho Santa Fe, California. Founded by Marshall Applewhite and Bonnie Nettles...</p></details>
    Published: March 1997  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/heaven%27s" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/heaven%27s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er, etc. See the full definition. heaven&#x27;s above...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/heaven%27s" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/heaven%27s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er, etc. See the full definition. heaven&#x27;s above...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: heavensgate.com  
-   Link: <a href="https://www.heavensgate.com/exitsrr.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/exitsrr.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Exit Statement by SrrodyNot that long ago, banking institutions were suspect, individual privacy was expected, government was a too...</p></details>
+   Link:<a href="https://www.heavensgate.com/exitsrr.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/exitsrr.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Exit Statement by SrrodyNot that long ago, banking institutions were suspect, individual privacy was expected, government was a too...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: HEAVEN S GATE CULT  
-   Link: <a href="https://www.youtube.com/watch?v=jQvLNR_UTvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jQvLNR_UTvU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HEAVENS GATE CULT - Exit statementsEmma Kenny mentioned the exit statements of some of the Heavens gate cult members. This is the actual...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jQvLNR_UTvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jQvLNR_UTvU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HEAVENS GATE CULT - Exit statementsEmma Kenny mentioned the exit statements of some of the Heavens gate cult members. This is the actual...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/heavens" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/heavens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English DictionaryMay 13, 2026 — an expression of surprise, anger, annoyance, or emphasis: Good heavens – I...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/heavens" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/heavens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English DictionaryMay 13, 2026 — an expression of surprise, anger, annoyance, or emphasis: Good heavens – I...</p></details>
    Published: May 13, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/39dead12.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/39dead12.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO trailing the Hale-Bopp comet. In a preface...Read more...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/39dead12.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/39dead12.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO trailing the Hale-Bopp comet. In a preface...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/heavens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; Synonymsthe apparent surface of the imaginary sphere on which celestial bodies appear to be projected. synonyms: ce...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/heavens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; Synonymsthe apparent surface of the imaginary sphere on which celestial bodies appear to be projected. synonyms: ce...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/345956525_Making_Sense_of_the_Heaven%27s_Gate_Suicides" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345956525_Making_Sense_of_the_Heaven%27s_Gate_Suicides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Making Sense of the Heaven&#x27;s Gate SuicidesThis explores the question of when and why violence by and against new religious cults erupts a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345956525_Making_Sense_of_the_Heaven%27s_Gate_Suicides" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345956525_Making_Sense_of_the_Heaven%27s_Gate_Suicides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making Sense of the Heaven&#x27;s Gate SuicidesThis explores the question of when and why violence by and against new religious cults erupts a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41261385/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41261385/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: In 1997, the Heaven&#x27;s Gate religious group died by mass suicide. Before their deaths, many members left videotaped final me...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41261385/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41261385/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: In 1997, the Heaven&#x27;s Gate religious group died by mass suicide. Before their deaths, many members left videotaped final me...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lakeforest.edu  
    Title: zeller weighs in on heavens gate suicides  
-   Link: <a href="https://www.lakeforest.edu/news/zeller-weighs-in-on-heavens-gate-suicides" target="_blank" rel="noopener noreferrer nofollow">https://www.lakeforest.edu/news/zeller-weighs-in-on-heavens-gate-suicides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zeller weighs in on Heaven&#x27;s Gate suicides23 Mar 2017 — Associate Professor of Religion Benjamin Zeller was tapped as an expert in a San...</p></details>
+   Link:<a href="https://www.lakeforest.edu/news/zeller-weighs-in-on-heavens-gate-suicides" target="_blank" rel="noopener noreferrer nofollow">https://www.lakeforest.edu/news/zeller-weighs-in-on-heavens-gate-suicides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zeller weighs in on Heaven&#x27;s Gate suicides23 Mar 2017 — Associate Professor of Religion Benjamin Zeller was tapped as an expert in a San...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/11rdg13/members_of_the_heavens_gate_cult_record_farewell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/11rdg13/members_of_the_heavens_gate_cult_record_farewell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ew him for years and had no idea until he got drunk one...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/11rdg13/members_of_the_heavens_gate_cult_record_farewell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/11rdg13/members_of_the_heavens_gate_cult_record_farewell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ew him for years and had no idea until he got drunk one...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thesaurus.com  
    Title: HEAVEN S Synonyms & Antonyms  
-   Link: <a href="https://www.thesaurus.com/browse/heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/heavens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HEAVENS Synonyms &amp; Antonyms - 81 wordsFind 81 different ways to say HEAVENS, along with antonyms, related words, and example sentences at...</p></details>
+   Link:<a href="https://www.thesaurus.com/browse/heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/heavens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HEAVENS Synonyms &amp; Antonyms - 81 wordsFind 81 different ways to say HEAVENS, along with antonyms, related words, and example sentences at...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/artist/2mXWtPjWlGjT1Cmixwq41U" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/2mXWtPjWlGjT1Cmixwq41U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the musical collaboration between friends Alkaline Trio guitarist Matt Skiba and F-Minus bassist Josiah Steinbrick. Relocating from Ch...</p></details>
+   Link:<a href="https://open.spotify.com/artist/2mXWtPjWlGjT1Cmixwq41U" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/2mXWtPjWlGjT1Cmixwq41U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the musical collaboration between friends Alkaline Trio guitarist Matt Skiba and F-Minus bassist Josiah Steinbrick. Relocating from Ch...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqDVHhHUSGT29T7Kt9q7ZYswDisE4ckmIhR22kq62zUn4KA-P_P" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqDVHhHUSGT29T7Kt9q7ZYswDisE4ckmIhR22kq62zUn4KA-P_P</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In the summer of 1997, approximately 140 emigrant members of a little- known Taiwanese UFO group, Chen Tao, ap...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqDVHhHUSGT29T7Kt9q7ZYswDisE4ckmIhR22kq62zUn4KA-P_P" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqDVHhHUSGT29T7Kt9q7ZYswDisE4ckmIhR22kq62zUn4KA-P_P</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In the summer of 1997, approximately 140 emigrant members of a little- known Taiwanese UFO group, Chen Tao, ap...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Heaven's Song (Official Lyric Video)  
-   Link: <a href="https://www.youtube.com/watch?v=5x3gMbJOak4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5x3gMbJOak4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeremy Riddle | TidesDownload Tides on iTunes: [http://georiot.co/Ltc](http://georiot.co/Ltc) LYRICS We have come, as one heart As one voice To join heaven&#x27;s endl...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5x3gMbJOak4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5x3gMbJOak4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jeremy Riddle | TidesDownload Tides on iTunes: [http://georiot.co/Ltc](http://georiot.co/Ltc) LYRICS We have come, as one heart As one voice To join heaven&#x27;s endl...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dju4F0twu0A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in the Heaven&#x27;s Gate Cult?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dju4F0twu0A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in the Heaven&#x27;s Gate Cult?...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Cult Next Door | Heaven's Gate  
-   Link: <a href="https://www.youtube.com/watch?v=95UXqXXX4rA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=95UXqXXX4rA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=95UXqXXX4rA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=95UXqXXX4rA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview...</p></details>

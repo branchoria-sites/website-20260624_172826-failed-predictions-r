@@ -280,17 +280,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_te
 
 ## Introduction
 
-The telescope-shop episode is one of the most revealing moments in the Heaven’s Gate interpretation of Comet Hale-Bopp. Unlike rumours circulating on radio programmes or claims based on disputed photographs, this was a direct attempt to look for the alleged spacecraft. According to contemporary accounts, members of the group obtained a telescope specifically to observe Hale-Bopp and search for the object they believed accompanied it. They reportedly found the comet, but not the spacecraft. What makes the episode important is not that the search failed. It is that the failure did not alter the underlying belief. In the history of failed UFO predictions, the incident shows how a simple observational test can lose its force when a belief system has already shifted from empirical [verification]({{ 'verification/' | relative_url }}) to symbolic certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
+The telescope-shop episode is one of the most revealing moments in the Heaven’s Gate interpretation of Comet Hale-Bopp. Unlike rumours circulating on radio programmes or claims based on disputed photographs, this was a direct attempt to look for the alleged spacecraft. According to contemporary accounts, members of the group obtained a telescope specifically to observe Hale-Bopp and search for the object they believed accompanied it. They reportedly found the comet, but not the spacecraft. What makes the episode important is not that the search failed. It is that the failure did not alter the underlying belief. In the history of failed UFO predictions, the incident shows how a simple observational test can lose its force when a belief system has already shifted from empirical [verification]({{ 'verification/' | relative_url }}) to symbolic certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-1-dark.svg" | relative_url }}" alt="Telescope Test illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the shop visit reportedly involved
 
-One of the best-known accounts comes from reporting published shortly after the deaths of the 39 Heaven’s Gate members. According to a detailed contemporary narrative, two members visited a telescope and camera shop in Oceanside, California, purchased an expensive telescope, and intended to use it to observe Hale-Bopp and the supposed spacecraft believed to be travelling with the comet. Several days later, they returned the instrument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
+One of the best-known accounts comes from reporting published shortly after the deaths of the 39 Heaven’s Gate members. According to a detailed contemporary narrative, two members visited a telescope and camera shop in Oceanside, California, purchased an expensive telescope, and intended to use it to observe Hale-Bopp and the supposed spacecraft believed to be travelling with the comet. Several days later, they returned the instrument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
 
-The story became notable because the telescope was acquired for a practical purpose: to see the object for themselves. The alleged spacecraft was not merely a theological concept. At least at this stage, some followers expected it to be observable. The telescope therefore functioned as a test of a concrete claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
+The story became notable because the telescope was acquired for a practical purpose: to see the object for themselves. The alleged spacecraft was not merely a theological concept. At least at this stage, some followers expected it to be observable. The telescope therefore functioned as a test of a concrete claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
 
-The broader context is important. By late 1996 and early 1997, claims of a mysterious object accompanying Hale-Bopp had spread through UFO circles. These claims were fuelled by misidentified stars, incorrect interpretations of astronomical images, and later by images that astronomers demonstrated had been altered. Professional astronomers repeatedly stated that no spacecraft had been detected near the comet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</span></span></span>
+The broader context is important. By late 1996 and early 1997, claims of a mysterious object accompanying Hale-Bopp had spread through UFO circles. These claims were fuelled by misidentified stars, incorrect interpretations of astronomical images, and later by images that astronomers demonstrated had been altered. Professional astronomers repeatedly stated that no spacecraft had been detected near the comet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</span></span></span>
 
 Against that background, the telescope-shop visit represented an unusually direct encounter between the belief and observable reality.
 
@@ -301,11 +301,11 @@ Against that background, the telescope-shop visit represented an unusually direc
 
 The most striking feature of the episode is that the apparent failure of observation did not produce a corresponding [collapse]({{ 'collapse/' | relative_url }}) in conviction.
 
-Accounts of the incident describe the telescope not revealing the expected spacecraft. Some reports state that the group complained that the instrument was not showing the UFO they expected to see. Rather than abandoning the belief, the absence of evidence was absorbed into the existing framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spokesman.com/stories/1997/apr/01/cult-returned-telescope-that-didnt-show-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokesman.com">[The Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokesman.com</span><span class="citation-popover-title">cult returned telescope that didnt show ufo</span><span class="citation-popover-snippet">The Spokesman-ReviewCult Returned Telescope That Didn&#x27;t Show Ufo1 Apr 1997 — Heaven&#x27;s Gate cultists bought a $3,600 computerized telescop...</span></span></span>
+Accounts of the incident describe the telescope not revealing the expected spacecraft. Some reports state that the group complained that the instrument was not showing the UFO they expected to see. Rather than abandoning the belief, the absence of evidence was absorbed into the existing framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spokesman.com/stories/1997/apr/01/cult-returned-telescope-that-didnt-show-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokesman.com">[The Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokesman.com</span><span class="citation-popover-title">cult returned telescope that didnt show ufo</span><span class="citation-popover-snippet">The Spokesman-ReviewCult Returned Telescope That Didn&#x27;t Show Ufo1 Apr 1997 — Heaven&#x27;s Gate cultists bought a $3,600 computerized telescop...</span></span></span>
 
-This reaction fits a pattern long studied by researchers of prophetic and millennial movements. When a prediction encounters contradictory evidence, believers do not necessarily reject the prediction. Instead, they may reinterpret the evidence, question the testing method, or redefine the claim itself. A later discussion of the Heaven’s Gate case summarised the logic succinctly: when the spacecraft was not visible through the telescope, some believers concluded that the problem lay with the telescope rather than with the belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecorrespondent.com/617/why-we-dont-always-act-in-line-with-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecorrespondent.com">[thecorrespondent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecorrespondent.com</span><span class="citation-popover-snippet">Open source on thecorrespondent.com.</span><span class="citation-popover-meta">Published: July 29, 2020</span></span></span>
+This reaction fits a pattern long studied by researchers of prophetic and millennial movements. When a prediction encounters contradictory evidence, believers do not necessarily reject the prediction. Instead, they may reinterpret the evidence, question the testing method, or redefine the claim itself. A later discussion of the Heaven’s Gate case summarised the logic succinctly: when the spacecraft was not visible through the telescope, some believers concluded that the problem lay with the telescope rather than with the belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecorrespondent.com/617/why-we-dont-always-act-in-line-with-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecorrespondent.com">[thecorrespondent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecorrespondent.com</span><span class="citation-popover-snippet">Open source on thecorrespondent.com.</span><span class="citation-popover-meta">Published: July 29, 2020</span></span></span>
 
-In the Heaven’s Gate case, there was an additional factor. The group's own teachings increasingly framed Hale-Bopp as a sign or marker of a transition to a higher level of existence. Once the comet's symbolic meaning became central, the physical existence of a visible spacecraft became less important. The belief no longer depended entirely on an object that could be confirmed or disproved through observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">They chose to leave their physical bodies behind to find redemption</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Heaven&#x27;s Gate cult believed that a flying sauce...</span></span></span>
+In the Heaven’s Gate case, there was an additional factor. The group's own teachings increasingly framed Hale-Bopp as a sign or marker of a transition to a higher level of existence. Once the comet's symbolic meaning became central, the physical existence of a visible spacecraft became less important. The belief no longer depended entirely on an object that could be confirmed or disproved through observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">They chose to leave their physical bodies behind to find redemption</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Heaven&#x27;s Gate cult believed that a flying sauce...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-2-dark.svg" | relative_url }}" alt="Telescope Test illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,9 +313,9 @@ In the Heaven’s Gate case, there was an additional factor. The group's own tea
 
 At first glance, the telescope episode seems like a straightforward falsification attempt. If a spacecraft was present, observers should see it. If they did not, the claim should fail.
 
-The difficulty is that the belief was no longer operating solely as an astronomical hypothesis. By the time of the telescope purchase, Heaven’s Gate had integrated the Hale-Bopp story into a much larger religious narrative concerning salvation, departure from Earth, and ascent to what members called the “Level Above Human”. Within that framework, contradictory observations could be treated as secondary details rather than decisive evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">They chose to leave their physical bodies behind to find redemption</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Heaven&#x27;s Gate cult believed that a flying sauce...</span></span></span>
+The difficulty is that the belief was no longer operating solely as an astronomical hypothesis. By the time of the telescope purchase, Heaven’s Gate had integrated the Hale-Bopp story into a much larger religious narrative concerning salvation, departure from Earth, and ascent to what members called the “Level Above Human”. Within that framework, contradictory observations could be treated as secondary details rather than decisive evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">They chose to leave their physical bodies behind to find redemption</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Heaven&#x27;s Gate cult believed that a flying sauce...</span></span></span>
 
-This helps explain why astronomy and belief were talking past one another. Astronomers were asking a factual question: is there a spacecraft near the comet? Their answer was no. Believers were increasingly focused on a different question: does Hale-Bopp signal an imminent transition to a higher existence? Once those questions diverged, evidence relevant to one question had less impact on the other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</span></span></span>
+This helps explain why astronomy and belief were talking past one another. Astronomers were asking a factual question: is there a spacecraft near the comet? Their answer was no. Believers were increasingly focused on a different question: does Hale-Bopp signal an imminent transition to a higher existence? Once those questions diverged, evidence relevant to one question had less impact on the other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dRSf1EWWNg0" title="Heaven&#x27;s Gate: The Cult That Believed a UFO Would Take Them | Crimes Of..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dRSf1EWWNg0" target="_blank" rel="noopener noreferrer">Heaven&#x27;s Gate: The Cult That Believed a UFO Would Take Them | Crimes Of...</a></p><p class="youtube-embed-meta">Channel: Crime House</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dRSf1EWWNg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dRSf1EWWNg0">Open on YouTube</a></p></div></div></div>
@@ -327,204 +327,204 @@ This helps explain why astronomy and belief were talking past one another. Astro
 
 The telescope-shop incident stands out because it captures a moment when a UFO claim encountered a simple observational check and survived anyway.
 
-Many failed UFO predictions collapse because the predicted event never occurs. In this case, the situation was more complex. A prediction associated with a visible spacecraft met contrary observations, yet the larger belief system remained intact. The episode therefore illustrates a particular risk in UFO-related prophecy: a claim can become insulated from testing if believers reinterpret its purpose whenever evidence fails to support it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
+Many failed UFO predictions collapse because the predicted event never occurs. In this case, the situation was more complex. A prediction associated with a visible spacecraft met contrary observations, yet the larger belief system remained intact. The episode therefore illustrates a particular risk in UFO-related prophecy: a claim can become insulated from testing if believers reinterpret its purpose whenever evidence fails to support it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
 
-The incident also demonstrates the difference between a scientific claim and a closed explanatory system. Scientific claims remain vulnerable to disproof because observations can force revision. Closed systems often contain mechanisms that explain away contradictory observations. The telescope revealed no spacecraft, but for committed believers the absence itself could be reinterpreted rather than accepted as a reason to abandon the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecorrespondent.com/617/why-we-dont-always-act-in-line-with-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecorrespondent.com">[thecorrespondent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecorrespondent.com</span><span class="citation-popover-snippet">Open source on thecorrespondent.com.</span><span class="citation-popover-meta">Published: July 29, 2020</span></span></span>
+The incident also demonstrates the difference between a scientific claim and a closed explanatory system. Scientific claims remain vulnerable to disproof because observations can force revision. Closed systems often contain mechanisms that explain away contradictory observations. The telescope revealed no spacecraft, but for committed believers the absence itself could be reinterpreted rather than accepted as a reason to abandon the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thecorrespondent.com/617/why-we-dont-always-act-in-line-with-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecorrespondent.com">[thecorrespondent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecorrespondent.com</span><span class="citation-popover-snippet">Open source on thecorrespondent.com.</span><span class="citation-popover-meta">Published: July 29, 2020</span></span></span>
 
-As a result, the telescope-shop visit has become one of the most instructive episodes in the Hale-Bopp story. It was a rare moment when a belief met a direct observational test. The fact that the test failed to change minds reveals more about the durability of the belief than about the telescope, the comet, or the rumoured spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker+2The Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
+As a result, the telescope-shop visit has become one of the most instructive episodes in the Hale-Bopp story. It was a rare moment when a belief met a direct observational test. The fact that the test failed to change minds reveals more about the durability of the belief than about the telescope, the comet, or the rumoured spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker+2The Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Wrong Stuff</span><span class="citation-popover-snippet">The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</span><span class="citation-popover-meta">Published: April 7, 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-3-dark.svg" | relative_url }}" alt="Telescope Test illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_telescope_shop_check_8334b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Search That Found No Spacecraft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Search That Found No Spacecraft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains why disconfirmed predictions often fail to change committed beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains why disconfirmed predictions often fail to change committed beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses extraordinary claims, observation, evidence, and why people accept unsupported beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses extraordinary claims, observation, evidence, and why people accept unsupported beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores how people form and defend beliefs even when evidence is weak or contradictory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people form and defend beliefs even when evidence is weak or contradictory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places the Heaven&#x27;s Gate spacecraft claim within the wider history of UFO beliefs and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places the Heaven&#x27;s Gate spacecraft claim within the wider history of UFO beliefs and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News"><img src="{{ '/assets/images/marketplace-covers/5a5a38a0ca6a3e0a1ed8.jpg' | relative_url }}" alt="Listing image for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News"><img src="{{ '/assets/images/marketplace-covers/5a5a38a0ca6a3e0a1ed8.jpg' | relative_url }}" alt="Listing image for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047"><img src="{{ '/assets/images/marketplace-covers/677660f3a16a491b2990.jpg' | relative_url }}" alt="Listing image for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047"><img src="{{ '/assets/images/marketplace-covers/677660f3a16a491b2990.jpg' | relative_url }}" alt="Listing image for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97"><img src="{{ '/assets/images/marketplace-covers/c1fff52cf88ccad024e2.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97"><img src="{{ '/assets/images/marketplace-covers/c1fff52cf88ccad024e2.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus"><img src="{{ '/assets/images/marketplace-covers/169c37771b64fdcdb6b1.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus"><img src="{{ '/assets/images/marketplace-covers/169c37771b64fdcdb6b1.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="telescope-test-the-search-that-found-no-spacecraft-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ As a result, the telescope-shop visit has become one of the most instructive epi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ As a result, the telescope-shop visit has become one of the most instructive epi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ As a result, the telescope-shop visit has become one of the most instructive epi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ As a result, the telescope-shop visit has become one of the most instructive epi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ As a result, the telescope-shop visit has become one of the most instructive epi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,104 +730,104 @@ As a result, the telescope-shop visit has become one of the most instructive epi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spokesman.com  
    Title: cult returned telescope that didnt show ufo  
-   Link: <a href="https://www.spokesman.com/stories/1997/apr/01/cult-returned-telescope-that-didnt-show-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/1997/apr/01/cult-returned-telescope-that-didnt-show-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Spokesman-ReviewCult Returned Telescope That Didn&#x27;t Show Ufo1 Apr 1997 — Heaven&#x27;s Gate cultists bought a $3,600 computerized telescop...</p></details>
+   Link:<a href="https://www.spokesman.com/stories/1997/apr/01/cult-returned-telescope-that-didnt-show-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/1997/apr/01/cult-returned-telescope-that-didnt-show-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Spokesman-ReviewCult Returned Telescope That Didn&#x27;t Show Ufo1 Apr 1997 — Heaven&#x27;s Gate cultists bought a $3,600 computerized telescop...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eso.org  
    Title: hb ufo tholen  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 1997 — The only person who ever said there was a spacecraft following Hale-Bopp was Courtney Brown. Coast to Coast originates from...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 1997 — The only person who ever said there was a spacecraft following Hale-Bopp was Courtney Brown. Coast to Coast originates from...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thecorrespondent.com  
-   Link: <a href="https://thecorrespondent.com/617/why-we-dont-always-act-in-line-with-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://thecorrespondent.com/617/why-we-dont-always-act-in-line-with-what-we-know</a>  
+   Link:<a href="https://thecorrespondent.com/617/why-we-dont-always-act-in-line-with-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://thecorrespondent.com/617/why-we-dont-always-act-in-line-with-what-we-know</a>  
    Published: July 29, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academic.oup.com  
    Title: They chose to leave their physical bodies behind to find redemption  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Heaven&#x27;s Gate cult believed that a flying sauce...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Heaven&#x27;s Gate cult believed that a flying sauce...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: heavens gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorker.com  
    Title: The New Yorker The Wrong Stuff  
-   Link: <a href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Wrong StuffApril 7, 1997 — Apr 7, 1997 — A telescope returned, a comet watched, and a cult&#x27;s suicide become a parable o...</p></details>
    Published: April 7, 1997  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pages.jh.edu  
-   Link: <a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkins Gazette: April 7, 1997The people, members of a group called Heaven&#x27;s Gate, apparently believed that Hale-Bopp marked the arrival...</p></details>
+   Link:<a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkins Gazette: April 7, 1997The people, members of a group called Heaven&#x27;s Gate, apparently believed that Hale-Bopp marked the arrival...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: astropix.com  
-   Link: <a href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/html/comet_images/comet_hale-bopp.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comet Hale-BoppA photo of Comet Hale-Bopp led them to believe that the Earth was about to be recycled and that the only way to survive wa...</p></details>
+   Link:<a href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/html/comet_images/comet_hale-bopp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comet Hale-BoppA photo of Comet Hale-Bopp led them to believe that the Earth was about to be recycled and that the only way to survive wa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellWhitley claimed his sources verified the Hale Bopp ufo existed before Art discovered it was a...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellWhitley claimed his sources verified the Hale Bopp ufo existed before Art discovered it was a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANOMALY. The story of a photo from space that…In less than 24 hours, the comet photo is debunked. The cult was Heaven&#x27;s Gate. The com...</p></details>
+   Link:<a href="https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANOMALY. The story of a photo from space that…In less than 24 hours, the comet photo is debunked. The cult was Heaven&#x27;s Gate. The com...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/7rg47l/til_that_when_thomas_bopp_discovered_the_comet/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/7rg47l/til_that_when_thomas_bopp_discovered_the_comet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that when Thomas Bopp discovered the comet through...TIL Alan Hale and Thomas Bopp both independently discovered their namesake come...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/7rg47l/til_that_when_thomas_bopp_discovered_the_comet/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/7rg47l/til_that_when_thomas_bopp_discovered_the_comet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL that when Thomas Bopp discovered the comet through...TIL Alan Hale and Thomas Bopp both independently discovered their namesake come...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: epicmagazine.com  
-   Link: <a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s an important message, one that begins in space. That&#x27;s where he came from...Read more...</p></details>
+   Link:<a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s an important message, one that begins in space. That&#x27;s where he came from...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)Just before the mass suicide, the group&#x27;s website was updated with the message: &quot;Hale–Bopp brings closu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)Just before the mass suicide, the group&#x27;s website was updated with the message: &quot;Hale–Bopp brings closu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dbye messages for a video titled &quot;Students Final Exit Statements.&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dbye messages for a video titled &quot;Students Final Exit Statements.&quot;...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kuow.org  
    Title: Our beliefs can cage us  
-   Link: <a href="https://www.kuow.org/stories/our-beliefs-can-cage-us-they-can-also-set-us-free" target="_blank" rel="noopener noreferrer nofollow">https://www.kuow.org/stories/our-beliefs-can-cage-us-they-can-also-set-us-free</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But they can also set us free14 Feb 2018 — Members of a cult called Heaven&#x27;s Gate had committed America&#x27;s largest mass suicide, believing...</p></details>
+   Link:<a href="https://www.kuow.org/stories/our-beliefs-can-cage-us-they-can-also-set-us-free" target="_blank" rel="noopener noreferrer nofollow">https://www.kuow.org/stories/our-beliefs-can-cage-us-they-can-also-set-us-free</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But they can also set us free14 Feb 2018 — Members of a cult called Heaven&#x27;s Gate had committed America&#x27;s largest mass suicide, believing...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lowell.edu  
-   Link: <a href="https://lowell.edu/this-week-in-astronomy-history-march-22-28/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/this-week-in-astronomy-history-march-22-28/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Week in Astronomy History | March 22-28Comet Halle-Bopp, one of the brightest comets ever recorded, and made its closest approach to...</p></details>
+   Link:<a href="https://lowell.edu/this-week-in-astronomy-history-march-22-28/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/this-week-in-astronomy-history-march-22-28/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Week in Astronomy History | March 22-28Comet Halle-Bopp, one of the brightest comets ever recorded, and made its closest approach to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: comet halebopp over the wtc in new york city  
-   Link: <a href="https://www.reddit.com/r/space/comments/7wudp6/comet_halebopp_over_the_wtc_in_new_york_city/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/7wudp6/comet_halebopp_over_the_wtc_in_new_york_city/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate thought there was a UFO trailing Hale Bopp and they wanted to...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/7wudp6/comet_halebopp_over_the_wtc_in_new_york_city/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/7wudp6/comet_halebopp_over_the_wtc_in_new_york_city/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate thought there was a UFO trailing Hale Bopp and they wanted to...Read more...</p></details>

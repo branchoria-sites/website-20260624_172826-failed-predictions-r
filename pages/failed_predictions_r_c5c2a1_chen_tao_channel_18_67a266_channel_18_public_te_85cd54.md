@@ -274,15 +274,15 @@ image: /assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_cha
 
 ## Introduction
 
-The Channel 18 prediction is one of the clearest examples of a UFO-related prophecy becoming publicly testable. Rather than forecasting a distant catastrophe or a symbolic spiritual event, Chen Tao leader Hon-Ming Chen claimed that God would appear on television on Channel 18 at 12:01 a.m. on 25 March 1998, several days before a promised divine arrival in [Garland]({{ 'garland/' | relative_url }}), Texas. Because the prediction specified a channel, a time, and a visible public sign, journalists, [neighbours]({{ 'neighbours/' | relative_url }}), sceptics, and followers could all watch the same event unfold—or fail to unfold. When nothing appeared, the prophecy did not merely lose credibility among outsiders; it failed in a way that was immediately observable by anyone with access to a television. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2cesnur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
+The Channel 18 prediction is one of the clearest examples of a UFO-related prophecy becoming publicly testable. Rather than forecasting a distant catastrophe or a symbolic spiritual event, Chen Tao leader Hon-Ming Chen claimed that God would appear on television on Channel 18 at 12:01 a.m. on 25 March 1998, several days before a promised divine arrival in [Garland]({{ 'garland/' | relative_url }}), Texas. Because the prediction specified a channel, a time, and a visible public sign, journalists, [neighbours]({{ 'neighbours/' | relative_url }}), sceptics, and followers could all watch the same event unfold—or fail to unfold. When nothing appeared, the prophecy did not merely lose credibility among outsiders; it failed in a way that was immediately observable by anyone with access to a television.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2cesnur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_channel_18_public_te_85cd54-Illustration-1-dark.svg" | relative_url }}" alt="Channel 18 illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_channel_18_public_te_85cd54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_channel_18_public_te_85cd54-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Chen Tao Said Would Appear on Television
 
-Chen’s prophecy was unusually concrete. He taught that God would manifest on Channel 18 across North America shortly after midnight on 25 March 1998. Accounts from scholars, journalists, and contemporary observers agree that this televised appearance was intended as a public announcement preceding God's physical manifestation several days later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
+Chen’s prophecy was unusually concrete. He taught that God would manifest on Channel 18 across North America shortly after midnight on 25 March 1998. Accounts from scholars, journalists, and contemporary observers agree that this televised appearance was intended as a public announcement preceding God's physical manifestation several days later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
 
-The expected broadcast was not described as a vague sign or mystical vision. Chen reportedly stated that God would appear in a form identical to himself, visible on television screens nationwide. The prediction therefore created a direct and measurable claim: viewers would either see the promised figure on the specified channel or they would not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">October 23, 2025 — Chen Tao also known as the God&#x27;s Salvation Church, was a UFO religion that originated in Taiwan in 1996. It was founde...</span><span class="citation-popover-meta">Published: October 23, 2025</span></span></span>
+The expected broadcast was not described as a vague sign or mystical vision. Chen reportedly stated that God would appear in a form identical to himself, visible on television screens nationwide. The prediction therefore created a direct and measurable claim: viewers would either see the promised figure on the specified channel or they would not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">October 23, 2025 — Chen Tao also known as the God&#x27;s Salvation Church, was a UFO religion that originated in Taiwan in 1996. It was founde...</span><span class="citation-popover-meta">Published: October 23, 2025</span></span></span>
 
 This specificity distinguished the prophecy from many UFO-related predictions. Followers did not need specialised knowledge, secret teachings, or personal revelations to verify it. The test was built into ordinary [media]({{ 'media/' | relative_url }}) technology.
 
@@ -291,9 +291,9 @@ This specificity distinguished the prophecy from many UFO-related predictions. F
 
 ## Why the Channel Number and Time Mattered
 
-The power of the prediction lay in its precision. Chen attached the prophecy to a particular channel number and a precise minute. Such details removed much of the ambiguity that often allows failed prophecies to be reinterpreted later. If God was expected at 12:01 a.m. on Channel 18, there was little room to argue that the event had occurred invisibly or at some undefined point in the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOor_A4l3W0HnGH_04thygiMDDQt_9inkqMTJ6Y2-SdfsJj55uPEX" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Master Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel...</span></span></span>
+The power of the prediction lay in its precision. Chen attached the prophecy to a particular channel number and a precise minute. Such details removed much of the ambiguity that often allows failed prophecies to be reinterpreted later. If God was expected at 12:01 a.m. on Channel 18, there was little room to argue that the event had occurred invisibly or at some undefined point in the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOor_A4l3W0HnGH_04thygiMDDQt_9inkqMTJ6Y2-SdfsJj55uPEX" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Master Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel...</span></span></span>
 
-The timing also created anticipation. Reporters gathered in Garland before midnight, television crews prepared for the event, and local authorities monitored the situation because of concerns that a failed prediction might provoke an extreme reaction from followers. The prophecy effectively scheduled its own public evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">God a no show for Taiwanese sect in Texas 3098800</span><span class="citation-popover-snippet">God a no-show for Taiwanese sect in TexasMar 25, 1998 — But there was no sign of the heavenly broadcast that the sect&#x27;s leader, Che...</span></span></span>
+The timing also created anticipation. Reporters gathered in Garland before midnight, television crews prepared for the event, and local authorities monitored the situation because of concerns that a failed prediction might provoke an extreme reaction from followers. The prophecy effectively scheduled its own public evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">God a no show for Taiwanese sect in Texas 3098800</span><span class="citation-popover-snippet">God a no-show for Taiwanese sect in TexasMar 25, 1998 — But there was no sign of the heavenly broadcast that the sect&#x27;s leader, Che...</span></span></span>
 
 In this sense, Channel 18 functioned as more than a broadcasting frequency. It became a countdown mechanism. Once the appointed minute arrived, the prophecy entered a binary state: fulfilled or failed.
 
@@ -301,9 +301,9 @@ In this sense, Channel 18 functioned as more than a broadcasting frequency. It b
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_channel_18_public_te_85cd54-Illustration-2-dark.svg" | relative_url }}" alt="Channel 18 illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_channel_18_public_te_85cd54-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_channel_18_public_te_85cd54-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Public Access Changed the Failure
 
-Many failed UFO or apocalyptic predictions are witnessed mainly by believers. The Channel 18 prophecy was different because outsiders could observe the result in real time. Scholars studying the movement later noted that Chen Tao's prophecies were unusually media-friendly and became intertwined with news coverage. The movement distributed its ideas openly, held press events, and attracted substantial national and international attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[cesnur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, and in...</span></span></span>
+Many failed UFO or apocalyptic predictions are witnessed mainly by believers. The Channel 18 prophecy was different because outsiders could observe the result in real time. Scholars studying the movement later noted that Chen Tao's prophecies were unusually media-friendly and became intertwined with news coverage. The movement distributed its ideas openly, held press events, and attracted substantial national and international attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[cesnur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, and in...</span></span></span>
 
-When midnight arrived, television stations simply continued normal programming. Contemporary news reports noted that viewers saw no divine broadcast. In Garland, one Channel 18 station even offered prayers for the group while continuing its scheduled content, while another Channel 18 outlet maintained ordinary programming. The anticipated supernatural interruption never occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">God a no show for Taiwanese sect in Texas 3098800</span><span class="citation-popover-snippet">God a no-show for Taiwanese sect in TexasMar 25, 1998 — But there was no sign of the heavenly broadcast that the sect&#x27;s leader, Che...</span></span></span>
+When midnight arrived, television stations simply continued normal programming. Contemporary news reports noted that viewers saw no divine broadcast. In Garland, one Channel 18 station even offered prayers for the group while continuing its scheduled content, while another Channel 18 outlet maintained ordinary programming. The anticipated supernatural interruption never occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">God a no show for Taiwanese sect in Texas 3098800</span><span class="citation-popover-snippet">God a no-show for Taiwanese sect in TexasMar 25, 1998 — But there was no sign of the heavenly broadcast that the sect&#x27;s leader, Che...</span></span></span>
 
 Because the prediction was so public, the failure was equally public. There was no need for investigators to reconstruct events afterwards. Reporters and followers were present at the moment the prophecy was tested.
 
@@ -312,9 +312,9 @@ Because the prediction was so public, the failure was equally public. There was 
 
 ## The Immediate Consequence of the Failed Broadcast
 
-The failed television appearance had significance beyond a single missed prediction. It was intended to serve as evidence that the later Garland event would occur. Once the Channel 18 prophecy collapsed, confidence in the second stage of the timetable was severely weakened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
+The failed television appearance had significance beyond a single missed prediction. It was intended to serve as evidence that the later Garland event would occur. Once the Channel 18 prophecy collapsed, confidence in the second stage of the timetable was severely weakened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
 
-News reports from the night of the failure recorded Chen acknowledging that the prediction had not come true. He told reporters that because the television appearance had not occurred, people could regard his teachings on the matter as nonsense. This reaction is notable because it amounted to a public admission immediately following the failed test rather than a claim that outsiders had simply misunderstood the prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">God a no show for Taiwanese sect in Texas 3098800</span><span class="citation-popover-snippet">God a no-show for Taiwanese sect in TexasMar 25, 1998 — But there was no sign of the heavenly broadcast that the sect&#x27;s leader, Che...</span></span></span>
+News reports from the night of the failure recorded Chen acknowledging that the prediction had not come true. He told reporters that because the television appearance had not occurred, people could regard his teachings on the matter as nonsense. This reaction is notable because it amounted to a public admission immediately following the failed test rather than a claim that outsiders had simply misunderstood the prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfgate.com">[SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfgate.com</span><span class="citation-popover-title">God a no show for Taiwanese sect in Texas 3098800</span><span class="citation-popover-snippet">God a no-show for Taiwanese sect in TexasMar 25, 1998 — But there was no sign of the heavenly broadcast that the sect&#x27;s leader, Che...</span></span></span>
 
 The episode therefore stands as a rare example in UFO-prophecy history where a leader attached extraordinary claims to a straightforward public demonstration and then faced an equally straightforward failure.
 
@@ -324,201 +324,201 @@ The episode therefore stands as a rare example in UFO-prophecy history where a l
 
 The Channel 18 episode is often remembered not because it involved the most elaborate prophecy, but because it created a clear evidential standard. The claim generated a simple question: did a divine figure appear on television at the specified time?
 
-The answer was publicly observable. Viewers watched, journalists documented the outcome, and the expected broadcast never appeared. As a result, the case occupies a distinctive place among failed UFO-related predictions. It transformed a private religious expectation into a real-world test that ordinary people could independently verify, making the failure unusually transparent and difficult to reinterpret. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">October 23, 2025 — Chen Tao also known as the God&#x27;s Salvation Church, was a UFO religion that originated in Taiwan in 1996. It was founde...</span><span class="citation-popover-meta">Published: October 23, 2025</span></span></span>
+The answer was publicly observable. Viewers watched, journalists documented the outcome, and the expected broadcast never appeared. As a result, the case occupies a distinctive place among failed UFO-related predictions. It transformed a private religious expectation into a real-world test that ordinary people could independently verify, making the failure unusually transparent and difficult to reinterpret.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">October 23, 2025 — Chen Tao also known as the God&#x27;s Salvation Church, was a UFO religion that originated in Taiwan in 1996. It was founde...</span><span class="citation-popover-meta">Published: October 23, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yp_5pDOa-o0" title="Heaven’s Gate: The Cult of Cults | Official Trailer | Max" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yp_5pDOa-o0" target="_blank" rel="noopener noreferrer">Heaven’s Gate: The Cult of Cults | Official Trailer | Max</a></p><p class="youtube-embed-meta">Channel: HBO Max</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yp_5pDOa-o0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yp_5pDOa-o0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Channel 18 Made the Prophecy Testable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Channel 18 Made the Prophecy Testable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly addresses what happens when publicly testable prophetic predictions fail, mirroring the Channel 18 case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what happens when publicly testable prophetic predictions fail, mirroring the Channel 18 case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Places Chen Tao&#x27;s UFO-related teachings within the wider phenomenon of UFO religions and prophetic claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Chen Tao&#x27;s UFO-related teachings within the wider phenomenon of UFO religions and prophetic claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of Millennialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7241983-M.jpg" alt="Cover for The Oxford Handbook of Millennialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Millennialism">The Oxford Handbook of Millennialism</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Wessinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of Millennialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7241983-M.jpg" alt="Cover for The Oxford Handbook of Millennialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Millennialism">The Oxford Handbook of Millennialism</a>
+</h4>
+<p class="fr-book-author">By Catherine Wessinger</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Millennialism, Millennaristiska rörelser, Religionsersatz, Religionsphänomenologie, Chiliasmus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Millennialism, Millennaristiska rörelser, Religionsersatz, Religionsphänomenologie, Chiliasmus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Millennialism, persecution, and violence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4712338-M.jpg" alt="Cover for Millennialism, persecution, and violence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Millennialism, persecution, and violence">Millennialism, persecution, and violence</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Lowman Wessinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Millennialism, persecution, and violence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4712338-M.jpg" alt="Cover for Millennialism, persecution, and violence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Millennialism, persecution, and violence">Millennialism, persecution, and violence</a>
+</h4>
+<p class="fr-book-author">By Catherine Lowman Wessinger</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Millennialism, History of doctrines, Millénarisme, Histoire des doctrines, RELIGION.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Millennialism, History of doctrines, Millénarisme, Histoire des doctrines, RELIGION.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+Millennialism+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of Millennialism books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+Millennialism+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of Millennialism books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="channel-18-why-channel-18-made-the-prophecy-testable-failed-predictions-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ The answer was publicly observable. Viewers watched, journalists documented the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ The answer was publicly observable. Viewers watched, journalists documented the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ The answer was publicly observable. Viewers watched, journalists documented the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ The answer was publicly observable. Viewers watched, journalists documented the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ The answer was publicly observable. Viewers watched, journalists documented the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,106 +724,106 @@ The answer was publicly observable. Viewers watched, journalists documented the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, and in...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, and in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sfgate.com  
    Title: God a no show for Taiwanese sect in Texas 3098800  
-   Link: <a href="https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>God a no-show for Taiwanese sect in TexasMar 25, 1998 — But there was no sign of the heavenly broadcast that the sect&#x27;s leader, Che...</p></details>
+   Link:<a href="https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/God-a-no-show-for-Taiwanese-sect-in-Texas-3098800.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God a no-show for Taiwanese sect in TexasMar 25, 1998 — But there was no sign of the heavenly broadcast that the sect&#x27;s leader, Che...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOor_A4l3W0HnGH_04thygiMDDQt_9inkqMTJ6Y2-SdfsJj55uPEX" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOor_A4l3W0HnGH_04thygiMDDQt_9inkqMTJ6Y2-SdfsJj55uPEX</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Master Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOor_A4l3W0HnGH_04thygiMDDQt_9inkqMTJ6Y2-SdfsJj55uPEX" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOor_A4l3W0HnGH_04thygiMDDQt_9inkqMTJ6Y2-SdfsJj55uPEX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Master Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; FactsChen developed his cult, published texts and works on his doctrine, and... ch...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; FactsChen developed his cult, published texts and works on his doctrine, and... ch...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 23, 2025 — Chen Tao also known as the God&#x27;s Salvation Church, was a UFO religion that originated in Taiwan in 1996. It was founde...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 23, 2025 — Chen Tao also known as the God&#x27;s Salvation Church, was a UFO religion that originated in Taiwan in 1996. It was founde...</p></details>
    Published: October 23, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cesnur.org  
    Title: CESNU R's Watch Page of Chen Tao  
-   Link: <a href="https://www.cesnur.org/testi/Chen.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/Chen.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CESNUR&#x27;s Watch Page of Chen Tao - God&#x27;s Salvation...Mar 25, 1998 — On March 25, 1998, Hon-Ming Chen, leader of Chen Tao / God&#x27;s Salvati...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/Chen.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/Chen.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CESNUR&#x27;s Watch Page of Chen Tao - God&#x27;s Salvation...Mar 25, 1998 — On March 25, 1998, Hon-Ming Chen, leader of Chen Tao / God&#x27;s Salvati...</p></details>
    Published: March 25, 1998  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S...(25 Mar 1998) Mandarin/Eng/Nat A Taiwanese religious group in Texas was left disappointed on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S...(25 Mar 1998) Mandarin/Eng/Nat A Taiwanese religious group in Texas was left disappointed on...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOooAwxQ9AVgTyh0KUTlE7bpU2xCT8IT03qwclxNNAmFQZbs7_akc" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOooAwxQ9AVgTyh0KUTlE7bpU2xCT8IT03qwclxNNAmFQZbs7_akc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter sevenMaster Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 across the natio...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOooAwxQ9AVgTyh0KUTlE7bpU2xCT8IT03qwclxNNAmFQZbs7_akc" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOooAwxQ9AVgTyh0KUTlE7bpU2xCT8IT03qwclxNNAmFQZbs7_akc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter sevenMaster Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 across the natio...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: You Tube Share your videos with friends, family, and the world  
-   Link: <a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
+   Link:<a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sfgate.com  
    Title: PAGE ONE [Apocalypse](&#123;&#123; 'apocalypse/' | relative_url &#125;&#125;) Meets Millennium in Texas 3012531  
-   Link: <a href="https://www.sfgate.com/news/article/PAGE-ONE-Apocalypse-Meets-Millennium-in-Texas-3012531.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/PAGE-ONE-Apocalypse-Meets-Millennium-in-Texas-3012531.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, God will appear on Channel 18 of every television set in the world. Six days later, on March 31, he is scheduled to show up at...</p></details>
+   Link:<a href="https://www.sfgate.com/news/article/PAGE-ONE-Apocalypse-Meets-Millennium-in-Texas-3012531.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/PAGE-ONE-Apocalypse-Meets-Millennium-in-Texas-3012531.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, God will appear on Channel 18 of every television set in the world. Six days later, on March 31, he is scheduled to show up at...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE  
-   Link: <a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Doomsday Prophecies That Failed So Hard They Became Comedy  
-   Link: <a href="https://www.youtube.com/watch?v=G3jh8_IgsNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G3jh8_IgsNc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: The Cult of Cults | Official Trailer | Max...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G3jh8_IgsNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G3jh8_IgsNc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: The Cult of Cults | Official Trailer | Max...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Heaven's Gate: The Cult of Cults | Official Trailer | Max  
-   Link: <a href="https://www.youtube.com/watch?v=Yp_5pDOa-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yp_5pDOa-o0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This archival news footage shows the immediate [aftermath](&amp;#123;&amp;#123; &#x27;aftermath/&#x27; | relative_url &amp;#125;&amp;#125;) of the Channel 18 deadline passing, capturing the media and public scrutiny that...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yp_5pDOa-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yp_5pDOa-o0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This archival news footage shows the immediate [aftermath](&amp;#123;&amp;#123; &#x27;aftermath/&#x27; | relative_url &amp;#125;&amp;#125;) of the Channel 18 deadline passing, capturing the media and public scrutiny that...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>appear visibly in Garland, first on Channel 18 at midnight of 25 March, then at 3513 [Ridgedale](&amp;#123;&amp;#123; &#x27;ridgedale/&#x27; | relative_url &amp;#125;&amp;#125;)... Chen group. 3 Hon-ming...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>appear visibly in Garland, first on Channel 18 at midnight of 25 March, then at 3513 [Ridgedale](&amp;#123;&amp;#123; &#x27;ridgedale/&#x27; | relative_url &amp;#125;&amp;#125;)... Chen group. 3 Hon-ming...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tcsidewalks.blogspot.com  
-   Link: <a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texan Cult of the Week: God&#x27;s Salvation ChurchMar 3, 2009 — An expatriate Taiwanese cult named God&#x27;s Salvation Church (GSC), knew he had...</p></details>
+   Link:<a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texan Cult of the Week: God&#x27;s Salvation ChurchMar 3, 2009 — An expatriate Taiwanese cult named God&#x27;s Salvation Church (GSC), knew he had...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cultencyclopedia.com  
    Title: chen tao 1993  
-   Link: <a href="https://cultencyclopedia.com/2025/09/08/chen-tao-1993/" target="_blank" rel="noopener noreferrer nofollow">https://cultencyclopedia.com/2025/09/08/chen-tao-1993/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (1993)Sep 8, 2025 — Failed Prophecy and Group Demise: The Case of Chen Tao. Zewe, C. (1998, March 19). Cult claims God will appe...</p></details>
+   Link:<a href="https://cultencyclopedia.com/2025/09/08/chen-tao-1993/" target="_blank" rel="noopener noreferrer nofollow">https://cultencyclopedia.com/2025/09/08/chen-tao-1993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (1993)Sep 8, 2025 — Failed Prophecy and Group Demise: The Case of Chen Tao. Zewe, C. (1998, March 19). Cult claims God will appe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America at midnight on March 22... “Cult Leader Saying He Is Wrong in Predicting God Would. Appear on Television”...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America at midnight on March 22... “Cult Leader Saying He Is Wrong in Predicting God Would. Appear on Television”...</p></details>

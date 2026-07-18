@@ -292,7 +292,7 @@ A publicly testable UFO prediction contains observable criteria. Examples includ
 
 Private-contact claims work differently. The source is often presented as an extraterrestrial intelligence, ascended being, telepathic communicator, or spiritual guide whose messages are available only through a particular individual. The predicted outcome may involve personal enlightenment, invisible intervention, energetic change, or secret contact that outsiders cannot verify.
 
-Researchers of UFO-related religious and spiritual movements have long noted that many groups combine expectations of extraterrestrial involvement with personal revelation and spiritual transformation rather than publicly observable events. In such systems, fulfilment may be defined internally by belief, experience, or interpretation rather than by an external occurrence visible to the general public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Individual Suicide and the End of the World: Destruction...15 Feb 2017 — PDF &#124; UFO and alien-based religions emerged in the...</span></span></span>
+Researchers of UFO-related religious and spiritual movements have long noted that many groups combine expectations of extraterrestrial involvement with personal revelation and spiritual transformation rather than publicly observable events. In such systems, fulfilment may be defined internally by belief, experience, or interpretation rather than by an external occurrence visible to the general public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Individual Suicide and the End of the World: Destruction...15 Feb 2017 — PDF &#124; UFO and alien-based religions emerged in the...</span></span></span>
 
 This distinction matters because a claim cannot be treated as a failed public prediction if it never supplied public success criteria in the first place.
 
@@ -331,7 +331,7 @@ These features do not prove a claim false. They indicate that the claim belongs 
 
 A prediction normally fails when a promised event does not occur by the stated deadline. Untestable claims often avoid this outcome because the terms of success can change after the fact.
 
-Scholars studying UFO-based religious movements have documented how beliefs may adapt when expected events do not occur as anticipated. The details of a prophecy can be reinterpreted, spiritualised, postponed, or reframed without abandoning the underlying belief system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Individual Suicide and the End of the World: Destruction...15 Feb 2017 — PDF &#124; UFO and alien-based religions emerged in the...</span></span></span>
+Scholars studying UFO-based religious movements have documented how beliefs may adapt when expected events do not occur as anticipated. The details of a prophecy can be reinterpreted, spiritualised, postponed, or reframed without abandoning the underlying belief system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Individual Suicide and the End of the World: Destruction...15 Feb 2017 — PDF &#124; UFO and alien-based religions emerged in the...</span></span></span>
 
 The issue is not unique to UFO culture, but UFO-related movements provide clear examples of how expectations can migrate from the observable world into the symbolic or spiritual realm. Once fulfilment is defined as something invisible, internal, or accessible only to believers, ordinary verification becomes impossible.
 
@@ -339,9 +339,9 @@ This creates an asymmetry: apparent successes can be claimed through interpretat
 
 ## A Cautionary Example: Reinterpreted Expectations
 
-The history of the [UFO religion]({{ 'ufo-religion/' | relative_url }}) Heaven's Gate illustrates how belief systems can change when expectations encounter reality. The movement originally taught that followers would ultimately transition to a higher extraterrestrial existence and linked its expectations to spacecraft and extraterrestrial beings. After key assumptions were challenged, elements of the belief system evolved rather than disappearing. Scholars have noted that aspects of the group's teachings were modified over time as circumstances changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+The history of the [UFO religion]({{ 'ufo-religion/' | relative_url }}) Heaven's Gate illustrates how belief systems can change when expectations encounter reality. The movement originally taught that followers would ultimately transition to a higher extraterrestrial existence and linked its expectations to spacecraft and extraterrestrial beings. After key assumptions were challenged, elements of the belief system evolved rather than disappearing. Scholars have noted that aspects of the group's teachings were modified over time as circumstances changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-The Heaven's Gate case is not an example of a simple private revelation claim, but it demonstrates a broader point relevant to UFO prediction analysis: when expectations are tied to spiritual interpretation rather than fixed public criteria, beliefs can be redefined after events unfold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+The Heaven's Gate case is not an example of a simple private revelation claim, but it demonstrates a broader point relevant to UFO prediction analysis: when expectations are tied to spiritual interpretation rather than fixed public criteria, beliefs can be redefined after events unfold.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
 For investigators assessing UFO predictions, the lesson is methodological rather than theological. The key question is whether the original claim established an observable benchmark before the deadline.
 
@@ -381,194 +381,194 @@ If the answer depends on personal revelation, hidden extraterrestrial activity, 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a UFO Prediction Cannot Fail Publicly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a UFO Prediction Cannot Fail Publicly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines belief, experience and meaning in UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines belief, experience and meaning in UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Discusses contactee traditions and private messages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses contactee traditions and private messages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores subjective and folkloric dimensions of encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores subjective and folkloric dimensions of encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for distinguishing testable from untestable claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for distinguishing testable from untestable claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="private-claims-when-a-ufo-prediction-cannot-fail-publicly-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ If the answer depends on personal revelation, hidden extraterrestrial activity, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ If the answer depends on personal revelation, hidden extraterrestrial activity, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ If the answer depends on personal revelation, hidden extraterrestrial activity, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ If the answer depends on personal revelation, hidden extraterrestrial activity, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ If the answer depends on personal revelation, hidden extraterrestrial activity, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,104 +774,104 @@ If the answer depends on personal revelation, hidden extraterrestrial activity, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual Suicide and the End of the World: Destruction...15 Feb 2017 — PDF | UFO and alien-based religions emerged in the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Individual Suicide and the End of the World: Destruction...15 Feb 2017 — PDF | UFO and alien-based religions emerged in the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of several UFO an...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of several UFO an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 1997 — Alien abductions, poltergeists, UFO encounters, [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing/&#x27; | relative_url &amp;#125;&amp;#125;), ESP and other unlikely phenomena are common fare.... &#x27; It&#x27;...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 1997 — Alien abductions, poltergeists, UFO encounters, [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing/&#x27; | relative_url &amp;#125;&amp;#125;), ESP and other unlikely phenomena are common fare.... &#x27; It&#x27;...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectA scientifically skeptical group that has for many years offered critical analyses of UFO claims is the Comm...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectA scientifically skeptical group that has for many years offered critical analyses of UFO claims is the Comm...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
    Title: Heaven's Gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial spacecraft would take them to the “kingdom of heaven.... alien spacecraft, and pass through Heaven&#x27;s Gate into a higher...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial spacecraft would take them to the “kingdom of heaven.... alien spacecraft, and pass through Heaven&#x27;s Gate into a higher...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: heavens gate mass suicide  
-   Link: <a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scholar of new religious movements and author of Heaven&#x27;s Gate: America&#x27;s UFO Religion. But in his book, Zeller argues that Heaven&#x27;s Gate...</p></details>
+   Link:<a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scholar of new religious movements and author of Heaven&#x27;s Gate: America&#x27;s UFO Religion. But in his book, Zeller argues that Heaven&#x27;s Gate...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that combined Christian-inf...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that combined Christian-inf...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/category/a-skeptical-look-at-ufos-and-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/category/a-skeptical-look-at-ufos-and-aliens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Skeptical Look at UFOs and AliensThere is a wide variety of natural explanations for things we see in the sky that are easy to misinter...</p></details>
+   Link:<a href="https://skepticalinquirer.org/category/a-skeptical-look-at-ufos-and-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/category/a-skeptical-look-at-ufos-and-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Skeptical Look at UFOs and AliensThere is a wide variety of natural explanations for things we see in the sky that are easy to misinter...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/x1pzh2/hale_bopp_phoenix_lights_and_heavens_gate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/x1pzh2/hale_bopp_phoenix_lights_and_heavens_gate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp, Phoenix Lights and Heaven&#x27;s gateHeaven&#x27;s gate claimed there would be an Alien ship traveling with the Hale Bopp comet that wo...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/x1pzh2/hale_bopp_phoenix_lights_and_heavens_gate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/x1pzh2/hale_bopp_phoenix_lights_and_heavens_gate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp, Phoenix Lights and Heaven&#x27;s gateHeaven&#x27;s gate claimed there would be an Alien ship traveling with the Hale Bopp comet that wo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateA charismatic leader convinces his devoted followers that salvation awaits aboard an alien spacecraft trailing a comet—leadi...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateA charismatic leader convinces his devoted followers that salvation awaits aboard an alien spacecraft trailing a comet—leadi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/visual-arts/ufo-evidence-and-censorship" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/visual-arts/ufo-evidence-and-censorship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence and Censorship | Visual ArtsConspiracy theories often suggest that governments have engaged in censorship to control informa...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/visual-arts/ufo-evidence-and-censorship" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/visual-arts/ufo-evidence-and-censorship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Evidence and Censorship | Visual ArtsConspiracy theories often suggest that governments have engaged in censorship to control informa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Like many UFO cults, Heaven&#x27;s Gate fervently po...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Like many UFO cults, Heaven&#x27;s Gate fervently po...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: the heavens gate cult was founded in the 1970s and became obsessed with the hale  
-   Link: <a href="https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult was founded in the 1970s and...The Heaven&#x27;s Gate cult was founded in the 1970s and became obsessed with the Hale...</p></details>
+   Link:<a href="https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult was founded in the 1970s and...The Heaven&#x27;s Gate cult was founded in the 1970s and became obsessed with the Hale...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: centerforinquiry.org  
    Title: theyre not not saying its aliens skeptical inquirer on ufos and the [media](&#123;&#123; 'media/' | relative_url &#125;&#125;)  
-   Link: <a href="https://centerforinquiry.org/news/theyre-not-not-saying-its-aliens-skeptical-inquirer-on-ufos-and-the-media/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/news/theyre-not-not-saying-its-aliens-skeptical-inquirer-on-ufos-and-the-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Not *Not* Saying It&#x27;s Aliens: Skeptical Inquirer on...30 Aug 2021 — A special issue of Skeptical Inquirer magazine confronts the...</p></details>
+   Link:<a href="https://centerforinquiry.org/news/theyre-not-not-saying-its-aliens-skeptical-inquirer-on-ufos-and-the-media/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/news/theyre-not-not-saying-its-aliens-skeptical-inquirer-on-ufos-and-the-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re Not *Not* Saying It&#x27;s Aliens: Skeptical Inquirer on...30 Aug 2021 — A special issue of Skeptical Inquirer magazine confronts the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: you.stonybrook.edu  
    Title: chocolate pudding and space aliens how the heavens gate cult propagated  
-   Link: <a href="https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/" target="_blank" rel="noopener noreferrer nofollow">https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Heaven&#x27;s Gate Cult Propagated9 Oct 2022 — Chocolate Pudding and Space Aliens: How the Heaven&#x27;s Gate Cult Propagated. An image depicti...</p></details>
+   Link:<a href="https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/" target="_blank" rel="noopener noreferrer nofollow">https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Heaven&#x27;s Gate Cult Propagated9 Oct 2022 — Chocolate Pudding and Space Aliens: How the Heaven&#x27;s Gate Cult Propagated. An image depicti...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to hide meaning, but to be as easy as possible to comprehend...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to hide meaning, but to be as easy as possible to comprehend...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: epicmagazine.com  
    Title: The sole survivor of Heaven's Gate has a message for you  
-   Link: <a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp showing an elongated fuzzy brightness lurking in the tail, word quickly spread in UFO circles that there was an alien spacecraf...</p></details>
+   Link:<a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp showing an elongated fuzzy brightness lurking in the tail, word quickly spread in UFO circles that there was an alien spacecraf...</p></details>

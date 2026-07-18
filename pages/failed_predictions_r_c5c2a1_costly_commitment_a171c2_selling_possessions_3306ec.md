@@ -278,13 +278,13 @@ One of the most consequential forms of commitment in failed UFO prophecies is th
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_selling_possessions_3306ec-Illustration-1-dark.svg" | relative_url }}" alt="Selling Up illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_selling_possessions_3306ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_selling_possessions_3306ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In UFO rescue movements, these sacrifices often occur because followers expect a dramatic physical event: a spacecraft will arrive, a catastrophe will destroy the Earth, or a chosen group will be transported to safety. When the date passes without fulfilment, the loss is no longer hypothetical. The believer must confront not only a failed prediction but also the practical consequences of choices already made. This helps explain why selling possessions occupies a special place in the history of failed UFO prophecies. It creates a powerful sunk-cost problem that can either deepen commitment or accelerate departure from the group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In UFO rescue movements, these sacrifices often occur because followers expect a dramatic physical event: a spacecraft will arrive, a catastrophe will destroy the Earth, or a chosen group will be transported to safety. When the date passes without fulfilment, the loss is no longer hypothetical. The believer must confront not only a failed prediction but also the practical consequences of choices already made. This helps explain why selling possessions occupies a special place in the history of failed UFO prophecies. It creates a powerful sunk-cost problem that can either deepen commitment or accelerate departure from the group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## What Sacrifice Does Before the Date Passes
 
 Predicted UFO rescues often require believers to act as though departure is imminent. If a spacecraft is expected to arrive within days or weeks, keeping a mortgage, maintaining a career path, or accumulating possessions can appear irrational from the believer's perspective. The prophecy encourages preparation for a new existence rather than continuation of ordinary life.
 
-The best-known example is the 1954 group around [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), later studied in *When Prophecy Fails*. Followers expecting rescue by flying saucer before a catastrophic flood reportedly gave away money, disposed of possessions, left jobs, interrupted studies, and damaged relationships as they prepared for departure. Contemporary accounts and later summaries consistently identify these material sacrifices as visible signs of commitment before the predicted rescue date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The best-known example is the 1954 group around [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), later studied in *When Prophecy Fails*. Followers expecting rescue by flying saucer before a catastrophic flood reportedly gave away money, disposed of possessions, left jobs, interrupted studies, and damaged relationships as they prepared for departure. Contemporary accounts and later summaries consistently identify these material sacrifices as visible signs of commitment before the predicted rescue date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 The mechanism is straightforward:
 
@@ -303,13 +303,13 @@ Importantly, the possessions themselves are often less significant than what the
 
 Although different UFO movements vary in doctrine, several recurring forms of sacrifice appear across documented cases.
 
-**Giving away possessions.** Followers may donate money, distribute personal belongings, or dispose of household goods because they expect to leave Earth behind. Accounts of Dorothy Martin's group repeatedly mention members giving away money and abandoning possessions before the anticipated rescue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+**Giving away possessions.** Followers may donate money, distribute personal belongings, or dispose of household goods because they expect to leave Earth behind. Accounts of Dorothy Martin's group repeatedly mention members giving away money and abandoning possessions before the anticipated rescue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-**Leaving employment or education.** If a rescue date is near, long-term commitments lose apparent value. Researchers and journalists documenting the [Martin case]({{ 'martin-case/' | relative_url }}) noted followers who left jobs, disrupted careers, or neglected studies while awaiting evacuation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+**Leaving employment or education.** If a rescue date is near, long-term commitments lose apparent value. Researchers and journalists documenting the [Martin case]({{ 'martin-case/' | relative_url }}) noted followers who left jobs, disrupted careers, or neglected studies while awaiting evacuation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-**Breaking social ties.** Some believers distance themselves from sceptical relatives or friends. The sacrifice is not purely financial; it involves replacing outside relationships with the group's shared expectation of rescue. Accounts of both the Martin group and later UFO-oriented movements describe strained family relationships connected to prophetic expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Skeptical Science The Person Who Lies To You The Most…</span><span class="citation-popover-snippet">Is You - Skeptical ScienceSeptember 8, 2021 — The Seekers were told to be prepared for rescue. Many quit their jobs and left their famili...</span><span class="citation-popover-meta">Published: September 8, 2021</span></span></span>
+**Breaking social ties.** Some believers distance themselves from sceptical relatives or friends. The sacrifice is not purely financial; it involves replacing outside relationships with the group's shared expectation of rescue. Accounts of both the Martin group and later UFO-oriented movements describe strained family relationships connected to prophetic expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Skeptical Science The Person Who Lies To You The Most…</span><span class="citation-popover-snippet">Is You - Skeptical ScienceSeptember 8, 2021 — The Seekers were told to be prepared for rescue. Many quit their jobs and left their famili...</span><span class="citation-popover-meta">Published: September 8, 2021</span></span></span>
 
-**Adopting communal or ascetic living.** In some UFO movements, members surrender individual ownership altogether. The Heaven's Gate movement required members to renounce possessions and ordinary attachments as preparation for advancement to a higher extraterrestrial level. Although Heaven's Gate evolved beyond a simple rescue-date prophecy, material [renunciation]({{ 'renunciation/' | relative_url }}) remained central to readiness for departure from Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+**Adopting communal or ascetic living.** In some UFO movements, members surrender individual ownership altogether. The Heaven's Gate movement required members to renounce possessions and ordinary attachments as preparation for advancement to a higher extraterrestrial level. Although Heaven's Gate evolved beyond a simple rescue-date prophecy, material [renunciation]({{ 'renunciation/' | relative_url }}) remained central to readiness for departure from Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_selling_possessions_3306ec-Illustration-2-dark.svg" | relative_url }}" alt="Selling Up illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_selling_possessions_3306ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_selling_possessions_3306ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,7 +337,7 @@ In UFO prophecy groups, the logic can become self-reinforcing:
 
 </div>
 
-Festinger's original analysis of prophecy failure treated costly commitment as one condition that could encourage believers to reinterpret disconfirmation rather than abandon belief immediately. Later scholarship has challenged some of the famous claims about what happened after Dorothy Martin's failed prediction, arguing that the group largely dissolved rather than permanently intensifying its commitment. Even so, the underlying insight remains influential: costly sacrifices change the psychological stakes of failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Festinger's original analysis of prophecy failure treated costly commitment as one condition that could encourage believers to reinterpret disconfirmation rather than abandon belief immediately. Later scholarship has challenged some of the famous claims about what happened after Dorothy Martin's failed prediction, arguing that the group largely dissolved rather than permanently intensifying its commitment. Even so, the underlying insight remains influential: costly sacrifices change the psychological stakes of failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yJ3ilyecMBU" title="When Prophecy Fails — The System Behind Doubling Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer">When Prophecy Fails — The System Behind Doubling Down</a></p><p class="youtube-embed-meta">Channel: Crisis in Perception</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yJ3ilyecMBU">Open on YouTube</a></p></div></div></div>
@@ -346,13 +346,13 @@ Festinger's original analysis of prophecy failure treated costly commitment as o
 
 A common misunderstanding is that heavy sacrifice always makes believers cling more strongly to [failed predictions]({{ 'failed-predictions/' | relative_url }}). Historical evidence suggests the outcome is more complicated.
 
-Recent reassessments of the Dorothy Martin episode argue that the movement did not simply become stronger after the failed rescue prophecy. Martin eventually recanted, recruitment efforts ceased, and the original group largely fragmented. The costs members had incurred did not guarantee permanent loyalty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - ScietyIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</span></span></span>
+Recent reassessments of the Dorothy Martin episode argue that the movement did not simply become stronger after the failed rescue prophecy. Martin eventually recanted, recruitment efforts ceased, and the original group largely fragmented. The costs members had incurred did not guarantee permanent loyalty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - ScietyIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</span></span></span>
 
 In practice, sacrifice can produce two opposite outcomes.
 
-**Doubling down.** Some believers reinterpret the failure. The rescue was delayed, occurred invisibly, was prevented by spiritual intervention, or succeeded in a different form than expected. Such explanations can preserve meaning and justify earlier sacrifices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+**Doubling down.** Some believers reinterpret the failure. The rescue was delayed, occurred invisibly, was prevented by spiritual intervention, or succeeded in a different form than expected. Such explanations can preserve meaning and justify earlier sacrifices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-**Leaving the movement.** For others, the material consequences make the failure impossible to ignore. A lost job, depleted savings, or damaged relationships become constant reminders that the prophecy did not occur. The same sacrifice that once reinforced belief can become evidence that the group was mistaken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - ScietyIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</span></span></span>
+**Leaving the movement.** For others, the material consequences make the failure impossible to ignore. A lost job, depleted savings, or damaged relationships become constant reminders that the prophecy did not occur. The same sacrifice that once reinforced belief can become evidence that the group was mistaken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - ScietyIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</span></span></span>
 
 This second outcome is often overlooked because dramatic stories of believers rationalising failure are more memorable than quieter stories of departure.
 
@@ -362,199 +362,199 @@ This second outcome is often overlooked because dramatic stories of believers ra
 
 Among the many forms of commitment seen in failed UFO predictions, selling possessions stands out because it converts belief into irreversible action. A prediction about a future spacecraft remains abstract until someone restructures their life around it.
 
-The historical record surrounding Dorothy Martin's flying-saucer prophecy shows how believers sometimes gave away money, abandoned possessions, and disrupted careers while preparing for rescue. Later UFO movements, including Heaven's Gate, likewise linked spiritual advancement or extraterrestrial departure to renunciation of ordinary attachments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The historical record surrounding Dorothy Martin's flying-saucer prophecy shows how believers sometimes gave away money, abandoned possessions, and disrupted careers while preparing for rescue. Later UFO movements, including Heaven's Gate, likewise linked spiritual advancement or extraterrestrial departure to renunciation of ordinary attachments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The significance of these sacrifices lies less in the monetary value lost than in what they reveal about commitment. Selling up before a rescue date turns a prediction into a personal wager. When the spacecraft never arrives, believers are left not only with a failed prophecy but with the practical consequences of having acted as though it was certain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The significance of these sacrifices lies less in the monetary value lost than in what they reveal about commitment. Selling up before a rescue date turns a prediction into a personal wager. When the spacecraft never arrives, believers are left not only with a failed prophecy but with the practical consequences of having acted as though it was certain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Sacrifice Does Before the Date Passes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Sacrifice Does Before the Date Passes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly linked to giving up possessions before disconfirmation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly linked to giving up possessions before disconfirmation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains sunk-cost thinking and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sunk-cost thinking and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Commitment and consistency are central themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Commitment and consistency are central themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In"><img src="{{ '/assets/images/marketplace-covers/483a4c32f26fd3416ffe.jpg' | relative_url }}" alt="Listing image for Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phases of the Moon Astronomy Full Moon Lunar Space Poster Huge Wall Art 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches"><img src="{{ '/assets/images/marketplace-covers/dc10eda6b86e6a4463b0.jpg' | relative_url }}" alt="Listing image for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches"><img src="{{ '/assets/images/marketplace-covers/dc10eda6b86e6a4463b0.jpg' | relative_url }}" alt="Listing image for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="selling-up-what-sacrifice-does-before-the-date-passes-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ The significance of these sacrifices lies less in the monetary value lost than i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ The significance of these sacrifices lies less in the monetary value lost than i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ The significance of these sacrifices lies less in the monetary value lost than i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ The significance of these sacrifices lies less in the monetary value lost than i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ The significance of these sacrifices lies less in the monetary value lost than i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,111 +760,111 @@ The significance of these sacrifices lies less in the monetary value lost than i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist) - WikipediaAccording to her writings, a flying saucer would arrive to rescue Martin and her followers, T...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist) - WikipediaAccording to her writings, a flying saucer would arrive to rescue Martin and her followers, T...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ia802802.us.archive.org  
    Title: Festinger Riecken Schachter When Prophecy Fails 1956  
-   Link: <a href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Several days before the ~1st&#x27; Kitty had moved into the Arm- strongs&#x27; house, where she and an...</p></details>
+   Link:<a href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several days before the ~1st&#x27; Kitty had moved into the Arm- strongs&#x27; house, where she and an...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - ScietyIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - ScietyIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: csmonitor.com  
    Title: The Christian Science Monitor Judgment Day?  
-   Link: <a href="https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December-21-1954" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December-21-1954</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five failed end-of-the-world predictionsMay 18, 2011 — What actually happened: Martin&#x27;s followers, many of whom quit their jobs and gave...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five failed end-of-the-world predictionsMay 18, 2011 — What actually happened: Martin&#x27;s followers, many of whom quit their jobs and gave...</p></details>
    Published: May 18, 2011  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: stevemurch.com  
    Title: steve murch When Prophecy Fails  
-   Link: <a href="https://stevemurch.com/when-prophecy-fails/2019/03" target="_blank" rel="noopener noreferrer nofollow">https://stevemurch.com/when-prophecy-fails/2019/03</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails - Steve Murch25 Mar 2019 — A small but fervent apocalyptic cult formed around Keech&#x27;s prophecy. Dozens of people beli...</p></details>
+   Link:<a href="https://stevemurch.com/when-prophecy-fails/2019/03" target="_blank" rel="noopener noreferrer nofollow">https://stevemurch.com/when-prophecy-fails/2019/03</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails - Steve Murch25 Mar 2019 — A small but fervent apocalyptic cult formed around Keech&#x27;s prophecy. Dozens of people beli...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalscience.com  
    Title: Skeptical Science The Person Who Lies To You The Most…  
-   Link: <a href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=5174</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is You - Skeptical ScienceSeptember 8, 2021 — The Seekers were told to be prepared for rescue. Many quit their jobs and left their famili...</p></details>
+   Link:<a href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=5174</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is You - Skeptical ScienceSeptember 8, 2021 — The Seekers were told to be prepared for rescue. Many quit their jobs and left their famili...</p></details>
    Published: September 8, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Debunking "When Prophecy Fails"  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot; - PubMedIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot; - PubMedIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dialoguejournal.com  
-   Link: <a href="https://www.dialoguejournal.com/articles/when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://www.dialoguejournal.com/articles/when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy FailsFailed prophecy is not a death knell for faith. Individuals and movements can move on. They can be creative not just i...</p></details>
+   Link:<a href="https://www.dialoguejournal.com/articles/when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://www.dialoguejournal.com/articles/when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy FailsFailed prophecy is not a death knell for faith. Individuals and movements can move on. They can be creative not just i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: paisleytownhall.org  
-   Link: <a href="https://www.paisleytownhall.org/whats-on/when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://www.paisleytownhall.org/whats-on/when-prophecy-fails/</a>  
+   Link:<a href="https://www.paisleytownhall.org/whats-on/when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://www.paisleytownhall.org/whats-on/when-prophecy-fails/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journalistsresource.org  
-   Link: <a href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/prophecy-religion/</a>  
+   Link:<a href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/prophecy-religion/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: TI L about Dorothy Martin who convinced a small group that aliens  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that aliens...May 16, 2026 — In the mid-1950s, a woman named Dorothy Martin founded...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that aliens...May 16, 2026 — In the mid-1950s, a woman named Dorothy Martin founded...</p></details>
    Published: May 16, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — The overlooked history of the Heaven&#x27;s Gate cult that committed mass...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — The overlooked history of the Heaven&#x27;s Gate cult that committed mass...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uld lose our physical vehicles (bodies) due to &quot;recall,&quot; accident, or...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uld lose our physical vehicles (bodies) due to &quot;recall,&quot; accident, or...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theatlantic.com  
    Title: The message was just one of many that Martin, who was  
-   Link: <a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come - The AtlanticDecember 18, 2015 — It all started with a prophecy that a massive flood was coming on...</p></details>
+   Link:<a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come - The AtlanticDecember 18, 2015 — It all started with a prophecy that a massive flood was coming on...</p></details>
    Published: December 18, 2015  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kolr10kozl/posts/the-prediction-went-viral-allegedly-causing-some-believers-to-sell-off-their-bel/1226709392833143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kolr10kozl/posts/the-prediction-went-viral-allegedly-causing-some-believers-to-sell-off-their-bel/1226709392833143/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eir belongings, such as cars and homes, and prepare for the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/kolr10kozl/posts/the-prediction-went-viral-allegedly-causing-some-believers-to-sell-off-their-bel/1226709392833143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kolr10kozl/posts/the-prediction-went-viral-allegedly-causing-some-believers-to-sell-off-their-bel/1226709392833143/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eir belongings, such as cars and homes, and prepare for the...Read more...</p></details>

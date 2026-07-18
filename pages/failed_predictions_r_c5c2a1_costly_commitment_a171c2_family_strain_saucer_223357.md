@@ -278,15 +278,15 @@ Before a UFO prophecy fails publicly, its deepest effects are often felt private
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_family_strain_saucer_223357-Illustration-1-dark.svg" | relative_url }}" alt="Family Strain illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_family_strain_saucer_223357-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_family_strain_saucer_223357-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The best-known example is the 1954 Seekers movement led by [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), whose followers expected a catastrophic flood and rescue by flying saucer. Accounts from the period describe believers who left or lost jobs, neglected studies, ended friendships and distanced themselves from sceptical relatives while preparing for the event. The social consequences often began before the prophecy failed, making the missed rescue a family crisis as well as a failed prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The best-known example is the 1954 Seekers movement led by [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), whose followers expected a catastrophic flood and rescue by flying saucer. Accounts from the period describe believers who left or lost jobs, neglected studies, ended friendships and distanced themselves from sceptical relatives while preparing for the event. The social consequences often began before the prophecy failed, making the missed rescue a family crisis as well as a failed prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## The Private Cost of Public Belief
 
 ### How belief disrupts family roles
 
-A prophecy becomes a family issue when it changes ordinary responsibilities. In the Seekers case, some committed believers reorganised their lives around the expected rescue. Researchers recorded members giving away possessions, interrupting employment, neglecting educational commitments and reducing ties with people who questioned the prediction. These actions did not affect only the believers themselves. They altered household finances, caregiving arrangements and family expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+A prophecy becomes a family issue when it changes ordinary responsibilities. In the Seekers case, some committed believers reorganised their lives around the expected rescue. Researchers recorded members giving away possessions, interrupting employment, neglecting educational commitments and reducing ties with people who questioned the prediction. These actions did not affect only the believers themselves. They altered household finances, caregiving arrangements and family expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-For relatives outside the movement, the situation could be deeply unsettling. A spouse who remained unconvinced might watch savings disappear or see household priorities shift towards preparations for an event that seemed impossible. Parents could worry about adult children abandoning careers or studies. Friends and extended family often became sources of tension because their scepticism was interpreted as a lack of understanding or faith. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+For relatives outside the movement, the situation could be deeply unsettling. A spouse who remained unconvinced might watch savings disappear or see household priorities shift towards preparations for an event that seemed impossible. Parents could worry about adult children abandoning careers or studies. Friends and extended family often became sources of tension because their scepticism was interpreted as a lack of understanding or faith.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 In practical terms, UFO prophecies often create a division between two competing obligations:
 
@@ -312,7 +312,7 @@ The result is that ordinary family disagreement becomes emotionally charged. By 
 
 When a prophecy collapses, family members often become the first audience for the failure. [Public ridicule]({{ 'ridicule/' | relative_url }}) from journalists or [neighbours]({{ 'neighbours/' | relative_url }}) may fade quickly, but relatives remain present long after headlines disappear.
 
-In the Seekers episode, the anticipated rescue did not occur despite intense expectation. Observers recorded a period of confusion, silence and emotional distress among believers before alternative explanations emerged. The failure itself was only one part of the experience. Equally important was the need to face people who had warned that the prediction would not happen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In the Seekers episode, the anticipated rescue did not occur despite intense expectation. Observers recorded a period of confusion, silence and emotional distress among believers before alternative explanations emerged. The failure itself was only one part of the experience. Equally important was the need to face people who had warned that the prediction would not happen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 For many families, the embarrassment operates on several levels:
 
@@ -334,7 +334,7 @@ These consequences can linger longer than the failed prophecy itself. The factua
 
 One of the most important but often overlooked factors after a failed UFO prophecy is the role played by family members who remained outside the movement.
 
-Classic interpretations of the Seekers case suggested that committed believers responded to failure by increasing their commitment and seeking publicity. More recent archival research challenges parts of that narrative, arguing that the group largely dissolved and that key figures eventually retreated from the original claims. Regardless of which interpretation is emphasised, family relationships remained a crucial influence on what happened next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Prophecy. When Prophecy Fails claims the committed members of the cult maintained their beliefs even after...Read more...</span></span></span>
+Classic interpretations of the Seekers case suggested that committed believers responded to failure by increasing their commitment and seeking publicity. More recent archival research challenges parts of that narrative, arguing that the group largely dissolved and that key figures eventually retreated from the original claims. Regardless of which interpretation is emphasised, family relationships remained a crucial influence on what happened next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Prophecy. When Prophecy Fails claims the committed members of the cult maintained their beliefs even after...Read more...</span></span></span>
 
 Relatives can encourage two very different paths.
 
@@ -355,7 +355,7 @@ The key point is that family ties are not merely background conditions. They act
 
 The history of failed UFO rescue predictions is often told through public events: dramatic dates, waiting crowds, [media]({{ 'media/' | relative_url }}) attention and the absence of the promised spacecraft. Yet the most durable consequences frequently unfold in kitchens, living rooms and family conversations.
 
-The Seekers case became famous because it helped inspire influential theories about belief and disconfirmation. Less remembered is the human cost borne by ordinary relationships. Employment disruptions, abandoned studies, broken friendships and conflicts with relatives were already occurring before the anticipated rescue failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The Seekers case became famous because it helped inspire influential theories about belief and disconfirmation. Less remembered is the human cost borne by ordinary relationships. Employment disruptions, abandoned studies, broken friendships and conflicts with relatives were already occurring before the anticipated rescue failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 Seen from this perspective, a missed saucer rescue is not simply a mistaken prediction. It is often the moment when private sacrifices become impossible to ignore. For believers and their families alike, the failure can reveal how much of everyday life had already been reorganised around an event that never arrived.
 
@@ -364,194 +364,194 @@ Seen from this perspective, a missed saucer rescue is not simply a mistaken pred
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Private Cost of Public Belief. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Private Cost of Public Belief. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Documents social and personal costs around failed prophecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents social and personal costs around failed prophecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Addresses rationalization after damaging decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses rationalization after damaging decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
-        </h4>
-        <p class="fr-book-author">By Steven Hassan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
+</h4>
+<p class="fr-book-author">By Steven Hassan</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW"><img src="{{ '/assets/images/marketplace-covers/e97195bd83724915a8fa.jpg' | relative_url }}" alt="Listing image for Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW"><img src="{{ '/assets/images/marketplace-covers/e97195bd83724915a8fa.jpg' | relative_url }}" alt="Listing image for Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien galactic visitor pin badge"><img src="{{ '/assets/images/marketplace-covers/61aa0e35180e7f12bb3f.jpg' | relative_url }}" alt="Listing image for Alien galactic visitor pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien galactic visitor pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien galactic visitor pin badge"><img src="{{ '/assets/images/marketplace-covers/61aa0e35180e7f12bb3f.jpg' | relative_url }}" alt="Listing image for Alien galactic visitor pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien galactic visitor pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="family-strain-the-private-cost-of-public-belief-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ Seen from this perspective, a missed saucer rescue is not simply a mistaken pred
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ Seen from this perspective, a missed saucer rescue is not simply a mistaken pred
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ Seen from this perspective, a missed saucer rescue is not simply a mistaken pred
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ Seen from this perspective, a missed saucer rescue is not simply a mistaken pred
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ Seen from this perspective, a missed saucer rescue is not simply a mistaken pred
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,88 +757,88 @@ Seen from this perspective, a missed saucer rescue is not simply a mistaken pred
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gwern.net  
    Title: Debunking “When Prophecy Fails”  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy. When Prophecy Fails claims the committed members of the cult maintained their beliefs even after...Read more...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy. When Prophecy Fails claims the committed members of the cult maintained their beliefs even after...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — The documents reveal that the group actively proselytized well before the prophecy failed and quickly abandoned their...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — The documents reveal that the group actively proselytized well before the prophecy failed and quickly abandoned their...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vvFV1v8l-PI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Cult That Inspired [Cognitive Dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;) | Dorothy...Dorothy Martin and the Seekers, a small 1950s UFO cult that believed aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vvFV1v8l-PI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Cult That Inspired [Cognitive Dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;) | Dorothy...Dorothy Martin and the Seekers, a small 1950s UFO cult that believed aliens...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9obU59mU8t4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9obU59mU8t4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to invite God into your life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9obU59mU8t4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9obU59mU8t4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to invite God into your life...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Henry W. Riecken papers available for researchFestinger and his team were with the cult when the prophecy failed. First, the &quot;boys upstai...</p></details>
+   Link:<a href="https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Henry W. Riecken papers available for researchFestinger and his team were with the cult when the prophecy failed. First, the &quot;boys upstai...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger-ebook/dp/B004C44BEG?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger-ebook/dp/B004C44BEG?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails eBookA social psychology study follows a UFO cult that predicted Earth&#x27;s destruction, examining how members coped whe...</p></details>
+   Link:<a href="https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger-ebook/dp/B004C44BEG?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger-ebook/dp/B004C44BEG?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails eBookA social psychology study follows a UFO cult that predicted Earth&#x27;s destruction, examining how members coped whe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that...TIL about Dorothy Martin who convinced a small group that aliens had warned...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that...TIL about Dorothy Martin who convinced a small group that aliens had warned...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oprfmuseum.org  
-   Link: <a href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow">https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue</a>  
+   Link:<a href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow">https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: the story of the first ever ufo doomsday cult reimagined when prophecy fails dra  
-   Link: <a href="https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the first ever UFO doomsday cult, reimagined...#davidwilcock #ufodisclosure #aliens #ufos. Apr 22, 2026 · 23 views. Disclos...</p></details>
+   Link:<a href="https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the first ever UFO doomsday cult, reimagined...#davidwilcock #ufodisclosure #aliens #ufos. Apr 22, 2026 · 23 views. Disclos...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: andzwa.medium.com  
    Title: cognitive dissonance and doomsday cults 785c9403cae5  
-   Link: <a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerIt&#x27;s a story of a 1950s cult called the Seekers led by a lady called Dorothy Martin. They d...</p></details>
+   Link:<a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerIt&#x27;s a story of a 1950s cult called the Seekers led by a lady called Dorothy Martin. They d...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstrates that the boo...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstrates that the boo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hen neither arrived, she recanted, her group dissolved, and...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hen neither arrived, she recanted, her group dissolved, and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cnsu.libguides.com  
-   Link: <a href="https://cnsu.libguides.com/blog/Leon-Festinger-and-The-Seekers" target="_blank" rel="noopener noreferrer nofollow">https://cnsu.libguides.com/blog/Leon-Festinger-and-The-Seekers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger, The Seekers, and cognitive dissonance7 Dec 2022 — The Seekers believed a flood would destroy the world on December 21, 1954...</p></details>
+   Link:<a href="https://cnsu.libguides.com/blog/Leon-Festinger-and-The-Seekers" target="_blank" rel="noopener noreferrer nofollow">https://cnsu.libguides.com/blog/Leon-Festinger-and-The-Seekers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger, The Seekers, and cognitive dissonance7 Dec 2022 — The Seekers believed a flood would destroy the world on December 21, 1954...</p></details>
    Published: December 21, 1954  

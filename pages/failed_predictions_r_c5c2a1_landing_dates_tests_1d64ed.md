@@ -451,17 +451,17 @@ Alien landing dates are among the clearest public tests in UFO history because t
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed-overview.webp" | relative_url }}" alt="Overview image for Landing Dates" loading="eager" decoding="sync" fetchpriority="high">
-That is why failed landing dates matter within the wider history of failed UFO predictions. They expose a tension at the centre of many UFO-related prophecies: the more specific a prediction becomes, the more persuasive it can feel in advance, but the harder it is to defend afterwards. Cases such as [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue, Chen Tao’s 1998 Garland prediction, and [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) landing claims show how public dates create evidence, pressure, reinterpretation and sometimes group collapse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+That is why failed landing dates matter within the wider history of failed UFO predictions. They expose a tension at the centre of many UFO-related prophecies: the more specific a prediction becomes, the more persuasive it can feel in advance, but the harder it is to defend afterwards. Cases such as [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue, Chen Tao’s 1998 Garland prediction, and [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) landing claims show how public dates create evidence, pressure, reinterpretation and sometimes group collapse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## What Makes a UFO Claim Testable
 
 A UFO claim becomes a public test when it includes three things: a definite time, an observable event, and a way for outsiders to check the result. “Contact will happen soon” is not much of a test. “A spacecraft will land in [Garland]({{ 'garland/' | relative_url }}), Texas, on 31 March” is. The strength of the test comes from the fact that the claim no longer depends only on private experience, channelled messages, or interpretation within a closed group.
 
-This distinction matters because many UFO and UAP reports are ambiguous by nature. An object may be unidentified because the available data are poor, because the observer lacked context, or because the sensor record is incomplete. That does not automatically make the object extraterrestrial. NASA’s 2023 UAP independent study stressed that many reports lack the reproducible data and metadata needed for firm conclusions, and that extraterrestrial origin should be treated as a last-resort hypothesis rather than a default explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+This distinction matters because many UFO and UAP reports are ambiguous by nature. An object may be unidentified because the available data are poor, because the observer lacked context, or because the sensor record is incomplete. That does not automatically make the object extraterrestrial. NASA’s 2023 UAP independent study stressed that many reports lack the reproducible data and metadata needed for firm conclusions, and that extraterrestrial origin should be treated as a last-resort hypothesis rather than a default explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 A landing-date prophecy is different from an ordinary sighting because it claims advance knowledge. It says not merely that something puzzling was seen, but that a known event will happen at a specified future moment. That changes the evidential standard. If a group predicts a visible landing, rescue, television appearance, or global [media]({{ 'media/' | relative_url }}) announcement, the later absence of that event is not just a missing detail. It is the central fact.
 
-The US Air Force’s Project Blue Book reached no finding that investigated UFO reports represented extraterrestrial vehicles or technology beyond modern scientific knowledge, while NASA has more recently argued for better data, calibrated sensors and open scientific methods. Those institutional conclusions do not settle every historical UFO debate, but they are important background for landing-date claims: a dramatic public alien arrival would not be a subtle anomaly buried in incomplete records. It would be an extraordinary event requiring clear, independent evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and evaluated by the Air Force was ever...</span></span></span>
+The US Air Force’s Project Blue Book reached no finding that investigated UFO reports represented extraterrestrial vehicles or technology beyond modern scientific knowledge, while NASA has more recently argued for better data, calibrated sensors and open scientific methods. Those institutional conclusions do not settle every historical UFO debate, but they are important background for landing-date claims: a dramatic public alien arrival would not be a subtle anomaly buried in incomplete records. It would be an extraordinary event requiring clear, independent evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and evaluated by the Air Force was ever...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed-Illustration-1-dark.svg" | relative_url }}" alt="Landing Dates illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_landing_dates_tests_1d64ed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,22 +469,22 @@ The US Air Force’s Project Blue Book reached no finding that investigated UFO 
 
 A dated landing claim does more than forecast an event. It organises behaviour before the event. Believers may travel, sell possessions, contact journalists, warn relatives, prepare for rescue, or gather at a chosen site. Outsiders may watch because the claim has become simple enough to understand: something is supposed to happen here, then.
 
-Dorothy Martin’s 1954 prophecy became famous partly because it had that kind of before-and-after structure. Her group expected parts of the world to be destroyed by flood before dawn on 21 December 1954, with believers rescued by flying saucer. Some followers made costly commitments, including giving up jobs, money or relationships, because the date made the prophecy feel urgent and practical. When the flood and rescue did not occur, the case became a landmark in the study of how people respond to failed prophecy, even though later scholars have challenged parts of the classic account in *When Prophecy Fails*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Dorothy Martin’s 1954 prophecy became famous partly because it had that kind of before-and-after structure. Her group expected parts of the world to be destroyed by flood before dawn on 21 December 1954, with believers rescued by flying saucer. Some followers made costly commitments, including giving up jobs, money or relationships, because the date made the prophecy feel urgent and practical. When the flood and rescue did not occur, the case became a landmark in the study of how people respond to failed prophecy, even though later scholars have challenged parts of the classic account in *When Prophecy Fails*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Chen Tao shows the same mechanism in a more media-saturated form. The Taiwanese new religious movement, also known as God’s Salvation Church, moved members to Garland, Texas, and attracted international attention with claims that God would appear on television and then physically descend in Garland at the end of March 1998. Charles Houston Prather’s study described the group as holding the attention of international media with prophecies that God would physically descend in Garland on the last day of March. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
+Chen Tao shows the same mechanism in a more media-saturated form. The Taiwanese new religious movement, also known as God’s Salvation Church, moved members to Garland, Texas, and attracted international attention with claims that God would appear on television and then physically descend in Garland at the end of March 1998. Charles Houston Prather’s study described the group as holding the attention of international media with prophecies that God would physically descend in Garland on the last day of March.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
 
-The reason such claims draw attention is not simply that they are strange. It is that they promise a public resolution. Reporters do not need to adjudicate decades of UFO lore to cover a deadline. Neighbours do not need to know the group’s full theology to understand the local stake. Police and civic officials do not need to decide whether the prophecy is true to prepare for crowds, stress, fear or possible harm. In Garland, researchers noted the interaction among Chen Tao members, neighbours, local residents, media representatives and police around the 31 March event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span></span></span>
+The reason such claims draw attention is not simply that they are strange. It is that they promise a public resolution. Reporters do not need to adjudicate decades of UFO lore to cover a deadline. Neighbours do not need to know the group’s full theology to understand the local stake. Police and civic officials do not need to decide whether the prophecy is true to prepare for crowds, stress, fear or possible harm. In Garland, researchers noted the interaction among Chen Tao members, neighbours, local residents, media representatives and police around the 31 March event itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 ## The Garland Test: When the Claim Meets the Clock
 
-Chen Tao is one of the clearest examples of a UFO-related prediction becoming a public test because the claim was unusually concrete. Accounts differ slightly on the exact television date, but the basic structure was clear: a divine television manifestation would precede a physical appearance in Garland, Texas, on 31 March 1998. Some accounts describe God appearing on Channel 18 across North America before the bodily appearance; others report the broader public expectation that God would descend physically in Garland at the end of the month. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">chen cook</span></span></span>
+Chen Tao is one of the clearest examples of a UFO-related prediction becoming a public test because the claim was unusually concrete. Accounts differ slightly on the exact television date, but the basic structure was clear: a divine television manifestation would precede a physical appearance in Garland, Texas, on 31 March 1998. Some accounts describe God appearing on Channel 18 across North America before the bodily appearance; others report the broader public expectation that God would descend physically in Garland at the end of the month.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">chen cook</span></span></span>
 
-The claim’s public form made the failure unusually difficult to hide. There was a location, a date, a media presence and an expected physical event. When God did not appear as predicted, Hon-Ming Chen reportedly acknowledged failure in striking terms, offering to be punished and saying he had misunderstood or spoken wrongly. Some sources report that many members later left or returned to Taiwan, while a smaller remnant continued with revised expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+The claim’s public form made the failure unusually difficult to hide. There was a location, a date, a media presence and an expected physical event. When God did not appear as predicted, Hon-Ming Chen reportedly acknowledged failure in striking terms, offering to be punished and saying he had misunderstood or spoken wrongly. Some sources report that many members later left or returned to Taiwan, while a smaller remnant continued with revised expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-The Garland episode also shows why public tests are socially complicated. To outsiders, the non-event looked like a simple failed prediction. For authorities, however, the date created practical responsibilities before the failure: crowd control, media presence, neighbourhood anxiety, and concern after the 1997 Heaven’s Gate deaths that a disappointed UFO-related group might become dangerous. Scholars of new religious movements have argued that media framing could distort Chen Tao’s beliefs, but the prediction still became publicly testable because the group itself had put a visible event on the calendar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span></span></span>
+The Garland episode also shows why public tests are socially complicated. To outsiders, the non-event looked like a simple failed prediction. For authorities, however, the date created practical responsibilities before the failure: crowd control, media presence, neighbourhood anxiety, and concern after the 1997 Heaven’s Gate deaths that a disappointed UFO-related group might become dangerous. Scholars of new religious movements have argued that media framing could distort Chen Tao’s beliefs, but the prediction still became publicly testable because the group itself had put a visible event on the calendar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span></span></span>
 
 The lesson is not that every group responds in the same way. Some believers leave. Some reinterpret. Some wait for a revised date. Some deny that outsiders understood the message correctly. But a dated landing claim narrows the space for ambiguity. The missed event becomes a shared reference point: supporters, critics, journalists and officials can all point to the same date and ask what happened.
 
@@ -494,9 +494,9 @@ The lesson is not that every group responds in the same way. Some believers leav
 
 Failed landing dates rarely end all belief at once. More often, they force a change in the type of claim being made. The expected event may move from physical to spiritual, from public to private, from literal to symbolic, or from failed to “averted”. This is why landing-date failures are so useful for understanding UFO prophecy: they show the moment when a claim either accepts ordinary falsification or protects itself from it.
 
-In the Ashtar tradition, this movement is especially visible. George Van Tassel first claimed contact with Ashtar in the early 1950s, and later Ashtar-related messages circulated through many channels. Christopher Helland’s work, summarised in accounts of the movement, notes that [failed predictions]({{ 'failed-predictions/' | relative_url }}) and conflicting messages damaged early expansion, while later Ashtar belief shifted away from physical fleets and towards more spiritualised ideas of ascension, guidance and higher planes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+In the Ashtar tradition, this movement is especially visible. George Van Tassel first claimed contact with Ashtar in the early 1950s, and later Ashtar-related messages circulated through many channels. Christopher Helland’s work, summarised in accounts of the movement, notes that [failed predictions]({{ 'failed-predictions/' | relative_url }}) and conflicting messages damaged early expansion, while later Ashtar belief shifted away from physical fleets and towards more spiritualised ideas of ascension, guidance and higher planes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-The 1994 Ashtar-related expectations show how a public landing can be softened into a less testable experience. Some followers expected major contact or alien arrival connected with global transformation. When physical public confirmation failed to materialise, later claims emphasised “lift-off” experiences, meditative participation, vibrational transfer and access to ships on an etheric or spiritual plane. That kind of reinterpretation is powerful because it removes the claim from the reach of ordinary public checking: outsiders cannot stand in a field with cameras and disprove an inner or spiritual boarding experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The 1994 Ashtar-related expectations show how a public landing can be softened into a less testable experience. Some followers expected major contact or alien arrival connected with global transformation. When physical public confirmation failed to materialise, later claims emphasised “lift-off” experiences, meditative participation, vibrational transfer and access to ships on an etheric or spiritual plane. That kind of reinterpretation is powerful because it removes the claim from the reach of ordinary public checking: outsiders cannot stand in a field with cameras and disprove an inner or spiritual boarding experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 Three common redefinitions recur in failed UFO landing cases:
 
@@ -518,7 +518,7 @@ These moves are not unique to UFO religion, but UFO prophecy gives them a distin
 
 Even when a failed landing is redefined, the original date still matters. It preserves a record of what was promised before the reinterpretation began. That record helps distinguish between a claim that was always spiritual or symbolic and a claim that became spiritual only after the visible event failed.
 
-This is where landing dates offer stronger evidence than many other UFO claims. A blurry photograph, radar trace, or witness memory may be debated indefinitely. A public landing prediction can be assessed against a simpler question: did the specified public event occur? In Chen Tao’s case, the answer was no. In Dorothy Martin’s case, the predicted flood and flying-saucer rescue did not occur. In Ashtar-related cases, expected physical interventions and landings repeatedly failed to produce public evidence, even as the tradition found ways to continue in altered forms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
+This is where landing dates offer stronger evidence than many other UFO claims. A blurry photograph, radar trace, or witness memory may be debated indefinitely. A public landing prediction can be assessed against a simpler question: did the specified public event occur? In Chen Tao’s case, the answer was no. In Dorothy Martin’s case, the predicted flood and flying-saucer rescue did not occur. In Ashtar-related cases, expected physical interventions and landings repeatedly failed to produce public evidence, even as the tradition found ways to continue in altered forms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
 
 That does not mean every person involved was insincere or irrational. Dated prophecies often work because they combine fear, hope, community and apparent certainty. A date can make believers feel that history is finally becoming legible. It can also make a small group feel central to a cosmic drama: they are not merely waiting; they are preparing, warning, witnessing or assisting.
 
@@ -532,7 +532,7 @@ A new alien landing date should be read less like a mysterious rumour and more l
 
 A useful test has clear conditions. It names the date and, ideally, the place. It describes what independent observers should see. It does not rely solely on the claimant’s later interpretation. It does not reserve unlimited rights to revise the outcome after the fact. It allows the possibility that the claim could be wrong.
 
-Scientific SETI practice offers a useful contrast. Protocol discussions for a possible detection of extraterrestrial intelligence emphasise confirmation, openness, public dissemination, and making necessary data available for independent scientific scrutiny. That is a very different standard from a landing prophecy that can be rescued [after failure]({{ 'after-failure/' | relative_url }}) by saying the event happened invisibly or on another plane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iaaseti.org/en/declaration-principles-concerning-activities-following-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaaseti.org">[IAASeti]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaaseti.org</span><span class="citation-popover-snippet">Open source on iaaseti.org.</span></span></span>
+Scientific SETI practice offers a useful contrast. Protocol discussions for a possible detection of extraterrestrial intelligence emphasise confirmation, openness, public dissemination, and making necessary data available for independent scientific scrutiny. That is a very different standard from a landing prophecy that can be rescued [after failure]({{ 'after-failure/' | relative_url }}) by saying the event happened invisibly or on another plane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iaaseti.org/en/declaration-principles-concerning-activities-following-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaaseti.org">[IAASeti]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaaseti.org</span><span class="citation-popover-snippet">Open source on iaaseti.org.</span></span></span>
 
 For readers assessing a current or historical claim, the practical questions are simple:
 
@@ -557,194 +557,194 @@ The most important thing about failed alien landing dates is not that they embar
 That is why landing dates are hard to escape. They leave a before-and-after trace that vague UFO claims usually avoid. The craft either lands or it does not. The broadcast happens or it does not. The rescue arrives or it does not. Later reinterpretations may keep a belief alive, but they cannot erase the public test that made the claim memorable in the first place.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Landing Dates Are Hard to Escape. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Landing Dates Are Hard to Escape. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Examines Dorothy Martin&#x27;s flying-saucer prophecy group and how believers responded when a predicted event did not occur.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines Dorothy Martin&#x27;s flying-saucer prophecy group and how believers responded when a predicted event did not occur.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why people form, defend, and reinterpret beliefs after contradictory evidence appears.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people form, defend, and reinterpret beliefs after contradictory evidence appears.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating testable claims and understanding why extraordinary predictions can be persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating testable claims and understanding why extraordinary predictions can be persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Supplies broader UFO context that helps readers distinguish observational claims from prophetic landing predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supplies broader UFO context that helps readers distinguish observational claims from prophetic landing predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="landing-dates-why-landing-dates-are-hard-to-escape-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -760,7 +760,7 @@ That is why landing dates are hard to escape. They leave a before-and-after trac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -780,7 +780,7 @@ That is why landing dates are hard to escape. They leave a before-and-after trac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -812,7 +812,7 @@ That is why landing dates are hard to escape. They leave a before-and-after trac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -864,7 +864,7 @@ That is why landing dates are hard to escape. They leave a before-and-after trac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -909,7 +909,7 @@ That is why landing dates are hard to escape. They leave a before-and-after trac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -950,204 +950,204 @@ That is why landing dates are hard to escape. They leave a before-and-after trac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects:(1) no UFO reported, investigated, and evaluated by the Air Force has ev...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects:(1) no UFO reported, investigated, and evaluated by the Air Force has ev...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — The cult did not persist, proselytize...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — The cult did not persist, proselytize...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jstor.org  
    Title: The Encyclopedic Sourcebook of UFO Religions  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2004.8.2.112" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2004.8.2.112</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Edited by...by R Ellwood · 2004 — The classic sociological study of a small UFO group, When Prophecy. Fails, by Leon Festinger, Henry Ri...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2004.8.2.112" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2004.8.2.112</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edited by...by R Ellwood · 2004 — The classic sociological study of a small UFO group, When Prophecy. Fails, by Leon Festinger, Henry Ri...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Research Gate Reporters in God-land, Texas: The Role of the Mass Media  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iaaseti.org  
-   Link: <a href="https://iaaseti.org/en/declaration-principles-concerning-activities-following-detection/" target="_blank" rel="noopener noreferrer nofollow">https://iaaseti.org/en/declaration-principles-concerning-activities-following-detection/</a>  
+   Link:<a href="https://iaaseti.org/en/declaration-principles-concerning-activities-following-detection/" target="_blank" rel="noopener noreferrer nofollow">https://iaaseti.org/en/declaration-principles-concerning-activities-following-detection/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/j.ctv33b9vfc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/j.ctv33b9vfc.pdf</a>  
+   Link:<a href="https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/j.ctv33b9vfc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/pdf/oa_book_monograph/10.2307/j.ctv33b9vfc.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Ground Crew Project  
-   Link: <a href="https://en.wikipedia.org/wiki/Ground_Crew_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ground_Crew_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ground_Crew_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ground_Crew_Project</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of dates predicted for apocalyptic events  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: seti.org  
    Title: beyond [disclosure](&#123;&#123; 'disclosure/' | relative_url &#125;&#125;) day  
-   Link: <a href="https://www.seti.org/news/beyond-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/news/beyond-disclosure-day/</a>  
+   Link:<a href="https://www.seti.org/news/beyond-disclosure-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/news/beyond-disclosure-day/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: seti.org  
-   Link: <a href="https://www.seti.org/research/seti-101/protocols-for-an-eti-signal-detection/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/protocols-for-an-eti-signal-detection/</a>  
+   Link:<a href="https://www.seti.org/research/seti-101/protocols-for-an-eti-signal-detection/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/protocols-for-an-eti-signal-detection/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes</a>  
+   Link:<a href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 397254906 Debunking When Prophecy Fails  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396542303_SETI_Post-Detection_Protocols_Progress_Towards_a_New_Version" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396542303_SETI_Post-Detection_Protocols_Progress_Towards_a_New_Version</a>  
+   Link:<a href="https://www.researchgate.net/publication/396542303_SETI_Post-Detection_Protocols_Progress_Towards_a_New_Version" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396542303_SETI_Post-Detection_Protocols_Progress_Towards_a_New_Version</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: time.com  
    Title: ufo cultists political paranoia essay  
-   Link: <a href="https://time.com/6960441/ufo-cultists-political-paranoia-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6960441/ufo-cultists-political-paranoia-essay/</a>  
+   Link:<a href="https://time.com/6960441/ufo-cultists-political-paranoia-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6960441/ufo-cultists-political-paranoia-essay/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and evaluated by the Air Force was ever...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and evaluated by the Air Force was ever...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b8Ja16qpAFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8Ja16qpAFE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=b8Ja16qpAFE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8Ja16qpAFE</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TF0n_yISOzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TF0n_yISOzQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TF0n_yISOzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TF0n_yISOzQ</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: iaaspace.org  
-   Link: <a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/iaasetideclaration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/iaasetideclaration.pdf</a>  
+   Link:<a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/iaasetideclaration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/iaasetideclaration.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: USA: TAIWANESE CULT DISAPPOINTED AT GOD'S FAILURE TO APPEAR ON TV  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — Why Failed Beliefs Get Stronger...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — Why Failed Beliefs Get Stronger...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: When Prophecy Fails — Why Failed Beliefs Get Stronger  
-   Link: <a href="https://www.youtube.com/watch?v=3sOV0HENbkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3sOV0HENbkE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — The System Behind Doubling Down...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3sOV0HENbkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3sOV0HENbkE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — The System Behind Doubling Down...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: arxiv.org  
    Title: arXiv SETI Post-Detection Protocols: Progress Towards a New Version  
-   Link: <a href="https://arxiv.org/abs/2510.14506" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.14506</a>  
+   Link:<a href="https://arxiv.org/abs/2510.14506" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.14506</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+   Link:<a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-[nasa-report" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-[nasa-report</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-[nasa-report" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-[nasa-report</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/legitngnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/969764135369996/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/legitngnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/969764135369996/</a>  
+   Link:<a href="https://www.facebook.com/legitngnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/969764135369996/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/legitngnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/969764135369996/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  

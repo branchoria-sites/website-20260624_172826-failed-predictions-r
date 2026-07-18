@@ -451,13 +451,13 @@ image: /assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d-ov
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d-overview.webp" | relative_url }}" alt="Overview image for Hidden Success" loading="eager" decoding="sync" fetchpriority="high">
-The best-known example comes from the 1954 flying-saucer rescue prophecy studied in *When Prophecy Fails*. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s group expected a devastating flood and rescue by spacecraft; when neither arrived, the reported explanation was that the group’s faith had helped spare the world. Later research and criticism have complicated the reliability of the classic account, but the mechanism it describes remains important for understanding how failed UFO predictions can survive the non-appearance of the UFO itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive+2secularhumanism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
+The best-known example comes from the 1954 flying-saucer rescue prophecy studied in *When Prophecy Fails*. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s group expected a devastating flood and rescue by spacecraft; when neither arrived, the reported explanation was that the group’s faith had helped spare the world. Later research and criticism have complicated the reliability of the classic account, but the mechanism it describes remains important for understanding how failed UFO predictions can survive the non-appearance of the UFO itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive+2secularhumanism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
 
 ## The hidden-success move
 
 The hidden-success move begins with a prediction that appears, at first, to be testable. A craft will arrive. A landing will happen. A disaster will be avoided only if a special group is rescued or instructed by higher beings. The date passes. The visible event does not happen. At that point, the explanation changes the meaning of failure: the missing UFO is no longer treated as evidence against the claim, but as evidence that a deeper intervention occurred.
 
-In the classic Dorothy [Martin case]({{ 'martin-case/' | relative_url }}), the group expected a flood before dawn on 21 December 1954 and believed selected followers would be rescued by spacecraft. According to the standard account, after hours of waiting and no visitor from space, Martin received a message saying that the small group had “spread so much light” that God had saved the world from destruction. The important point is not only that the catastrophe failed to occur; it is that the non-catastrophe was redescribed as the group’s achievement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In the classic Dorothy [Martin case]({{ 'martin-case/' | relative_url }}), the group expected a flood before dawn on 21 December 1954 and believed selected followers would be rescued by spacecraft. According to the standard account, after hours of waiting and no visitor from space, Martin received a message saying that the small group had “spread so much light” that God had saved the world from destruction. The important point is not only that the catastrophe failed to occur; it is that the non-catastrophe was redescribed as the group’s achievement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 That explanation has a powerful internal logic. If the original prediction was “destruction is coming unless a spiritually significant intervention occurs”, then the lack of destruction can be treated as the intervention’s success. The believers do not have to say the prophecy was false. They can say the most important part happened invisibly: cosmic forces responded, disaster was averted, the world was spared, or humanity was given more time.
 
@@ -467,11 +467,11 @@ This is why invisible success is harder to test than a simple failed landing. A 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Success illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why it preserves belief after no UFO appears
 
-Invisible success helps preserve belief because it protects three things at once: the authority of the source, the meaning of the believers’ sacrifices, and the larger cosmic story. In many failed UFO predictions, followers have not merely entertained an idea; they may have rearranged their lives, faced public embarrassment, ended relationships, spent money, travelled, or publicly identified themselves with the claim. *When Prophecy Fails* became famous partly because it described how heavy commitment can make abandoning a failed prophecy psychologically and socially costly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
+Invisible success helps preserve belief because it protects three things at once: the authority of the source, the meaning of the believers’ sacrifices, and the larger cosmic story. In many failed UFO predictions, followers have not merely entertained an idea; they may have rearranged their lives, faced public embarrassment, ended relationships, spent money, travelled, or publicly identified themselves with the claim. *When Prophecy Fails* became famous partly because it described how heavy commitment can make abandoning a failed prophecy psychologically and socially costly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
 
 The hidden-success explanation also gives the group a role. Instead of being people who waited for a spacecraft that did not come, they become people whose faith, energy or special knowledge helped prevent disaster. That [reframing]({{ 'reframing/' | relative_url }}) matters. It converts humiliation into mission. It also gives members a reason to speak publicly: outsiders need to know that the world was spared, even though the saving event left no ordinary evidence.
 
-This is the point at which the mechanism becomes circular. If outsiders reject the explanation, their rejection can itself be folded into the belief system: they are spiritually unprepared, too materialistic, or unable to perceive subtler realities. Jon R. Stone’s discussion of the Festinger thesis notes that public proclamation can itself reduce dissonance, and that rejection by outsiders may become part of the confirmation structure rather than a reason to reconsider. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
+This is the point at which the mechanism becomes circular. If outsiders reject the explanation, their rejection can itself be folded into the belief system: they are spiritually unprepared, too materialistic, or unable to perceive subtler realities. Jon R. Stone’s discussion of the Festinger thesis notes that public proclamation can itself reduce dissonance, and that rejection by outsiders may become part of the confirmation structure rather than a reason to reconsider.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
 
 UFO-based movements are especially suited to this move because many already combine physical and spiritual registers. A predicted saucer can be described as a machine, a divine vehicle, a higher-dimensional craft, a rescue platform or a symbol of cosmic transition. When the physical object fails to appear, the interpretation can migrate towards the spiritual side without abandoning the UFO language altogether.
 
@@ -484,9 +484,9 @@ Invisible success is not the same as saying “the UFOs will come later”. Dela
 
 That distinction matters because delay remains partly testable. A revised date can fail again. A new landing window can be watched. A hidden success claim is more insulated. It does not need a new date; it needs a new interpretation of the already-passed date. The failed event becomes a turning point that only insiders understand correctly.
 
-Chen Tao, the Taiwanese UFO-related religious movement that gathered in [Garland]({{ 'garland/' | relative_url }}), Texas, in 1998, shows the difference. Its public predictions included a divine television appearance and later apocalyptic events. When predicted events did not occur, later explanations included postponement: God had delayed crises and pushed them into the future. That is a delay strategy, not pure hidden success, because it keeps the expected events pending rather than claiming that the lack of visible fulfilment was itself the fulfilment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
+Chen Tao, the Taiwanese UFO-related religious movement that gathered in [Garland]({{ 'garland/' | relative_url }}), Texas, in 1998, shows the difference. Its public predictions included a divine television appearance and later apocalyptic events. When predicted events did not occur, later explanations included postponement: God had delayed crises and pushed them into the future. That is a delay strategy, not pure hidden success, because it keeps the expected events pending rather than claiming that the lack of visible fulfilment was itself the fulfilment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
 
-The Ashtar Command tradition shows a more blended pattern. Some strands predicted physical landings, evacuations, or catastrophic transformations; when public fulfilments failed, later currents shifted emphasis towards spiritual development, ascended-master teaching, invisible fleets, and non-interference unless a severe planetary crisis required action. In that setting, the non-arrival of spacecraft can be framed less as failure than as restraint, protection, or evidence that humanity’s transition is unfolding on a subtler level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The Ashtar Command tradition shows a more blended pattern. Some strands predicted physical landings, evacuations, or catastrophic transformations; when public fulfilments failed, later currents shifted emphasis towards spiritual development, ascended-master teaching, invisible fleets, and non-interference unless a severe planetary crisis required action. In that setting, the non-arrival of spacecraft can be framed less as failure than as restraint, protection, or evidence that humanity’s transition is unfolding on a subtler level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 A useful way to separate the two moves is this:
 
@@ -506,11 +506,11 @@ These moves can overlap, but they do different work. Delay preserves expectation
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Success illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Dorothy Martin case and its limits
 
-The Dorothy Martin case remains the central example because it is so cleanly structured: a dated catastrophe, expected saucer rescue, non-arrival, and a reported message that reframed survival as proof of divine mercy. It is also central because the social psychologists who studied it used the case to develop the public language of cognitive dissonance: the discomfort caused when evidence conflicts with a costly belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
+The Dorothy Martin case remains the central example because it is so cleanly structured: a dated catastrophe, expected saucer rescue, non-arrival, and a reported message that reframed survival as proof of divine mercy. It is also central because the social psychologists who studied it used the case to develop the public language of cognitive dissonance: the discomfort caused when evidence conflicts with a costly belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
 
-But the case should not be treated too simply. Recent archival criticism by Thomas Kelly argues that the canonical version in *When Prophecy Fails* exaggerated or fabricated important elements, and that Martin’s group may not have behaved as the famous theory claimed. The criticism does not make the hidden-success mechanism irrelevant, but it does warn against using one dramatic case as if it proves a universal law of human behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</span></span></span>
+But the case should not be treated too simply. Recent archival criticism by Thomas Kelly argues that the canonical version in *When Prophecy Fails* exaggerated or fabricated important elements, and that Martin’s group may not have behaved as the famous theory claimed. The criticism does not make the hidden-success mechanism irrelevant, but it does warn against using one dramatic case as if it proves a universal law of human behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</span></span></span>
 
-That caution is useful for UFO prophecy more broadly. Not every failed prediction produces stronger belief. Some groups fragment. Some members leave quietly. Some leaders retreat from public claims. Some believers adopt delay rather than hidden fulfilment. Stone’s broader review of failed prophecy research stresses variation: responses depend on leadership, group support, preparation, social cost, and the availability of plausible reinterpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
+That caution is useful for UFO prophecy more broadly. Not every failed prediction produces stronger belief. Some groups fragment. Some members leave quietly. Some leaders retreat from public claims. Some believers adopt delay rather than hidden fulfilment. Stone’s broader review of failed prophecy research stresses variation: responses depend on leadership, group support, preparation, social cost, and the availability of plausible reinterpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
 
 The best use of the Martin case, then, is not as a rigid template. It is a vivid model of one possible survival strategy: when no UFO appears, the absence can be turned into a sacred outcome.
 
@@ -521,7 +521,7 @@ The best use of the Martin case, then, is not as a rigid template. It is a vivid
 
 Outsiders usually find invisible success claims unconvincing because they remove the original test. If a prediction says a saucer will arrive and no saucer arrives, ordinary evaluation says the prediction failed. If the reply is that invisible beings prevented something worse, there is no independent way to distinguish success from a failed claim protected by reinterpretation.
 
-This is not the same as saying all UFO or UAP reports are fraudulent, or that every unexplained sighting has a simple answer immediately available. Official reviews have often acknowledged [unresolved]({{ 'unresolved/' | relative_url }}) cases. Project Blue Book recorded 701 unidentified sightings out of 12,618 reports, while still concluding that no investigated UFO was shown to be an extraterrestrial vehicle or beyond modern scientific knowledge. NASA’s UAP material similarly says that there is no evidence that UAP are extraterrestrial, while stressing that limited high-quality data makes many reports difficult to evaluate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+This is not the same as saying all UFO or UAP reports are fraudulent, or that every unexplained sighting has a simple answer immediately available. Official reviews have often acknowledged [unresolved]({{ 'unresolved/' | relative_url }}) cases. Project Blue Book recorded 701 unidentified sightings out of 12,618 reports, while still concluding that no investigated UFO was shown to be an extraterrestrial vehicle or beyond modern scientific knowledge. NASA’s UAP material similarly says that there is no evidence that UAP are extraterrestrial, while stressing that limited high-quality data makes many reports difficult to evaluate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 The problem with hidden-success prophecy is narrower: it treats lack of evidence as though it were positive evidence. A missing spacecraft, a missing landing, or a missing catastrophe is not just left unexplained; it is made to carry the burden of proof. That reverses normal evidential standards. In scientific or historical inquiry, an unobserved event usually needs stronger supporting evidence, not weaker scrutiny.
 
@@ -544,194 +544,194 @@ A fair test asks in advance what would count as failure. If no possible non-even
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Nothing Happening Becomes the Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Nothing Happening Becomes the Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">The page explicitly discusses the Dorothy Martin flying-saucer prophecy and the hidden-success reinterpretation studied in this book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The page explicitly discusses the Dorothy Martin flying-saucer prophecy and the hidden-success reinterpretation studied in this book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains self-justification and how people reinterpret evidence to protect prior beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-justification and how people reinterpret evidence to protect prior beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why people form beliefs first and rationalize them afterward, including extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people form beliefs first and rationalize them afterward, including extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers historical examples of collective belief and the social dynamics that sustain implausible claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Offers historical examples of collective belief and the social dynamics that sustain implausible claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="hidden-success-when-nothing-happening-becomes-the-proof-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -747,7 +747,7 @@ A fair test asks in advance what would count as failure. If no possible non-even
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -767,7 +767,7 @@ A fair test asks in advance what would count as failure. If no possible non-even
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -799,7 +799,7 @@ A fair test asks in advance what would count as failure. If no possible non-even
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -851,7 +851,7 @@ A fair test asks in advance what would count as failure. If no possible non-even
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -896,7 +896,7 @@ A fair test asks in advance what would count as failure. If no possible non-even
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -937,178 +937,178 @@ A fair test asks in advance what would count as failure. If no possible non-even
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "How Prophecy Lives"  
-   Link: <a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: secularhumanism.org  
    Title: When We Become the Seekers | Free Inquiry  
-   Link: <a href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow">https://secularhumanism.org/2024/11/when-we-become-the-seekers/</a>  
+   Link:<a href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow">https://secularhumanism.org/2024/11/when-we-become-the-seekers/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Debunking “When Prophecy Fails”  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/encyclopedicsour0000unse_q7a9" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/encyclopedicsour0000unse_q7a9</a>  
+   Link:<a href="https://archive.org/details/encyclopedicsour0000unse_q7a9" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/encyclopedicsour0000unse_q7a9</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: [Ashtar](&#123;&#123; 'ashtar/' | relative_url &#125;&#125;) Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dn790008.ca.archive.org  
-   Link: <a href="https://dn790008.ca.archive.org/0/items/historyofstmarga00unknuoft/historyofstmarga00unknuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790008.ca.archive.org/0/items/historyofstmarga00unknuoft/historyofstmarga00unknuoft.pdf</a>  
+   Link:<a href="https://dn790008.ca.archive.org/0/items/historyofstmarga00unknuoft/historyofstmarga00unknuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790008.ca.archive.org/0/items/historyofstmarga00unknuoft/historyofstmarga00unknuoft.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dn790008.ca.archive.org  
    Title: edg4 1Twelve Steps to a Compassionate Life Karen Armstrong  
-   Link: <a href="https://dn790008.ca.archive.org/0/items/edg4-1/edg4-1Twelve%20Steps%20to%20a%20Compassionate%20Life%20Karen%20Armstrong.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790008.ca.archive.org/0/items/edg4-1/edg4-1Twelve%20Steps%20to%20a%20Compassionate%20Life%20Karen%20Armstrong.pdf</a>  
+   Link:<a href="https://dn790008.ca.archive.org/0/items/edg4-1/edg4-1Twelve%20Steps%20to%20a%20Compassionate%20Life%20Karen%20Armstrong.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790008.ca.archive.org/0/items/edg4-1/edg4-1Twelve%20Steps%20to%20a%20Compassionate%20Life%20Karen%20Armstrong.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/christianbookslibrarypdf/CHRISTIAN%20BOOKS%20LIBRARY%20PDF.zip/Translating%20God_%20Hearing%20God%27s%20Voice%20for%20Y%20-%20Shawn%20Bolz.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/christianbookslibrarypdf/CHRISTIAN%20BOOKS%20LIBRARY%20PDF.zip/Translating%20God_%20Hearing%20God%27s%20Voice%20for%20Y%20-%20Shawn%20Bolz.pdf</a>  
+   Link:<a href="https://archive.org/download/christianbookslibrarypdf/CHRISTIAN%20BOOKS%20LIBRARY%20PDF.zip/Translating%20God_%20Hearing%20God%27s%20Voice%20for%20Y%20-%20Shawn%20Bolz.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/christianbookslibrarypdf/CHRISTIAN%20BOOKS%20LIBRARY%20PDF.zip/Translating%20God_%20Hearing%20God%27s%20Voice%20for%20Y%20-%20Shawn%20Bolz.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dn790006.ca.archive.org  
-   Link: <a href="https://dn790006.ca.archive.org/0/items/cu31924029464249/cu31924029464249.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790006.ca.archive.org/0/items/cu31924029464249/cu31924029464249.pdf</a>  
+   Link:<a href="https://dn790006.ca.archive.org/0/items/cu31924029464249/cu31924029464249.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790006.ca.archive.org/0/items/cu31924029464249/cu31924029464249.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dn790005.ca.archive.org  
-   Link: <a href="https://dn790005.ca.archive.org/0/items/ourangelfriendsi00fowluoft/ourangelfriendsi00fowluoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790005.ca.archive.org/0/items/ourangelfriendsi00fowluoft/ourangelfriendsi00fowluoft.pdf</a>  
+   Link:<a href="https://dn790005.ca.archive.org/0/items/ourangelfriendsi00fowluoft/ourangelfriendsi00fowluoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790005.ca.archive.org/0/items/ourangelfriendsi00fowluoft/ourangelfriendsi00fowluoft.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dn790004.ca.archive.org  
-   Link: <a href="https://dn790004.ca.archive.org/0/items/historyofnewthou00dresuoft/historyofnewthou00dresuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/historyofnewthou00dresuoft/historyofnewthou00dresuoft.pdf</a>  
+   Link:<a href="https://dn790004.ca.archive.org/0/items/historyofnewthou00dresuoft/historyofnewthou00dresuoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/historyofnewthou00dresuoft/historyofnewthou00dresuoft.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ia600304.us.archive.org  
-   Link: <a href="https://ia600304.us.archive.org/7/items/annodominijesust00goad/annodominijesust00goad.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600304.us.archive.org/7/items/annodominijesust00goad/annodominijesust00goad.pdf</a>  
+   Link:<a href="https://ia600304.us.archive.org/7/items/annodominijesust00goad/annodominijesust00goad.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600304.us.archive.org/7/items/annodominijesust00goad/annodominijesust00goad.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dn790008.ca.archive.org  
-   Link: <a href="https://dn790008.ca.archive.org/0/items/12thessalonians00unse/12thessalonians00unse.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790008.ca.archive.org/0/items/12thessalonians00unse/12thessalonians00unse.pdf</a>  
+   Link:<a href="https://dn790008.ca.archive.org/0/items/12thessalonians00unse/12thessalonians00unse.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790008.ca.archive.org/0/items/12thessalonians00unse/12thessalonians00unse.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ia801803.us.archive.org  
-   Link: <a href="https://ia801803.us.archive.org/25/items/princetonseminar6231prin/princetonseminar6231prin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/25/items/princetonseminar6231prin/princetonseminar6231prin.pdf</a>  
+   Link:<a href="https://ia801803.us.archive.org/25/items/princetonseminar6231prin/princetonseminar6231prin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/25/items/princetonseminar6231prin/princetonseminar6231prin.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: [Aetherius](&#123;&#123; 'aetherius/' | relative_url &#125;&#125;) Society  
-   Link: <a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aetherius_Society</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aetherius_Society</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: books.google.com  
    Title: When Prophecy Fails  
-   Link: <a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: extraterrestrials.fandom.com  
    Title: Ashtar command  
-   Link: <a href="https://extraterrestrials.fandom.com/wiki/Ashtar_command" target="_blank" rel="noopener noreferrer nofollow">https://extraterrestrials.fandom.com/wiki/Ashtar_command</a>  
+   Link:<a href="https://extraterrestrials.fandom.com/wiki/Ashtar_command" target="_blank" rel="noopener noreferrer nofollow">https://extraterrestrials.fandom.com/wiki/Ashtar_command</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: markfoster.net  
    Title: Ashtar Galactic Command  
-   Link: <a href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe People6 Jun 2019 — The Ashtar command also has mother ships that are anchored in space that are as long as 100 miles in diameter...</p></details>
+   Link:<a href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe People6 Jun 2019 — The Ashtar command also has mother ships that are anchored in space that are as long as 100 miles in diameter...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: When Prophecy Fails — Why Failed Beliefs Get Stronger  
-   Link: <a href="https://www.youtube.com/watch?v=3sOV0HENbkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3sOV0HENbkE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — The System Behind Doubling Down...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3sOV0HENbkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3sOV0HENbkE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — The System Behind Doubling Down...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cornishbirdblog/posts/the-stone-that-predicts-the-end-of-the-world-this-divided-stone-stands-in-st-lev/1506895644070221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornishbirdblog/posts/the-stone-that-predicts-the-end-of-the-world-this-divided-stone-stands-in-st-lev/1506895644070221/</a>  
+   Link:<a href="https://www.facebook.com/cornishbirdblog/posts/the-stone-that-predicts-the-end-of-the-world-this-divided-stone-stands-in-st-lev/1506895644070221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cornishbirdblog/posts/the-stone-that-predicts-the-end-of-the-world-this-divided-stone-stands-in-st-lev/1506895644070221/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+   Link:<a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/1950s-science-fiction-films-and-9-11-hostile-aliens-hollywood-and-todays-news-9780875864976-9780875864983-9780875864990.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/1950s-science-fiction-films-and-9-11-hostile-aliens-hollywood-and-todays-news-9780875864976-9780875864983-9780875864990.html</a>  
+   Link:<a href="https://dokumen.pub/1950s-science-fiction-films-and-9-11-hostile-aliens-hollywood-and-todays-news-9780875864976-9780875864983-9780875864990.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/1950s-science-fiction-films-and-9-11-hostile-aliens-hollywood-and-todays-news-9780875864976-9780875864983-9780875864990.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
+   Link:<a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  

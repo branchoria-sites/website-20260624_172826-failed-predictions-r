@@ -280,13 +280,13 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_pro
 
 ## Introduction
 
-Failed UFO prophecies do not always produce stronger belief. The classic image, popularised by the study *When Prophecy Fails*, is that believers reinterpret the failure and become even more committed. Yet many UFO-based prophetic movements have followed a different path. Missed predictions can undermine [leaders]({{ 'leaders/' | relative_url }}), expose weaknesses in the belief system, trigger membership losses and, in some cases, effectively destroy the movement. Research on failed prophecy increasingly suggests that collapse is at least as important a pattern as persistence. The key question is not simply whether a prediction fails, but whether followers still trust the person who made it and whether the group can construct a convincing explanation for what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao</span><span class="citation-popover-snippet">Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</span><span class="citation-popover-meta">Published: January 1, 2011</span></span></span>
+Failed UFO prophecies do not always produce stronger belief. The classic image, popularised by the study *When Prophecy Fails*, is that believers reinterpret the failure and become even more committed. Yet many UFO-based prophetic movements have followed a different path. Missed predictions can undermine [leaders]({{ 'leaders/' | relative_url }}), expose weaknesses in the belief system, trigger membership losses and, in some cases, effectively destroy the movement. Research on failed prophecy increasingly suggests that collapse is at least as important a pattern as persistence. The key question is not simply whether a prediction fails, but whether followers still trust the person who made it and whether the group can construct a convincing explanation for what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao</span><span class="citation-popover-snippet">Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</span><span class="citation-popover-meta">Published: January 1, 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-1-dark.svg" | relative_url }}" alt="Collapse illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Doubling Down Is Not Automatic
 
-The [cognitive dissonance]({{ 'dissonance/' | relative_url }}) model associated with [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s 1954 UFO rescue prophecy showed one possible response to disconfirmation: believers reinterpret events to preserve commitment. But even in that famous case, the historical record is more complicated than the simplified story often repeated in popular culture. Some members left immediately, and later scholarship argues that the group itself quickly fragmented rather than becoming a durable success story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disconfirmed expectancy</span><span class="citation-popover-snippet">Disconfirmed expectancy</span></span></span>
+The [cognitive dissonance]({{ 'dissonance/' | relative_url }}) model associated with [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s 1954 UFO rescue prophecy showed one possible response to disconfirmation: believers reinterpret events to preserve commitment. But even in that famous case, the historical record is more complicated than the simplified story often repeated in popular culture. Some members left immediately, and later scholarship argues that the group itself quickly fragmented rather than becoming a durable success story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disconfirmed expectancy</span><span class="citation-popover-snippet">Disconfirmed expectancy</span></span></span>
 
 Several mechanisms push movements towards collapse instead of adaptation:
 
@@ -294,7 +294,7 @@ Several mechanisms push movements towards collapse instead of adaptation:
 * **The leader's authority is tied directly to the prophecy.** If the leader claimed unique access to extraterrestrial or divine information, the failure strikes at the source of legitimacy.
 * **Members have alternative social networks.** People who retain strong ties outside the group can leave more easily.
 * **Material sacrifices become impossible to justify.** Lost money, relocation, broken relationships or abandoned careers can become evidence that followers were misled rather than spiritually tested.
-* **No persuasive reinterpretation emerges.** A failed prophecy requires an explanation. Without one, the contradiction remains visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao</span><span class="citation-popover-snippet">Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</span><span class="citation-popover-meta">Published: January 1, 2011</span></span></span>
+* **No persuasive reinterpretation emerges.** A failed prophecy requires an explanation. Without one, the contradiction remains visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao</span><span class="citation-popover-snippet">Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</span><span class="citation-popover-meta">Published: January 1, 2011</span></span></span>
 
 The result is that failed UFO prophecies often function as stress tests. Instead of revealing hidden strength, they expose weaknesses that had previously been concealed by anticipation and excitement.
 
@@ -307,9 +307,9 @@ One of the strongest predictors of collapse is damage to leadership credibility.
 
 A leader who openly admits error may preserve personal integrity but can simultaneously weaken the foundation of the movement. A leader who refuses to admit error faces a different risk: followers may conclude that increasingly elaborate explanations are attempts to avoid responsibility.
 
-This dilemma is particularly severe in UFO-centred groups because the source of authority is often inaccessible. Followers cannot independently verify messages allegedly received from extraterrestrials, ascended beings or cosmic intelligences. Once confidence in the channel weakens, the entire chain of revelation can unravel. Scholars of failed prophecy have repeatedly noted that movements survive only when enough members continue to regard the leader as a credible interpreter of events. When that trust breaks, organisational decline often follows quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao</span><span class="citation-popover-snippet">Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</span><span class="citation-popover-meta">Published: January 1, 2011</span></span></span>
+This dilemma is particularly severe in UFO-centred groups because the source of authority is often inaccessible. Followers cannot independently verify messages allegedly received from extraterrestrials, ascended beings or cosmic intelligences. Once confidence in the channel weakens, the entire chain of revelation can unravel. Scholars of failed prophecy have repeatedly noted that movements survive only when enough members continue to regard the leader as a credible interpreter of events. When that trust breaks, organisational decline often follows quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao</span><span class="citation-popover-snippet">Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</span><span class="citation-popover-meta">Published: January 1, 2011</span></span></span>
 
-Recent critiques of the traditional *When Prophecy Fails* narrative have gone further, arguing that the famous case itself may have been remembered incorrectly. Rather than demonstrating enduring commitment, some researchers contend that the failed prophecy substantially reduced enthusiasm, weakened the movement and contributed to its dissolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”FRS claimed about the UFO cult in When Prophecy Fails to what... For instance, both Dawson and Melto...</span></span></span>
+Recent critiques of the traditional *When Prophecy Fails* narrative have gone further, arguing that the famous case itself may have been remembered incorrectly. Rather than demonstrating enduring commitment, some researchers contend that the failed prophecy substantially reduced enthusiasm, weakened the movement and contributed to its dissolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”FRS claimed about the UFO cult in When Prophecy Fails to what... For instance, both Dawson and Melto...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-2-dark.svg" | relative_url }}" alt="Collapse illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,20 +317,20 @@ Recent critiques of the traditional *When Prophecy Fails* narrative have gone fu
 
 ### Chen Tao and the Failure of Public Prediction
 
-The clearest UFO-related example of collapse is Chen Tao, also known as God's Salvation Church. The movement combined religious teachings with UFO themes and became internationally known after leader Hon-Ming Chen predicted that God would appear on American television and then physically manifest in Texas in March 1998. Neither event occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica10 Failed Doomsday Predictions</span><span class="citation-popover-snippet">June 13, 2025 — Hon-Ming Chen established Chen Tao, or True Way, a religious movement that blended elements of Christianity, Buddhism, UF...</span><span class="citation-popover-meta">Published: June 13, 2025</span></span></span>
+The clearest UFO-related example of collapse is Chen Tao, also known as God's Salvation Church. The movement combined religious teachings with UFO themes and became internationally known after leader Hon-Ming Chen predicted that God would appear on American television and then physically manifest in Texas in March 1998. Neither event occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica10 Failed Doomsday Predictions</span><span class="citation-popover-snippet">June 13, 2025 — Hon-Ming Chen established Chen Tao, or True Way, a religious movement that blended elements of Christianity, Buddhism, UF...</span><span class="citation-popover-meta">Published: June 13, 2025</span></span></span>
 
-Unlike the stereotypical image of believers becoming more devoted after disconfirmation, the group experienced major losses. Contemporary accounts and later studies reported that roughly two-thirds of members departed after the [failed predictions]({{ 'failed-predictions/' | relative_url }}). Remaining followers attempted to reinterpret events and continued for a time, but the movement never recovered its earlier momentum. Researchers have frequently cited Chen Tao as a case in which failed prophecy led not to revitalisation but to organisational decline and near-demise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">The failed prophecies in Garland left</span><span class="citation-popover-snippet">God&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — Most of the people who could ha...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+Unlike the stereotypical image of believers becoming more devoted after disconfirmation, the group experienced major losses. Contemporary accounts and later studies reported that roughly two-thirds of members departed after the [failed predictions]({{ 'failed-predictions/' | relative_url }}). Remaining followers attempted to reinterpret events and continued for a time, but the movement never recovered its earlier momentum. Researchers have frequently cited Chen Tao as a case in which failed prophecy led not to revitalisation but to organisational decline and near-demise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">The failed prophecies in Garland left</span><span class="citation-popover-snippet">God&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — Most of the people who could ha...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
-The importance of Chen Tao lies not merely in the numerical decline. It demonstrates that cognitive dissonance can have two outcomes. Some members rationalised the failure, while many others treated it as evidence that the original claims were false. The same failed prediction generated both reactions simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">The failed prophecies in Garland left</span><span class="citation-popover-snippet">God&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — Most of the people who could ha...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+The importance of Chen Tao lies not merely in the numerical decline. It demonstrates that cognitive dissonance can have two outcomes. Some members rationalised the failure, while many others treated it as evidence that the original claims were false. The same failed prediction generated both reactions simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">The failed prophecies in Garland left</span><span class="citation-popover-snippet">God&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — Most of the people who could ha...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yJ3ilyecMBU" title="When Prophecy Fails — The System Behind Doubling Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer">When Prophecy Fails — The System Behind Doubling Down</a></p><p class="youtube-embed-meta">Channel: Crisis in Perception</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yJ3ilyecMBU">Open on YouTube</a></p></div></div></div>
 
 ### The Forgotten Leavers
 
-Studies of UFO prophecy often focus on the believers who stay because they remain visible to researchers. Those who quietly leave are harder to track. This creates a potential survivorship bias: movements that endure are easier to study than movements that disappear. Several scholars have argued that the academic literature has sometimes overemphasised persistence while underestimating the frequency of collapse and attrition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.equinoxpub.com/IJSNR/article/view/33085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.equinoxpub.com">[Equinox Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.equinoxpub.com</span><span class="citation-popover-snippet">1998. “Chen Tao: A Case Study in the Failure of Prophecy.” Paper presented at Society for the Scientific Study of Religion. Montreal...</span></span></span>
+Studies of UFO prophecy often focus on the believers who stay because they remain visible to researchers. Those who quietly leave are harder to track. This creates a potential survivorship bias: movements that endure are easier to study than movements that disappear. Several scholars have argued that the academic literature has sometimes overemphasised persistence while underestimating the frequency of collapse and attrition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.equinoxpub.com/IJSNR/article/view/33085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.equinoxpub.com">[Equinox Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.equinoxpub.com</span><span class="citation-popover-snippet">1998. “Chen Tao: A Case Study in the Failure of Prophecy.” Paper presented at Society for the Scientific Study of Religion. Montreal...</span></span></span>
 
-The people who leave are often the least visible part of the story. They do not publish new doctrines, run organisations or grant interviews as representatives of the movement. Yet their [departures]({{ 'departures/' | relative_url }}) may be the most common reaction to failed prophecy. In many cases, members simply drift away, return to ordinary life and stop treating the prediction as meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao</span><span class="citation-popover-snippet">Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</span><span class="citation-popover-meta">Published: January 1, 2011</span></span></span>
+The people who leave are often the least visible part of the story. They do not publish new doctrines, run organisations or grant interviews as representatives of the movement. Yet their [departures]({{ 'departures/' | relative_url }}) may be the most common reaction to failed prophecy. In many cases, members simply drift away, return to ordinary life and stop treating the prediction as meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao</span><span class="citation-popover-snippet">Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</span><span class="citation-popover-meta">Published: January 1, 2011</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5V6FmVS_Gr0" title="10 Doomsday Cults That Got It Wrong | When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer">10 Doomsday Cults That Got It Wrong | When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: MythVision Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5V6FmVS_Gr0">Open on YouTube</a></p></div></div></div>
@@ -339,186 +339,186 @@ The people who leave are often the least visible part of the story. They do not 
 
 The collapse of a UFO prophetic movement highlights a limitation in the popular cognitive dissonance narrative. Failed predictions do not automatically strengthen belief. They create a crisis that can be resolved in multiple ways.
 
-For some followers, reinterpretation reduces the psychological cost of being wrong. For others, the failed prediction removes the very reason they joined. Whether a movement hardens or weakens depends on factors such as leadership credibility, the specificity of the prophecy, the social costs of leaving and the availability of alternative explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">When Prophecy Fails and Faith Persistsby LL Dawson · 1999 · Cited by 187 — Keech, contrasting its features with those of another UFO...</span></span></span>
+For some followers, reinterpretation reduces the psychological cost of being wrong. For others, the failed prediction removes the very reason they joined. Whether a movement hardens or weakens depends on factors such as leadership credibility, the specificity of the prophecy, the social costs of leaving and the availability of alternative explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">When Prophecy Fails and Faith Persistsby LL Dawson · 1999 · Cited by 187 — Keech, contrasting its features with those of another UFO...</span></span></span>
 
-Within the broader history of failed UFO predictions, the most important lesson is that disconfirmation is not a single process. The famous examples of believers doubling down have attracted attention because they are counterintuitive. Yet the quieter pattern—lost authority, shrinking membership and eventual dissolution—may be just as common. The history of groups such as Chen Tao shows that a failed UFO prophecy can become not the beginning of a stronger movement, but the point at which belief starts to unravel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Within the broader history of failed UFO predictions, the most important lesson is that disconfirmation is not a single process. The famous examples of believers doubling down have attracted attention because they are counterintuitive. Yet the quieter pattern—lost authority, shrinking membership and eventual dissolution—may be just as common. The history of groups such as Chen Tao shows that a failed UFO prophecy can become not the beginning of a stronger movement, but the point at which belief starts to unravel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-3-dark.svg" | relative_url }}" alt="Collapse illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_failed_prophecy_coll_c8a94b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Failed UFO Prophecy Breaks Belief. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Failed UFO Prophecy Breaks Belief. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
-        </h4>
-        <p class="fr-book-author">By Gregory L. Reece</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
+</h4>
+<p class="fr-book-author">By Gregory L. Reece</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly addresses responses to failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses responses to failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
-        </h4>
-        <p class="fr-book-author">By Steven Hassan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
+</h4>
+<p class="fr-book-author">By Steven Hassan</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="collapse-when-failed-ufo-prophecy-breaks-belief-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Within the broader history of failed UFO predictions, the most important lesson 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Within the broader history of failed UFO predictions, the most important lesson 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Within the broader history of failed UFO predictions, the most important lesson 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Within the broader history of failed UFO predictions, the most important lesson 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Within the broader history of failed UFO predictions, the most important lesson 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,130 +724,130 @@ Within the broader history of failed UFO predictions, the most important lesson 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Failed Prophecy and Group Demise: The Case of Chen Tao  
-   Link: <a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy and Group Demise: The Case of Chen TaoJanuary 1, 2011 — Failed prophecy may lead to religious demise as Wrigh...</p></details>
    Published: January 1, 2011  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Disconfirmed expectancy  
-   Link: <a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”FRS claimed about the UFO cult in When Prophecy Fails to what... For instance, both Dawson and Melto...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”FRS claimed about the UFO cult in When Prophecy Fails to what... For instance, both Dawson and Melto...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/295376610_Clearing_the_Underbrush_Moving_beyond_Festinger_to_a_New_Paradigm_for_the_Study_of_Failed_Prophecy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295376610_Clearing_the_Underbrush_Moving_beyond_Festinger_to_a_New_Paradigm_for_the_Study_of_Failed_Prophecy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moving beyond Festinger to a New Paradigm for the Study...First, the authors substantially misrepresented the behavior of the UFO cult b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/295376610_Clearing_the_Underbrush_Moving_beyond_Festinger_to_a_New_Paradigm_for_the_Study_of_Failed_Prophecy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295376610_Clearing_the_Underbrush_Moving_beyond_Festinger_to_a_New_Paradigm_for_the_Study_of_Failed_Prophecy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moving beyond Festinger to a New Paradigm for the Study...First, the authors substantially misrepresented the behavior of the UFO cult b...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith Persistsby LL Dawson · 1999 · Cited by 187 — Keech, contrasting its features with those of another UFO...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith Persistsby LL Dawson · 1999 · Cited by 187 — Keech, contrasting its features with those of another UFO...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Doomsday cult  
-   Link: <a href="https://en.wikipedia.org/wiki/Doomsday_cult" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Doomsday_cult</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Doomsday_cult" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Doomsday_cult</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”Millerites and the Sabbateans. FRS and several paid observers infiltrated the UFO cult, gath-... for a re...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”Millerites and the Sabbateans. FRS and several paid observers infiltrated the UFO cult, gath-... for a re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica10 Failed Doomsday Predictions  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 13, 2025 — Hon-Ming Chen established Chen Tao, or True Way, a religious movement that blended elements of Christianity, Buddhism, UF...</p></details>
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 13, 2025 — Hon-Ming Chen established Chen Tao, or True Way, a religious movement that blended elements of Christianity, Buddhism, UF...</p></details>
    Published: June 13, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: d-nb.info  
    Title: The failed prophecies in [Garland](&#123;&#123; 'garland/' | relative_url &#125;&#125;) left  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — Most of the people who could ha...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — Most of the people who could ha...</p></details>
    Published: April 11, 2004  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails... UFO religion in Chicago called the Seekers that believed in an imminent [apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;).... Following the failure o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails... UFO religion in Chicago called the Seekers that believed in an imminent [apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;).... Following the failure o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/false-prophecy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/false-prophecy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False prophecy | New TestamentHon-Ming Chen established Chen Tao, or True Way, a religious movement. Buddhism, UFO conspiracy theories, H...</p></details>
+   Link:<a href="https://www.britannica.com/topic/false-prophecy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/false-prophecy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False prophecy | New TestamentHon-Ming Chen established Chen Tao, or True Way, a religious movement. Buddhism, UFO conspiracy theories, H...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journal.equinoxpub.com  
-   Link: <a href="https://journal.equinoxpub.com/IJSNR/article/view/33085" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/IJSNR/article/view/33085</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1998. “Chen Tao: A Case Study in the Failure of Prophecy.” Paper presented at Society for the Scientific Study of Religion. Montreal...</p></details>
+   Link:<a href="https://journal.equinoxpub.com/IJSNR/article/view/33085" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/IJSNR/article/view/33085</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1998. “Chen Tao: A Case Study in the Failure of Prophecy.” Paper presented at Society for the Scientific Study of Religion. Montreal...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovered.ed.ac.uk  
-   Link: <a href="https://discovered.ed.ac.uk/discovery/fulldisplay/alma9924397827602466/44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay/alma9924397827602466/44UOE_INST%3A44UOE_VU2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>prophecy livesWhitsel -- Failed Prophecy and Group Demise: The Case of Chen Tao / Stuart A. Wright and Arthur L. Greil -- A Square Theory...</p></details>
+   Link:<a href="https://discovered.ed.ac.uk/discovery/fulldisplay/alma9924397827602466/44UOE_INST%3A44UOE_VU2" target="_blank" rel="noopener noreferrer nofollow">https://discovered.ed.ac.uk/discovery/fulldisplay/alma9924397827602466/44UOE_INST%3A44UOE_VU2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prophecy livesWhitsel -- Failed Prophecy and Group Demise: The Case of Chen Tao / Stuart A. Wright and Arthur L. Greil -- A Square Theory...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: askergren.com  
-   Link: <a href="https://askergren.com/prophecyfails.html" target="_blank" rel="noopener noreferrer nofollow">https://askergren.com/prophecyfails.html</a>  
+   Link:<a href="https://askergren.com/prophecyfails.html" target="_blank" rel="noopener noreferrer nofollow">https://askergren.com/prophecyfails.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G5Ax-TVbkIk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G5Ax-TVbkIk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Failed Predictions of the End of the WorldAre we really living in the end times? Throughout history, people have made predictions abou...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G5Ax-TVbkIk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G5Ax-TVbkIk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Failed Predictions of the End of the WorldAre we really living in the end times? Throughout history, people have made predictions abou...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: penglobalinc.com  
    Title: EN D TIME: Here are the 19th and 20th Century Predictions  
-   Link: <a href="https://www.penglobalinc.com/end-time-here-are-the-19th-and-20th-century-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.penglobalinc.com/end-time-here-are-the-19th-and-20th-century-predictions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO cult called Brotherhood of the Seven Rays. The fallout of the group after the prediction failed was the basis for the 1956 book When...</p></details>
+   Link:<a href="https://www.penglobalinc.com/end-time-here-are-the-19th-and-20th-century-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.penglobalinc.com/end-time-here-are-the-19th-and-20th-century-predictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO cult called Brotherhood of the Seven Rays. The fallout of the group after the prediction failed was the basis for the 1956 book When...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ia802802.us.archive.org  
    Title: Festinger Riecken Schachter When Prophecy Fails 1956  
-   Link: <a href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Riecken Schachter When Prophecy Fails 1956.pdfWHEN PROPHECY FAILS lyting, the group had failed to attract a single new adherent and even...</p></details>
+   Link:<a href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Riecken Schachter When Prophecy Fails 1956.pdfWHEN PROPHECY FAILS lyting, the group had failed to attract a single new adherent and even...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: when prophecy fails the case study that helped  
-   Link: <a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...Psychologist Leon Festinger coined the term after infiltrating a 1954 UFO cult...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...Psychologist Leon Festinger coined the term after infiltrating a 1954 UFO cult...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: templetonworldcharity.org  
    Title: Why Do People Cling to False Beliefs?  
-   Link: <a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…This video offers a look at cult psychology and how people... failed prophecy? Then something astonishing happened. At 4...</p></details>
+   Link:<a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…This video offers a look at cult psychology and how people... failed prophecy? Then something astonishing happened. At 4...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ITV6Kenya/posts/end-of-the-world-prophecy-exposed-controversial-ministry-backtracks-on-doomsday-/1199560188853145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ITV6Kenya/posts/end-of-the-world-prophecy-exposed-controversial-ministry-backtracks-on-doomsday-/1199560188853145/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd conspiracy theorists live for the day when their...</p></details>
+   Link:<a href="https://www.facebook.com/ITV6Kenya/posts/end-of-the-world-prophecy-exposed-controversial-ministry-backtracks-on-doomsday-/1199560188853145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ITV6Kenya/posts/end-of-the-world-prophecy-exposed-controversial-ministry-backtracks-on-doomsday-/1199560188853145/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd conspiracy theorists live for the day when their...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: When Prophecy Fails — The System Behind Doubling Down  
-   Link: <a href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yJ3ilyecMBU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy, Group Loyalty, And The Making Of A Cult...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yJ3ilyecMBU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy, Group Loyalty, And The Making Of A Cult...</p></details>

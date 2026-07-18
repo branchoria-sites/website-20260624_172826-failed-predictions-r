@@ -451,7 +451,7 @@ When a UFO-related prophecy fails, the leader’s response does not automaticall
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-overview.webp" | relative_url }}" alt="Overview image for Leaders" loading="eager" decoding="sync" fetchpriority="high">
-Two cases show the contrast clearly. In [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue circle, the famous social-psychology story long claimed that failed prophecy produced intensified belief, but recent archival criticism argues that Martin recanted, the group dissolved, and later retellings overstated the “doubling down” pattern. In Chen Tao’s 1998 [Garland]({{ 'garland/' | relative_url }}), Texas prediction, Hon-Ming Chen publicly conceded that he had misunderstood God’s plans, yet a remnant of followers moved on and reworked expectation around a new prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[ResearchGate+3Wiley Online Library+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</span></span></span>
+Two cases show the contrast clearly. In [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue circle, the famous social-psychology story long claimed that failed prophecy produced intensified belief, but recent archival criticism argues that Martin recanted, the group dissolved, and later retellings overstated the “doubling down” pattern. In Chen Tao’s 1998 [Garland]({{ 'garland/' | relative_url }}), Texas prediction, Hon-Ming Chen publicly conceded that he had misunderstood God’s plans, yet a remnant of followers moved on and reworked expectation around a new prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[ResearchGate+3Wiley Online Library+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</span></span></span>
 
 ## Why a Leader’s Retreat Does Not End the Prophecy
 
@@ -459,9 +459,9 @@ A failed UFO prediction usually has a visible public moment: the spacecraft does
 
 That distinction is crucial. A leader can admit, “this specific event did not happen as I said,” while leaving intact the larger system: extraterrestrial salvation, divine plans, hidden spiritual warfare, reincarnation, cosmic rescue, or a future catastrophe. Followers can then choose which level of the claim to treat as damaged. Some may decide the leader has lost authority. Others may treat the failed date as a correction inside a still-valid worldview.
 
-Chen Tao illustrates this neatly. Chen had predicted that God would appear on television on 25 March 1998 and then materialise in human form in Garland on 31 March. Britannica summarises the sequence: Chen expected God’s formal second coming to be announced on channel 18 before the physical manifestation; when nothing happened, he revised his predictions, then moved the group to New York state while many members returned to Taiwan or sought legal status in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span></span></span>
+Chen Tao illustrates this neatly. Chen had predicted that God would appear on television on 25 March 1998 and then materialise in human form in Garland on 31 March. Britannica summarises the sequence: Chen expected God’s formal second coming to be announced on channel 18 before the physical manifestation; when nothing happened, he revised his predictions, then moved the group to New York state while many members returned to Taiwan or sought legal status in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span></span></span>
 
-The Garland case also shows why leadership does not “settle meaning” by itself. The Office of Justice Programs summary of the FBI Law Enforcement Bulletin case study says Garland police treated Chen Tao as a new religious movement, sought accurate information, opened dialogue, mobilised community resources and planned for the worst; the policing problem was not just the leader’s claim but the possible reaction of the community, the press and the followers around him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+The Garland case also shows why leadership does not “settle meaning” by itself. The Office of Justice Programs summary of the FBI Law Enforcement Bulletin case study says Garland police treated Chen Tao as a new religious movement, sought accurate information, opened dialogue, mobilised community resources and planned for the worst; the policing problem was not just the leader’s claim but the possible reaction of the community, the press and the followers around him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-Illustration-1-dark.svg" | relative_url }}" alt="Leaders illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,13 +469,13 @@ The Garland case also shows why leadership does not “settle meaning” by itse
 
 Partial [recantation]({{ 'recantation/' | relative_url }}) is not the same as full disavowal. In failed UFO predictions, it often sounds like an admission of human misunderstanding rather than a rejection of divine or extraterrestrial reality. That makes it psychologically and organisationally useful: it lowers immediate tension, answers outside observers, and protects the leader from having to say that the entire movement was false.
 
-Chen’s Garland statement is the clearest example. Reporting preserved in later summaries of the law-enforcement case says that, after God did not arrive, Chen announced that he had misunderstood God’s plans. He had also previously said he would accept death if the 31 March prophecy failed; Prather’s account notes that he had staked his life on the prophecy and that, after inviting punishment, police surrounded him while no one acted on the offer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-snippet">Law Enforcement BulletinISSN 0014-5688 USPS 383-310 Features DepartmentsThe Chen Tao leader announced that he obviously had misunder...</span></span></span>
+Chen’s Garland statement is the clearest example. Reporting preserved in later summaries of the law-enforcement case says that, after God did not arrive, Chen announced that he had misunderstood God’s plans. He had also previously said he would accept death if the 31 March prophecy failed; Prather’s account notes that he had staked his life on the prophecy and that, after inviting punishment, police surrounded him while no one acted on the offer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-snippet">Law Enforcement BulletinISSN 0014-5688 USPS 383-310 Features DepartmentsThe Chen Tao leader announced that he obviously had misunder...</span></span></span>
 
-That public posture did several things at once. It acknowledged the failure plainly enough for outsiders to recognise it. It framed the mistake as interpretive rather than fraudulent: God’s plans, not God’s existence, had been misunderstood. It also defused fears that Chen Tao might follow the path of Heaven’s Gate, whose mass suicide the previous year shaped [media]({{ 'media/' | relative_url }}) and police anxiety around the Garland group. The OJP abstract stresses that most new religious movements remain peaceful and that law enforcement should assess actual public-safety risk rather than rely on loaded assumptions about “cults”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+That public posture did several things at once. It acknowledged the failure plainly enough for outsiders to recognise it. It framed the mistake as interpretive rather than fraudulent: God’s plans, not God’s existence, had been misunderstood. It also defused fears that Chen Tao might follow the path of Heaven’s Gate, whose mass suicide the previous year shaped [media]({{ 'media/' | relative_url }}) and police anxiety around the Garland group. The OJP abstract stresses that most new religious movements remain peaceful and that law enforcement should assess actual public-safety risk rather than rely on loaded assumptions about “cults”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
-Dorothy Martin’s case is more contested because the best-known source, *When Prophecy Fails*, became a classic account of believers responding to disconfirmation by intensifying commitment. Yet newer archival work by Thomas Kelly argues that the famous version is unreliable: the abstract states that Martin recanted, the group dissolved, and efforts to proselytise ceased, contrary to the book’s canonical claim that the group doubled down after the failed flying-saucer rescue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</span></span></span>
+Dorothy Martin’s case is more contested because the best-known source, *When Prophecy Fails*, became a classic account of believers responding to disconfirmation by intensifying commitment. Yet newer archival work by Thomas Kelly argues that the famous version is unreliable: the abstract states that Martin recanted, the group dissolved, and efforts to proselytise ceased, contrary to the book’s canonical claim that the group doubled down after the failed flying-saucer rescue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</span></span></span>
 
-That dispute matters for this subtopic because it separates two questions often blurred together. Did a leader retreat from a failed claim? And did followers reinterpret the failure in a way that preserved belief? The [Martin case]({{ 'martin-case/' | relative_url }}) has long been used to answer the second question with a confident yes; the archival challenge says the first question may have been more decisive than the classic account admitted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+That dispute matters for this subtopic because it separates two questions often blurred together. Did a leader retreat from a failed claim? And did followers reinterpret the failure in a way that preserved belief? The [Martin case]({{ 'martin-case/' | relative_url }}) has long been used to answer the second question with a confident yes; the archival challenge says the first question may have been more decisive than the classic account admitted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oc7Nu1vh6V0" title="Dorothy Martin and the UFO Cult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oc7Nu1vh6V0" target="_blank" rel="noopener noreferrer">Dorothy Martin and the UFO Cult</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oc7Nu1vh6V0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oc7Nu1vh6V0">Open on YouTube</a></p></div></div></div>
@@ -484,13 +484,13 @@ That dispute matters for this subtopic because it separates two questions often 
 
 Followers do not all reinterpret at the same speed. After a failed UFO prediction, some leave quickly, some hesitate, some wait for the leader’s next explanation, and some preserve the wider expectation by shifting attention to a new date, place or mechanism. The visible failure creates a shared event, but not a shared interpretation.
 
-Chen Tao’s aftermath shows that diversity. Britannica notes that many members returned to Taiwan or applied for legal immigrant status after the failed Garland prediction, while Chen relocated his group to New York state. A ResearchGate page for Stuart Wright and Arthur Greil’s chapter on Chen Tao summarises later scholarship: the group left Garland in May, a remnant of about thirty-five moved to Lockport, New York, and interviewed members dismissed the importance of the previous failed prophecy while remaining confident in a new one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span></span></span>
+Chen Tao’s aftermath shows that diversity. Britannica notes that many members returned to Taiwan or applied for legal immigrant status after the failed Garland prediction, while Chen relocated his group to New York state. A ResearchGate page for Stuart Wright and Arthur Greil’s chapter on Chen Tao summarises later scholarship: the group left Garland in May, a remnant of about thirty-five moved to Lockport, New York, and interviewed members dismissed the importance of the previous failed prophecy while remaining confident in a new one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span></span></span>
 
-This is not simple leader control. If Chen’s concession had fully settled the matter, the story would have ended in Garland. Instead, members sorted themselves. Some treated the failure as a reason to exit; others treated it as a reason to continue the mission under altered expectations. The later New York remnant reportedly expected a war between China and Taiwan, a nuclear catastrophe, and rescue through a “God plane”, showing how UFO-related salvation could survive the collapse of the specific Texas timetable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+This is not simple leader control. If Chen’s concession had fully settled the matter, the story would have ended in Garland. Instead, members sorted themselves. Some treated the failure as a reason to exit; others treated it as a reason to continue the mission under altered expectations. The later New York remnant reportedly expected a war between China and Taiwan, a nuclear catastrophe, and rescue through a “God plane”, showing how UFO-related salvation could survive the collapse of the specific Texas timetable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 The pattern also explains why “confusion” is not a trivial detail. Immediately after failure, followers must decide what failed: the date, the channel, the leader’s wording, the press’s interpretation, their own readiness, or the whole belief system. In high-commitment groups, those options can coexist for a while. A member who has moved country, bought property, changed dress, alienated family or endured ridicule has more at stake than a casual reader of a prophecy.
 
-Dorothy Martin’s group, as presented in the classic account, became famous because it seemed to show costly commitment turning failure into renewed mission. But the revised archival account complicates that lesson by arguing that the group had already proselytised before the failure and then quickly abandoned the belief afterwards. For readers of failed UFO predictions, the important point is not that reinterpretation never happens; it is that the Martin case should not be used too casually as proof that believers always reinterpret more strongly after a failed prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Dorothy Martin’s group, as presented in the classic account, became famous because it seemed to show costly commitment turning failure into renewed mission. But the revised archival account complicates that lesson by arguing that the group had already proselytised before the failure and then quickly abandoned the belief afterwards. For readers of failed UFO predictions, the important point is not that reinterpretation never happens; it is that the Martin case should not be used too casually as proof that believers always reinterpret more strongly after a failed prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-Illustration-2-dark.svg" | relative_url }}" alt="Leaders illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -498,11 +498,11 @@ Dorothy Martin’s group, as presented in the classic account, became famous bec
 
 A failed prophecy is not interpreted in a vacuum. Meaning is negotiated among leaders, core believers, weaker adherents, families, journalists, police, scholars and later historians. The leader’s words matter, but they are only one part of that negotiation.
 
-In Chen Tao, outsiders were unusually important. The group’s white clothing, cowboy hats, Garland location and highly specific television prediction made it a media spectacle. Police had to prepare for possible danger while also avoiding escalation; the OJP summary emphasises accurate information, dialogue and planning as the Garland department’s approach. This public setting meant that Chen’s retreat was immediately translated into several different stories: failed prophet, peaceful new religious movement, media curiosity, policing success, and continuing remnant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+In Chen Tao, outsiders were unusually important. The group’s white clothing, cowboy hats, Garland location and highly specific television prediction made it a media spectacle. Police had to prepare for possible danger while also avoiding escalation; the OJP summary emphasises accurate information, dialogue and planning as the Garland department’s approach. This public setting meant that Chen’s retreat was immediately translated into several different stories: failed prophet, peaceful new religious movement, media curiosity, policing success, and continuing remnant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
 Inside the group, authority could also fragment. A leader’s admission that he misunderstood God’s plans might weaken his credibility with some followers while giving others a way to remain loyal: the human messenger erred, but the divine plan remains. That kind of partial reinterpretation is especially available in [UFO religions]({{ 'ufo-religion/' | relative_url }}) because the predicted event often sits inside a layered cosmology. A missed landing can become a hidden intervention; a failed television appearance can become a misread sign; a rescue date can become a test of readiness.
 
-The same issue appears in the historiography of Martin’s group. *When Prophecy Fails* did not merely report a failed prediction; it helped define what later readers thought failed prophecy meant. Recent criticism claims the researchers’ account overstated post-failure proselytising and underplayed the group’s collapse. The debate shows that leadership does not settle meaning even after the movement ends: scholars, archives and later interpreters can also reopen what the failure meant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</span></span></span>
+The same issue appears in the historiography of Martin’s group. *When Prophecy Fails* did not merely report a failed prediction; it helped define what later readers thought failed prophecy meant. Recent criticism claims the researchers’ account overstated post-failure proselytising and underplayed the group’s collapse. The debate shows that leadership does not settle meaning even after the movement ends: scholars, archives and later interpreters can also reopen what the failure meant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8nGLzE-vA18" title="God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer">God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8nGLzE-vA18">Open on YouTube</a></p></div></div></div>
@@ -513,10 +513,10 @@ Chen Tao and Martin’s group are useful together because they resist opposite s
 
 A compact way to read the contrast is:
 
-* **Leader admission can reduce immediate danger without dissolving belief.** Chen’s statement that he had misunderstood God’s plans helped the Garland moment pass without violence, but it did not prevent a smaller remnant from continuing elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-snippet">Law Enforcement BulletinISSN 0014-5688 USPS 383-310 Features DepartmentsThe Chen Tao leader announced that he obviously had misunder...</span></span></span>
-* **Follower exit and follower reinterpretation can happen at the same time.** Chen Tao appears to have lost many members after Garland, while a committed minority relocated and awaited a revised scenario. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span></span></span>
-* **A famous “doubling down” case may be less secure than its reputation.** Kelly’s archival challenge argues that Martin recanted, the group dissolved, and the canonical account misrepresented the aftermath. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</span></span></span>
-* **The leader’s explanation is only the first draft of the failure’s meaning.** Police, press, defectors, remaining believers and later scholars all shape what the failed prophecy becomes in public memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+* **Leader admission can reduce immediate danger without dissolving belief.** Chen’s statement that he had misunderstood God’s plans helped the Garland moment pass without violence, but it did not prevent a smaller remnant from continuing elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-snippet">Law Enforcement BulletinISSN 0014-5688 USPS 383-310 Features DepartmentsThe Chen Tao leader announced that he obviously had misunder...</span></span></span>
+* **Follower exit and follower reinterpretation can happen at the same time.** Chen Tao appears to have lost many members after Garland, while a committed minority relocated and awaited a revised scenario.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span><span class="citation-popover-snippet">Encyclopedia Britannica Chen Tao &#124; History, Beliefs, &amp; Facts &#124; Britannica</span></span></span>
+* **A famous “doubling down” case may be less secure than its reputation.** Kelly’s archival challenge argues that Martin recanted, the group dissolved, and the canonical account misrepresented the aftermath.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</span></span></span>
+* **The leader’s explanation is only the first draft of the failure’s meaning.** Police, press, defectors, remaining believers and later scholars all shape what the failed prophecy becomes in public memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
 This is why failed UFO predictions should not be treated as automatic engines of either collapse or renewed zeal. They create a rupture. What happens next depends on how costly membership has been, how flexible the belief system is, how much [social support]({{ 'social-support/' | relative_url }}) remains, whether the leader preserves a larger framework, and whether followers have a practical path to continue together.
 
@@ -533,194 +533,194 @@ Chen Tao shows a leader publicly softening or revising a failed claim while some
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happens When the Leader Backs Down. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happens When the Leader Backs Down. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Addresses what happens after prophetic authority is challenged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses what happens after prophetic authority is challenged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why followers and leaders react differently to error.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why followers and leaders react differently to error.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
-        </h4>
-        <p class="fr-book-author">By Amanda Montell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
+</h4>
+<p class="fr-book-author">By Amanda Montell</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cultish</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cultish</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="leaders-what-happens-when-the-leader-backs-down-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -736,7 +736,7 @@ Chen Tao shows a leader publicly softening or revising a failed claim while some
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -756,7 +756,7 @@ Chen Tao shows a leader publicly softening or revising a failed claim while some
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -788,7 +788,7 @@ Chen Tao shows a leader publicly softening or revising a failed claim while some
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -840,7 +840,7 @@ Chen Tao shows a leader publicly softening or revising a failed claim while some
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -885,7 +885,7 @@ Chen Tao shows a leader publicly softening or revising a failed claim while some
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -926,110 +926,110 @@ Chen Tao shows a leader publicly softening or revising a failed claim while some
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Debunking “When Prophecy Fails”  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival mat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”Drawing on newly unsealed archival material, this article demonstrates that the book&#x27;s central...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”Drawing on newly unsealed archival material, this article demonstrates that the book&#x27;s central...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Chen Tao | History, Beliefs, & Facts | Britannica  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
+   Link:<a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model</a>  
+   Link:<a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: leb.fbi.gov  
-   Link: <a href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/sep00leb.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement BulletinISSN 0014-5688 USPS 383-310 Features DepartmentsThe Chen Tao leader announced that he obviously had misunder...</p></details>
+   Link:<a href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/sep00leb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement BulletinISSN 0014-5688 USPS 383-310 Features DepartmentsThe Chen Tao leader announced that he obviously had misunder...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/309550012_God%27s_Salvation_Church_Past_Present_and_Future" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309550012_God%27s_Salvation_Church_Past_Present_and_Future</a>  
+   Link:<a href="https://www.researchgate.net/publication/309550012_God%27s_Salvation_Church_Past_Present_and_Future" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309550012_God%27s_Salvation_Church_Past_Present_and_Future</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: time.com  
    Title: ufo cultists political paranoia essay  
-   Link: <a href="https://time.com/6960441/ufo-cultists-political-paranoia-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6960441/ufo-cultists-political-paranoia-essay/</a>  
+   Link:<a href="https://time.com/6960441/ufo-cultists-political-paranoia-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6960441/ufo-cultists-political-paranoia-essay/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wrldrels.org  
    Title: chen tao  
-   Link: <a href="https://wrldrels.org/2016/10/08/chen-tao/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2016/10/08/chen-tao/</a>  
+   Link:<a href="https://wrldrels.org/2016/10/08/chen-tao/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2016/10/08/chen-tao/</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6d6SJd5sxnM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao cult Garland Texas prophecy The UFO Cult That Waited for God’s Spaceship #Cults #ChenTao #UFOcult #TrueWay Strange Devotion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6d6SJd5sxnM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao cult Garland Texas prophecy The UFO Cult That Waited for God’s Spaceship #Cults #ChenTao #UFOcult #TrueWay Strange Devotion...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: USA: TAIWANESE CULT DISAPPOINTED AT GOD'S FAILURE TO APPEAR ON TV  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — For weeks Chen had been saying that he would be...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — For weeks Chen had been saying that he would be...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Why Religions Survive When Prophecies Fail  
-   Link: <a href="https://www.youtube.com/watch?v=nH-pwULIGzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nH-pwULIGzs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nH-pwULIGzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nH-pwULIGzs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE  
-   Link: <a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecies Fail: Repent, Reframe, or Reject?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecies Fail: Repent, Reframe, or Reject?...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cesnur.org  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: podscripts.co  
-   Link: <a href="https://podscripts.co/podcasts/decoding-the-gurus/decoding-academia-34-when-prophecy-fails-debunked-patreon-series?show_ads=true" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/decoding-the-gurus/decoding-academia-34-when-prophecy-fails-debunked-patreon-series?show_ads=true</a>  
+   Link:<a href="https://podscripts.co/podcasts/decoding-the-gurus/decoding-academia-34-when-prophecy-fails-debunked-patreon-series?show_ads=true" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/decoding-the-gurus/decoding-academia-34-when-prophecy-fails-debunked-patreon-series?show_ads=true</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: penglobalinc.com  
-   Link: <a href="https://www.penglobalinc.com/end-time-here-are-the-19th-and-20th-century-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.penglobalinc.com/end-time-here-are-the-19th-and-20th-century-predictions</a>  
+   Link:<a href="https://www.penglobalinc.com/end-time-here-are-the-19th-and-20th-century-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.penglobalinc.com/end-time-here-are-the-19th-and-20th-century-predictions</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: watchman.org  
-   Link: <a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
+   Link:<a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  

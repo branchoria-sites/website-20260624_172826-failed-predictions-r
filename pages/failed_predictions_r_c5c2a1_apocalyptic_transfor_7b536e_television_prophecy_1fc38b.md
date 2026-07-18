@@ -278,7 +278,7 @@ Among failed UFO-related prophecies, few were as easy to test as a prediction th
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-1-dark.svg" | relative_url }}" alt="TV Proof illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This made the television prophecy promoted by the Taiwanese [UFO religion]({{ 'ufo-religion/' | relative_url }}) Chen Tao (also known as God’s Salvation Church) unusually risky. In 1998, leader Hon-Ming Chen predicted that God would appear on Channel 18 across North America before a later physical manifestation on Earth. Because television was a mass medium accessible to believers, journalists, sceptics, and ordinary viewers alike, the prophecy became a direct public test of the movement’s authority. When the broadcast failed to occur, the failure was visible not only to followers but also to a global [media]({{ 'media/' | relative_url }}) audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">on March 25, 1998 God will be seen on channel 18 all across North America.24 divine television broadcast on channel 18 at 12:01 on the mo...</span><span class="citation-popover-meta">Published: March 25, 1998</span></span></span>
+This made the television prophecy promoted by the Taiwanese [UFO religion]({{ 'ufo-religion/' | relative_url }}) Chen Tao (also known as God’s Salvation Church) unusually risky. In 1998, leader Hon-Ming Chen predicted that God would appear on Channel 18 across North America before a later physical manifestation on Earth. Because television was a mass medium accessible to believers, journalists, sceptics, and ordinary viewers alike, the prophecy became a direct public test of the movement’s authority. When the broadcast failed to occur, the failure was visible not only to followers but also to a global [media]({{ 'media/' | relative_url }}) audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">on March 25, 1998 God will be seen on channel 18 all across North America.24 divine television broadcast on channel 18 at 12:01 on the mo...</span><span class="citation-popover-meta">Published: March 25, 1998</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RmjC41S9hzY" title="Top 10 Failed Doomsday Predictions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RmjC41S9hzY" target="_blank" rel="noopener noreferrer">Top 10 Failed Doomsday Predictions</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RmjC41S9hzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RmjC41S9hzY">Open on YouTube</a></p></div></div></div>
@@ -287,7 +287,7 @@ This made the television prophecy promoted by the Taiwanese [UFO religion]({{ 'u
 
 Prophecies often survive because they are vague, symbolic, or difficult to verify. A prediction that aliens are influencing world events behind the scenes can be reinterpreted indefinitely. A prediction that God will appear on television at a specified time cannot.
 
-Chen Tao's prophecy was structured around precisely this kind of public [verification]({{ 'verification/' | relative_url }}). According to the group's published teachings and public statements, God would first announce his arrival through a television appearance on Channel 18 and would then manifest physically several days later. The prophecy specified both the medium and the time window, leaving little room for ambiguity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">on March 25, 1998 God will be seen on channel 18 all across North America.24 divine television broadcast on channel 18 at 12:01 on the mo...</span><span class="citation-popover-meta">Published: March 25, 1998</span></span></span>
+Chen Tao's prophecy was structured around precisely this kind of public [verification]({{ 'verification/' | relative_url }}). According to the group's published teachings and public statements, God would first announce his arrival through a television appearance on Channel 18 and would then manifest physically several days later. The prophecy specified both the medium and the time window, leaving little room for ambiguity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">on March 25, 1998 God will be seen on channel 18 all across North America.24 divine television broadcast on channel 18 at 12:01 on the mo...</span><span class="citation-popover-meta">Published: March 25, 1998</span></span></span>
 
 Television amplified the test in three ways:
 
@@ -304,23 +304,23 @@ Unlike [private revelations]({{ 'private-claims/' | relative_url }}), a televisi
 
 The failure of the predicted television appearance was damaging because it struck at the centre of the movement's credibility. If a leader claims that a divine being will interrupt normal broadcasting across a continent and nothing happens, followers must explain not merely an absent miracle but a failed public promise.
 
-When the anticipated broadcast did not occur, Chen acknowledged that his predictions could be regarded as mistaken. Reports from scholars and observers describe confusion within the group and subsequent efforts to reinterpret events. The later prediction of a physical manifestation also failed to unfold as originally described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchGod announced that He would appear on channel eighteen on every television set in the United Sta...</span></span></span>
+When the anticipated broadcast did not occur, Chen acknowledged that his predictions could be regarded as mistaken. Reports from scholars and observers describe confusion within the group and subsequent efforts to reinterpret events. The later prediction of a physical manifestation also failed to unfold as originally described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchGod announced that He would appear on channel eighteen on every television set in the United Sta...</span></span></span>
 
-What made the situation especially significant was that the failure was impossible to conceal. Many prophetic groups experience disappointment in relative isolation. Chen Tao's prophecy unfolded under intense media attention. Journalists had already gathered in [Garland]({{ 'garland/' | relative_url }}), Texas, expecting either a remarkable event or a failed prediction. As a result, the movement's credibility was evaluated not only internally but also by a large external audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+What made the situation especially significant was that the failure was impossible to conceal. Many prophetic groups experience disappointment in relative isolation. Chen Tao's prophecy unfolded under intense media attention. Journalists had already gathered in [Garland]({{ 'garland/' | relative_url }}), Texas, expecting either a remarkable event or a failed prediction. As a result, the movement's credibility was evaluated not only internally but also by a large external audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
-Evidence suggests that the [aftermath]({{ 'aftermath/' | relative_url }}) included substantial membership losses and fragmentation. Scholars have noted that many followers departed after the prophecy failed, a pattern that contrasts with popular assumptions that failed prophecies always strengthen commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Evidence suggests that the [aftermath]({{ 'aftermath/' | relative_url }}) included substantial membership losses and fragmentation. Scholars have noted that many followers departed after the prophecy failed, a pattern that contrasts with popular assumptions that failed prophecies always strengthen commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-2-dark.svg" | relative_url }}" alt="TV Proof illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Public Proof Claims Attract Ridicule and Scrutiny
 
-A television prophecy does not merely create a test; it creates a spectacle. News organisations are naturally drawn to predictions that have a clear deadline and a visible outcome. Chen Tao's prophecy therefore became highly newsworthy long before the predicted date arrived. Researchers studying the movement have argued that the prophecy was unusually compatible with media coverage because it offered journalists a straightforward narrative: wait for the appointed moment and see whether the claim succeeds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+A television prophecy does not merely create a test; it creates a spectacle. News organisations are naturally drawn to predictions that have a clear deadline and a visible outcome. Chen Tao's prophecy therefore became highly newsworthy long before the predicted date arrived. Researchers studying the movement have argued that the prophecy was unusually compatible with media coverage because it offered journalists a straightforward narrative: wait for the appointed moment and see whether the claim succeeds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 This media visibility brought several consequences.
 
-First, it increased sceptical scrutiny. Reporters, local officials, religious critics, and academics all examined the group's claims before the deadline. Public attention transformed what might have remained an internal belief into a widely discussed social event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+First, it increased sceptical scrutiny. Reporters, local officials, religious critics, and academics all examined the group's claims before the deadline. Public attention transformed what might have remained an internal belief into a widely discussed social event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
-Second, it invited [ridicule]({{ 'ridicule/' | relative_url }}). A prophecy that God would appear on a particular television channel sounds concrete enough to be checked but extraordinary enough to attract humour when it fails. Coverage after the missed broadcast frequently treated the event as an example of failed millennial prediction rather than evidence of supernatural intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economist.com">[The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economist.com</span><span class="citation-popover-title">waiting for god oh</span><span class="citation-popover-snippet">The EconomistWaiting for God. Oh2 Apr 1998 — Chen Hon- Ming had boldly set the date. God was supposed to appear on TV Channel 18 round th...</span></span></span>
+Second, it invited [ridicule]({{ 'ridicule/' | relative_url }}). A prophecy that God would appear on a particular television channel sounds concrete enough to be checked but extraordinary enough to attract humour when it fails. Coverage after the missed broadcast frequently treated the event as an example of failed millennial prediction rather than evidence of supernatural intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economist.com">[The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economist.com</span><span class="citation-popover-title">waiting for god oh</span><span class="citation-popover-snippet">The EconomistWaiting for God. Oh2 Apr 1998 — Chen Hon- Ming had boldly set the date. God was supposed to appear on TV Channel 18 round th...</span></span></span>
 
 Third, it shifted the burden of proof. In many UFO-related belief systems, sceptics are challenged to disprove hidden extraterrestrial activity. In a television prophecy, believers effectively assume the burden themselves. The predicted sign is supposed to occur in public view. When it does not, outsiders need offer no alternative explanation beyond noting the absence of the promised event.
 
@@ -331,184 +331,184 @@ Third, it shifted the burden of proof. In many UFO-related belief systems, scept
 
 The Chen Tao case illustrates why television prophecy occupies a special place among failed UFO predictions. By choosing mass media as the stage for revelation, the movement transformed a religious claim into a public experiment. The very feature that made the prophecy attractive—a dramatic sign visible to everyone—also made it vulnerable.
 
-A prediction tied to a specific television broadcast leaves little room for uncertainty. The audience does not need secret knowledge, specialist expertise, or faith in witnesses. They simply need to look at the screen. When the promised message fails to appear, the prophecy fails in front of believers and non-believers alike. That makes television prophecy one of the clearest examples of a UFO-related claim becoming a public proof test and, ultimately, a public failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">on March 25, 1998 God will be seen on channel 18 all across North America.24 divine television broadcast on channel 18 at 12:01 on the mo...</span><span class="citation-popover-meta">Published: March 25, 1998</span></span></span>
+A prediction tied to a specific television broadcast leaves little room for uncertainty. The audience does not need secret knowledge, specialist expertise, or faith in witnesses. They simply need to look at the screen. When the promised message fails to appear, the prophecy fails in front of believers and non-believers alike. That makes television prophecy one of the clearest examples of a UFO-related claim becoming a public proof test and, ultimately, a public failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">on March 25, 1998 God will be seen on channel 18 all across North America.24 divine television broadcast on channel 18 at 12:01 on the mo...</span><span class="citation-popover-meta">Published: March 25, 1998</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-3-dark.svg" | relative_url }}" alt="TV Proof illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Risk of Predicting God on TV. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Risk of Predicting God on TV. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The cult at the end of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6638130-M.jpg" alt="Cover for The cult at the end of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cult at the end of the world">The cult at the end of the world</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The cult at the end of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6638130-M.jpg" alt="Cover for The cult at the end of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cult at the end of the world">The cult at the end of the world</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explores authority, prophecy, and public scrutiny surrounding millenarian beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores authority, prophecy, and public scrutiny surrounding millenarian beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains what happens when public prophecies fail and how followers respond.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains what happens when public prophecies fail and how followers respond.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Directly relates to the UFO-religion context behind the televised prophecy discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to the UFO-religion context behind the televised prophecy discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cult at the end of the world</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cult at the end of the world</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="tv-proof-the-risk-of-predicting-god-on-tv-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ A prediction tied to a specific television broadcast leaves little room for unce
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ A prediction tied to a specific television broadcast leaves little room for unce
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ A prediction tied to a specific television broadcast leaves little room for unce
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ A prediction tied to a specific television broadcast leaves little room for unce
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ A prediction tied to a specific television broadcast leaves little room for unce
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,101 +714,101 @@ A prediction tied to a specific television broadcast leaves little room for unce
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: d-nb.info  
    Title: DNBGod's Salvation Church: Past, Present and Future  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on March 25, 1998 God will be seen on channel 18 all across North America.24 divine television broadcast on channel 18 at 12:01 on the mo...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on March 25, 1998 God will be seen on channel 18 all across North America.24 divine television broadcast on channel 18 at 12:01 on the mo...</p></details>
    Published: March 25, 1998  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOop_EXyuV9JZ5i4wjc7dK5Sgo3PNNa_mOwQoizG62G37NM8uw8BI" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOop_EXyuV9JZ5i4wjc7dK5Sgo3PNNa_mOwQoizG62G37NM8uw8BI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter sevenMaster Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 across the natio...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOop_EXyuV9JZ5i4wjc7dK5Sgo3PNNa_mOwQoizG62G37NM8uw8BI" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOop_EXyuV9JZ5i4wjc7dK5Sgo3PNNa_mOwQoizG62G37NM8uw8BI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter sevenMaster Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 across the natio...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqoB7bMJcFaAYjWnBYSAieJGkhzGeeFVDbujGyp4OJYVLsN_yJc" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqoB7bMJcFaAYjWnBYSAieJGkhzGeeFVDbujGyp4OJYVLsN_yJc</a>  
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqoB7bMJcFaAYjWnBYSAieJGkhzGeeFVDbujGyp4OJYVLsN_yJc" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqoB7bMJcFaAYjWnBYSAieJGkhzGeeFVDbujGyp4OJYVLsN_yJc</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: watchman.org  
-   Link: <a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watchman FellowshipGod&#x27;s Salvation ChurchGod announced that He would appear on channel eighteen on every television set in the United Sta...</p></details>
+   Link:<a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watchman FellowshipGod&#x27;s Salvation ChurchGod announced that He would appear on channel eighteen on every television set in the United Sta...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: economist.com  
    Title: waiting for god oh  
-   Link: <a href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWaiting for God. Oh2 Apr 1998 — Chen Hon- Ming had boldly set the date. God was supposed to appear on TV Channel 18 round th...</p></details>
+   Link:<a href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWaiting for God. Oh2 Apr 1998 — Chen Hon- Ming had boldly set the date. God was supposed to appear on TV Channel 18 round th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq8ro5T3sa8EHuIMZ2WP3v0q8TWRPzDklFL12enLdQlJKAeVj_t" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq8ro5T3sa8EHuIMZ2WP3v0q8TWRPzDklFL12enLdQlJKAeVj_t</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter sevenMaster Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 across the natio...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq8ro5T3sa8EHuIMZ2WP3v0q8TWRPzDklFL12enLdQlJKAeVj_t" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq8ro5T3sa8EHuIMZ2WP3v0q8TWRPzDklFL12enLdQlJKAeVj_t</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter sevenMaster Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 across the natio...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Top 7 Failed Doomsday Predictions  
-   Link: <a href="https://www.youtube.com/watch?v=k2nxaZbo8Es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k2nxaZbo8Es</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia + 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k2nxaZbo8Es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k2nxaZbo8Es</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia + 1...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize on earth in human form, recogniza...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize on earth in human form, recogniza...</p></details>
    Published: May 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archiv.ub.uni-marburg.de  
-   Link: <a href="https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uni-marburg.deGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also...</p></details>
+   Link:<a href="https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uni-marburg.deGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tcsidewalks.blogspot.com  
    Title: When God made his TV appearance,  
-   Link: <a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — God would appear on Channel 18 on every television set in the United States be...</p></details>
+   Link:<a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — God would appear on Channel 18 on every television set in the United States be...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE  
-   Link: <a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: USA: TAIWANESE CULT DISAPPOINTED AT GOD'S FAILURE TO APPEAR ON TV  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: God's Salvation Church  
-   Link: <a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Failed Doomsday Predictions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Failed Doomsday Predictions...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>God would appear on Channel 18 across North America at midnight on March 22, 1998, Tao was a...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God would appear on Channel 18 across North America at midnight on March 22, 1998, Tao was a...</p></details>
    Published: March 22, 1998  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Top 10 Failed Doomsday Predictions  
-   Link: <a href="https://www.youtube.com/watch?v=RmjC41S9hzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmjC41S9hzY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 7 Failed Doomsday Predictions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RmjC41S9hzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmjC41S9hzY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 7 Failed Doomsday Predictions...</p></details>

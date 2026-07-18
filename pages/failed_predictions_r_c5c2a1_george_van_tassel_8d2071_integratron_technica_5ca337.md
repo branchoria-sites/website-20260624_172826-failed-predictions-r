@@ -280,17 +280,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integ
 
 ## Introduction
 
-The Integratron was [George Van Tassel]({{ 'van-tassel/' | relative_url }})’s most ambitious attempt to make UFO revelation look like engineering. In the history of failed UFO predictions and contactee claims, the structure stands out because it transformed messages allegedly received from extraterrestrials into a physical machine with technical specifications, scientific vocabulary and grand promises. Van Tassel presented it not merely as a spiritual symbol but as a device for rejuvenation, anti-gravity research and even forms of time travel. Yet the authority behind the project remained the same source as his contactee messages: telepathic communications and claimed encounters with beings from Venus. The Integratron therefore illustrates a recurring pattern in UFO culture: technical language can raise the appearance of credibility and future promise without providing the kind of evidence needed to verify extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
+The Integratron was [George Van Tassel]({{ 'van-tassel/' | relative_url }})’s most ambitious attempt to make UFO revelation look like engineering. In the history of failed UFO predictions and contactee claims, the structure stands out because it transformed messages allegedly received from extraterrestrials into a physical machine with technical specifications, scientific vocabulary and grand promises. Van Tassel presented it not merely as a spiritual symbol but as a device for rejuvenation, anti-gravity research and even forms of time travel. Yet the authority behind the project remained the same source as his contactee messages: telepathic communications and claimed encounters with beings from Venus. The Integratron therefore illustrates a recurring pattern in UFO culture: technical language can raise the appearance of credibility and future promise without providing the kind of evidence needed to verify extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integratron_technica_5ca337-Illustration-1-dark.svg" | relative_url }}" alt="Integratron illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integratron_technica_5ca337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integratron_technica_5ca337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Van Tassel Said the Integratron Was For
 
-Located in the Mojave Desert near [Giant Rock]({{ 'giant-rock/' | relative_url }}), the Integratron was conceived as far more than an unusual building. Van Tassel described it as an electrostatic generator designed to affect human biology. According to his claims, the machine could rejuvenate cells, extend life, investigate anti-gravity effects and provide a pathway towards what he called time travel research. He repeatedly linked the project to life extension and the reversal of ageing rather than simply to UFO communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
+Located in the Mojave Desert near [Giant Rock]({{ 'giant-rock/' | relative_url }}), the Integratron was conceived as far more than an unusual building. Van Tassel described it as an electrostatic generator designed to affect human biology. According to his claims, the machine could rejuvenate cells, extend life, investigate anti-gravity effects and provide a pathway towards what he called time travel research. He repeatedly linked the project to life extension and the reversal of ageing rather than simply to UFO communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
 
-The structure itself helped reinforce those claims. It was built as a large wooden dome, roughly 55 feet in diameter and 38 feet high, and was presented as a specialised scientific instrument rather than a shrine. Van Tassel argued that its geometry, materials and location on allegedly unusual geomagnetic ground were all essential components of its operation. He claimed that strong magnetic and electrostatic effects would interact with the body's cells in beneficial ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
+The structure itself helped reinforce those claims. It was built as a large wooden dome, roughly 55 feet in diameter and 38 feet high, and was presented as a specialised scientific instrument rather than a shrine. Van Tassel argued that its geometry, materials and location on allegedly unusual geomagnetic ground were all essential components of its operation. He claimed that strong magnetic and electrostatic effects would interact with the body's cells in beneficial ways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
 
-Importantly, the promises attached to the Integratron were future-oriented. Rejuvenation, anti-gravity and time-related breakthroughs were always described as emerging possibilities rather than publicly demonstrated achievements. This made the project resemble many UFO prophecies of the period: impressive outcomes were anticipated, but [verification]({{ 'verification/' | relative_url }}) remained perpetually just beyond reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HplusF Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Importantly, the promises attached to the Integratron were future-oriented. Rejuvenation, anti-gravity and time-related breakthroughs were always described as emerging possibilities rather than publicly demonstrated achievements. This made the project resemble many UFO prophecies of the period: impressive outcomes were anticipated, but [verification]({{ 'verification/' | relative_url }}) remained perpetually just beyond reach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2HplusF Design Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lq1HIT_Yp1s" title="Joshua Tree UFO Mystery (2014) | Full Documentary | Giant Rock, Alien Contact &amp; George Van Tassel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer">Joshua Tree UFO Mystery (2014) | Full Documentary | Giant Rock, Alien Contact &amp; George Van Tassel</a></p><p class="youtube-embed-meta">Channel: Grapevine Documentaries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lq1HIT_Yp1s">Open on YouTube</a></p></div></div></div>
@@ -307,13 +307,13 @@ He claimed the machine drew upon:
 * The design principles of Moses' Tabernacle from the Bible.
 * Ideas associated with inventor Nikola Tesla.
 * Concepts linked to electromagnetic and resonance theories.
-* Telepathic instructions received from extraterrestrials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
+* Telepathic instructions received from extraterrestrials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
 
 </div>
 
-This combination allowed the project to sound simultaneously ancient, scientific and futuristic. Van Tassel frequently compared his experience to that of Moses receiving instructions for a sacred structure. In his version of the story, however, the heavenly messenger was not God but an extraterrestrial visitor. Accounts associated with Van Tassel describe a Venusian named Solganda providing the plans and principles that eventually became the Integratron. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theatlantic.com/technology/archive/2015/02/a-time-machine-in-the-mojave-desert/385652/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">a time machine in the mojave desert</span><span class="citation-popover-snippet">The AtlanticA Time Machine in the Mojave Desert20 Feb 2015 — Van Tassel liked to say that both he and Moses were compelled to build their...</span></span></span>
+This combination allowed the project to sound simultaneously ancient, scientific and futuristic. Van Tassel frequently compared his experience to that of Moses receiving instructions for a sacred structure. In his version of the story, however, the heavenly messenger was not God but an extraterrestrial visitor. Accounts associated with Van Tassel describe a Venusian named Solganda providing the plans and principles that eventually became the Integratron.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theatlantic.com/technology/archive/2015/02/a-time-machine-in-the-mojave-desert/385652/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">a time machine in the mojave desert</span><span class="citation-popover-snippet">The AtlanticA Time Machine in the Mojave Desert20 Feb 2015 — Van Tassel liked to say that both he and Moses were compelled to build their...</span></span></span>
 
-Tesla's name served a similar function. By linking the project to a famous inventor associated with electricity and visionary technology, Van Tassel could frame his claims in a language familiar to modern audiences. Some later accounts within the contactee tradition even claimed he received guidance from Tesla after Tesla's death. Whether presented as engineering inheritance or posthumous communication, Tesla supplied scientific prestige that extraterrestrial revelation alone could not provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2avoidingregret.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Tesla's name served a similar function. By linking the project to a famous inventor associated with electricity and visionary technology, Van Tassel could frame his claims in a language familiar to modern audiences. Some later accounts within the contactee tradition even claimed he received guidance from Tesla after Tesla's death. Whether presented as engineering inheritance or posthumous communication, Tesla supplied scientific prestige that extraterrestrial revelation alone could not provide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2avoidingregret.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 The result was a hybrid narrative in which spiritual revelation was translated into technical design. The machine did not merely arrive through faith; it arrived through alleged schematics, frequencies, resonance principles and engineering concepts.
 
@@ -323,11 +323,11 @@ The result was a hybrid narrative in which spiritual revelation was translated i
 
 The Integratron demonstrates how technical vocabulary can change the perceived strength of a claim without necessarily changing the evidence behind it.
 
-Van Tassel described electromagnetic fields, resonance, electrostatic generation, cellular frequencies and geomagnetic effects. He argued that biological cells could be "recharged" through exposure to specially generated fields and that the building's design embodied advanced scientific principles. Such language sounded more testable than simple prophecy and gave followers a reason to believe that contactee messages could eventually produce practical technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Van Tassel described electromagnetic fields, resonance, electrostatic generation, cellular frequencies and geomagnetic effects. He argued that biological cells could be "recharged" through exposure to specially generated fields and that the building's design embodied advanced scientific principles. Such language sounded more testable than simple prophecy and gave followers a reason to believe that contactee messages could eventually produce practical technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Yet the key evidential problem remained unchanged. The origin of the design was still alleged extraterrestrial communication, and the promised effects were never demonstrated in a way that persuaded mainstream scientific investigators. Claims involving rejuvenation, anti-gravity and time-related capabilities remained assertions rather than established results. Even sympathetic modern descriptions of the site generally acknowledge that the dramatic promises associated with the machine were never fulfilled as publicly demonstrated technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/travel/2013/nov/29/integratron-sound-bath-california" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Step into the Integratron for a &#x27;sound bath&#x27; in the Californian</span><span class="citation-popover-snippet">The GuardianStep into the Integratron for a &#x27;sound bath&#x27; in the Californian...November 29, 2013 — 29 Nov 2013 — Tassel also considered i...</span><span class="citation-popover-meta">Published: November 29, 2013</span></span></span>
+Yet the key evidential problem remained unchanged. The origin of the design was still alleged extraterrestrial communication, and the promised effects were never demonstrated in a way that persuaded mainstream scientific investigators. Claims involving rejuvenation, anti-gravity and time-related capabilities remained assertions rather than established results. Even sympathetic modern descriptions of the site generally acknowledge that the dramatic promises associated with the machine were never fulfilled as publicly demonstrated technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/travel/2013/nov/29/integratron-sound-bath-california" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Step into the Integratron for a &#x27;sound bath&#x27; in the Californian</span><span class="citation-popover-snippet">The GuardianStep into the Integratron for a &#x27;sound bath&#x27; in the Californian...November 29, 2013 — 29 Nov 2013 — Tassel also considered i...</span><span class="citation-popover-meta">Published: November 29, 2013</span></span></span>
 
-This distinction matters within the broader history of failed UFO predictions. A prophecy that says "space beings will help humanity" can remain vague. A machine that supposedly applies extraterrestrial science creates more concrete expectations. If the device works, the claim gains powerful support. If it does not produce the promised outcomes, believers often shift attention to less measurable benefits, future completion, hidden effects or spiritual meanings. The Integratron followed a version of that pattern. Over time, the building survived while the extraordinary technological claims remained unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-title">giant rock space people and the integratron</span><span class="citation-popover-snippet">PBS SoCalGiant Rock, Space People and the Integratron15 May 2018 — Its designation as a “time machine” has been misconstrued: The Integra...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+This distinction matters within the broader history of failed UFO predictions. A prophecy that says "space beings will help humanity" can remain vague. A machine that supposedly applies extraterrestrial science creates more concrete expectations. If the device works, the claim gains powerful support. If it does not produce the promised outcomes, believers often shift attention to less measurable benefits, future completion, hidden effects or spiritual meanings. The Integratron followed a version of that pattern. Over time, the building survived while the extraordinary technological claims remained unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-title">giant rock space people and the integratron</span><span class="citation-popover-snippet">PBS SoCalGiant Rock, Space People and the Integratron15 May 2018 — Its designation as a “time machine” has been misconstrued: The Integra...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UJDI2Jd8dSw" title="The Building of The Immortality Machine (Season 18) | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UJDI2Jd8dSw" target="_blank" rel="noopener noreferrer">The Building of The Immortality Machine (Season 18) | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UJDI2Jd8dSw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UJDI2Jd8dSw">Open on YouTube</a></p></div></div></div>
@@ -337,202 +337,202 @@ This distinction matters within the broader history of failed UFO predictions. A
 
 ## The Machine as a Contactee Case Study
 
-The Integratron remains a real structure and an important historical landmark, but its significance within UFO history lies less in what it accomplished technologically than in what it revealed about contactee culture. It showed how messages attributed to extraterrestrials could be wrapped in the language of engineering, physics and future science. The machine gave physical form to claims that otherwise existed only in speeches, books and channelled communications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
+The Integratron remains a real structure and an important historical landmark, but its significance within UFO history lies less in what it accomplished technologically than in what it revealed about contactee culture. It showed how messages attributed to extraterrestrials could be wrapped in the language of engineering, physics and future science. The machine gave physical form to claims that otherwise existed only in speeches, books and channelled communications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
 
-For students of failed UFO predictions, the Integratron illustrates a recurring dynamic: technical-sounding explanations can increase confidence in a revelation, but they do not by themselves establish that the revelation is true. The building's enduring fascination comes from that tension. It is a tangible monument to an attempt to turn extraterrestrial guidance into technology, while the promised breakthroughs that would have confirmed those claims never arrived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
+For students of failed UFO predictions, the Integratron illustrates a recurring dynamic: technical-sounding explanations can increase confidence in a revelation, but they do not by themselves establish that the revelation is true. The building's enduring fascination comes from that tension. It is a tangible monument to an attempt to turn extraterrestrial guidance into technology, while the promised breakthroughs that would have confirmed those claims never arrived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">history about</span><span class="citation-popover-snippet">About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integratron_technica_5ca337-Illustration-3-dark.svg" | relative_url }}" alt="Integratron illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integratron_technica_5ca337-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_integratron_technica_5ca337-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Machine That Made Revelation Look Technical. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Machine That Made Revelation Look Technical. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Closely matches the article&#x27;s theme of presenting revelation and transcendence through technological frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the article&#x27;s theme of presenting revelation and transcendence through technological frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Directly relates to how technical language and scientific-sounding explanations can increase perceived credibility without proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to how technical language and scientific-sounding explanations can increase perceived credibility without proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers compare evidence-based UFO discussions with contactee-era technical and spiritual claims such as the Integratron.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare evidence-based UFO discussions with contactee-era technical and spiritual claims such as the Integratron.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses the evaluation of extraordinary claims and the difference between scientific language and scientific evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the evaluation of extraordinary claims and the difference between scientific language and scientific evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="{{ '/assets/images/marketplace-covers/1282abce5a8a5425e0e8.jpg' | relative_url }}" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="{{ '/assets/images/marketplace-covers/1282abce5a8a5425e0e8.jpg' | relative_url }}" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="integratron-the-machine-that-made-revelation-look-technical-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ For students of failed UFO predictions, the Integratron illustrates a recurring 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ For students of failed UFO predictions, the Integratron illustrates a recurring 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ For students of failed UFO predictions, the Integratron illustrates a recurring 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ For students of failed UFO predictions, the Integratron illustrates a recurring 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ For students of failed UFO predictions, the Integratron illustrates a recurring 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,129 +738,129 @@ For students of failed UFO predictions, the Integratron illustrates a recurring 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: integratron.com  
    Title: history about  
-   Link: <a href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow">https://www.integratron.com/history-about/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</p></details>
+   Link:<a href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow">https://www.integratron.com/history-about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About: The History of the IntegratronThe Integratron, circa 1954, is located in Landers, California, 20 miles north of Joshua...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Integratron" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Integratron</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Integratron" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Integratron</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hplusf.com  
-   Link: <a href="https://hplusf.com/press/a-time-machine-in-the-mojave-desert/" target="_blank" rel="noopener noreferrer nofollow">https://hplusf.com/press/a-time-machine-in-the-mojave-desert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HplusF Design LabA TIME MACHINE IN THE MOJAVE DESERTA time machine for basic research on rejuvenation, anti-gravity, and time travel in t...</p></details>
+   Link:<a href="https://hplusf.com/press/a-time-machine-in-the-mojave-desert/" target="_blank" rel="noopener noreferrer nofollow">https://hplusf.com/press/a-time-machine-in-the-mojave-desert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HplusF Design LabA TIME MACHINE IN THE MOJAVE DESERTA time machine for basic research on rejuvenation, anti-gravity, and time travel in t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: avoidingregret.com  
    Title: an alien assisted recharge of my world  
-   Link: <a href="https://www.avoidingregret.com/2022/09/an-alien-assisted-recharge-of-my-world.html" target="_blank" rel="noopener noreferrer nofollow">https://www.avoidingregret.com/2022/09/an-alien-assisted-recharge-of-my-world.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Alien-Assisted Recharge of My World-Weary Battery At...28 Sept 2022 — Although Van Tassel received the building plans from a Venusian...</p></details>
+   Link:<a href="https://www.avoidingregret.com/2022/09/an-alien-assisted-recharge-of-my-world.html" target="_blank" rel="noopener noreferrer nofollow">https://www.avoidingregret.com/2022/09/an-alien-assisted-recharge-of-my-world.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Alien-Assisted Recharge of My World-Weary Battery At...28 Sept 2022 — Although Van Tassel received the building plans from a Venusian...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: [Ashtar](&#123;&#123; 'ashtar/' | relative_url &#125;&#125;) Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lq1HIT_Yp1s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Rock - Aliens, Exploding Hermits, and a Time Travel Machine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lq1HIT_Yp1s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Rock - Aliens, Exploding Hermits, and a Time Travel Machine...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Giant Rock  
-   Link: <a href="https://www.youtube.com/watch?v=M5InKdKsKFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5InKdKsKFg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling All Earthlings - EXCLUSIVE TRAILER...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M5InKdKsKFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5InKdKsKFg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling All Earthlings - EXCLUSIVE TRAILER...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theatlantic.com  
    Title: a time machine in the mojave desert  
-   Link: <a href="https://www.theatlantic.com/technology/archive/2015/02/a-time-machine-in-the-mojave-desert/385652/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/technology/archive/2015/02/a-time-machine-in-the-mojave-desert/385652/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AtlanticA Time Machine in the Mojave Desert20 Feb 2015 — Van Tassel liked to say that both he and Moses were compelled to build their...</p></details>
+   Link:<a href="https://www.theatlantic.com/technology/archive/2015/02/a-time-machine-in-the-mojave-desert/385652/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/technology/archive/2015/02/a-time-machine-in-the-mojave-desert/385652/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AtlanticA Time Machine in the Mojave Desert20 Feb 2015 — Van Tassel liked to say that both he and Moses were compelled to build their...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: The Guardian Step into the Integratron for a 'sound bath' in the Californian  
-   Link: <a href="https://www.theguardian.com/travel/2013/nov/29/integratron-sound-bath-california" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/travel/2013/nov/29/integratron-sound-bath-california</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianStep into the Integratron for a &#x27;sound bath&#x27; in the Californian...November 29, 2013 — 29 Nov 2013 — Tassel also considered i...</p></details>
+   Link:<a href="https://www.theguardian.com/travel/2013/nov/29/integratron-sound-bath-california" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/travel/2013/nov/29/integratron-sound-bath-california</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianStep into the Integratron for a &#x27;sound bath&#x27; in the Californian...November 29, 2013 — 29 Nov 2013 — Tassel also considered i...</p></details>
    Published: November 29, 2013  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pbssocal.org  
    Title: giant rock space people and the integratron  
-   Link: <a href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow">https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PBS SoCalGiant Rock, Space People and the Integratron15 May 2018 — Its designation as a “time machine” has been misconstrued: The Integra...</p></details>
+   Link:<a href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow">https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PBS SoCalGiant Rock, Space People and the Integratron15 May 2018 — Its designation as a “time machine” has been misconstrued: The Integra...</p></details>
    Published: May 2018  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: smithsonianmag.com  
    Title: new film tells story ufo contactee 180969368  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineNew Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineNew Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C1YTeScrVga/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C1YTeScrVga/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Joshua Tree, California on Instagram: &quot; The IntegratronThis one-of-a-kind 38-foot high, 55-foot diameter, all wood dome was designe...</p></details>
+   Link:<a href="https://www.instagram.com/reel/C1YTeScrVga/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C1YTeScrVga/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Joshua Tree, California on Instagram: &quot; The IntegratronThis one-of-a-kind 38-foot high, 55-foot diameter, all wood dome was designe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: magnetmagazine.com  
    Title: from the desk of entrance the integratron george van tassel  
-   Link: <a href="https://magnetmagazine.com/2016/10/08/from-the-desk-of-entrance-the-integratron-george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://magnetmagazine.com/2016/10/08/from-the-desk-of-entrance-the-integratron-george-van-tassel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From The Desk Of Entrance: The Integratron / George Van...8 Oct 2016 — Van Tassel claimed that a voice from space had spoken to him, and...</p></details>
+   Link:<a href="https://magnetmagazine.com/2016/10/08/from-the-desk-of-entrance-the-integratron-george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://magnetmagazine.com/2016/10/08/from-the-desk-of-entrance-the-integratron-george-van-tassel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From The Desk Of Entrance: The Integratron / George Van...8 Oct 2016 — Van Tassel claimed that a voice from space had spoken to him, and...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/reallyboring/5205758782" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/reallyboring/5205758782</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>c structure originally designed by Van Tassel as a rejuvenation and time machine.Read more...</p></details>
+   Link:<a href="https://www.flickr.com/photos/reallyboring/5205758782" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/reallyboring/5205758782</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>c structure originally designed by Van Tassel as a rejuvenation and time machine.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1660866237657971/posts/2094681670943090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2094681670943090/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aterrestrials who, according to him, revealed secrets of time and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1660866237657971/posts/2094681670943090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2094681670943090/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aterrestrials who, according to him, revealed secrets of time and...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: denofgeek.com  
    Title: calling all earthlings changes the course of time  
-   Link: <a href="https://www.denofgeek.com/culture/calling-all-earthlings-changes-the-course-of-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/calling-all-earthlings-changes-the-course-of-time/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Aug 2018 — The man from Venus gave Tassel plans for a dome that spins and creates a powerful electromagnetic field which promotes cellu...</p></details>
+   Link:<a href="https://www.denofgeek.com/culture/calling-all-earthlings-changes-the-course-of-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/calling-all-earthlings-changes-the-course-of-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Aug 2018 — The man from Venus gave Tassel plans for a dome that spins and creates a powerful electromagnetic field which promotes cellu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYGL8xkxzVf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYGL8xkxzVf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anded beside him in a UFO near Giant Rock, California. The...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYGL8xkxzVf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYGL8xkxzVf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anded beside him in a UFO near Giant Rock, California. The...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tayloronatrip.com  
    Title: What The #@$% Is The Integratron?  
-   Link: <a href="https://tayloronatrip.com/integratron-sound-bath/%20" target="_blank" rel="noopener noreferrer nofollow">https://tayloronatrip.com/integratron-sound-bath/%20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Or, That Time I Took...31 May 2016 —... Van Tassel for three reasons: human cell rejuvenation, anti-gravity, and time travel. The struc...</p></details>
+   Link:<a href="https://tayloronatrip.com/integratron-sound-bath/%20" target="_blank" rel="noopener noreferrer nofollow">https://tayloronatrip.com/integratron-sound-bath/%20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Or, That Time I Took...31 May 2016 —... Van Tassel for three reasons: human cell rejuvenation, anti-gravity, and time travel. The struc...</p></details>
    Published: May 2016  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/JoshuaTreeVisitorsGuide/posts/true-story-of-the-integratron/1464021100456620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JoshuaTreeVisitorsGuide/posts/true-story-of-the-integratron/1464021100456620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ti- gravity, and time travel. The...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/JoshuaTreeVisitorsGuide/posts/true-story-of-the-integratron/1464021100456620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JoshuaTreeVisitorsGuide/posts/true-story-of-the-integratron/1464021100456620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ti- gravity, and time travel. The...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hammertonail.com  
    Title: calling all earthlings  
-   Link: <a href="https://www.hammertonail.com/reviews/calling-all-earthlings/" target="_blank" rel="noopener noreferrer nofollow">https://www.hammertonail.com/reviews/calling-all-earthlings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Aug 2018 —... Integratron, which he claimed was “capable of rejuvenation, anti-gravity and time travel.” If you like your film subjec...</p></details>
+   Link:<a href="https://www.hammertonail.com/reviews/calling-all-earthlings/" target="_blank" rel="noopener noreferrer nofollow">https://www.hammertonail.com/reviews/calling-all-earthlings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Aug 2018 —... Integratron, which he claimed was “capable of rejuvenation, anti-gravity and time travel.” If you like your film subjec...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: open.spotify.com  
    Title: 26Fk W1dkdbv2ev61EMJ8HM  
-   Link: <a href="https://open.spotify.com/episode/26FkW1dkdbv2ev61EMJ8HM" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/26FkW1dkdbv2ev61EMJ8HM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>123: The Story of The Integratron14 May 2025 — Van Tassel was an aerospace engineer who became a UFO pioneer after claiming contact with...</p></details>
+   Link:<a href="https://open.spotify.com/episode/26FkW1dkdbv2ev61EMJ8HM" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/26FkW1dkdbv2ev61EMJ8HM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>123: The Story of The Integratron14 May 2025 — Van Tassel was an aerospace engineer who became a UFO pioneer after claiming contact with...</p></details>
    Published: May 2025  

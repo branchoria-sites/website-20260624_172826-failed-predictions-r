@@ -274,17 +274,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_as
 
 ## Introduction
 
-The 1977 Southern Television interruption is often cited in discussions of the [Ashtar]({{ 'ashtar/' | relative_url }}) movement because it briefly brought the name of the “Ashtar Galactic Command” into millions of homes. Yet as evidence for extraterrestrial contact—or for any of the landing expectations associated with Ashtar traditions—it is remarkably weak. The incident demonstrated that an unauthorised message could be inserted into a television broadcast. It did not demonstrate that the source of the message was non-human, extraterrestrial, or capable of delivering the future events it described. For historians of failed UFO predictions, the case is important precisely because its cultural impact far exceeded its evidential value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+The 1977 Southern Television interruption is often cited in discussions of the [Ashtar]({{ 'ashtar/' | relative_url }}) movement because it briefly brought the name of the “Ashtar Galactic Command” into millions of homes. Yet as evidence for extraterrestrial contact—or for any of the landing expectations associated with Ashtar traditions—it is remarkably weak. The incident demonstrated that an unauthorised message could be inserted into a television broadcast. It did not demonstrate that the source of the message was non-human, extraterrestrial, or capable of delivering the future events it described. For historians of failed UFO predictions, the case is important precisely because its cultural impact far exceeded its evidential value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_ashtar_1977_broadcas_0d15af-Illustration-1-dark.svg" | relative_url }}" alt="1977 Broadcast illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_ashtar_1977_broadcas_0d15af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_ashtar_1977_broadcas_0d15af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Viewers Heard in Southern England
 
-On 26 November 1977, viewers watching Southern Television in parts of southern England experienced an unusual interruption during a news bulletin. The television picture remained largely intact, but the audio was replaced by a distorted voice identifying itself as “Vrillon”, a representative of the Ashtar Galactic Command. The speaker warned humanity about conflict, weapons, and spiritual decline while urging a transition toward peace and higher evolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+On 26 November 1977, viewers watching Southern Television in parts of southern England experienced an unusual interruption during a news bulletin. The television picture remained largely intact, but the audio was replaced by a distorted voice identifying itself as “Vrillon”, a representative of the Ashtar Galactic Command. The speaker warned humanity about conflict, weapons, and spiritual decline while urging a transition toward peace and higher evolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
-The content closely matched themes already familiar within Ashtar-related teachings. References to humanity’s destiny, the need to abandon weapons, spiritual advancement, and warnings of coming danger echoed ideas that had circulated for decades in contactee and New Age literature associated with Ashtar. Rather than presenting new verifiable information, the message largely repeated established beliefs already present in that subculture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+The content closely matched themes already familiar within Ashtar-related teachings. References to humanity’s destiny, the need to abandon weapons, spiritual advancement, and warnings of coming danger echoed ideas that had circulated for decades in contactee and New Age literature associated with Ashtar. Rather than presenting new verifiable information, the message largely repeated established beliefs already present in that subculture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
-This point matters when assessing evidence. A genuinely extraordinary communication might be expected to contain independently verifiable information unavailable to the public. Instead, the broadcast largely reflected concepts already circulating among UFO-contact and New Age communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+This point matters when assessing evidence. A genuinely extraordinary communication might be expected to contain independently verifiable information unavailable to the public. Instead, the broadcast largely reflected concepts already circulating among UFO-contact and New Age communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TF0n_yISOzQ" title="The Southern Television Interruption" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TF0n_yISOzQ" target="_blank" rel="noopener noreferrer">The Southern Television Interruption</a></p><p class="youtube-embed-meta">Channel: hochelaga</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TF0n_yISOzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TF0n_yISOzQ">Open on YouTube</a></p></div></div></div>
@@ -293,7 +293,7 @@ This point matters when assessing evidence. A genuinely extraordinary communicat
 
 The strongest evidence from the incident points toward a technical intrusion rather than an extraterrestrial transmission.
 
-Investigators concluded that the interruption affected the audio path of the broadcast and was most likely achieved by exploiting the way the Hannington transmitter received and rebroadcast signals. Reports indicated that the transmitter had picked up an unauthorised signal from a nearby source rather than the intended programme feed. The event therefore fit a recognised category of broadcasting incidents known as signal intrusions or signal hijackings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+Investigators concluded that the interruption affected the audio path of the broadcast and was most likely achieved by exploiting the way the Hannington transmitter received and rebroadcast signals. Reports indicated that the transmitter had picked up an unauthorised signal from a nearby source rather than the intended programme feed. The event therefore fit a recognised category of broadcasting incidents known as signal intrusions or signal hijackings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
 Several features support that interpretation:
 
@@ -301,11 +301,11 @@ Several features support that interpretation:
 * It affected a specific transmission chain rather than all television systems.
 * The audio quality was distorted and technically imperfect.
 * No accompanying physical evidence of extraterrestrial activity appeared.
-* No verified source connected the transmission to anything beyond human broadcasting technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+* No verified source connected the transmission to anything beyond human broadcasting technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
-Importantly, no official investigation concluded that the signal originated from an unknown technology or an extraterrestrial source. The mystery concerned the identity of the hijacker, not the mechanism of transmission. Even decades later, discussion of the case by broadcasting historians treats it as an unsolved intrusion rather than a confirmed alien communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent+2Transdiffusion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</span></span></span>
+Importantly, no official investigation concluded that the signal originated from an unknown technology or an extraterrestrial source. The mystery concerned the identity of the hijacker, not the mechanism of transmission. Even decades later, discussion of the case by broadcasting historians treats it as an unsolved intrusion rather than a confirmed alien communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent+2Transdiffusion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</span></span></span>
 
-The distinction is often blurred in popular retellings. “Unsolved” can create an impression that alien involvement remains a serious evidential possibility. In reality, the [unresolved]({{ 'unresolved/' | relative_url }}) element is who carried out the intrusion, not whether the interruption itself required paranormal or extraterrestrial explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</span></span></span>
+The distinction is often blurred in popular retellings. “Unsolved” can create an impression that alien involvement remains a serious evidential possibility. In reality, the [unresolved]({{ 'unresolved/' | relative_url }}) element is who carried out the intrusion, not whether the interruption itself required paranormal or extraterrestrial explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_ashtar_1977_broadcas_0d15af-Illustration-2-dark.svg" | relative_url }}" alt="1977 Broadcast illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_ashtar_1977_broadcas_0d15af-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_ashtar_1977_broadcas_0d15af-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,11 +313,11 @@ The distinction is often blurred in popular retellings. “Unsolved” can creat
 
 For the Ashtar tradition, the interruption offered publicity but not confirmation.
 
-The message contained no testable prediction that was subsequently fulfilled. It did not provide evidence of spacecraft landings, verifiable technological capabilities, or independently confirmed extraterrestrial presence. Nor did it establish that the speaker possessed knowledge unavailable to contemporary humans. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+The message contained no testable prediction that was subsequently fulfilled. It did not provide evidence of spacecraft landings, verifiable technological capabilities, or independently confirmed extraterrestrial presence. Nor did it establish that the speaker possessed knowledge unavailable to contemporary humans.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
-This creates a classic evidence problem. The broadcast demonstrated that someone successfully inserted a message into a television signal. It did not demonstrate that the message's claims were true. In historical terms, the event is evidence that a broadcast occurred; it is not evidence that [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) existed as described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+This creates a classic evidence problem. The broadcast demonstrated that someone successfully inserted a message into a television signal. It did not demonstrate that the message's claims were true. In historical terms, the event is evidence that a broadcast occurred; it is not evidence that [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) existed as described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
-The distinction becomes especially important when examining repeated Ashtar-related expectations of intervention, rescue, evacuation, or public contact. A dramatic broadcast can increase attention to a belief system, but attention is not the same thing as [verification]({{ 'verification/' | relative_url }}). The interruption neither confirmed earlier Ashtar predictions nor validated later ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The distinction becomes especially important when examining repeated Ashtar-related expectations of intervention, rescue, evacuation, or public contact. A dramatic broadcast can increase attention to a belief system, but attention is not the same thing as [verification]({{ 'verification/' | relative_url }}). The interruption neither confirmed earlier Ashtar predictions nor validated later ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sl5jMsZmRAs" title="Southern Television broadcast interruption (1977) (Full off-air recording in HD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sl5jMsZmRAs" target="_blank" rel="noopener noreferrer">Southern Television broadcast interruption (1977) (Full off-air recording in HD)</a></p><p class="youtube-embed-meta">Channel: Mralexgonzal Extras</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sl5jMsZmRAs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sl5jMsZmRAs">Open on YouTube</a></p></div></div></div>
@@ -326,9 +326,9 @@ The distinction becomes especially important when examining repeated Ashtar-rela
 
 Although the broadcast proved little, it became highly valuable within Ashtar narratives.
 
-Unlike private channelled messages or niche publications, the television interruption was a public event witnessed by ordinary viewers. Because it occurred on mainstream television, later retellings sometimes presented it as a moment when Ashtar forces supposedly broke through official communication systems. The fact that many people heard the message gave it symbolic importance that exceeded its evidential strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</span></span></span>
+Unlike private channelled messages or niche publications, the television interruption was a public event witnessed by ordinary viewers. Because it occurred on mainstream television, later retellings sometimes presented it as a moment when Ashtar forces supposedly broke through official communication systems. The fact that many people heard the message gave it symbolic importance that exceeded its evidential strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</span></span></span>
 
-Over time, the event acquired a reputation far larger than its original impact. Books, documentaries, podcasts, websites and UFO discussions frequently referenced “Vrillon” as though the broadcast itself constituted proof of contact. Yet the underlying facts remained unchanged: a brief signal intrusion occurred, the source was never identified, and no independent evidence emerged linking it to extraterrestrials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent+2POD BIBLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</span></span></span>
+Over time, the event acquired a reputation far larger than its original impact. Books, documentaries, podcasts, websites and UFO discussions frequently referenced “Vrillon” as though the broadcast itself constituted proof of contact. Yet the underlying facts remained unchanged: a brief signal intrusion occurred, the source was never identified, and no independent evidence emerged linking it to extraterrestrials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent+2POD BIBLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</span></span></span>
 
 This pattern mirrors a broader feature of failed UFO predictions. Public visibility can preserve a story even when evidential support remains thin. The 1977 interruption survived not because it verified Ashtar claims, but because it was memorable, unusual, and easily retold.
 
@@ -338,201 +338,201 @@ This pattern mirrors a broader feature of failed UFO predictions. Public visibil
 
 Within the wider history of UFO prophecy, the Southern Television interruption occupies an unusual position. It was not itself a failed landing prediction. Rather, it became a piece of supporting folklore attached to a movement that repeatedly anticipated intervention, contact, or transformation.
 
-As evidence, the case establishes only that an unidentified individual or group managed to place an unauthorised message onto a television transmission. It does not verify the identity of “Vrillon”, the existence of the Ashtar Galactic Command, or the reality of any promised future events. The incident remains historically significant because it amplified an existing belief system while providing almost no reliable evidence for the extraordinary claims associated with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+As evidence, the case establishes only that an unidentified individual or group managed to place an unauthorised message onto a television transmission. It does not verify the identity of “Vrillon”, the existence of the Ashtar Galactic Command, or the reality of any promised future events. The incident remains historically significant because it amplified an existing belief system while providing almost no reliable evidence for the extraordinary claims associated with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NmjsZHBXB_c" title="Who Was Behind The Southern Television Signal Hijack?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NmjsZHBXB_c" target="_blank" rel="noopener noreferrer">Who Was Behind The Southern Television Signal Hijack?</a></p><p class="youtube-embed-meta">Channel: Ringway Manchester</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NmjsZHBXB_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NmjsZHBXB_c">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Broadcast That Proved Almost Nothing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Broadcast That Proved Almost Nothing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how to assess unusual claims and weak evidence, directly relevant to the cultural impact versus evidential value of the incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to assess unusual claims and weak evidence, directly relevant to the cultural impact versus evidential value of the incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a foundational framework for evaluating UFO claims and evidence, useful context for assessing the 1977 broadcast.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a foundational framework for evaluating UFO claims and evidence, useful context for assessing the 1977 broadcast.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores contactee movements, belief systems, and UFO-related subcultures closely connected to Ashtar traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores contactee movements, belief systems, and UFO-related subcultures closely connected to Ashtar traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a contrast between cases presented as evidence and incidents like the Southern Television intrusion that lack comparable support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a contrast between cases presented as evidence and incidents like the Southern Television intrusion that lack comparable support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Messengers+of+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Messengers of Deception</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Messengers+of+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Messengers of Deception</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="1977-broadcast-the-broadcast-that-proved-almost-nothing-failed-predictions-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ As evidence, the case establishes only that an unidentified individual or group 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ As evidence, the case establishes only that an unidentified individual or group 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ As evidence, the case establishes only that an unidentified individual or group 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ As evidence, the case establishes only that an unidentified individual or group 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ As evidence, the case establishes only that an unidentified individual or group 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,111 +738,111 @@ As evidence, the case establishes only that an unidentified individual or group 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2026 — The audio of a Southern Television broadcast was replaced by a voice claiming to represent the &quot;Ashtar Galactic Command&quot;, d...</p></details>
    Published: May 9, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: podbiblemag.com  
    Title: POD BIBLEWho  
-   Link: <a href="https://podbiblemag.com/who-or-what-was-behind-the-interruption/" target="_blank" rel="noopener noreferrer nofollow">https://podbiblemag.com/who-or-what-was-behind-the-interruption/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For six minutes, it delivered an urgent plea for all humankind to disarm their “weapons...Read more...</p></details>
+   Link:<a href="https://podbiblemag.com/who-or-what-was-behind-the-interruption/" target="_blank" rel="noopener noreferrer nofollow">https://podbiblemag.com/who-or-what-was-behind-the-interruption/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For six minutes, it delivered an urgent plea for all humankind to disarm their “weapons...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Broadcast signal intrusion  
-   Link: <a href="https://en.wikipedia.org/wiki/Broadcast_signal_intrusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Broadcast_signal_intrusion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Broadcast_signal_intrusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Broadcast_signal_intrusion</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: transdiffusion.org  
    Title: southern interference  
-   Link: <a href="https://transdiffusion.org/2023/08/21/southern-interference/" target="_blank" rel="noopener noreferrer nofollow">https://transdiffusion.org/2023/08/21/southern-interference/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Southern interference21 Aug 2023 — Hundreds of worried viewers flooded Southern Television with calls last night after a “v...</p></details>
+   Link:<a href="https://transdiffusion.org/2023/08/21/southern-interference/" target="_blank" rel="noopener noreferrer nofollow">https://transdiffusion.org/2023/08/21/southern-interference/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Southern interference21 Aug 2023 — Hundreds of worried viewers flooded Southern Television with calls last night after a “v...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Interferenza di Vrillon  
-   Link: <a href="https://it.wikipedia.org/wiki/Interferenza_di_Vrillon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Interferenza_di_Vrillon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interferenza di VrillonL&#x27;Interferenza di Vrillon, meglio conosciuta con la definizione inglese di Southern Television broadcast interr...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/Interferenza_di_Vrillon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Interferenza_di_Vrillon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interferenza di VrillonL&#x27;Interferenza di Vrillon, meglio conosciuta con la definizione inglese di Southern Television broadcast interr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Southern Television Interruption  
-   Link: <a href="https://www.youtube.com/watch?v=TF0n_yISOzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TF0n_yISOzQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Broadcast That Interrupted Live TV in 1977 — The Real Vrillon Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TF0n_yISOzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TF0n_yISOzQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Broadcast That Interrupted Live TV in 1977 — The Real Vrillon Mystery...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentVrillon: the alien voice hoax that became a legendNov 25, 2017 — Forty years ago, a TV broadcast was taken over by what cl...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: muc.fandom.com  
-   Link: <a href="https://muc.fandom.com/wiki/Vrillon" target="_blank" rel="noopener noreferrer nofollow">https://muc.fandom.com/wiki/Vrillon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Made up Characters Wiki - FandomA speaker interrupted transmissions for six minutes and claimed to be a representative of an &quot;Intergalact...</p></details>
+   Link:<a href="https://muc.fandom.com/wiki/Vrillon" target="_blank" rel="noopener noreferrer nofollow">https://muc.fandom.com/wiki/Vrillon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Made up Characters Wiki - FandomA speaker interrupted transmissions for six minutes and claimed to be a representative of an &quot;Intergalact...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: basildonheritage.org.uk  
-   Link: <a href="https://www.basildonheritage.org.uk/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.basildonheritage.org.uk/[media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ContentsDecades after the airwaves were briefly hijacked by the voice of &quot;Vrillon,&quot; the Southern. Television broadcast interruption conti...</p></details>
+   Link:<a href="https://www.basildonheritage.org.uk/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.basildonheritage.org.uk/[media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ContentsDecades after the airwaves were briefly hijacked by the voice of &quot;Vrillon,&quot; the Southern. Television broadcast interruption conti...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Sl5jMsZmRAs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sl5jMsZmRAs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1977 Southern Television broadcast interruption Ashtar Vrillon Southern Television broadcast interruption (1977) (Full off-air recording...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sl5jMsZmRAs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sl5jMsZmRAs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1977 Southern Television broadcast interruption Ashtar Vrillon Southern Television broadcast interruption (1977) (Full off-air recording...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discoveryuk.com  
    Title: vrillon the broadcast that hijacked britains imagination  
-   Link: <a href="https://www.discoveryuk.com/mysteries/vrillon-the-broadcast-that-hijacked-britains-imagination/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/vrillon-the-broadcast-that-hijacked-britains-imagination/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillon: The Broadcast That Hijacked Britain&#x27;s Imagination17 Feb 2026 — On the evening of November 26, 1977, viewers in parts of southern...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/vrillon-the-broadcast-that-hijacked-britains-imagination/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/vrillon-the-broadcast-that-hijacked-britains-imagination/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillon: The Broadcast That Hijacked Britain&#x27;s Imagination17 Feb 2026 — On the evening of November 26, 1977, viewers in parts of southern...</p></details>
    Published: November 26, 1977  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: on november 26th 1977 a southern television  
-   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1g6k4q8/on_november_26th_1977_a_southern_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1g6k4q8/on_november_26th_1977_a_southern_television/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On November 26th, 1977, a Southern Television broadcast...A voice, introducing themselves as &#x27;Vrillon,&#x27; instructed viewers to destroy we...</p></details>
+   Link:<a href="https://www.reddit.com/r/UrbanMyths/comments/1g6k4q8/on_november_26th_1977_a_southern_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1g6k4q8/on_november_26th_1977_a_southern_television/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On November 26th, 1977, a Southern Television broadcast...A voice, introducing themselves as &#x27;Vrillon,&#x27; instructed viewers to destroy we...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iheart.com  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://www.iheart.com/podcast/105-this-day-in-history-class-29520957/episode/southern-television-broadcast-interruption-november-53129099/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/105-this-day-in-history-class-29520957/episode/southern-television-broadcast-interruption-november-53129099/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 26...Nov 26, 2019 — On this day in 1977, a Southern Television news broadcast was interrupted by a cryptic voice claiming to be...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/105-this-day-in-history-class-29520957/episode/southern-television-broadcast-interruption-november-53129099/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/105-this-day-in-history-class-29520957/episode/southern-television-broadcast-interruption-november-53129099/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 26...Nov 26, 2019 — On this day in 1977, a Southern Television news broadcast was interrupted by a cryptic voice claiming to be...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: the southern television broadcast signal  
-   Link: <a href="https://www.reddit.com/r/mystery/comments/v0pngg/the_southern_television_broadcast_signal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/v0pngg/the_southern_television_broadcast_signal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Nov. 26, 1977 a television station in southern England had their broadcast hijacked by an entity referring to itself...</p></details>
+   Link:<a href="https://www.reddit.com/r/mystery/comments/v0pngg/the_southern_television_broadcast_signal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/v0pngg/the_southern_television_broadcast_signal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Nov. 26, 1977 a television station in southern England had their broadcast hijacked by an entity referring to itself...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DRizphRDlLT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRizphRDlLT/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>but remains a famous piece of broadcasting...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DRizphRDlLT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRizphRDlLT/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>but remains a famous piece of broadcasting...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: encyclopediaofarkansas.net  
    Title: katv broadcast interruption of 1959  
-   Link: <a href="https://encyclopediaofarkansas.net/entries/katv-broadcast-interruption-of-1959/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/katv-broadcast-interruption-of-1959/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hoax or prank, the broadcast interruption at the time fueled an array of segregationist conspiracy theories and sparked legislative threa...</p></details>
+   Link:<a href="https://encyclopediaofarkansas.net/entries/katv-broadcast-interruption-of-1959/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/katv-broadcast-interruption-of-1959/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hoax or prank, the broadcast interruption at the time fueled an array of segregationist conspiracy theories and sparked legislative threa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NmjsZHBXB_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NmjsZHBXB_c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>resent the Ashtar Galactic Command in an incident that&#x27;s never been solved...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NmjsZHBXB_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NmjsZHBXB_c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>resent the Ashtar Galactic Command in an incident that&#x27;s never been solved...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EBO2rJPy-mI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EBO2rJPy-mI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Television broadcast interruption (1977) (Full off-air recording in HD)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EBO2rJPy-mI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EBO2rJPy-mI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Television broadcast interruption (1977) (Full off-air recording in HD)...</p></details>

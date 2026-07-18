@@ -280,15 +280,15 @@ image: /assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_gar
 
 ## Introduction
 
-When Chen Tao’s leader, Hon-Ming Chen, predicted that God would appear on television on Channel 18 and then physically arrive in Garland, Texas, in March 1998, local authorities faced an unusual challenge. The prophecy itself belonged to the world of [UFO religion]({{ 'ufo-religion/' | relative_url }}) and millennial belief, but the practical consequences belonged to law enforcement. Garland police had to prepare for the possibility that international media, curious spectators, concerned relatives, anti-cult activists, and frightened [neighbours]({{ 'neighbours/' | relative_url }}) might converge on a quiet residential street. Their response became a notable example of how authorities can manage a highly publicised failed prophecy without escalating tensions or treating believers as criminals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+When Chen Tao’s leader, Hon-Ming Chen, predicted that God would appear on television on Channel 18 and then physically arrive in Garland, Texas, in March 1998, local authorities faced an unusual challenge. The prophecy itself belonged to the world of [UFO religion]({{ 'ufo-religion/' | relative_url }}) and millennial belief, but the practical consequences belonged to law enforcement. Garland police had to prepare for the possibility that international media, curious spectators, concerned relatives, anti-cult activists, and frightened [neighbours]({{ 'neighbours/' | relative_url }}) might converge on a quiet residential street. Their response became a notable example of how authorities can manage a highly publicised failed prophecy without escalating tensions or treating believers as criminals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-1-dark.svg" | relative_url }}" alt="Police Response illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Rather than attempting to suppress the group or provoke a confrontation, [Garland]({{ 'garland/' | relative_url }}) officials approached the countdown primarily as a public-safety issue. This approach helped the city avoid the kind of crisis many observers feared in the [aftermath]({{ 'aftermath/' | relative_url }}) of the 1997 Heaven’s Gate deaths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Rather than attempting to suppress the group or provoke a confrontation, [Garland]({{ 'garland/' | relative_url }}) officials approached the countdown primarily as a public-safety issue. This approach helped the city avoid the kind of crisis many observers feared in the [aftermath]({{ 'aftermath/' | relative_url }}) of the 1997 Heaven’s Gate deaths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 ## Why Authorities Prepared for Multiple Outcomes
 
-The main concern for Garland police was not whether the prophecy would come true but what might happen if large numbers of people gathered to witness it. By early 1998, Chen Tao’s predictions had attracted international attention. Reporters from around the world arrived in Garland, and the group’s neighbourhood became the focus of intense [media]({{ 'media/' | relative_url }}) scrutiny. Scholars who studied the episode noted that Chen’s predictions were unusually public and intentionally media-friendly, making widespread attention almost inevitable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</span></span></span>
+The main concern for Garland police was not whether the prophecy would come true but what might happen if large numbers of people gathered to witness it. By early 1998, Chen Tao’s predictions had attracted international attention. Reporters from around the world arrived in Garland, and the group’s neighbourhood became the focus of intense [media]({{ 'media/' | relative_url }}) scrutiny. Scholars who studied the episode noted that Chen’s predictions were unusually public and intentionally media-friendly, making widespread attention almost inevitable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</span></span></span>
 
 Law-enforcement concerns were shaped by recent history. Only a year earlier, the Heaven’s Gate tragedy in California had demonstrated that apocalyptic groups could become the focus of legitimate public-safety fears. Although Chen Tao repeatedly denied any intention of mass suicide, authorities could not simply assume that nothing would happen. Garland police therefore prepared for several possibilities:
 
@@ -296,7 +296,7 @@ Law-enforcement concerns were shaped by recent history. Only a year earlier, the
 * Traffic and crowd-control problems in a residential area.
 * Potential conflicts between believers and critics.
 * Emotional distress among followers if the prophecy failed.
-* Welfare concerns involving [children]({{ 'children/' | relative_url }}) and vulnerable group members. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+* Welfare concerns involving [children]({{ 'children/' | relative_url }}) and vulnerable group members.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 The key point is that police planning was based on [uncertainty]({{ 'uncertainty/' | relative_url }}). Officials did not know whether the event would attract hundreds of people or only a handful, nor could they predict how followers would react if the promised divine appearance failed to occur.
 
@@ -305,9 +305,9 @@ The key point is that police planning was based on [uncertainty]({{ 'uncertainty
 
 ## Dialogue with Chen Tao Members
 
-One of the most distinctive features of the Garland response was the effort to maintain communication with the group rather than isolate it. Accounts of the episode describe police and local officials staying in contact with Chen Tao representatives while monitoring developments. The objective was to keep channels open, reduce misunderstandings, and ensure that authorities had accurate information about planned activities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+One of the most distinctive features of the Garland response was the effort to maintain communication with the group rather than isolate it. Accounts of the episode describe police and local officials staying in contact with Chen Tao representatives while monitoring developments. The objective was to keep channels open, reduce misunderstandings, and ensure that authorities had accurate information about planned activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-This strategy reflected a broader philosophy of religious tolerance. Scholars examining the case later argued that Garland’s handling of Chen Tao avoided the adversarial pattern that sometimes develops between law enforcement and unconventional religious movements. Instead of treating the believers as an immediate threat, officials focused on observable behaviour and public order. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Meeting God in Garland: A Model of Religious Tolerance1by LD Kliever · 1999 · Cited by 11 — On 25 March, God would make a nationwide...</span></span></span>
+This strategy reflected a broader philosophy of religious tolerance. Scholars examining the case later argued that Garland’s handling of Chen Tao avoided the adversarial pattern that sometimes develops between law enforcement and unconventional religious movements. Instead of treating the believers as an immediate threat, officials focused on observable behaviour and public order.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Meeting God in Garland: A Model of Religious Tolerance1by LD Kliever · 1999 · Cited by 11 — On 25 March, God would make a nationwide...</span></span></span>
 
 That distinction mattered. Had police publicly framed the group as dangerous or criminal, tensions could have risen sharply. By concentrating on practical safety issues, authorities reduced the likelihood that members would view themselves as persecuted or become more isolated from outside society.
 
@@ -315,9 +315,9 @@ That distinction mattered. Had police publicly framed the group as dangerous or 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-2-dark.svg" | relative_url }}" alt="Police Response illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Crowd, Child-Safety, and Emergency Planning
 
-As the predicted dates approached, police preparations increasingly centred on logistics. Media vehicles, television crews, and visitors threatened to overwhelm a suburban neighbourhood that was never designed to host an international news event. Contemporary accounts describe police presence in the area and measures intended to maintain order around the homes occupied by group members. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcsidewalks.blogspot.com">[tcsidewalks.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcsidewalks.blogspot.com</span><span class="citation-popover-title">Chen&#x27;s cult, also known as the Chen Tao,</span><span class="citation-popover-snippet">Texan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — Garland was where God&#x27;s spaceship would land on March 31, 1998, to take the cu...</span><span class="citation-popover-meta">Published: March 31, 1998</span></span></span>
+As the predicted dates approached, police preparations increasingly centred on logistics. Media vehicles, television crews, and visitors threatened to overwhelm a suburban neighbourhood that was never designed to host an international news event. Contemporary accounts describe police presence in the area and measures intended to maintain order around the homes occupied by group members.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tcsidewalks.blogspot.com">[tcsidewalks.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tcsidewalks.blogspot.com</span><span class="citation-popover-title">Chen&#x27;s cult, also known as the Chen Tao,</span><span class="citation-popover-snippet">Texan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — Garland was where God&#x27;s spaceship would land on March 31, 1998, to take the cu...</span><span class="citation-popover-meta">Published: March 31, 1998</span></span></span>
 
-Child-welfare concerns also influenced official thinking. Earlier controversies involving members of the movement had already drawn police attention in California, and public discussion frequently returned to questions about family welfare and vulnerable individuals within the group. Authorities therefore had reasons to monitor conditions carefully even though no evidence suggested an imminent act of violence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
+Child-welfare concerns also influenced official thinking. Earlier controversies involving members of the movement had already drawn police attention in California, and public discussion frequently returned to questions about family welfare and vulnerable individuals within the group. Authorities therefore had reasons to monitor conditions carefully even though no evidence suggested an imminent act of violence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
 
 Emergency planning extended beyond the group itself. Officials had to consider:
 
@@ -328,7 +328,7 @@ Emergency planning extended beyond the group itself. Officials had to consider:
 * Traffic congestion affecting emergency vehicles.
 * Neighbourhood access and crowd movement.
 * The possibility of spontaneous demonstrations or confrontations.
-* Media-related disruptions to ordinary residential life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+* Media-related disruptions to ordinary residential life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 </div>
 
@@ -339,7 +339,7 @@ In practical terms, the challenge resembled managing a major public event rather
 
 ## What Happened When the Prophecy Failed
 
-When the Channel 18 broadcast did not occur and the later prediction of God’s appearance in Garland also failed, the feared crisis never materialised. Reports indicate that police remained on standby while journalists and observers waited for the appointed time. Instead of violence or panic, the outcome was anticlimactic. Chen acknowledged that his prediction had failed and attempted to explain the mistake as a misunderstanding of divine intentions. Followers largely returned to their homes without major disorder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+When the Channel 18 broadcast did not occur and the later prediction of God’s appearance in Garland also failed, the feared crisis never materialised. Reports indicate that police remained on standby while journalists and observers waited for the appointed time. Instead of violence or panic, the outcome was anticlimactic. Chen acknowledged that his prediction had failed and attempted to explain the mistake as a misunderstanding of divine intentions. Followers largely returned to their homes without major disorder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 From a law-enforcement perspective, this was the best possible outcome. The city avoided injuries, confrontations, and the kind of tragedy that many outsiders had feared. The event passed from a public-safety concern into a case study of failed prophecy and media attention.
 
@@ -350,200 +350,200 @@ From a law-enforcement perspective, this was the best possible outcome. The city
 
 The Garland response illustrates a recurring problem in failed UFO and apocalyptic predictions: even when extraordinary claims are implausible, authorities must still prepare for their social consequences. The challenge is rarely the prophecy itself. Instead, it is the uncertainty created when believers, journalists, families, neighbours, and curiosity seekers converge around a fixed deadline.
 
-Garland police responded by treating Chen Tao’s predictions as a governance and public-order issue rather than a theological dispute. Through communication, contingency planning, and a visible but restrained presence, they managed a potentially volatile situation without turning it into a confrontation. The episode remains an instructive example of how local authorities can respond when a highly publicised UFO-related prophecy becomes a real-world public event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Garland police responded by treating Chen Tao’s predictions as a governance and public-order issue rather than a theological dispute. Through communication, contingency planning, and a visible but restrained presence, they managed a potentially volatile situation without turning it into a confrontation. The episode remains an instructive example of how local authorities can respond when a highly publicised UFO-related prophecy becomes a real-world public event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-3-dark.svg" | relative_url }}" alt="Police Response illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266_garland_police_respo_113aea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Garland Police Handled the Countdown. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Garland Police Handled the Countdown. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how groups and followers respond when highly public predictions fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how groups and followers respond when highly public predictions fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/549161-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/549161-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides context for public concern, media attention, and community responses to new religious movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for public concern, media attention, and community responses to new religious movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+groups+William+M.+Kephart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary groups on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2367720-M.jpg" alt="Cover for Extraordinary groups" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+groups+William+M.+Kephart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary groups">Extraordinary groups</a>
-        </h4>
-        <p class="fr-book-author">By William M. Kephart, W. W. Zellner et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+groups+William+M.+Kephart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary groups on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2367720-M.jpg" alt="Cover for Extraordinary groups" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+groups+William+M.+Kephart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary groups">Extraordinary groups</a>
+</h4>
+<p class="fr-book-author">By William M. Kephart, W. W. Zellner et al.</p>
         
-        <p class="fr-book-desc">First published 1976. Subjects: Amish, Collective settlements, Communal living, Hutterite Brethren, Mormons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+groups+William+M.+Kephart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1976. Subjects: Amish, Collective settlements, Communal living, Hutterite Brethren, Mormons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+groups+William+M.+Kephart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+groups&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary groups</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+groups&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary groups</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="police-response-how-garland-police-handled-the-countdown-failed-predictions-ufo-poster-book-books-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ Garland police responded by treating Chen Tao’s predictions as a governance an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ Garland police responded by treating Chen Tao’s predictions as a governance an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ Garland police responded by treating Chen Tao’s predictions as a governance an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ Garland police responded by treating Chen Tao’s predictions as a governance an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ Garland police responded by treating Chen Tao’s predictions as a governance an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,102 +749,102 @@ Garland police responded by treating Chen Tao’s predictions as a governance an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.45" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.45</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting God in Garland: A Model of Religious Tolerance1by LD Kliever · 1999 · Cited by 11 — On 25 March, God would make a nationwide...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.45" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.45</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting God in Garland: A Model of Religious Tolerance1by LD Kliever · 1999 · Cited by 11 — On 25 March, God would make a nationwide...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cesnur.org  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>America at midnight on March 22, 1998, and then bodily in Garland at. 10:00AM on March 31. Chen explicitly sought...Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America at midnight on March 22, 1998, and then bodily in Garland at. 10:00AM on March 31. Chen explicitly sought...Read more...</p></details>
    Published: March 22, 1998  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tcsidewalks.blogspot.com  
    Title: Chen's cult, also known as the Chen Tao,  
-   Link: <a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Texan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — Garland was where God&#x27;s spaceship would land on March 31, 1998, to take the cu...</p></details>
+   Link:<a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — Garland was where God&#x27;s spaceship would land on March 31, 1998, to take the cu...</p></details>
    Published: March 31, 1998  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: economist.com  
    Title: waiting for god oh  
-   Link: <a href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWaiting for God. OhGod would then descend to the back yard of 3513 Ridgeland Way, Garland, Texas, on March 31st. Mr Chen app...</p></details>
+   Link:<a href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWaiting for God. OhGod would then descend to the back yard of 3513 Ridgeland Way, Garland, Texas, on March 31st. Mr Chen app...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: garlandpolice.com  
-   Link: <a href="https://garlandpolice.com/" target="_blank" rel="noopener noreferrer nofollow">https://garlandpolice.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Police | Garland, TXPolice Reports, Live in Garland, Contact GPD 1891 Forest Lane PO Box 469002 Garland, TX 75046 Lobby Hours 8 am-7 pm D...</p></details>
+   Link:<a href="https://garlandpolice.com/" target="_blank" rel="noopener noreferrer nofollow">https://garlandpolice.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police | Garland, TXPolice Reports, Live in Garland, Contact GPD 1891 Forest Lane PO Box 469002 Garland, TX 75046 Lobby Hours 8 am-7 pm D...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: keranews.org  
    Title: garland police chief memo wouldnt have changed cartoon contest response  
-   Link: <a href="https://www.keranews.org/news/2015-05-11/garland-police-chief-memo-wouldnt-have-changed-cartoon-contest-response" target="_blank" rel="noopener noreferrer nofollow">https://www.keranews.org/news/2015-05-11/garland-police-chief-memo-wouldnt-have-changed-cartoon-contest-response</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Garland Police Chief: Memo Wouldn&#x27;t Have Changed...11 May 2015 — Garland&#x27;s police chief says the information the FBI sent local law enfo...</p></details>
+   Link:<a href="https://www.keranews.org/news/2015-05-11/garland-police-chief-memo-wouldnt-have-changed-cartoon-contest-response" target="_blank" rel="noopener noreferrer nofollow">https://www.keranews.org/news/2015-05-11/garland-police-chief-memo-wouldnt-have-changed-cartoon-contest-response</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Garland Police Chief: Memo Wouldn&#x27;t Have Changed...11 May 2015 — Garland&#x27;s police chief says the information the FBI sent local law enfo...</p></details>
    Published: May 2015  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: police1.com  
    Title: 10 critical lessons from the garland terrorist attack 8CJq Jgcsc KLPqy ZD  
-   Link: <a href="https://www.police1.com/active-shooter/articles/10-critical-lessons-from-the-garland-terrorist-attack-8CJqJgcscKLPqyZD/" target="_blank" rel="noopener noreferrer nofollow">https://www.police1.com/active-shooter/articles/10-critical-lessons-from-the-garland-terrorist-attack-8CJqJgcscKLPqyZD/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 critical lessons from the Garland terrorist attack15 Sept 2017 — On May 3, 2015, a pair of terrorists launched the first ISIS-inspired...</p></details>
+   Link:<a href="https://www.police1.com/active-shooter/articles/10-critical-lessons-from-the-garland-terrorist-attack-8CJqJgcscKLPqyZD/" target="_blank" rel="noopener noreferrer nofollow">https://www.police1.com/active-shooter/articles/10-critical-lessons-from-the-garland-terrorist-attack-8CJqJgcscKLPqyZD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 critical lessons from the Garland terrorist attack15 Sept 2017 — On May 3, 2015, a pair of terrorists launched the first ISIS-inspired...</p></details>
    Published: May 3, 2015  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: michaelshermer.com  
    Title: Michael Shermer Spin Doctoring the End of the World  
-   Link: <a href="https://michaelshermer.com/articles/the-end-of-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/articles/the-end-of-the-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spin Doctoring the End of the World - Michael Shermer1 Jul 1999 — This time around it was the prophecy of one Heng-ming Chen, leader of G...</p></details>
+   Link:<a href="https://michaelshermer.com/articles/the-end-of-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/articles/the-end-of-the-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spin Doctoring the End of the World - Michael Shermer1 Jul 1999 — This time around it was the prophecy of one Heng-ming Chen, leader of G...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: grassley.senate.gov  
-   Link: <a href="https://www.grassley.senate.gov/news/news-releases/what-did-fbi-really-know-terrorist-attack-garland-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.grassley.senate.gov/news/news-releases/what-did-fbi-really-know-terrorist-attack-garland-texas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>did the FBI Really Know before Terrorist Attack in...27 Apr 2017 — I write regarding newly revealed information about the attempted terr...</p></details>
+   Link:<a href="https://www.grassley.senate.gov/news/news-releases/what-did-fbi-really-know-terrorist-attack-garland-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.grassley.senate.gov/news/news-releases/what-did-fbi-really-know-terrorist-attack-garland-texas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>did the FBI Really Know before Terrorist Attack in...27 Apr 2017 — I write regarding newly revealed information about the attempted terr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqe8xxkITa46wGT2bu5AAjQKbIVudZVavBixRWrvAsWL8umQa_Q" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqe8xxkITa46wGT2bu5AAjQKbIVudZVavBixRWrvAsWL8umQa_Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In December, the group&#x27;s founder and prophet, Hon-Ming. Chen, announced that God would appear on TV Channel 18...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqe8xxkITa46wGT2bu5AAjQKbIVudZVavBixRWrvAsWL8umQa_Q" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqe8xxkITa46wGT2bu5AAjQKbIVudZVavBixRWrvAsWL8umQa_Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In December, the group&#x27;s founder and prophet, Hon-Ming. Chen, announced that God would appear on TV Channel 18...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TPHbdctyTX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TPHbdctyTX0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hat left one officer injured and the suspect dead...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TPHbdctyTX0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TPHbdctyTX0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hat left one officer injured and the suspect dead...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: histarch.illinois.edu  
-   Link: <a href="https://www.histarch.illinois.edu/harper/millenial3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.histarch.illinois.edu/harper/millenial3.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fail to materialize. Come 10 a.m., March 31, in Garland, Chen predicts, God will step onto Earth and have the physical appearance of Chen...</p></details>
+   Link:<a href="https://www.histarch.illinois.edu/harper/millenial3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.histarch.illinois.edu/harper/millenial3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fail to materialize. Come 10 a.m., March 31, in Garland, Chen predicts, God will step onto Earth and have the physical appearance of Chen...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Garland Police Department on Reels Video by Garland Police Department  
-   Link: <a href="https://www.facebook.com/GarlandPoliceDepartment/videos/1797519677319024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GarlandPoliceDepartment/videos/1797519677319024/</a>  
+   Link:<a href="https://www.facebook.com/GarlandPoliceDepartment/videos/1797519677319024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GarlandPoliceDepartment/videos/1797519677319024/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
+   Link:<a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Yp_5pDOa-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yp_5pDOa-o0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Yp_5pDOa-o0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yp_5pDOa-o0</a>  

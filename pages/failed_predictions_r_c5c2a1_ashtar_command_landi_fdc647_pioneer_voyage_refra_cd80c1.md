@@ -274,15 +274,15 @@ image: /assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pi
 
 ## Introduction
 
-The Pioneer Voyage was one of the most significant ways that parts of the [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) movement responded when expectations of visible UFO intervention failed to materialise. Rather than insisting that spacecraft had landed publicly, the movement increasingly taught that the real fulfilment occurred on a spiritual or etheric level. Participants were told that they had travelled aboard [Ashtar]({{ 'ashtar/' | relative_url }}) Command “Light ships” during meditation, even if they had no immediate memory of doing so. In this framework, the absence of observable evidence was not treated as disconfirmation. Instead, the event was redefined as an experience of consciousness, later recoverable through memory recall. This shift transformed a potentially falsified public prediction into a private, experiential claim that could be affirmed by believers while remaining largely beyond external testing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The Pioneer Voyage was one of the most significant ways that parts of the [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) movement responded when expectations of visible UFO intervention failed to materialise. Rather than insisting that spacecraft had landed publicly, the movement increasingly taught that the real fulfilment occurred on a spiritual or etheric level. Participants were told that they had travelled aboard [Ashtar]({{ 'ashtar/' | relative_url }}) Command “Light ships” during meditation, even if they had no immediate memory of doing so. In this framework, the absence of observable evidence was not treated as disconfirmation. Instead, the event was redefined as an experience of consciousness, later recoverable through memory recall. This shift transformed a potentially falsified public prediction into a private, experiential claim that could be affirmed by believers while remaining largely beyond external testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-1-dark.svg" | relative_url }}" alt="Pioneer Voyage illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did the Landing Move to Another Plane?
 
-During the early 1990s, some [Ashtar channels]({{ 'ashtar-channels/' | relative_url }}) still circulated expectations of dramatic contact events and large-scale interaction between humanity and extraterrestrial fleets. Accounts associated with [Yvonne Cole]({{ '1994-ashtar/' | relative_url }}) and related networks described future landings that would transform human society and usher in a higher stage of development. When no widely recognised landing occurred, the movement did not simply abandon the expectation. Instead, a new concept emerged: the Pioneer Voyage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</span></span></span>
+During the early 1990s, some [Ashtar channels]({{ 'ashtar-channels/' | relative_url }}) still circulated expectations of dramatic contact events and large-scale interaction between humanity and extraterrestrial fleets. Accounts associated with [Yvonne Cole]({{ '1994-ashtar/' | relative_url }}) and related networks described future landings that would transform human society and usher in a higher stage of development. When no widely recognised landing occurred, the movement did not simply abandon the expectation. Instead, a new concept emerged: the Pioneer Voyage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</span></span></span>
 
-According to movement teachings, a select group of believers underwent a “lift-off experience” in 1994. They claimed that Ashtar Command vessels orbiting Earth had transferred them aboard through a process sometimes called “physical vibrational transfer”. Importantly, this transfer was increasingly described not as conventional bodily transportation but as the movement of consciousness or the etheric body into another dimension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+According to movement teachings, a select group of believers underwent a “lift-off experience” in 1994. They claimed that Ashtar Command vessels orbiting Earth had transferred them aboard through a process sometimes called “physical vibrational transfer”. Importantly, this transfer was increasingly described not as conventional bodily transportation but as the movement of consciousness or the etheric body into another dimension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 This [reframing]({{ 'reframing/' | relative_url }}) allowed the anticipated encounter with extraterrestrial craft to occur without any publicly visible spacecraft, landing sites, or independent witnesses.
 
@@ -291,9 +291,9 @@ This [reframing]({{ 'reframing/' | relative_url }}) allowed the anticipated enco
 
 ## What Participants Claimed Happened
 
-Reports circulated through the Ashtar Network described participants being taken to “ships of Light” during meditative states. A second organised Pioneer Voyage event in December 1994 reportedly involved more than 250 participants and was presented as permanently opening access to the ships through spiritual practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Reports circulated through the Ashtar Network described participants being taken to “ships of Light” during meditative states. A second organised Pioneer Voyage event in December 1994 reportedly involved more than 250 participants and was presented as permanently opening access to the ships through spiritual practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-The process reportedly involved an eight-step contemplative or affirmational procedure intended to raise a participant's vibration. Followers were told that the voyage would occur during meditation and that memories of the experience might emerge only later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfoster.net">[markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfoster.net</span><span class="citation-popover-title">Ashtar Galactic Command</span><span class="citation-popover-snippet">Universe People6 Jun 2019 —... Ashtar Command from other theosophically-influenced groups, except that in 1994 a distinctive component...</span></span></span>
+The process reportedly involved an eight-step contemplative or affirmational procedure intended to raise a participant's vibration. Followers were told that the voyage would occur during meditation and that memories of the experience might emerge only later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfoster.net">[markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfoster.net</span><span class="citation-popover-title">Ashtar Galactic Command</span><span class="citation-popover-snippet">Universe People6 Jun 2019 —... Ashtar Command from other theosophically-influenced groups, except that in 1994 a distinctive component...</span></span></span>
 
 Accounts that subsequently appeared shared several recurring themes:
 
@@ -303,21 +303,21 @@ Accounts that subsequently appeared shared several recurring themes:
 * Travellers described extensive periods spent aboard enormous spacecraft despite only brief periods of meditation on Earth.
 * Participants reported classrooms, recreation areas, command decks, sleeping quarters and other structured environments.
 * Some claimed encounters with advanced spiritual beings, while others described more conventional extraterrestrial inhabitants.
-* Members who initially remembered nothing were sometimes encouraged to believe they had nevertheless participated and would eventually recover the experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfoster.net">[markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfoster.net</span><span class="citation-popover-title">Ashtar Galactic Command</span><span class="citation-popover-snippet">Universe People6 Jun 2019 —... Ashtar Command from other theosophically-influenced groups, except that in 1994 a distinctive component...</span></span></span>
+* Members who initially remembered nothing were sometimes encouraged to believe they had nevertheless participated and would eventually recover the experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfoster.net">[markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfoster.net</span><span class="citation-popover-title">Ashtar Galactic Command</span><span class="citation-popover-snippet">Universe People6 Jun 2019 —... Ashtar Command from other theosophically-influenced groups, except that in 1994 a distinctive component...</span></span></span>
 
 </div>
 
-A particularly influential element was the emergence of detailed recollections from a core group in Sydney, Australia. Their narratives became templates against which later recollections were compared, helping establish a shared understanding of what the voyage was supposed to have been like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</span></span></span>
+A particularly influential element was the emergence of detailed recollections from a core group in Sydney, Australia. Their narratives became templates against which later recollections were compared, helping establish a shared understanding of what the voyage was supposed to have been like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-2-dark.svg" | relative_url }}" alt="Pioneer Voyage illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Physical Transfer Versus Etheric Experience
 
-The Pioneer Voyage occupied an ambiguous position between physical and spiritual claims. Movement language sometimes referred to “physical vibrational transfer”, which appeared to suggest a form of actual transportation. Yet descriptions increasingly emphasised that the event occurred through consciousness, soul-level awareness, or the etheric body rather than through ordinary bodily relocation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The Pioneer Voyage occupied an ambiguous position between physical and spiritual claims. Movement language sometimes referred to “physical vibrational transfer”, which appeared to suggest a form of actual transportation. Yet descriptions increasingly emphasised that the event occurred through consciousness, soul-level awareness, or the etheric body rather than through ordinary bodily relocation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-This ambiguity was important. A literal physical transfer would invite questions about evidence, missing persons, photographs, radar records or other observable traces. An etheric transfer avoided those problems. If the essential journey occurred outside normal physical perception, the lack of [public evidence]({{ 'public-evidence/' | relative_url }}) became expected rather than problematic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfoster.net">[markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfoster.net</span><span class="citation-popover-title">Ashtar Galactic Command</span><span class="citation-popover-snippet">Universe People6 Jun 2019 —... Ashtar Command from other theosophically-influenced groups, except that in 1994 a distinctive component...</span></span></span>
+This ambiguity was important. A literal physical transfer would invite questions about evidence, missing persons, photographs, radar records or other observable traces. An etheric transfer avoided those problems. If the essential journey occurred outside normal physical perception, the lack of [public evidence]({{ 'public-evidence/' | relative_url }}) became expected rather than problematic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: markfoster.net">[markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">markfoster.net</span><span class="citation-popover-title">Ashtar Galactic Command</span><span class="citation-popover-snippet">Universe People6 Jun 2019 —... Ashtar Command from other theosophically-influenced groups, except that in 1994 a distinctive component...</span></span></span>
 
-Scholars examining the movement have noted that this represented a broader evolution within Ashtar belief. Earlier emphasis on fleets of spacecraft intervening directly in world affairs gradually gave way to teachings centred on ascension, spiritual development and higher-dimensional realities. The Pioneer Voyage became a bridge between UFO imagery and New Age concepts of consciousness transformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Scholars examining the movement have noted that this represented a broader evolution within Ashtar belief. Earlier emphasis on fleets of spacecraft intervening directly in world affairs gradually gave way to teachings centred on ascension, spiritual development and higher-dimensional realities. The Pioneer Voyage became a bridge between UFO imagery and New Age concepts of consciousness transformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u5uVoMxyGCQ" title="Galactic &amp; Angelic Change &amp; Disclosure - Truth Bombs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u5uVoMxyGCQ" target="_blank" rel="noopener noreferrer">Galactic &amp; Angelic Change &amp; Disclosure - Truth Bombs</a></p><p class="youtube-embed-meta">Channel: Amanda Ellis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u5uVoMxyGCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u5uVoMxyGCQ">Open on YouTube</a></p></div></div></div>
@@ -329,204 +329,204 @@ Scholars examining the movement have noted that this represented a broader evolu
 
 The Pioneer Voyage is a revealing case study in how failed UFO predictions can be reinterpreted rather than abandoned. Public landings create clear opportunities for [verification]({{ 'verification/' | relative_url }}) or falsification. Either the spacecraft arrive or they do not. Private spiritual experiences operate differently.
 
-Because the voyage was said to occur internally and often required later memory recovery, there was no single public event that critics could examine. Participants who remembered the voyage became evidence for one another. Those who did not remember could be told that the experience had still occurred but remained inaccessible to conscious awareness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</span></span></span>
+Because the voyage was said to occur internally and often required later memory recovery, there was no single public event that critics could examine. Participants who remembered the voyage became evidence for one another. Those who did not remember could be told that the experience had still occurred but remained inaccessible to conscious awareness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</span></span></span>
 
-This structure reduced the risk of collective disappointment. Instead of confronting a failed prediction directly, believers could reinterpret fulfilment as something that had already happened on another plane of reality. The claim became less vulnerable to external testing while remaining meaningful within the group's spiritual worldview. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</span></span></span>
+This structure reduced the risk of collective disappointment. Instead of confronting a failed prediction directly, believers could reinterpret fulfilment as something that had already happened on another plane of reality. The claim became less vulnerable to external testing while remaining meaningful within the group's spiritual worldview.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</span></span></span>
 
-Scholars of the movement have argued that the Pioneer Voyage marked a notable stage in the Ashtar Command's evolution. By relocating the anticipated encounter from the physical world to an etheric realm, the movement preserved the expectation of contact while adapting to the continued absence of visible extraterrestrial landings. In the history of failed UFO prophecies, it stands as a clear example of invisible fulfilment: a prediction redefined as a private spiritual event rather than a publicly observable occurrence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2wrldrels.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Scholars of the movement have argued that the Pioneer Voyage marked a notable stage in the Ashtar Command's evolution. By relocating the anticipated encounter from the physical world to an etheric realm, the movement preserved the expectation of contact while adapting to the continued absence of visible extraterrestrial landings. In the history of failed UFO prophecies, it stands as a clear example of invisible fulfilment: a prediction redefined as a private spiritual event rather than a publicly observable occurrence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2wrldrels.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-3-dark.svg" | relative_url }}" alt="Pioneer Voyage illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_pioneer_voyage_refra_cd80c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Landing Move to Another Plane?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Landing Move to Another Plane?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains the psychological and social mechanisms behind reinterpretation of failed UFO and spiritual prophecies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains the psychological and social mechanisms behind reinterpretation of failed UFO and spiritual prophecies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Covers themes of contact, higher planes, channeling, and reinterpretation of expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers themes of contact, higher planes, channeling, and reinterpretation of expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A"><img src="{{ '/assets/images/marketplace-covers/54ac638fc5b68ae80686.jpg' | relative_url }}" alt="Listing image for Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Wars Memorabilia Signed The Force Awakens Poster Daisy Ridley (REY) C.O.A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Babylon 5 Logo Movie Memorabilia - Unique Wall Art"><img src="{{ '/assets/images/marketplace-covers/8c5b366644a4296d0f73.jpg' | relative_url }}" alt="Listing image for Babylon 5 Logo Movie Memorabilia - Unique Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Babylon 5 Logo Movie Memorabilia - Unique Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Babylon 5 Logo Movie Memorabilia - Unique Wall Art"><img src="{{ '/assets/images/marketplace-covers/8c5b366644a4296d0f73.jpg' | relative_url }}" alt="Listing image for Babylon 5 Logo Movie Memorabilia - Unique Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Babylon 5 Logo Movie Memorabilia - Unique Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item"><img src="{{ '/assets/images/marketplace-covers/a7e522cc0c53bc09220b.jpg' | relative_url }}" alt="Listing image for Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item"><img src="{{ '/assets/images/marketplace-covers/a7e522cc0c53bc09220b.jpg' | relative_url }}" alt="Listing image for Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="pioneer-voyage-1dc23f-did-the-landing-move-to-another-plane-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ Scholars of the movement have argued that the Pioneer Voyage marked a notable st
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ Scholars of the movement have argued that the Pioneer Voyage marked a notable st
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ Scholars of the movement have argued that the Pioneer Voyage marked a notable st
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ Scholars of the movement have argued that the Pioneer Voyage marked a notable st
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ Scholars of the movement have argued that the Pioneer Voyage marked a notable st
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,92 +732,92 @@ Scholars of the movement have argued that the Pioneer Voyage marked a notable st
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: markfoster.net  
    Title: Ashtar Galactic Command  
-   Link: <a href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe People6 Jun 2019 —... Ashtar Command from other theosophically-influenced groups, except that in 1994 a distinctive component...</p></details>
+   Link:<a href="https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/dcf/Ashtar_Galactic_Command.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe People6 Jun 2019 —... Ashtar Command from other theosophically-influenced groups, except that in 1994 a distinctive component...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wrldrels.org  
    Title: ashtar command  
-   Link: <a href="https://wrldrels.org/2016/12/05/ashtar-command/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2016/12/05/ashtar-command/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WRSP5 Dec 2016 — ” The group communicated through the Ashtar network that they had experience the “Pioneer Voyage” and been taken up to s...</p></details>
+   Link:<a href="https://wrldrels.org/2016/12/05/ashtar-command/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2016/12/05/ashtar-command/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WRSP5 Dec 2016 — ” The group communicated through the Ashtar network that they had experience the “Pioneer Voyage” and been taken up to s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Popular Culture James Lewis | PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</p></details>
+   Link:<a href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Popular Culture James Lewis | PDF... Ashtar Command developed the concept of the Pioneer Voyage. The movement now taught t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/161847971/Ashtar-Command-Project" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/161847971/Ashtar-Command-Project</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>980s about upcoming earth changes and the ascension of Earth.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/161847971/Ashtar-Command-Project" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/161847971/Ashtar-Command-Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>980s about upcoming earth changes and the ascension of Earth.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/37290258/ASHTAR-a-Tribute-Compiled-by-TUELLA" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/37290258/ASHTAR-a-Tribute-Compiled-by-TUELLA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar: Leader of the Galactic Mission | PDF | Matter | AngelIt describes Ashtar as a 7-foot tall extraterrestrial being from Venus who s...</p></details>
+   Link:<a href="https://www.scribd.com/document/37290258/ASHTAR-a-Tribute-Compiled-by-TUELLA" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/37290258/ASHTAR-a-Tribute-Compiled-by-TUELLA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar: Leader of the Galactic Mission | PDF | Matter | AngelIt describes Ashtar as a 7-foot tall extraterrestrial being from Venus who s...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/FantasyFaction/posts/3438008803174956/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/FantasyFaction/posts/3438008803174956/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command &#x27;Project: World Evacuation&#x27; bookThe Ashtar Command is an etheric group of extraterrestrials, angels, and lightbeings and m...</p></details>
+   Link:<a href="https://www.facebook.com/groups/FantasyFaction/posts/3438008803174956/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/FantasyFaction/posts/3438008803174956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command &#x27;Project: World Evacuation&#x27; bookThe Ashtar Command is an etheric group of extraterrestrials, angels, and lightbeings and m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DY7c1X5jHYd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY7c1X5jHYd/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://youtu.be/u5uVoMxyGCQ?si=w6GEUv5_bJ51tjMo...Archangel](https://youtu.be/u5uVoMxyGCQ?si=w6GEUv5_bJ51tjMo...Archangel) Metatron, Commander Ashtar and Christ Consciousness Downloads, and Support...</p></details>
+   Link:<a href="https://www.instagram.com/p/DY7c1X5jHYd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY7c1X5jHYd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[https://youtu.be/u5uVoMxyGCQ?si=w6GEUv5_bJ51tjMo...Archangel](https://youtu.be/u5uVoMxyGCQ?si=w6GEUv5_bJ51tjMo...Archangel) Metatron, Commander Ashtar and Christ Consciousness Downloads, and Support...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jpl.nasa.gov  
    Title: first and farthest how the voyagers blazed trails  
-   Link: <a href="https://www.jpl.nasa.gov/news/first-and-farthest-how-the-voyagers-blazed-trails/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/first-and-farthest-how-the-voyagers-blazed-trails/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Farthest: How the Voyagers Blazed Trails31 Jul 2017 — Few missions can match the achievements of NASA&#x27;s groundbreaking Voyager 1 and...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/news/first-and-farthest-how-the-voyagers-blazed-trails/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/first-and-farthest-how-the-voyagers-blazed-trails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Farthest: How the Voyagers Blazed Trails31 Jul 2017 — Few missions can match the achievements of NASA&#x27;s groundbreaking Voyager 1 and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: astronomy.com  
    Title: 5 nasa spacecraft that are leaving our solar system for good  
-   Link: <a href="https://www.astronomy.com/science/5-nasa-spacecraft-that-are-leaving-our-solar-system-for-good/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/5-nasa-spacecraft-that-are-leaving-our-solar-system-for-good/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 NASA Spacecraft That Are Leaving Our Solar System for...28 Sept 2020 — This graphic shows the approximate trajectories of NASA&#x27;s 5 int...</p></details>
+   Link:<a href="https://www.astronomy.com/science/5-nasa-spacecraft-that-are-leaving-our-solar-system-for-good/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/5-nasa-spacecraft-that-are-leaving-our-solar-system-for-good/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 NASA Spacecraft That Are Leaving Our Solar System for...28 Sept 2020 — This graphic shows the approximate trajectories of NASA&#x27;s 5 int...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jpl.nasa.gov  
    Title: voyager humanitys farthest journey  
-   Link: <a href="https://www.jpl.nasa.gov/videos/voyager-humanitys-farthest-journey/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/voyager-humanitys-farthest-journey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govVoyager: Humanity&#x27;s Farthest JourneyEd Stone: We knew we were on a journey of discovery when we launched the Voyager spacecraft...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/videos/voyager-humanitys-farthest-journey/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/videos/voyager-humanitys-farthest-journey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govVoyager: Humanity&#x27;s Farthest JourneyEd Stone: We knew we were on a journey of discovery when we launched the Voyager spacecraft...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
    Title: nasa voyagers pioneer spacecraft future course  
-   Link: <a href="https://www.space.com/nasa-voyagers-pioneer-spacecraft-future-course.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-voyagers-pioneer-spacecraft-future-course.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Voyager and Pioneer Probes Launched Decades...13 May 2019 — Scientists have predicted which stars NASA spacecraft will pass by mi...</p></details>
+   Link:<a href="https://www.space.com/nasa-voyagers-pioneer-spacecraft-future-course.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-voyagers-pioneer-spacecraft-future-course.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Voyager and Pioneer Probes Launched Decades...13 May 2019 — Scientists have predicted which stars NASA spacecraft will pass by mi...</p></details>
    Published: May 2019  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DG6BMvVvpK_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DG6BMvVvpK_/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd opens space for emotional release, spiritual clarity, and inner...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DG6BMvVvpK_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DG6BMvVvpK_/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd opens space for emotional release, spiritual clarity, and inner...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/pathwaystospirituality/posts/1581687845241513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pathwaystospirituality/posts/1581687845241513/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tion of the planet. * Afterlife: Be taken off earth...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/pathwaystospirituality/posts/1581687845241513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pathwaystospirituality/posts/1581687845241513/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion of the planet. * Afterlife: Be taken off earth...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Ashtar: Co-Creation Hello our dear ones  
-   Link: <a href="https://www.facebook.com/100050477380184/posts/ashtar-co-creationhello-our-dear-ones-we-are-present-we-are-ashtar-and-many-memb/1554400839585814/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100050477380184/posts/ashtar-co-creationhello-our-dear-ones-we-are-present-we-are-ashtar-and-many-memb/1554400839585814/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We are present....Dear brothers and sisters, I am Ashtar, commander of the Galactic Forces of Light, who proceed to speak with you throu...</p></details>
+   Link:<a href="https://www.facebook.com/100050477380184/posts/ashtar-co-creationhello-our-dear-ones-we-are-present-we-are-ashtar-and-many-memb/1554400839585814/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100050477380184/posts/ashtar-co-creationhello-our-dear-ones-we-are-present-we-are-ashtar-and-many-memb/1554400839585814/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We are present....Dear brothers and sisters, I am Ashtar, commander of the Galactic Forces of Light, who proceed to speak with you throu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=70gb4w5zY00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=70gb4w5zY00</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decades later careful analysis revealed a more practical explanation rooted in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=70gb4w5zY00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=70gb4w5zY00</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decades later careful analysis revealed a more practical explanation rooted in...</p></details>

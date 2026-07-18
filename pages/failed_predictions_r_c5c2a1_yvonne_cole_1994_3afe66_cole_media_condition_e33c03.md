@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_m
 
 ## Introduction
 
-A distinctive feature of Yvonne Cole’s [1994 Ashtar]({{ '1994-ashtar/' | relative_url }}) landing prophecy was its claim that humanity was not going to be surprised by extraterrestrial contact. Instead, people had supposedly been prepared for years through a gradual process of exposure. Television programmes, newspaper stories, radio discussions, books, and New Age teaching networks were presented not as ordinary cultural interest in UFOs but as evidence that a planned [disclosure]({{ 'disclosure/' | relative_url }}) was already under way. According to accounts of Cole’s messages, governments, media institutions, and spiritual “light workers” were all contributing to a long-term conditioning programme designed to make a public extraterrestrial arrival acceptable to the general population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+A distinctive feature of Yvonne Cole’s [1994 Ashtar]({{ '1994-ashtar/' | relative_url }}) landing prophecy was its claim that humanity was not going to be surprised by extraterrestrial contact. Instead, people had supposedly been prepared for years through a gradual process of exposure. Television programmes, newspaper stories, radio discussions, books, and New Age teaching networks were presented not as ordinary cultural interest in UFOs but as evidence that a planned [disclosure]({{ 'disclosure/' | relative_url }}) was already under way. According to accounts of Cole’s messages, governments, media institutions, and spiritual “light workers” were all contributing to a long-term conditioning programme designed to make a public extraterrestrial arrival acceptable to the general population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_media_condition_e33c03-Illustration-1-dark.svg" | relative_url }}" alt="Media Signs illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_media_condition_e33c03-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_media_condition_e33c03-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ This [media]({{ 'media/' | relative_url }})-conditioning mechanism mattered beca
 
 ## How Television and Newspapers Became Signs of Disclosure
 
-In Cole’s narrative, mainstream media coverage of UFOs was not interpreted as independent journalism or popular entertainment. Instead, growing visibility was treated as evidence that authorities were deliberately acclimatising the public to extraterrestrial realities. Reports of UFO sightings, documentaries, discussion programmes, and newspaper articles were folded into a larger story in which disclosure was supposedly advancing in stages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+In Cole’s narrative, mainstream media coverage of UFOs was not interpreted as independent journalism or popular entertainment. Instead, growing visibility was treated as evidence that authorities were deliberately acclimatising the public to extraterrestrial realities. Reports of UFO sightings, documentaries, discussion programmes, and newspaper articles were folded into a larger story in which disclosure was supposedly advancing in stages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 This logic depended on a particular reading of media trends. During the late twentieth century, UFO subjects had become increasingly visible in popular culture. Rather than seeing this as the result of commercial demand, audience interest, or changing entertainment tastes, believers could interpret the same material as proof that hidden actors were preparing society for an official revelation.
 
-Cole reportedly cited television, newspapers, books, and radio as channels through which the public was being conditioned for the announcement that extraterrestrials were already present. The appearance of UFO themes across multiple media formats was therefore not merely background noise. Within the prophecy, it became predictive evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Cole reportedly cited television, newspapers, books, and radio as channels through which the public was being conditioned for the announcement that extraterrestrials were already present. The appearance of UFO themes across multiple media formats was therefore not merely background noise. Within the prophecy, it became predictive evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 The mechanism worked by transforming ordinary cultural signals into confirmation. Every new UFO programme, article, or discussion could be interpreted as another step in the preparation process.
 
@@ -301,7 +301,7 @@ The mechanism worked by transforming ordinary cultural signals into confirmation
 
 ## New Age Networks as Preparation Channels
 
-Cole's prophecy did not limit conditioning to mainstream institutions. New Age communities were assigned a specific role in the transition toward disclosure. Accounts of her messages describe “light workers” as participants in a coordinated effort to prepare humanity psychologically and spiritually for contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Cole's prophecy did not limit conditioning to mainstream institutions. New Age communities were assigned a specific role in the transition toward disclosure. Accounts of her messages describe “light workers” as participants in a coordinated effort to prepare humanity psychologically and spiritually for contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 This was important because New Age networks already functioned as informal communication systems. Books, newsletters, conferences, meditation groups, channelled messages, and spiritual workshops allowed ideas to circulate rapidly among believers. In the prophecy, these communities were not simply discussing extraterrestrials; they were helping humanity become ready for them.
 
@@ -310,7 +310,7 @@ The model created a division of labour:
 * Mainstream media would familiarise the general public with UFO ideas.
 * Governments would manage the political side of disclosure.
 * Light workers would provide the spiritual preparation.
-* [Ashtar]({{ 'ashtar/' | relative_url }}) followers would eventually serve as advisers, ambassadors, and intermediaries after contact occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+* [Ashtar]({{ 'ashtar/' | relative_url }}) followers would eventually serve as advisers, ambassadors, and intermediaries after contact occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 By assigning a role to believers themselves, the prophecy gave followers a sense of participation in an unfolding historical process. They were not passive observers waiting for a landing. They were presented as part of the preparation effort.
 
@@ -333,9 +333,9 @@ The strength of the argument among believers was that it relied on visible event
 
 The media-conditioning claim was unusually testable because it pointed toward a specific outcome. If governments, journalists, broadcasters, and spiritual networks were genuinely preparing humanity for disclosure, the process was expected to culminate in a public extraterrestrial arrival and official announcement.
 
-According to descriptions of the prophecy, the culmination would involve a globally visible event accompanied by a message from the [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) and widespread acceptance of the reality of extraterrestrial contact. Followers were expected to play important roles during this transition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+According to descriptions of the prophecy, the culmination would involve a globally visible event accompanied by a message from the [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) and widespread acceptance of the reality of extraterrestrial contact. Followers were expected to play important roles during this transition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-That final stage never occurred. No worldwide disclosure announcement followed the alleged conditioning campaign. No Ashtar fleet arrived publicly in 1994. No governments confirmed years of secret cooperation with extraterrestrials. The predicted endpoint that was supposed to justify the media-conditioning narrative failed to appear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+That final stage never occurred. No worldwide disclosure announcement followed the alleged conditioning campaign. No Ashtar fleet arrived publicly in 1994. No governments confirmed years of secret cooperation with extraterrestrials. The predicted endpoint that was supposed to justify the media-conditioning narrative failed to appear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 As a result, the very mechanism that had seemed persuasive to believers became one of the prophecy’s clearest weaknesses. Television programmes, newspaper articles, books, radio discussions, and New Age teachings certainly existed, but they did not lead to the promised disclosure. What had been interpreted as evidence of preparation proved compatible with a much simpler explanation: widespread cultural interest in UFOs did not necessarily indicate that any hidden extraterrestrial revelation was approaching.
 
@@ -347,201 +347,201 @@ The media-conditioning element illustrates how failed UFO predictions often draw
 
 That made the prediction appear more plausible in the short term. The evidence seemed to be everywhere: television, newspapers, books, radio, and spiritual communities. Yet when the expected disclosure failed to arrive, those same signs lost their prophetic value.
 
-For historians of failed UFO predictions, the episode is a useful example of how ordinary cultural interest can be transformed into apparent confirmation of an extraordinary claim. The media were not merely reporting the story in Cole’s framework; they had become part of the prophecy itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+For historians of failed UFO predictions, the episode is a useful example of how ordinary cultural interest can be transformed into apparent confirmation of an extraordinary claim. The media were not merely reporting the story in Cole’s framework; they had become part of the prophecy itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/22bATA5V2QQ" title="Watch This Before You See Steven Spielberg&#x27;s Disclosure Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=22bATA5V2QQ" target="_blank" rel="noopener noreferrer">Watch This Before You See Steven Spielberg&#x27;s Disclosure Day</a></p><p class="youtube-embed-meta">Channel: Looper &middot; Views: 351.0K &middot; Uploaded: May 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=22bATA5V2QQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=22bATA5V2QQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO Media Became Part of the Prophecy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO Media Became Part of the Prophecy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for how UFO reports entered mainstream culture and media discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how UFO reports entered mainstream culture and media discourse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how narratives, beliefs, and cultural interpretation shape UFO phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how narratives, beliefs, and cultural interpretation shape UFO phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses media influence, critical thinking, and the evaluation of paranormal and UFO-related claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses media influence, critical thinking, and the evaluation of paranormal and UFO-related claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Helps readers understand how conspiracy narratives form and how evidence is reinterpreted within belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how conspiracy narratives form and how evidence is reinterpreted within belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="media-signs-how-ufo-media-became-part-of-the-prophecy-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For historians of failed UFO predictions, the episode is a useful example of how
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For historians of failed UFO predictions, the episode is a useful example of how
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For historians of failed UFO predictions, the episode is a useful example of how
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For historians of failed UFO predictions, the episode is a useful example of how
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For historians of failed UFO predictions, the episode is a useful example of how
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,79 +747,79 @@ For historians of failed UFO predictions, the episode is a useful example of how
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Yvonne Strahovski  
-   Link: <a href="https://en.wikipedia.org/wiki/Yvonne_Strahovski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yvonne_Strahovski</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yvonne StrahovskiYvonne Strahovski is an Australian actress. She is known for her roles as Sarah Walker in the spy comedy drama series...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Yvonne_Strahovski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yvonne_Strahovski</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yvonne StrahovskiYvonne Strahovski is an Australian actress. She is known for her roles as Sarah Walker in the spy comedy drama series...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Yvonne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yvonne</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YvonneYvonne is a feminine given name, the female form of Yvon, which is derived from the French name Yves and Yvette. It is from the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Yvonne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yvonne</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YvonneYvonne is a feminine given name, the female form of Yvon, which is derived from the French name Yves and Yvette. It is from the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: web2.bilkent.edu.tr  
    Title: TV and radio journalists work under a sys  
-   Link: <a href="https://web2.bilkent.edu.tr/wp-content/uploads/sites/37/2017/02/Peter_Cole_and_Tony_Harcup_Newspaper_JournalismBookFi.org_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web2.bilkent.edu.tr/wp-content/uploads/sites/37/2017/02/Peter_Cole_and_Tony_Harcup_Newspaper_JournalismBookFi.org_.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalism - Bilkent WEB2 ServicesCited by 155 — They involve the content of newspapers, time reading magazines and newspapers, watching...</p></details>
+   Link:<a href="https://web2.bilkent.edu.tr/wp-content/uploads/sites/37/2017/02/Peter_Cole_and_Tony_Harcup_Newspaper_JournalismBookFi.org_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web2.bilkent.edu.tr/wp-content/uploads/sites/37/2017/02/Peter_Cole_and_Tony_Harcup_Newspaper_JournalismBookFi.org_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journalism - Bilkent WEB2 ServicesCited by 155 — They involve the content of newspapers, time reading magazines and newspapers, watching...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: routledge.com  
-   Link: <a href="https://www.routledge.com/rsc/downloads/temp_file_AEJMC_Freebook2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/rsc/downloads/temp_file_AEJMC_Freebook2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Communication for a Changing WorldRadio and print media have been greatly changed, reading books, playing sports, and taking vacatio...</p></details>
+   Link:<a href="https://www.routledge.com/rsc/downloads/temp_file_AEJMC_Freebook2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/rsc/downloads/temp_file_AEJMC_Freebook2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Communication for a Changing WorldRadio and print media have been greatly changed, reading books, playing sports, and taking vacatio...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cpb-us-e1.wpmucdn.com  
-   Link: <a href="https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/f/5180/files/2014/08/The_Routledge_Companion_to_News_and_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/f/5180/files/2014/08/The_Routledge_Companion_to_News_and_Journalism.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The RouTledge Companion To news and JouRnalism | CDNThe Routledge Companion to News and Journalism presents an authoritative, com prehens...</p></details>
+   Link:<a href="https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/f/5180/files/2014/08/The_Routledge_Companion_to_News_and_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cpb-us-e1.wpmucdn.com/sites.psu.edu/dist/f/5180/files/2014/08/The_Routledge_Companion_to_News_and_Journalism.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The RouTledge Companion To news and JouRnalism | CDNThe Routledge Companion to News and Journalism presents an authoritative, com prehens...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/31123/1/2..pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/31123/1/2..pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Media and Communication StudiesIf there is one word which defines the evolution of media since the 7th edition of this Dictionary of M...</p></details>
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/31123/1/2..pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/31123/1/2..pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Media and Communication StudiesIf there is one word which defines the evolution of media since the 7th edition of this Dictionary of M...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/celebrity/yvonne_strzechowski" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/celebrity/yvonne_strzechowski</a>  
+   Link:<a href="https://www.rottentomatoes.com/celebrity/yvonne_strzechowski" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/celebrity/yvonne_strzechowski</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mediastudieswlp.wordpress.com  
-   Link: <a href="https://mediastudieswlp.wordpress.com/wp-content/uploads/2019/07/curran-james-and-seaton-jean_power-without-responsibility_-the-press-broadcasting-and-new-media-in-britain.-dec2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mediastudieswlp.wordpress.com/wp-content/uploads/2019/07/curran-james-and-seaton-jean_power-without-responsibility_-the-press-broadcasting-and-new-media-in-britain.-dec2003.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Without Responsibility: The Press, Broadcasting...by J Curran · Cited by 2838 — Power Without Responsibility is a classic introduction...</p></details>
+   Link:<a href="https://mediastudieswlp.wordpress.com/wp-content/uploads/2019/07/curran-james-and-seaton-jean_power-without-responsibility_-the-press-broadcasting-and-new-media-in-britain.-dec2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mediastudieswlp.wordpress.com/wp-content/uploads/2019/07/curran-james-and-seaton-jean_power-without-responsibility_-the-press-broadcasting-and-new-media-in-britain.-dec2003.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Without Responsibility: The Press, Broadcasting...by J Curran · Cited by 2838 — Power Without Responsibility is a classic introduction...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ayomenulisfisip.wordpress.com  
    Title: It examines the major theories and debates sur rounding production and reception  
-   Link: <a href="https://ayomenulisfisip.wordpress.com/wp-content/uploads/2015/08/television-studies-the-basics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ayomenulisfisip.wordpress.com/wp-content/uploads/2015/08/television-studies-the-basics.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies: The Basicsby T Miller · Cited by 127 — The Basics is a lively introduction to the study of a powerful medium...</p></details>
+   Link:<a href="https://ayomenulisfisip.wordpress.com/wp-content/uploads/2015/08/television-studies-the-basics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ayomenulisfisip.wordpress.com/wp-content/uploads/2015/08/television-studies-the-basics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Studies: The Basicsby T Miller · Cited by 127 — The Basics is a lively introduction to the study of a powerful medium...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: library.uniteddiversity.coop  
    Title: books and articles on television, links to audio (radio  
-   Link: <a href="https://library.uniteddiversity.coop/Media_and_Free_Culture/Communication_Culture_and_Media_Studies-John_Hartley.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.uniteddiversity.coop/Media_and_Free_Culture/Communication_Culture_and_Media_Studies-John_Hartley.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uniteddiversity.coopCommunication, Cultural and Media StudiesThis book provides a topical and authoritative guide to Communica- tion, Cul...</p></details>
+   Link:<a href="https://library.uniteddiversity.coop/Media_and_Free_Culture/Communication_Culture_and_Media_Studies-John_Hartley.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.uniteddiversity.coop/Media_and_Free_Culture/Communication_Culture_and_Media_Studies-John_Hartley.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uniteddiversity.coopCommunication, Cultural and Media StudiesThis book provides a topical and authoritative guide to Communica- tion, Cul...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=1Y7spMrFGFo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1Y7spMrFGFo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disclosure predictive programming conditioning media Watch This Before You See Steven Spielberg&#x27;s Disclosure Day Looper...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1Y7spMrFGFo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1Y7spMrFGFo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disclosure predictive programming conditioning media Watch This Before You See Steven Spielberg&#x27;s Disclosure Day Looper...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: etheses.whiterose.ac.uk  
    Title: uk bl ethos 489882  
-   Link: <a href="https://etheses.whiterose.ac.uk/id/eprint/417/1/uk_bl_ethos_489882.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.whiterose.ac.uk/id/eprint/417/1/uk_bl_ethos_489882.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Globalisation on the Local Press in Chinaby S Zhang · 2008 · Cited by 5 — This thesis addresses the issue of impact of globalisation o...</p></details>
+   Link:<a href="https://etheses.whiterose.ac.uk/id/eprint/417/1/uk_bl_ethos_489882.pdf" target="_blank" rel="noopener noreferrer nofollow">https://etheses.whiterose.ac.uk/id/eprint/417/1/uk_bl_ethos_489882.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Globalisation on the Local Press in Chinaby S Zhang · 2008 · Cited by 5 — This thesis addresses the issue of impact of globalisation o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Pathology professor and UAP expert on impact of Spielberg's "Disclosure Day"  
-   Link: <a href="http://www.youtube.com/watch?v=AP3mSV-uiX8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AP3mSV-uiX8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Disclosure: The reality behind Spielberg&#x27;s &#x27;Disclosure Day&#x27;...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=AP3mSV-uiX8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AP3mSV-uiX8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full Disclosure: The reality behind Spielberg&#x27;s &#x27;Disclosure Day&#x27;...</p></details>

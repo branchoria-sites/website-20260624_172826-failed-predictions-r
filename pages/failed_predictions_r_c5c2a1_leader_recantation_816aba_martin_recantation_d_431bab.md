@@ -280,15 +280,15 @@ image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_mart
 
 ## Introduction
 
-Did [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) really respond to the failure of her famous 1954 flying-saucer prophecy by strengthening her commitment and leading her followers into a new phase of evangelism? For decades, the standard answer was yes. The influential social-psychology classic *When Prophecy Fails* presented Martin’s group as a textbook example of believers intensifying their commitment after a prediction collapsed, helping to establish the theory of [cognitive dissonance]({{ 'dissonance/' | relative_url }}). Recent archival research, however, has reopened the case. Newly examined documents and sealed research records have led some scholars to argue that Martin actually recanted key claims, her group rapidly disintegrated, and the famous story of post-failure zeal was exaggerated or even reversed. The dispute matters because Martin’s case has long been treated as the defining example of how UFO prophecy survives disconfirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
+Did [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) really respond to the failure of her famous 1954 flying-saucer prophecy by strengthening her commitment and leading her followers into a new phase of evangelism? For decades, the standard answer was yes. The influential social-psychology classic *When Prophecy Fails* presented Martin’s group as a textbook example of believers intensifying their commitment after a prediction collapsed, helping to establish the theory of [cognitive dissonance]({{ 'dissonance/' | relative_url }}). Recent archival research, however, has reopened the case. Newly examined documents and sealed research records have led some scholars to argue that Martin actually recanted key claims, her group rapidly disintegrated, and the famous story of post-failure zeal was exaggerated or even reversed. The dispute matters because Martin’s case has long been treated as the defining example of how UFO prophecy survives disconfirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-1-dark.svg" | relative_url }}" alt="Martin Dispute illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Classic Social-Psychology Version
 
-The traditional account comes from Leon Festinger, Henry Riecken and Stanley Schachter’s 1956 study *When Prophecy Fails*. The researchers infiltrated Martin’s flying-saucer circle, later nicknamed “the Seekers”, during the months leading up to the predicted catastrophe. According to the book, the expected flood and extraterrestrial rescue failed to occur, yet core believers did not abandon their worldview. Instead, they supposedly concluded that their faith had saved the world and increased efforts to spread the message publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The authors took a particular interest in the members&#x27; coping mechanisms after the event did not occur, focusing on the cog...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+The traditional account comes from Leon Festinger, Henry Riecken and Stanley Schachter’s 1956 study *When Prophecy Fails*. The researchers infiltrated Martin’s flying-saucer circle, later nicknamed “the Seekers”, during the months leading up to the predicted catastrophe. According to the book, the expected flood and extraterrestrial rescue failed to occur, yet core believers did not abandon their worldview. Instead, they supposedly concluded that their faith had saved the world and increased efforts to spread the message publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The authors took a particular interest in the members&#x27; coping mechanisms after the event did not occur, focusing on the cog...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-In this interpretation, the failed prediction produced a psychological crisis. Rather than admitting error, committed believers reduced the tension between expectation and reality by reinterpreting events. The group’s apparent turn toward publicity and outreach became one of the central examples used to support cognitive-dissonance theory. The case subsequently appeared in psychology textbooks, sociology courses and popular discussions of failed prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The authors took a particular interest in the members&#x27; coping mechanisms after the event did not occur, focusing on the cog...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+In this interpretation, the failed prediction produced a psychological crisis. Rather than admitting error, committed believers reduced the tension between expectation and reality by reinterpreting events. The group’s apparent turn toward publicity and outreach became one of the central examples used to support cognitive-dissonance theory. The case subsequently appeared in psychology textbooks, sociology courses and popular discussions of failed prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The authors took a particular interest in the members&#x27; coping mechanisms after the event did not occur, focusing on the cog...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
 For many years, debate focused mainly on whether cognitive dissonance explained the group’s behaviour. Few scholars questioned the underlying factual narrative itself.
 
@@ -299,13 +299,13 @@ For many years, debate focused mainly on whether cognitive dissonance explained 
 
 The recent challenge is more radical. Instead of disputing the theory, it disputes the historical record on which the theory was built.
 
-Political scientist Thomas Kelly's archival investigation, published in 2026, argues that the standard story substantially misdescribed what happened after the prophecy failed. Drawing on previously unavailable archival materials, Kelly contends that Martin recanted her prediction, the group dissolved rather than consolidated, and organised proselytising effectively ceased. According to this interpretation, the event was not a case of believers doubling down but a case of [collapse]({{ 'collapse/' | relative_url }}) and retreat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
+Political scientist Thomas Kelly's archival investigation, published in 2026, argues that the standard story substantially misdescribed what happened after the prophecy failed. Drawing on previously unavailable archival materials, Kelly contends that Martin recanted her prediction, the group dissolved rather than consolidated, and organised proselytising effectively ceased. According to this interpretation, the event was not a case of believers doubling down but a case of [collapse]({{ 'collapse/' | relative_url }}) and retreat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
 
-A central claim concerns the behaviour of the researchers themselves. The newly examined records reportedly suggest that infiltrators occupied a larger role within the group than previously understood. In some meetings, observers may have constituted a substantial share of those present. Kelly argues that researchers were not merely recording reactions but may have influenced discussions and reinforced commitment among members at crucial moments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+A central claim concerns the behaviour of the researchers themselves. The newly examined records reportedly suggest that infiltrators occupied a larger role within the group than previously understood. In some meetings, observers may have constituted a substantial share of those present. Kelly argues that researchers were not merely recording reactions but may have influenced discussions and reinforced commitment among members at crucial moments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
-The archival challenge also questions the famous claim that publicity increased only after disconfirmation. Critics note that Martin and several associates were already attracting [media]({{ 'media/' | relative_url }}) attention before the predicted date. The group had issued statements, sought publicity and discussed its beliefs publicly in advance. If outreach was already occurring, then later publicity cannot automatically be treated as evidence of post-failure belief intensification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+The archival challenge also questions the famous claim that publicity increased only after disconfirmation. Critics note that Martin and several associates were already attracting [media]({{ 'media/' | relative_url }}) attention before the predicted date. The group had issued statements, sought publicity and discussed its beliefs publicly in advance. If outreach was already occurring, then later publicity cannot automatically be treated as evidence of post-failure belief intensification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
-Most importantly, the revisionist interpretation stresses Martin's own response. Rather than presenting herself as vindicated, she is said to have backed away from the failed prediction and lost followers. Under this reading, the group's trajectory was closer to disintegration than successful reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
+Most importantly, the revisionist interpretation stresses Martin's own response. Rather than presenting herself as vindicated, she is said to have backed away from the failed prediction and lost followers. Under this reading, the group's trajectory was closer to disintegration than successful reinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-2-dark.svg" | relative_url }}" alt="Martin Dispute illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,12 +315,12 @@ The dispute is not simply whether Martin continued believing in extraterrestrial
 
 Several distinct claims are under challenge:
 
-* **Did Martin recant?** Revisionist accounts argue that she effectively withdrew the failed prediction after the expected events did not occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
-* **Did the group intensify belief?** The traditional interpretation says yes; the archival critique says the group largely fell apart. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The authors took a particular interest in the members&#x27; coping mechanisms after the event did not occur, focusing on the cog...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
-* **Did proselytising increase [after failure]({{ 'after-failure/' | relative_url }})?** The classic account treats post-failure publicity as crucial evidence. Critics argue that publicity efforts were already underway beforehand and that evidence for a dramatic increase is weak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
-* **Did researchers shape the outcome?** Newly examined records have raised questions about whether participant-observers influenced the very behaviour they later analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+* **Did Martin recant?** Revisionist accounts argue that she effectively withdrew the failed prediction after the expected events did not occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
+* **Did the group intensify belief?** The traditional interpretation says yes; the archival critique says the group largely fell apart.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The authors took a particular interest in the members&#x27; coping mechanisms after the event did not occur, focusing on the cog...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+* **Did proselytising increase [after failure]({{ 'after-failure/' | relative_url }})?** The classic account treats post-failure publicity as crucial evidence. Critics argue that publicity efforts were already underway beforehand and that evidence for a dramatic increase is weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+* **Did researchers shape the outcome?** Newly examined records have raised questions about whether participant-observers influenced the very behaviour they later analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
-Importantly, the archival challenge does not automatically invalidate cognitive dissonance as a broader psychological concept. Rather, it argues that one of the theory's most famous case studies may not support the conclusions long attributed to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+Importantly, the archival challenge does not automatically invalidate cognitive dissonance as a broader psychological concept. Rather, it argues that one of the theory's most famous case studies may not support the conclusions long attributed to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6d6SJd5sxnM" title="InPresence 0211: When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer">InPresence 0211: When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6d6SJd5sxnM">Open on YouTube</a></p></div></div></div>
@@ -330,206 +330,206 @@ Importantly, the archival challenge does not automatically invalidate cognitive 
 
 ## Why the Dispute Matters for UFO Prophecy
 
-The [Martin case]({{ 'martin-case/' | relative_url }}) occupies an unusual place in the study of UFO-related [failed predictions]({{ 'failed-predictions/' | relative_url }}). It has often been treated as the model example demonstrating that prophetic failure strengthens commitment rather than weakening it. If the archival revision is substantially correct, then the case may illustrate a different pattern altogether: leader retreat followed by organisational collapse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
+The [Martin case]({{ 'martin-case/' | relative_url }}) occupies an unusual place in the study of UFO-related [failed predictions]({{ 'failed-predictions/' | relative_url }}). It has often been treated as the model example demonstrating that prophetic failure strengthens commitment rather than weakening it. If the archival revision is substantially correct, then the case may illustrate a different pattern altogether: leader retreat followed by organisational collapse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
 
-That distinction matters because studies of UFO prophecy frequently ask what happens after a prediction fails. The traditional reading of Martin's group encouraged a simple lesson: committed believers reinterpret failure and become more active. The archival challenge suggests that outcomes are more varied. Some movements survive through reinterpretation, but others fracture when leaders lose confidence or publicly retreat from specific claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
+That distinction matters because studies of UFO prophecy frequently ask what happens after a prediction fails. The traditional reading of Martin's group encouraged a simple lesson: committed believers reinterpret failure and become more active. The archival challenge suggests that outcomes are more varied. Some movements survive through reinterpretation, but others fracture when leaders lose confidence or publicly retreat from specific claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
 
-The controversy therefore reaches beyond one flying-saucer group in 1954. It raises a methodological question about how scholars study failed prophecy. If the best-known example was shaped by observer involvement, selective reporting or later myth-making, then assumptions about the relationship between failed predictions and believer behaviour require re-examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+The controversy therefore reaches beyond one flying-saucer group in 1954. It raises a methodological question about how scholars study failed prophecy. If the best-known example was shaped by observer involvement, selective reporting or later myth-making, then assumptions about the relationship between failed predictions and believer behaviour require re-examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
-In the context of UFO prophecy, the Martin dispute serves as a reminder that leader [recantation]({{ 'recantation/' | relative_url }}) and believer reinterpretation are not the same thing. The enduring debate is precisely over which of those responses actually occurred after Dorothy Martin's prediction failed—and whether the most influential account of the episode captured the event accurately at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
+In the context of UFO prophecy, the Martin dispute serves as a reminder that leader [recantation]({{ 'recantation/' | relative_url }}) and believer reinterpretation are not the same thing. The enduring debate is precisely over which of those responses actually occurred after Dorothy Martin's prediction failed—and whether the most influential account of the episode captured the event accurately at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">When neither arrived, she recanted,</span><span class="citation-popover-snippet">Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-3-dark.svg" | relative_url }}" alt="Martin Dispute illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Dorothy Martin Really Double Down?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Dorothy Martin Really Double Down?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Primary book behind the Dorothy Martin case and the debate over recantation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Primary book behind the Dorothy Martin case and the debate over recantation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why people defend beliefs after contradictory evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people defend beliefs after contradictory evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Covers UFO-centered religious movements and their beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers UFO-centered religious movements and their beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="martin-dispute-did-dorothy-martin-really-double-down-failed-predictions-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ In the context of UFO prophecy, the Martin dispute serves as a reminder that lea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ In the context of UFO prophecy, the Martin dispute serves as a reminder that lea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ In the context of UFO prophecy, the Martin dispute serves as a reminder that lea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ In the context of UFO prophecy, the Martin dispute serves as a reminder that lea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ In the context of UFO prophecy, the Martin dispute serves as a reminder that lea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,79 +735,79 @@ In the context of UFO prophecy, the Martin dispute serves as a reminder that lea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: When neither arrived, she recanted,  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — The authors took a particular interest in the members&#x27; coping mechanisms after the event did not occur, focusing on the cog...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — The authors took a particular interest in the members&#x27; coping mechanisms after the event did not occur, focusing on the cog...</p></details>
    Published: May 3, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: downey-n1.cs.northwestern.edu  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>verplank tsukino biysk woode nunnery icici gavarppenstall gorenstein dominika heinrichs meander iwonski restored chups cleamons box boy b...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>verplank tsukino biysk woode nunnery icici gavarppenstall gorenstein dominika heinrichs meander iwonski restored chups cleamons box boy b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/696090/Review_of_New_Age_and_Neopagan_Religions_in_America" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/696090/Review_of_New_Age_and_Neopagan_Religions_in_America</a>  
+   Link:<a href="https://www.academia.edu/696090/Review_of_New_Age_and_Neopagan_Religions_in_America" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/696090/Review_of_New_Age_and_Neopagan_Religions_in_America</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The cult leader recanted. The group dissolved.” For example, Kelly provides evidence that the...Read more...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The cult leader recanted. The group dissolved.” For example, Kelly provides evidence that the...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/misunderstanding-cults-searching-for-objectivity-in-a-controversial-field-9781442677302.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/misunderstanding-cults-searching-for-objectivity-in-a-controversial-field-9781442677302.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>d their concerns about the dangers of economic, physical, and psychological...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/misunderstanding-cults-searching-for-objectivity-in-a-controversial-field-9781442677302.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/misunderstanding-cults-searching-for-objectivity-in-a-controversial-field-9781442677302.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d their concerns about the dangers of economic, physical, and psychological...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ngs of how belief survives disconfirmation, and became a...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ngs of how belief survives disconfirmation, and became a...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: alexquigley.co.uk  
    Title: when prophecies fail and evidence backfires  
-   Link: <a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2017 — Leon Festinger, a researcher who observed Dorothy Martin and her band, used this story to establish his theory about cognit...</p></details>
+   Link:<a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2017 — Leon Festinger, a researcher who observed Dorothy Martin and her band, used this story to establish his theory about cognit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the prophecy failed, contradicting the book&#x27;s central...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the prophecy failed, contradicting the book&#x27;s central...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 397254906 Debunking When Prophecy Fails  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: search.proquest.com  
-   Link: <a href="https://search.proquest.com/openview/c650e0318189372892fbbafea5dadd3e/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/c650e0318189372892fbbafea5dadd3e/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>courts and the treatment of addiction: Therapeutic...by KK Brook · 2010 · Cited by 12 — Baltimore court and found that drug court partic...</p></details>
+   Link:<a href="https://search.proquest.com/openview/c650e0318189372892fbbafea5dadd3e/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/c650e0318189372892fbbafea5dadd3e/1?cbl=18750&amp;diss=y&amp;pq-origsite=gscholar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>courts and the treatment of addiction: Therapeutic...by KK Brook · 2010 · Cited by 12 — Baltimore court and found that drug court partic...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — When neither arrived, she recanted, her group dissolved, and efforts to proselytize ceased. But When Prophecy Fails (1...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — When neither arrived, she recanted, her group dissolved, and efforts to proselytize ceased. But When Prophecy Fails (1...</p></details>

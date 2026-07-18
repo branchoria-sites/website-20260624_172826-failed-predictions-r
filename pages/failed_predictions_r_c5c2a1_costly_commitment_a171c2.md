@@ -451,17 +451,17 @@ Group commitment before a UFO prophecy fails is the pressure created when believ
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-overview.webp" | relative_url }}" alt="Overview image for Commitment" loading="eager" decoding="sync" fetchpriority="high">
-The classic example is [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue prophecy, later made famous by *When Prophecy Fails*. Its lesson, however, needs care: the book helped popularise the idea that committed believers may double down after disconfirmation, but recent archival criticism argues that the Martin group’s post-failure persistence was exaggerated and that the group largely dissolved. The mechanism remains important, but it is not automatic. Cost can deepen pressure; it does not guarantee permanent belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 27, 2025 — When Prophecy Fails claims the committed members of the cult maintained their bel...</span><span class="citation-popover-meta">Published: November 27, 2025</span></span></span>
+The classic example is [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue prophecy, later made famous by *When Prophecy Fails*. Its lesson, however, needs care: the book helped popularise the idea that committed believers may double down after disconfirmation, but recent archival criticism argues that the Martin group’s post-failure persistence was exaggerated and that the group largely dissolved. The mechanism remains important, but it is not automatic. Cost can deepen pressure; it does not guarantee permanent belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 27, 2025 — When Prophecy Fails claims the committed members of the cult maintained their bel...</span><span class="citation-popover-meta">Published: November 27, 2025</span></span></span>
 
 ## Why commitment changes the moment of failure
 
 A failed UFO prophecy is not only a failed factual claim. It can also become a public accounting of the believer’s previous choices. The predicted rescue, landing, television appearance or cosmic transition may not occur, but the money spent, the relationships strained and the public statements made remain. That is why commitment before the date matters: it turns a future event into a present identity.
 
-Festinger, Riecken and Schachter’s original theory treated costly prior action as one of the conditions that could make failed prophecy harder to abandon. Their framework argued that the believer must have acted on the belief in a way that is difficult to undo, that the prediction must be specific enough to be refuted, and that [social support]({{ 'social-support/' | relative_url }}) must remain available afterwards. In that model, the group helps members reinterpret failure rather than face it alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">January 30, 2007 — The research team predicted that the inevitable disconfirmation would be followed by an enthusiastic effort at prosely...</span><span class="citation-popover-meta">Published: January 30, 2007</span></span></span>
+Festinger, Riecken and Schachter’s original theory treated costly prior action as one of the conditions that could make failed prophecy harder to abandon. Their framework argued that the believer must have acted on the belief in a way that is difficult to undo, that the prediction must be specific enough to be refuted, and that [social support]({{ 'social-support/' | relative_url }}) must remain available afterwards. In that model, the group helps members reinterpret failure rather than face it alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">January 30, 2007 — The research team predicted that the inevitable disconfirmation would be followed by an enthusiastic effort at prosely...</span><span class="citation-popover-meta">Published: January 30, 2007</span></span></span>
 
 For UFO prophecies, this is especially potent because the expected event is often physical and dramatic: a spacecraft will arrive, a comet will conceal a vehicle, a television signal will announce divine or extraterrestrial intervention, or a select group will be rescued from catastrophe. When nothing visible happens, the failure is hard to deny. The pressure then shifts to meaning: was the prediction wrong, delayed, spiritual rather than physical, fulfilled invisibly, or prevented by the group’s faith?
 
-The important distinction is between **commitment as pressure** and **commitment as proof of persistence**. A costly commitment may make denial, reinterpretation or temporary solidarity more attractive. It may also make [collapse]({{ 'collapse/' | relative_url }}) more painful and therefore faster once members conclude the prophecy has failed. Later research on failed prophecies has repeatedly challenged the simple popular claim that disconfirmation normally strengthens groups; some studies and reviews find [failed predictions]({{ 'failed-predictions/' | relative_url }}) often damage size, conviction or activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 27, 2025 — When Prophecy Fails claims the committed members of the cult maintained their bel...</span><span class="citation-popover-meta">Published: November 27, 2025</span></span></span>
+The important distinction is between **commitment as pressure** and **commitment as proof of persistence**. A costly commitment may make denial, reinterpretation or temporary solidarity more attractive. It may also make [collapse]({{ 'collapse/' | relative_url }}) more painful and therefore faster once members conclude the prophecy has failed. Later research on failed prophecies has repeatedly challenged the simple popular claim that disconfirmation normally strengthens groups; some studies and reviews find [failed predictions]({{ 'failed-predictions/' | relative_url }}) often damage size, conviction or activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 27, 2025 — When Prophecy Fails claims the committed members of the cult maintained their bel...</span><span class="citation-popover-meta">Published: November 27, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-Illustration-1-dark.svg" | relative_url }}" alt="Commitment illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,13 +469,13 @@ The important distinction is between **commitment as pressure** and **commitment
 
 Public commitment raises the cost of admitting error because it adds an audience. In UFO prophecy cases, believers may have warned relatives, issued press statements, spoken to reporters, bought property in a predicted place of salvation, or appeared in news coverage as representatives of the coming event. Once the date passes, the believer is not just changing an opinion; they may be retracting a public identity.
 
-The Dorothy Martin case shows why this point became so influential. Martin’s small circle expected catastrophic flooding and rescue by flying saucer in December 1954. Some members had already behaved in ways that signalled serious commitment, including employment disruption, neglect of studies, damaged relationships, and disposal of money or possessions in preparation for departure. The original account framed these actions as the groundwork for intense cognitive dissonance when the rescue failed to occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">January 30, 2007 — The research team predicted that the inevitable disconfirmation would be followed by an enthusiastic effort at prosely...</span><span class="citation-popover-meta">Published: January 30, 2007</span></span></span>
+The Dorothy Martin case shows why this point became so influential. Martin’s small circle expected catastrophic flooding and rescue by flying saucer in December 1954. Some members had already behaved in ways that signalled serious commitment, including employment disruption, neglect of studies, damaged relationships, and disposal of money or possessions in preparation for departure. The original account framed these actions as the groundwork for intense cognitive dissonance when the rescue failed to occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">January 30, 2007 — The research team predicted that the inevitable disconfirmation would be followed by an enthusiastic effort at prosely...</span><span class="citation-popover-meta">Published: January 30, 2007</span></span></span>
 
-Publicity made the situation sharper. The Martin group did not fail in private; it failed under observation by researchers and journalists. That matters because press attention can amplify both [ridicule]({{ 'ridicule/' | relative_url }}) and solidarity. Being watched may push believers to defend themselves, but it can also distort the very behaviour later interpreted as spontaneous commitment. Critics of *When Prophecy Fails* have argued that the press and covert researchers were not neutral background conditions and may have shaped the group’s behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">January 30, 2007 — The research team predicted that the inevitable disconfirmation would be followed by an enthusiastic effort at prosely...</span><span class="citation-popover-meta">Published: January 30, 2007</span></span></span>
+Publicity made the situation sharper. The Martin group did not fail in private; it failed under observation by researchers and journalists. That matters because press attention can amplify both [ridicule]({{ 'ridicule/' | relative_url }}) and solidarity. Being watched may push believers to defend themselves, but it can also distort the very behaviour later interpreted as spontaneous commitment. Critics of *When Prophecy Fails* have argued that the press and covert researchers were not neutral background conditions and may have shaped the group’s behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">January 30, 2007 — The research team predicted that the inevitable disconfirmation would be followed by an enthusiastic effort at prosely...</span><span class="citation-popover-meta">Published: January 30, 2007</span></span></span>
 
-Chen Tao, the Taiwanese UFO religion that relocated to Garland, Texas, before its 1998 prophecy, shows public commitment on a larger civic stage. Hon-Ming Chen predicted that God would appear on US television and then physically at his Garland home. By late December 1997, the group’s presence had become a media and policing issue; reports describe press conferences, public concern after Heaven’s Gate, and officials preparing for the predicted date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Chen Tao, the Taiwanese UFO religion that relocated to Garland, Texas, before its 1998 prophecy, shows public commitment on a larger civic stage. Hon-Ming Chen predicted that God would appear on US television and then physically at his Garland home. By late December 1997, the group’s presence had become a media and policing issue; reports describe press conferences, public concern after Heaven’s Gate, and officials preparing for the predicted date.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-In such cases, the failed date becomes a social event. Neighbours, police, journalists, families and critics all become part of the pressure surrounding the group. This does not mean the group will necessarily become more extreme afterwards. Chen Tao’s failed appearance seems to have led many members to return home or drift away, even though Chen himself continued to expect later catastrophic events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+In such cases, the failed date becomes a social event. Neighbours, police, journalists, families and critics all become part of the pressure surrounding the group. This does not mean the group will necessarily become more extreme afterwards. Chen Tao’s failed appearance seems to have led many members to return home or drift away, even though Chen himself continued to expect later catastrophic events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
@@ -484,15 +484,15 @@ In such cases, the failed date becomes a social event. Neighbours, police, journ
 
 Material sacrifice is the clearest form of pre-failure commitment because it leaves a practical trace. Selling a home, giving away money, buying property near a predicted landing or rescue site, leaving a job, or moving a family creates sunk costs. After failure, believers must decide not only whether the prophecy was wrong but what their sacrifices now mean.
 
-Chen Tao is unusually concrete here. In 1997, followers moved from Taiwan and California to Garland, Texas. Research on the group reports that Chen’s house was purchased shortly after Garland was declared the new headquarters, that followers from San Dimas and Taiwan relocated over the year, and that by late December 1997 all 150 to 160 members were settled into 21 homes in Garland. The group eventually owned about 29 to 31 houses within a small radius of Chen’s home. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Chen Tao is unusually concrete here. In 1997, followers moved from Taiwan and California to Garland, Texas. Research on the group reports that Chen’s house was purchased shortly after Garland was declared the new headquarters, that followers from San Dimas and Taiwan relocated over the year, and that by late December 1997 all 150 to 160 members were settled into 21 homes in Garland. The group eventually owned about 29 to 31 houses within a small radius of Chen’s home.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-A separate account by R. J. Cook, based on fieldwork and later published through CESNUR material, describes Chen Tao’s Garland presence as about 160 members occupying around 20 homes. It also notes that many were white-collar professionals in Taiwan and that members had sold houses and liquidated assets to fund their extended stay in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR)...</span></span></span>
+A separate account by R. J. Cook, based on fieldwork and later published through CESNUR material, describes Chen Tao’s Garland presence as about 160 members occupying around 20 homes. It also notes that many were white-collar professionals in Taiwan and that members had sold houses and liquidated assets to fund their extended stay in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR)...</span></span></span>
 
-That scale of sacrifice changes the psychology of the failed date. A member who moved a family across the Pacific cannot simply say, “I was mistaken,” without also confronting financial loss, reputational embarrassment, disrupted children’s lives and a possible need to rebuild a career. Yet Chen Tao also shows the limit of the sunk-cost idea. Costly sacrifice did not make the whole movement endure intact. After the failed March 1998 prediction, many members reportedly left or returned to Taiwan, while a smaller remnant followed later revised expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+That scale of sacrifice changes the psychology of the failed date. A member who moved a family across the Pacific cannot simply say, “I was mistaken,” without also confronting financial loss, reputational embarrassment, disrupted children’s lives and a possible need to rebuild a career. Yet Chen Tao also shows the limit of the sunk-cost idea. Costly sacrifice did not make the whole movement endure intact. After the failed March 1998 prediction, many members reportedly left or returned to Taiwan, while a smaller remnant followed later revised expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-Heaven’s Gate represents a still more severe pattern of commitment, though it is not best understood as a simple failed-date aftermath because the group’s fatal action coincided with its interpretation of Comet Hale-Bopp. Members had long practised extreme renunciation, communal living, celibacy and rejection of ordinary human attachments; Britannica describes the movement as advocating self-renunciation and notes that members expected transition to the “Next Level” aboard an alien spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
+Heaven’s Gate represents a still more severe pattern of commitment, though it is not best understood as a simple failed-date aftermath because the group’s fatal action coincided with its interpretation of Comet Hale-Bopp. Members had long practised extreme renunciation, communal living, celibacy and rejection of ordinary human attachments; Britannica describes the movement as advocating self-renunciation and notes that members expected transition to the “Next Level” aboard an alien spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Open source on britannica.com.</span></span></span>
 
-The point for this subtopic is not to retell Heaven’s Gate as a whole, but to note how a life organised around prior renunciation can make reversal harder. When everyday possessions, family roles, sexuality, names, work and personal autonomy have already been subordinated to the group’s cosmic timetable, the predicted transition is not just one claim among others. It becomes the organising justification for years of sacrifice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+The point for this subtopic is not to retell Heaven’s Gate as a whole, but to note how a life organised around prior renunciation can make reversal harder. When everyday possessions, family roles, sexuality, names, work and personal autonomy have already been subordinated to the group’s cosmic timetable, the predicted transition is not just one claim among others. It becomes the organising justification for years of sacrifice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-Illustration-2-dark.svg" | relative_url }}" alt="Commitment illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -502,11 +502,11 @@ High cost deepens pressure because it creates several overlapping burdens at onc
 
 Three mechanisms are especially important in UFO prophecy failures:
 
-**Sunk cost and self-justification.** The more someone has given up, the harder it may be to treat the prophecy as a mistake. Cognitive dissonance theory describes the discomfort caused by conflict between beliefs and reality; effort-justification research more broadly examines how people may increase the value they place on goals they worked hard to reach. In a UFO prophecy group, the “effort” may be financial, emotional, geographic or reputational. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/pubs/books/Cognitive-Dissonance-Intro-Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">Cognitive Dissonance Intro Sample</span><span class="citation-popover-snippet">Cognitive Dissonance Intro Sample</span></span></span>
+**Sunk cost and self-justification.** The more someone has given up, the harder it may be to treat the prophecy as a mistake. Cognitive dissonance theory describes the discomfort caused by conflict between beliefs and reality; effort-justification research more broadly examines how people may increase the value they place on goals they worked hard to reach. In a UFO prophecy group, the “effort” may be financial, emotional, geographic or reputational.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/pubs/books/Cognitive-Dissonance-Intro-Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">Cognitive Dissonance Intro Sample</span><span class="citation-popover-snippet">Cognitive Dissonance Intro Sample</span></span></span>
 
 **Public identity.** Going public transforms belief into reputation. The believer may have told friends that a rescue was coming, explained the prediction to journalists, or visibly moved to the expected site. A private revision becomes a public climbdown. This helps explain why some groups briefly reinterpret failure rather than immediately concede error, especially while reporters or opponents are present.
 
-**Group cushioning.** Social support can make reinterpretation easier. A lone believer may have to choose between the prophecy and ordinary reality, but a group can supply new explanations, emotional reassurance and shared language. Dawson’s review of failed prophecy literature identifies in-group social support as one of the most commonly discussed conditions in adaptation after prophetic failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">When Prophecy Fails and Faith Persists: A Theoretical Overview</span><span class="citation-popover-snippet">When Prophecy Fails and Faith Persists: A Theoretical Overview</span></span></span>
+**Group cushioning.** Social support can make reinterpretation easier. A lone believer may have to choose between the prophecy and ordinary reality, but a group can supply new explanations, emotional reassurance and shared language. Dawson’s review of failed prophecy literature identifies in-group social support as one of the most commonly discussed conditions in adaptation after prophetic failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">When Prophecy Fails and Faith Persists: A Theoretical Overview</span><span class="citation-popover-snippet">When Prophecy Fails and Faith Persists: A Theoretical Overview</span></span></span>
 
 These mechanisms do not all point in one direction. A tightly bonded group may maintain belief, but the same pressure can produce fragmentation if members disagree about the explanation. A public leader may reinterpret the failure, while less invested followers quietly leave. A financially committed family may stay for a while because departure is hard, then exit once practical arrangements become possible.
 
@@ -517,7 +517,7 @@ These mechanisms do not all point in one direction. A tightly bonded group may m
 
 The popular version of the Dorothy Martin story is neat: believers predicted a UFO rescue, the rescue failed, and the group became more evangelical to reduce dissonance. That version is memorable because it fits a clear psychological pattern. It is also now heavily disputed.
 
-Thomas Kelly’s recent archival critique argues that *When Prophecy Fails* misrepresented key events: the group had already proselytised before the failed date, the prophecy was abandoned afterwards, Martin recanted, and the group dissolved. The article further alleges serious researcher interference, including fabricated messages and covert manipulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 27, 2025 — When Prophecy Fails claims the committed members of the cult maintained their bel...</span><span class="citation-popover-meta">Published: November 27, 2025</span></span></span>
+Thomas Kelly’s recent archival critique argues that *When Prophecy Fails* misrepresented key events: the group had already proselytised before the failed date, the prophecy was abandoned afterwards, Martin recanted, and the group dissolved. The article further alleges serious researcher interference, including fabricated messages and covert manipulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 27, 2025 — When Prophecy Fails claims the committed members of the cult maintained their bel...</span><span class="citation-popover-meta">Published: November 27, 2025</span></span></span>
 
 This critique does not make commitment irrelevant. It changes what the case can responsibly prove. The Martin group still illustrates the ingredients that make failed prophecy intense: public prediction, social attention, costly action, and a small group waiting together for a UFO-linked rescue. But it should not be used uncritically as proof that failed prophecy normally strengthens belief.
 
@@ -529,7 +529,7 @@ The better lesson is narrower and more reliable: prior commitment shapes the aft
 
 Group commitment before failure helps explain why some UFO prophecies seem to survive their own disconfirmation for a time. If members have moved, sacrificed, given interviews or reorganised their lives, the first response may be to search for a revised meaning: the spaceship came spiritually, the disaster was postponed, the group’s [faith saved]({{ 'faith-saved/' | relative_url }}) the world, outsiders disrupted the plan, or the date was misunderstood.
 
-It also explains why some groups collapse despite high commitment. Cost cuts both ways. The more concrete the sacrifice, the more difficult it is to maintain a prophecy indefinitely once everyday consequences arrive. Mortgage payments, visas, jobs, children, lawsuits, hostile relatives and disappointed members can all press against reinterpretation. Chen Tao’s expensive relocation to Garland did not prevent the failed 1998 prophecy from sharply reducing the movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+It also explains why some groups collapse despite high commitment. Cost cuts both ways. The more concrete the sacrifice, the more difficult it is to maintain a prophecy indefinitely once everyday consequences arrive. Mortgage payments, visas, jobs, children, lawsuits, hostile relatives and disappointed members can all press against reinterpretation. Chen Tao’s expensive relocation to Garland did not prevent the failed 1998 prophecy from sharply reducing the movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 For readers trying to understand failed UFO predictions, the practical takeaway is that the date itself is only part of the story. The more revealing evidence often appears before the date: who has gone public, who has moved, who has sold assets, who has cut ties, who is surrounded by fellow believers, and who still has a low-cost path back to ordinary life. Those commitments help determine whether failure becomes a quiet correction, a brief rationalisation, a public retreat, or a deeper crisis for the group.
 
@@ -538,194 +538,194 @@ For readers trying to understand failed UFO predictions, the practical takeaway 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Costly Belief Changes the Aftermath. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Costly Belief Changes the Aftermath. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Foundational study of commitment, disconfirmation, and belief persistence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational study of commitment, disconfirmation, and belief persistence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains self-justification and cognitive dissonance after costly decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-justification and cognitive dissonance after costly decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Covers commitment and consistency pressures relevant to failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers commitment and consistency pressures relevant to failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="commitment-why-costly-belief-changes-the-aftermath-failed-predictions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -741,7 +741,7 @@ For readers trying to understand failed UFO predictions, the practical takeaway 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -761,7 +761,7 @@ For readers trying to understand failed UFO predictions, the practical takeaway 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -793,7 +793,7 @@ For readers trying to understand failed UFO predictions, the practical takeaway 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -845,7 +845,7 @@ For readers trying to understand failed UFO predictions, the practical takeaway 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -890,7 +890,7 @@ For readers trying to understand failed UFO predictions, the practical takeaway 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -931,145 +931,145 @@ For readers trying to understand failed UFO predictions, the practical takeaway 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gwern.net  
    Title: Debunking “When Prophecy Fails”  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”November 27, 2025 — When Prophecy Fails claims the committed members of the cult maintained their bel...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”November 27, 2025 — When Prophecy Fails claims the committed members of the cult maintained their bel...</p></details>
    Published: November 27, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2007 — The research team predicted that the inevitable disconfirmation would be followed by an enthusiastic effort at prosely...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2007 — The research team predicted that the inevitable disconfirmation would be followed by an enthusiastic effort at prosely...</p></details>
    Published: January 30, 2007  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Leon Festinger  
-   Link: <a href="https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaLeon Festinger - Cognitive Dissonance, Social Psychology...4 May 2026 — Festinger&#x27;s theory proposes that inconsis...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaLeon Festinger - Cognitive Dissonance, Social Psychology...4 May 2026 — Festinger&#x27;s theory proposes that inconsis...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cesnur.org  
    Title: Chen Tao in Texas (CESNUR)  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in Texas (CESNUR)...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in Texas (CESNUR)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gwern.net  
    Title: When Prophecy Fails and Faith Persists: A Theoretical Overview  
-   Link: <a href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/sociology/1999-dawson.pdf</a>  
+   Link:<a href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/sociology/1999-dawson.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apa.org  
    Title: Cognitive Dissonance Intro Sample  
-   Link: <a href="https://www.apa.org/pubs/books/Cognitive-Dissonance-Intro-Sample.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/books/Cognitive-Dissonance-Intro-Sample.pdf</a>  
+   Link:<a href="https://www.apa.org/pubs/books/Cognitive-Dissonance-Intro-Sample.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/books/Cognitive-Dissonance-Intro-Sample.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journal.equinoxpub.com  
-   Link: <a href="https://journal.equinoxpub.com/IJSNR/article/view/33085" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/IJSNR/article/view/33085</a>  
+   Link:<a href="https://journal.equinoxpub.com/IJSNR/article/view/33085" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/IJSNR/article/view/33085</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: Cognitive Dissonance Theory  
-   Link: <a href="https://www.researchgate.net/profile/David-Vaidis/publication/308649500_Vaidis_2014_Cognitive_Dissonance_Theory_Oxford_Bibliographies/links/57ea391008aef8bfcc986d84/Vaidis-2014-Cognitive-Dissonance-Theory-Oxford-Bibliographies.pdf?origin=publication_list" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/David-Vaidis/publication/308649500_Vaidis_2014_Cognitive_Dissonance_Theory_Oxford_Bibliographies/links/57ea391008aef8bfcc986d84/Vaidis-2014-Cognitive-Dissonance-Theory-Oxford-Bibliographies.pdf?origin=publication_list</a>  
+   Link:<a href="https://www.researchgate.net/profile/David-Vaidis/publication/308649500_Vaidis_2014_Cognitive_Dissonance_Theory_Oxford_Bibliographies/links/57ea391008aef8bfcc986d84/Vaidis-2014-Cognitive-Dissonance-Theory-Oxford-Bibliographies.pdf?origin=publication_list" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/David-Vaidis/publication/308649500_Vaidis_2014_Cognitive_Dissonance_Theory_Oxford_Bibliographies/links/57ea391008aef8bfcc986d84/Vaidis-2014-Cognitive-Dissonance-Theory-Oxford-Bibliographies.pdf?origin=publication_list</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: doctorspin.net  
    Title: Cognitive Dissonance | Public Relations Theories  
-   Link: <a href="https://doctorspin.net/cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://doctorspin.net/cognitive-dissonance/</a>  
+   Link:<a href="https://doctorspin.net/cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://doctorspin.net/cognitive-dissonance/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: books.google.com  
    Title: When Prophecy Fails  
-   Link: <a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=EsEVBAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=EsEVBAAAQBAJ</a>  
+   Link:<a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=EsEVBAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=EsEVBAAAQBAJ</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: books.google.com  
    Title: When Prophecy Fails  
-   Link: <a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: books.google.com  
    Title: When Prophecy Fails  
-   Link: <a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=pknuAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=pknuAAAAMAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=pknuAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=pknuAAAAMAAJ</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abebooks.co.uk  
    Title: When Prophecy Fails  
-   Link: <a href="https://www.abebooks.co.uk/9781905177196/When-Prophecy-Fails-Leon-Festinger-1905177194/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781905177196/When-Prophecy-Fails-Leon-Festinger-1905177194/plp</a>  
+   Link:<a href="https://www.abebooks.co.uk/9781905177196/When-Prophecy-Fails-Leon-Festinger-1905177194/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781905177196/When-Prophecy-Fails-Leon-Festinger-1905177194/plp</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bahai-library.com  
-   Link: <a href="https://bahai-library.com/pdf/k/kelly_failed_prophecies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bahai-library.com/pdf/k/kelly_failed_prophecies.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bahá&#x27;í LibraryFailed Prophecies Are FatalMany scholars of new religious movements claim that religious belief and religious groups genera...</p></details>
+   Link:<a href="https://bahai-library.com/pdf/k/kelly_failed_prophecies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bahai-library.com/pdf/k/kelly_failed_prophecies.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bahá&#x27;í LibraryFailed Prophecies Are FatalMany scholars of new religious movements claim that religious belief and religious groups genera...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-[nasa-report" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-[nasa-report</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-[nasa-report" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-[nasa-report</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/community.38760753" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/community.38760753</a>  
+   Link:<a href="https://www.jstor.org/stable/community.38760753" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/community.38760753</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW6oPa5EQAI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW6oPa5EQAI/</a>  
+   Link:<a href="https://www.instagram.com/p/DW6oPa5EQAI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW6oPa5EQAI/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
+   Link:<a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  

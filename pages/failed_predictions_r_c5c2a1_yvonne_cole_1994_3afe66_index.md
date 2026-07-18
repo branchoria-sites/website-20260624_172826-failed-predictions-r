@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-yvonne/
 description: Focused pages that expand on 1994 Ashtar.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66
 parent_title: 1994 Ashtar
@@ -16,7 +16,7 @@ parent_permalink: /1994-ashtar/
 
 # Explore Topics in 1994 Ashtar
 
-The following pages expand on the main **[1994 Ashtar]({{ '/1994-ashtar/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[1994 Ashtar]({{ '/1994-ashtar/' | relative_url }})** page and cover its key branches in.
 
 - [Pioneer Voyage]({{ '/pioneer-voyage/' | relative_url }})
 - [1994 Date]({{ '/1994-date/' | relative_url }})

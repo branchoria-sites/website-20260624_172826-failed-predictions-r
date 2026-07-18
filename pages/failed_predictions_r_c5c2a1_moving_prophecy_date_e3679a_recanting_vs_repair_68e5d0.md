@@ -280,19 +280,19 @@ image: /assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_re
 
 ## Introduction
 
-Did believers in [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s famous 1954 flying-saucer rescue prophecy double down after the prediction failed, or did they abandon the belief? That question sits at the centre of one of the most influential and disputed episodes in the study of failed UFO predictions. For decades, the standard answer came from *When Prophecy Fails* (1956), which portrayed committed believers as reinterpreting the failure rather than rejecting the prophecy. According to that account, the non-arrival of the rescue saucer was transformed into evidence that the group had spiritually saved the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Did believers in [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s famous 1954 flying-saucer rescue prophecy double down after the prediction failed, or did they abandon the belief? That question sits at the centre of one of the most influential and disputed episodes in the study of failed UFO predictions. For decades, the standard answer came from *When Prophecy Fails* (1956), which portrayed committed believers as reinterpreting the failure rather than rejecting the prophecy. According to that account, the non-arrival of the rescue saucer was transformed into evidence that the group had spiritually saved the world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_recanting_vs_repair_68e5d0-Illustration-1-dark.svg" | relative_url }}" alt="Recanting illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_recanting_vs_repair_68e5d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_recanting_vs_repair_68e5d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Recent archival research, however, has challenged that narrative. Historian Thomas Kelly argues that the famous case has been misunderstood for decades: rather than surviving through reinterpretation, the prophecy was largely abandoned, its leader recanted, and the group disintegrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
+Recent archival research, however, has challenged that narrative. Historian Thomas Kelly argues that the famous case has been misunderstood for decades: rather than surviving through reinterpretation, the prophecy was largely abandoned, its leader recanted, and the group disintegrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
 
 For understanding how UFO prophecy dates move [after failure]({{ 'after-failure/' | relative_url }}), the distinction is crucial. Reinterpretation and recanting produce very different lessons about what happens when a predicted saucer rescue never arrives.
 
 ## Did Believers Double Down or Walk Away?
 
-The traditional story comes from the researchers who infiltrated Martin’s group before the predicted catastrophe of December 1954. Martin claimed to receive messages from extraterrestrial or higher beings warning of a devastating flood and promising that selected believers would be rescued by flying saucers before the disaster struck. When the deadline passed without either flood or rescue, the researchers reported that core members did not abandon the movement. Instead, they supposedly developed a new explanation: their faith and devotion had persuaded higher powers to spare the Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The traditional story comes from the researchers who infiltrated Martin’s group before the predicted catastrophe of December 1954. Martin claimed to receive messages from extraterrestrial or higher beings warning of a devastating flood and promising that selected believers would be rescued by flying saucers before the disaster struck. When the deadline passed without either flood or rescue, the researchers reported that core members did not abandon the movement. Instead, they supposedly developed a new explanation: their faith and devotion had persuaded higher powers to spare the Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-In this version of events, the failed rescue was not treated as evidence that the prophecy was wrong. It was reinterpreted as evidence that the group had succeeded in a different way. The predicted outcome changed, but the underlying belief system survived. That interpretation became a textbook example of [cognitive dissonance]({{ 'dissonance/' | relative_url }}) reduction: people who had invested heavily in a belief supposedly found a way to preserve it despite contradictory evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In this version of events, the failed rescue was not treated as evidence that the prophecy was wrong. It was reinterpreted as evidence that the group had succeeded in a different way. The predicted outcome changed, but the underlying belief system survived. That interpretation became a textbook example of [cognitive dissonance]({{ 'dissonance/' | relative_url }}) reduction: people who had invested heavily in a belief supposedly found a way to preserve it despite contradictory evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 The case became enormously influential because it appeared to show a specific mechanism through which failed prophecies could survive. Rather than collapsing after a missed deadline, a movement could redefine what the deadline meant.
 
@@ -310,11 +310,11 @@ The classic interpretation emphasised several features that seemed to support be
 * The prophecy was specific enough to be publicly falsified.
 * The failure was obvious and unavoidable.
 * Core members remained socially connected after the failure.
-* New public outreach reportedly increased after the prediction failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+* New public outreach reportedly increased after the prediction failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 </div>
 
-Within this framework, reinterpretation was the key outcome. The failed saucer rescue did not destroy the belief system because the group adopted a revised narrative. The world had not ended because divine or cosmic forces had responded to the believers’ faithfulness. The prophecy had not been wrong; it had been fulfilled in an unexpected way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dorothy Martin (spiritualist</span><span class="citation-popover-snippet">Dorothy Martin (spiritualist</span></span></span>
+Within this framework, reinterpretation was the key outcome. The failed saucer rescue did not destroy the belief system because the group adopted a revised narrative. The world had not ended because divine or cosmic forces had responded to the believers’ faithfulness. The prophecy had not been wrong; it had been fulfilled in an unexpected way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dorothy Martin (spiritualist</span><span class="citation-popover-snippet">Dorothy Martin (spiritualist</span></span></span>
 
 This account became one of the most frequently cited examples in discussions of UFO contactee movements, millennial expectations, and prophetic failure generally.
 
@@ -323,11 +323,11 @@ This account became one of the most frequently cited examples in discussions of 
 
 ## Kelly’s Archival Challenge
 
-Thomas Kelly’s archival investigation directly challenges the central conclusion that reinterpretation was the dominant response. Drawing on newly available documents, Kelly argues that the famous study substantially misrepresented what happened after the failed prophecy. According to his findings, the group did not persist through a major campaign of post-failure recruitment, nor did it continue to promote the failed prediction as a spiritual victory. Instead, belief rapidly eroded. Martin reportedly recanted, organised proselytising ceased, and the group dissolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
+Thomas Kelly’s archival investigation directly challenges the central conclusion that reinterpretation was the dominant response. Drawing on newly available documents, Kelly argues that the famous study substantially misrepresented what happened after the failed prophecy. According to his findings, the group did not persist through a major campaign of post-failure recruitment, nor did it continue to promote the failed prediction as a spiritual victory. Instead, belief rapidly eroded. Martin reportedly recanted, organised proselytising ceased, and the group dissolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
 
-Kelly summarises the outcome starkly: the prophecy failed, the leader walked back the claim, and the movement disbanded rather than flourishing through reinterpretation. He further argues that the researchers behind *When Prophecy Fails* possessed evidence inconsistent with their published narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
+Kelly summarises the outcome starkly: the prophecy failed, the leader walked back the claim, and the movement disbanded rather than flourishing through reinterpretation. He further argues that the researchers behind *When Prophecy Fails* possessed evidence inconsistent with their published narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
 
-This does not necessarily mean that no believers attempted any rationalisation immediately after the missed deadline. Archival critics generally acknowledge that some explanatory reinterpretations occurred. The dispute concerns what happened next. Were those reinterpretations the foundation of a continuing movement, or were they short-lived reactions before abandonment and [collapse]({{ 'collapse/' | relative_url }})? Kelly argues for the latter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
+This does not necessarily mean that no believers attempted any rationalisation immediately after the missed deadline. Archival critics generally acknowledge that some explanatory reinterpretations occurred. The dispute concerns what happened next. Were those reinterpretations the foundation of a continuing movement, or were they short-lived reactions before abandonment and [collapse]({{ 'collapse/' | relative_url }})? Kelly argues for the latter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
 
 The challenge is significant because it questions whether the most famous UFO prophecy case actually demonstrates successful belief repair at all.
 
@@ -339,7 +339,7 @@ For studies of failed UFO predictions, “reinterpretation” and “recanting�
 
 ### If reinterpretation dominated
 
-If the traditional account is substantially correct, the case demonstrates how a failed prophecy can survive by changing its meaning. A missed rescue becomes a hidden success. A failed date becomes a misunderstood date. The authority of the message survives because the explanation changes faster than the belief itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+If the traditional account is substantially correct, the case demonstrates how a failed prophecy can survive by changing its meaning. A missed rescue becomes a hidden success. A failed date becomes a misunderstood date. The authority of the message survives because the explanation changes faster than the belief itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This model supports the broader idea that prophetic movements can remain resilient after public failure.
 
@@ -348,7 +348,7 @@ This model supports the broader idea that prophetic movements can remain resilie
 
 ### If recanting dominated
 
-If Kelly’s reconstruction is substantially correct, the lesson changes dramatically. The failed saucer rescue becomes an example not of successful belief preservation but of collapse. The movement did not successfully move the date or redefine the event for long-term survival. Instead, the prophecy lost credibility and the organisation fragmented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
+If Kelly’s reconstruction is substantially correct, the lesson changes dramatically. The failed saucer rescue becomes an example not of successful belief preservation but of collapse. The movement did not successfully move the date or redefine the event for long-term survival. Instead, the prophecy lost credibility and the organisation fragmented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
 
 Under this interpretation, the famous case should not be treated as straightforward evidence that UFO prophecies naturally survive disconfirmation.
 
@@ -368,183 +368,183 @@ Those outcomes are not equivalent, yet they are often grouped together under the
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_recanting_vs_repair_68e5d0-Illustration-3-dark.svg" | relative_url }}" alt="Recanting illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_recanting_vs_repair_68e5d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_recanting_vs_repair_68e5d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Contested Case at the Heart of UFO Prophecy Research
 
-The 1954 saucer rescue prophecy remains important precisely because it sits at the boundary between two competing interpretations of failure. One portrays a movement that transformed defeat into validation through reinterpretation. The other portrays a movement that largely abandoned its failed prediction and dissolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PubMed+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The 1954 saucer rescue prophecy remains important precisely because it sits at the boundary between two competing interpretations of failure. One portrays a movement that transformed defeat into validation through reinterpretation. The other portrays a movement that largely abandoned its failed prediction and dissolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[PubMed+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-For the narrower question of prophecy dates that move after failure, the case serves as a caution. Not every missed UFO deadline leads to a successful narrative repair. Some movements reinterpret; some recant; some do both in sequence. The historical dispute over Dorothy Martin’s group demonstrates why those possibilities must be distinguished rather than assumed. The most famous failed saucer rescue in UFO history may be remembered less for proving how prophecies survive than for showing how difficult it is to determine whether they survived at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
+For the narrower question of prophecy dates that move after failure, the case serves as a caution. Not every missed UFO deadline leads to a successful narrative repair. Some movements reinterpret; some recant; some do both in sequence. The historical dispute over Dorothy Martin’s group demonstrates why those possibilities must be distinguished rather than assumed. The most famous failed saucer rescue in UFO history may be remembered less for proving how prophecies survive than for showing how difficult it is to determine whether they survived at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Believers Double Down or Walk Away?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Believers Double Down or Walk Away?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides historical context for collective belief and failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides historical context for collective belief and failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">The central book discussed by the page and the original source of the influential reinterpretation narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The central book discussed by the page and the original source of the influential reinterpretation narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of Millennialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7241983-M.jpg" alt="Cover for The Oxford Handbook of Millennialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Millennialism">The Oxford Handbook of Millennialism</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Wessinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of Millennialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7241983-M.jpg" alt="Cover for The Oxford Handbook of Millennialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Millennialism">The Oxford Handbook of Millennialism</a>
+</h4>
+<p class="fr-book-author">By Catherine Wessinger</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Millennialism, Millennaristiska rörelser, Religionsersatz, Religionsphänomenologie, Chiliasmus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Millennialism, Millennaristiska rörelser, Religionsersatz, Religionsphänomenologie, Chiliasmus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+Millennialism+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of Millennialism books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+Millennialism+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of Millennialism books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="recanting-did-believers-double-down-or-walk-away-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ For the narrower question of prophecy dates that move after failure, the case se
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ For the narrower question of prophecy dates that move after failure, the case se
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ For the narrower question of prophecy dates that move after failure, the case se
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ For the narrower question of prophecy dates that move after failure, the case se
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ For the narrower question of prophecy dates that move after failure, the case se
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,88 +750,88 @@ For the narrower question of prophecy dates that move after failure, the case se
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Leon Festinger  
-   Link: <a href="https://en.wikipedia.org/wiki/Leon_Festinger" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Leon_Festinger</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Leon_Festinger" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Leon_Festinger</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Debunking “When Prophecy Fails”  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This article shows that the authors of When Prophecy Fails misled their readers—...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Disconfirmed expectancy  
-   Link: <a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstrates that the boo...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstrates that the boo...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The group dissolved.” For example, Kelly provides evidence that the central couple, Charles and Lillian Laughead, who...Read more...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The group dissolved.” For example, Kelly provides evidence that the central couple, Charles and Lillian Laughead, who...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: conspirituality.net  
    Title: 284 when prophecy science fails thomas kelly  
-   Link: <a href="https://www.conspirituality.net/episodes/284-when-prophecy-science-fails-thomas-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.conspirituality.net/episodes/284-when-prophecy-science-fails-thomas-kelly</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>284: When Prophecy-Science Fails (w/Thomas Kelly)20 Nov 2025 — Thomas Kelly joins to discuss his investigation of Dorthy Martin&#x27;s cult th...</p></details>
+   Link:<a href="https://www.conspirituality.net/episodes/284-when-prophecy-science-fails-thomas-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.conspirituality.net/episodes/284-when-prophecy-science-fails-thomas-kelly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>284: When Prophecy-Science Fails (w/Thomas Kelly)20 Nov 2025 — Thomas Kelly joins to discuss his investigation of Dorthy Martin&#x27;s cult th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the prophecy failed, contradicting the book&#x27;s central...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the prophecy failed, contradicting the book&#x27;s central...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n neither arrived, she recanted, her group dissolved...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n neither arrived, she recanted, her group dissolved...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar[PDF] Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers re...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar[PDF] Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers re...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followe...</p></details>
+   Link:<a href="https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/1ov6kcw/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)  
-   Link: <a href="http://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5yVuauQjkDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Nugget: When Prophecy Fails with Richard Smoley...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5yVuauQjkDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video Nugget: When Prophecy Fails with Richard Smoley...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Video Nugget: When Prophecy Fails with Richard Smoley  
-   Link: <a href="http://www.youtube.com/watch?v=V-6Uy6G5RWc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=V-6Uy6G5RWc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=V-6Uy6G5RWc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=V-6Uy6G5RWc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/ca/podcast/284-when-prophecy-science-fails-w-thomas-kelly/id1515827446?i=1000737576944" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ca/podcast/284-when-prophecy-science-fails-w-thomas-kelly/id1515827446?i=1000737576944</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com284: When Prophecy-Science Fails (w/Thomas Kelly)20 Nov 2025 — In 1954 a doomsday alien cult headed up by Chicagoland housewife...</p></details>
+   Link:<a href="https://podcasts.apple.com/ca/podcast/284-when-prophecy-science-fails-w-thomas-kelly/id1515827446?i=1000737576944" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ca/podcast/284-when-prophecy-science-fails-w-thomas-kelly/id1515827446?i=1000737576944</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com284: When Prophecy-Science Fails (w/Thomas Kelly)20 Nov 2025 — In 1954 a doomsday alien cult headed up by Chicagoland housewife...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/tz/podcast/284-when-prophecy-science-fails-w-thomas-kelly/id1515827446?i=1000737576944" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/tz/podcast/284-when-prophecy-science-fails-w-thomas-kelly/id1515827446?i=1000737576944</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com284: When Prophecy-Science Fails (w/Thomas Kelly)20 Nov 2025 — In 1954 a doomsday alien cult headed up by Chicagoland housewife...</p></details>
+   Link:<a href="https://podcasts.apple.com/tz/podcast/284-when-prophecy-science-fails-w-thomas-kelly/id1515827446?i=1000737576944" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/tz/podcast/284-when-prophecy-science-fails-w-thomas-kelly/id1515827446?i=1000737576944</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com284: When Prophecy-Science Fails (w/Thomas Kelly)20 Nov 2025 — In 1954 a doomsday alien cult headed up by Chicagoland housewife...</p></details>

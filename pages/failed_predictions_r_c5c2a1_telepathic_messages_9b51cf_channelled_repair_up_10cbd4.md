@@ -274,17 +274,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cha
 
 ## Introduction
 
-One reason UFO prophecies based on telepathic or channelled messages can survive failure is that the same source that announced the prediction can later reinterpret it. When a promised rescue, landing, catastrophe or public revelation does not occur, a new message may arrive explaining why. Rather than abandoning the original claim, believers are offered an updated narrative that preserves the authority of the channel and the broader worldview. This mechanism is especially important in UFO contactee and [channelling]({{ 'channelling/' | relative_url }}) traditions because the source of information is not a public event but an ongoing relationship with unseen extraterrestrial or spiritual intelligences. As long as that relationship continues, fresh messages can revise, postpone or redefine earlier predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+One reason UFO prophecies based on telepathic or channelled messages can survive failure is that the same source that announced the prediction can later reinterpret it. When a promised rescue, landing, catastrophe or public revelation does not occur, a new message may arrive explaining why. Rather than abandoning the original claim, believers are offered an updated narrative that preserves the authority of the channel and the broader worldview. This mechanism is especially important in UFO contactee and [channelling]({{ 'channelling/' | relative_url }}) traditions because the source of information is not a public event but an ongoing relationship with unseen extraterrestrial or spiritual intelligences. As long as that relationship continues, fresh messages can revise, postpone or redefine earlier predictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_channelled_repair_up_10cbd4-Illustration-1-dark.svg" | relative_url }}" alt="Repair Updates illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_channelled_repair_up_10cbd4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_channelled_repair_up_10cbd4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is not simply a failed prophecy followed by denial. Instead, a sequence develops in which the original prediction is repaired through supplementary revelations. These repair updates often follow recurring patterns: the warning was conditional, the timetable changed, the event occurred on a spiritual level, humanity was granted mercy, or believers were being tested. Across UFO-related prophetic movements, these explanations have repeatedly helped maintain commitment after visible events fail to appear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The result is not simply a failed prophecy followed by denial. Instead, a sequence develops in which the original prediction is repaired through supplementary revelations. These repair updates often follow recurring patterns: the warning was conditional, the timetable changed, the event occurred on a spiritual level, humanity was granted mercy, or believers were being tested. Across UFO-related prophetic movements, these explanations have repeatedly helped maintain commitment after visible events fail to appear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## Conditional Warnings and Changed Timetables
 
 The most direct repair strategy is to claim that the original prediction was conditional rather than fixed. In this model, extraterrestrial or higher beings were issuing a warning, not announcing an unavoidable future.
 
-The classic example comes from [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s 1954 flying-saucer prophecy. Martin claimed to receive messages from beings associated with the planet Clarion. Her followers expected a catastrophic flood and rescue by spacecraft. When the predicted date passed without the expected events, a new message reportedly explained that divine intervention had prevented the catastrophe because of the group's faith and spiritual efforts. The prophecy was not treated as false; instead, believers were told that their actions had altered the outcome. Wikipedia+2Templeton World Charity Foundation, Inc. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The classic example comes from [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s 1954 flying-saucer prophecy. Martin claimed to receive messages from beings associated with the planet Clarion. Her followers expected a catastrophic flood and rescue by spacecraft. When the predicted date passed without the expected events, a new message reportedly explained that divine intervention had prevented the catastrophe because of the group's faith and spiritual efforts. The prophecy was not treated as false; instead, believers were told that their actions had altered the outcome. Wikipedia+2Templeton World Charity Foundation, Inc.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This type of update performs several functions simultaneously:
 
@@ -298,7 +298,7 @@ This type of update performs several functions simultaneously:
 
 </div>
 
-A closely related version is timetable revision. The message was genuine, followers are told, but humans misunderstood the timing or the extraterrestrial source adjusted its plans. Because channelled communications are often described as symbolic, multidimensional or difficult to translate into human language, date changes can be presented as corrections rather than contradictions. Scholars studying UFO-contact movements have noted that belief systems built around ongoing revelation remain highly adaptable because new messages continually reshape previous teachings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+A closely related version is timetable revision. The message was genuine, followers are told, but humans misunderstood the timing or the extraterrestrial source adjusted its plans. Because channelled communications are often described as symbolic, multidimensional or difficult to translate into human language, date changes can be presented as corrections rather than contradictions. Scholars studying UFO-contact movements have noted that belief systems built around ongoing revelation remain highly adaptable because new messages continually reshape previous teachings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6d6SJd5sxnM" title="InPresence 0211: When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer">InPresence 0211: When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6d6SJd5sxnM">Open on YouTube</a></p></div></div></div>
@@ -307,7 +307,7 @@ A closely related version is timetable revision. The message was genuine, follow
 
 Another repair mechanism redefines what counts as fulfilment. Instead of admitting that a spaceship failed to arrive or a disaster failed to occur, later messages claim that the event happened in a non-physical form.
 
-Within many UFO-spiritual movements, extraterrestrials are portrayed not merely as visitors from another planet but as advanced spiritual beings operating across different dimensions. This framework makes it possible to argue that a prophecy was fulfilled invisibly. The promised transformation may have occurred in human consciousness, in a higher realm, or within Earth's spiritual energy rather than in observable reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) UFO Mythologies: Extraterrestrial Cosmology and...UFO contactees are primarily prophets of the emissary type, as mediators...</span></span></span>
+Within many UFO-spiritual movements, extraterrestrials are portrayed not merely as visitors from another planet but as advanced spiritual beings operating across different dimensions. This framework makes it possible to argue that a prophecy was fulfilled invisibly. The promised transformation may have occurred in human consciousness, in a higher realm, or within Earth's spiritual energy rather than in observable reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) UFO Mythologies: Extraterrestrial Cosmology and...UFO contactees are primarily prophets of the emissary type, as mediators...</span></span></span>
 
 Under this interpretation:
 
@@ -323,7 +323,7 @@ Under this interpretation:
 
 The advantage of this approach is that it moves the claim away from empirical testing. If fulfilment is spiritual rather than physical, the absence of visible evidence no longer disproves the prophecy. Instead, believers are encouraged to look for personal experiences, emotional changes or perceived spiritual growth as confirmation.
 
-Dorothy Martin's later career illustrates a broader trend in UFO channelling movements. After the failed [apocalypse]({{ 'apocalypse/' | relative_url }}) became famous, her teachings increasingly emphasised spiritual evolution, higher beings and metaphysical guidance rather than immediate public catastrophe. The prophetic focus shifted from externally verifiable events toward inner transformation, making future disconfirmation less likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dorothy Martin (spiritualist</span><span class="citation-popover-snippet">Dorothy Martin (spiritualist</span></span></span>
+Dorothy Martin's later career illustrates a broader trend in UFO channelling movements. After the failed [apocalypse]({{ 'apocalypse/' | relative_url }}) became famous, her teachings increasingly emphasised spiritual evolution, higher beings and metaphysical guidance rather than immediate public catastrophe. The prophetic focus shifted from externally verifiable events toward inner transformation, making future disconfirmation less likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dorothy Martin (spiritualist</span><span class="citation-popover-snippet">Dorothy Martin (spiritualist</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_channelled_repair_up_10cbd4-Illustration-2-dark.svg" | relative_url }}" alt="Repair Updates illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_channelled_repair_up_10cbd4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_channelled_repair_up_10cbd4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,7 +335,7 @@ In these explanations, extraterrestrial communicators never intended believers t
 
 This logic is powerful because it transforms disconfirmation into a meaningful experience. Evidence against the prophecy becomes evidence about the believer. The central question shifts from "Did the event occur?" to "How did you respond when challenged?"
 
-Related messages invoke mercy. The extraterrestrials, cosmic guardians or divine authorities are said to have postponed judgement because humanity deserved another chance. Rather than disproving the warning, the absence of catastrophe becomes proof that compassionate higher beings intervened. In the Seekers case, the explanation that the world had been spared after the group's faithful vigil remains one of the most cited examples of this pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: templetonworldcharity.org">[Templeton World Charity Foundation, Inc.+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">templetonworldcharity.org</span><span class="citation-popover-title">Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?</span><span class="citation-popover-snippet">The Power of Us…Dorothy Martin, who seemingly was an ordinary... failed prophecy? Then something astonishing happened. At 4:45am Dorothy...</span></span></span>
+Related messages invoke mercy. The extraterrestrials, cosmic guardians or divine authorities are said to have postponed judgement because humanity deserved another chance. Rather than disproving the warning, the absence of catastrophe becomes proof that compassionate higher beings intervened. In the Seekers case, the explanation that the world had been spared after the group's faithful vigil remains one of the most cited examples of this pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: templetonworldcharity.org">[Templeton World Charity Foundation, Inc.+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">templetonworldcharity.org</span><span class="citation-popover-title">Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?</span><span class="citation-popover-snippet">The Power of Us…Dorothy Martin, who seemingly was an ordinary... failed prophecy? Then something astonishing happened. At 4:45am Dorothy...</span></span></span>
 
 These narratives often have an emotional appeal because they replace disappointment with significance. Believers are not told that they were wrong; they are told that they participated in a hidden success or spiritual test.
 
@@ -346,9 +346,9 @@ These narratives often have an emotional appeal because they replace disappointm
 
 Repair updates work because channelled authority is continuous rather than fixed. A scientific prediction stands or falls on the original statement. A channelled prophecy can be revised by later communications from the same invisible source.
 
-In UFO-contact traditions, the channel serves as both prophet and interpreter. The original message and the explanation for its failure come through the same authorised pathway. Followers therefore do not need to choose between the prophecy and the movement. They can accept the corrective message while retaining confidence in the broader system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In UFO-contact traditions, the channel serves as both prophet and interpreter. The original message and the explanation for its failure come through the same authorised pathway. Followers therefore do not need to choose between the prophecy and the movement. They can accept the corrective message while retaining confidence in the broader system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Researchers have long linked this process to efforts to reduce the tension created when expectations collide with reality. The famous study *When Prophecy Fails* focused on how believers responded after a UFO-based prediction did not occur, although recent scholarship has challenged some details of that historical account. Even amid those disputes, the underlying phenomenon remains important: prophetic groups frequently generate new interpretations after disconfirmation rather than treating failure as the final word. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Researchers have long linked this process to efforts to reduce the tension created when expectations collide with reality. The famous study *When Prophecy Fails* focused on how believers responded after a UFO-based prediction did not occur, although recent scholarship has challenged some details of that historical account. Even amid those disputes, the underlying phenomenon remains important: prophetic groups frequently generate new interpretations after disconfirmation rather than treating failure as the final word.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5yVuauQjkDc" title="End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer">End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)</a></p><p class="youtube-embed-meta">Channel: Cogito Creative</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5yVuauQjkDc">Open on YouTube</a></p></div></div></div>
@@ -371,197 +371,197 @@ The repair process follows a recurring sequence:
 
 </div>
 
-Because the repair comes from the same claimed extraterrestrial or spiritual source that issued the prophecy, believers can interpret the update as clarification rather than contradiction. In UFO prophecy movements based on telepathic communication, that continuing stream of revelation is often the key mechanism that allows old predictions to survive after the visible event never arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Because the repair comes from the same claimed extraterrestrial or spiritual source that issued the prophecy, believers can interpret the update as clarification rather than contradiction. In UFO prophecy movements based on telepathic communication, that continuing stream of revelation is often the key mechanism that allows old predictions to survive after the visible event never arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How New Messages Save Old Prophecies. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How New Messages Save Old Prophecies. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly addresses reinterpretation after predictions fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses reinterpretation after predictions fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains how new explanations preserve commitment after disconfirmation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how new explanations preserve commitment after disconfirmation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores rationalization and belief persistence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores rationalization and belief persistence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible" data-ebay-reference="repair-updates-how-new-messages-save-old-prophecies-failed-predictions-ufo-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ Because the repair comes from the same claimed extraterrestrial or spiritual sou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ Because the repair comes from the same claimed extraterrestrial or spiritual sou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ Because the repair comes from the same claimed extraterrestrial or spiritual sou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ Because the repair comes from the same claimed extraterrestrial or spiritual sou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ Because the repair comes from the same claimed extraterrestrial or spiritual sou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,86 +767,86 @@ Because the repair comes from the same claimed extraterrestrial or spiritual sou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) UFO Mythologies: Extraterrestrial Cosmology and...UFO contactees are primarily prophets of the emissary type, as mediators...</p></details>
+   Link:<a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) UFO Mythologies: Extraterrestrial Cosmology and...UFO contactees are primarily prophets of the emissary type, as mediators...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Disconfirmed expectancy  
-   Link: <a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: templetonworldcharity.org  
    Title: Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?  
-   Link: <a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary... failed prophecy? Then something astonishing happened. At 4:45am Dorothy...</p></details>
+   Link:<a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary... failed prophecy? Then something astonishing happened. At 4:45am Dorothy...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bahai-library.com  
-   Link: <a href="https://bahai-library.com/pdf/k/kelly_failed_prophecies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bahai-library.com/pdf/k/kelly_failed_prophecies.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecies Are FatalMany scholars of new religious movements claim that religious belief and religious groups generally survive fa...</p></details>
+   Link:<a href="https://bahai-library.com/pdf/k/kelly_failed_prophecies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bahai-library.com/pdf/k/kelly_failed_prophecies.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecies Are FatalMany scholars of new religious movements claim that religious belief and religious groups generally survive fa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-[cognitive-dissonance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO proselytizing before the failed prophecy. In addition, as Kelly notes, “Even though Martin publicly walked back her belief in the pro...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO proselytizing before the failed prophecy. In addition, as Kelly notes, “Even though Martin publicly walked back her belief in the pro...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: research.vu.nl  
-   Link: <a href="https://research.vu.nl/ws/files/89585666/complete%20dissertation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/ws/files/89585666/complete%20dissertation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dissertationWypkje Wybenga-Stoer(†) was of great and stimulating support in my early years as a minister in Sexbierum and has remained a...</p></details>
+   Link:<a href="https://research.vu.nl/ws/files/89585666/complete%20dissertation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/ws/files/89585666/complete%20dissertation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dissertationWypkje Wybenga-Stoer(†) was of great and stimulating support in my early years as a minister in Sexbierum and has remained a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pearl-hifi.com  
-   Link: <a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Jacobs_David_M/UFOs_and_Abductions__Challenging_the_Borders_of_Knowledge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Jacobs_David_M/UFOs_and_Abductions__Challenging_the_Borders_of_Knowledge.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Van Tassel](&amp;#123;&amp;#123; &#x27;van-tassel/&#x27; | relative_url &amp;#125;&amp;#125;) was taking psy- chic messages from space people (operating out of the Council of. Seven Lights on the planet...</p></details>
+   Link:<a href="https://pearl-hifi.com/11_Spirited_Growth/01_Books/Jacobs_David_M/UFOs_and_Abductions__Challenging_the_Borders_of_Knowledge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/11_Spirited_Growth/01_Books/Jacobs_David_M/UFOs_and_Abductions__Challenging_the_Borders_of_Knowledge.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Van Tassel](&amp;#123;&amp;#123; &#x27;van-tassel/&#x27; | relative_url &amp;#125;&amp;#125;) was taking psy- chic messages from space people (operating out of the Council of. Seven Lights on the planet...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/russwarnephd/posts/another-classic-study-from-social-psychology-turns-out-to-be-a-massive-fraudwhen/1361874402394467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/russwarnephd/posts/another-classic-study-from-social-psychology-turns-out-to-be-a-massive-fraudwhen/1361874402394467/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO cult&quot;) whose main leader prophesied that her followers would be rescued from catastrophic floods by space aliens. When the predicted...</p></details>
+   Link:<a href="https://www.facebook.com/russwarnephd/posts/another-classic-study-from-social-psychology-turns-out-to-be-a-massive-fraudwhen/1361874402394467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/russwarnephd/posts/another-classic-study-from-social-psychology-turns-out-to-be-a-massive-fraudwhen/1361874402394467/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO cult&quot;) whose main leader prophesied that her followers would be rescued from catastrophic floods by space aliens. When the predicted...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>roselytization | Religion | UFOs... Failed Prophecies...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>roselytization | Religion | UFOs... Failed Prophecies...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: 10 Doomsday Cults That Got It Wrong | When Prophecy Fails  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails Leon Festinger UFO Cult Cognitive Dissonance End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Co...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails Leon Festinger UFO Cult Cognitive Dissonance End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Co...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400257255_Ethnographic_Incorporation_Research_Mediunity_and_Re-flexible-ive_Ontology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400257255_Ethnographic_Incorporation_Research_Mediunity_and_Re-flexible-ive_Ontology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ethnographic Incorporation: Research, Mediunity...the alien spirit or spirits was sudden and very obvious—it could involve psycho...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400257255_Ethnographic_Incorporation_Research_Mediunity_and_Re-flexible-ive_Ontology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400257255_Ethnographic_Incorporation_Research_Mediunity_and_Re-flexible-ive_Ontology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ethnographic Incorporation: Research, Mediunity...the alien spirit or spirits was sudden and very obvious—it could involve psycho...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hecy Fails recounts, the group &quot;dispersed&quot; within a week...</p></details>
+   Link:<a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hecy Fails recounts, the group &quot;dispersed&quot; within a week...</p></details>

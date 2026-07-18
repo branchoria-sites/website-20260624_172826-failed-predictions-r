@@ -280,28 +280,28 @@ image: /assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_cla
 
 ## Introduction
 
-[Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 UFO prophecy did not begin with a flying-saucer sighting. It began with automatic writing: a practice in which Martin believed she could receive messages by allowing higher intelligences to guide her hand. Through this method she claimed to establish contact with beings associated with a world called Clarion, and those communications gradually evolved from private spiritual messages into detailed warnings about an approaching catastrophe. The Clarion messages mattered because they transformed a vague belief in extraterrestrial guidance into a specific, testable prediction with dates, instructions and named supernatural authorities. When the prophecy later failed, it was these messages—and the authority believers attached to them—that became central to understanding why the movement had seemed convincing in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+[Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 UFO prophecy did not begin with a flying-saucer sighting. It began with automatic writing: a practice in which Martin believed she could receive messages by allowing higher intelligences to guide her hand. Through this method she claimed to establish contact with beings associated with a world called Clarion, and those communications gradually evolved from private spiritual messages into detailed warnings about an approaching catastrophe. The Clarion messages mattered because they transformed a vague belief in extraterrestrial guidance into a specific, testable prediction with dates, instructions and named supernatural authorities. When the prophecy later failed, it was these messages—and the authority believers attached to them—that became central to understanding why the movement had seemed convincing in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-1-dark.svg" | relative_url }}" alt="Clarion messages illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Martin's occult and science-fiction background
 
-Before becoming known for the failed 1954 prediction, Martin had spent years exploring a mixture of occult, spiritualist and metaphysical ideas. Accounts of her beliefs describe influences ranging from Theosophy and the I AM movement to *Oahspe*, a nineteenth-century channeled religious text, as well as interests in flying saucers and emerging UFO contactee culture. She also experimented with Dianetics, part of the broader spiritual landscape that attracted many seekers in the early 1950s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+Before becoming known for the failed 1954 prediction, Martin had spent years exploring a mixture of occult, spiritualist and metaphysical ideas. Accounts of her beliefs describe influences ranging from Theosophy and the I AM movement to *Oahspe*, a nineteenth-century channeled religious text, as well as interests in flying saucers and emerging UFO contactee culture. She also experimented with Dianetics, part of the broader spiritual landscape that attracted many seekers in the early 1950s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-Automatic writing fit naturally into that environment. The practice had a long history in spiritualist circles, where writers claimed to receive messages from spirits, higher beings or other planes of existence. Martin reportedly began by receiving communications she believed came from her deceased father. Over time, however, the source of the messages shifted toward increasingly exalted entities. She came to believe that advanced beings inhabited higher spiritual realms and distant worlds, creating a bridge between traditional occult [channeling]({{ 'channeling/' | relative_url }}) and the emerging mythology of extraterrestrial visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+Automatic writing fit naturally into that environment. The practice had a long history in spiritualist circles, where writers claimed to receive messages from spirits, higher beings or other planes of existence. Martin reportedly began by receiving communications she believed came from her deceased father. Over time, however, the source of the messages shifted toward increasingly exalted entities. She came to believe that advanced beings inhabited higher spiritual realms and distant worlds, creating a bridge between traditional occult [channeling]({{ 'channeling/' | relative_url }}) and the emerging mythology of extraterrestrial visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-This blending of occultism and science-fiction themes was characteristic of the early contactee movement. Rather than treating aliens as purely physical visitors from another planet, many believers understood them as spiritually advanced guardians who communicated through psychic means. Martin’s automatic writing became one of the clearest examples of that synthesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+This blending of occultism and science-fiction themes was characteristic of the early contactee movement. Rather than treating aliens as purely physical visitors from another planet, many believers understood them as spiritually advanced guardians who communicated through psychic means. Martin’s automatic writing became one of the clearest examples of that synthesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ziODBruqdA" title="Ex-ISRO Chief S. Somanath on Space Secrets - Aliens, Chandrayaan, Mars &amp; Black Holes | TRS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ziODBruqdA" target="_blank" rel="noopener noreferrer">Ex-ISRO Chief S. Somanath on Space Secrets - Aliens, Chandrayaan, Mars &amp; Black Holes | TRS</a></p><p class="youtube-embed-meta">Channel: BeerBiceps &middot; Views: 3.6M &middot; Uploaded: August 2024 &middot; Length: 1 hour 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ziODBruqdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ziODBruqdA">Open on YouTube</a></p></div></div></div>
 
 ## What the automatic-writing messages claimed
 
-The messages Martin recorded described a hierarchy of non-human intelligences. Among the most important were beings associated with planets called Clarion and Cerus. She referred to some of these entities as “Guardians”, protectors who watched over humanity and possessed knowledge unavailable to ordinary people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+The messages Martin recorded described a hierarchy of non-human intelligences. Among the most important were beings associated with planets called Clarion and Cerus. She referred to some of these entities as “Guardians”, protectors who watched over humanity and possessed knowledge unavailable to ordinary people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-One figure eventually became especially significant: Sananda. Martin understood Sananda not merely as an extraterrestrial teacher but as a spiritual being connected to Jesus Christ. This fusion of Christian symbolism and space-age imagery gave the messages a religious weight that went beyond ordinary UFO stories. Followers were not simply receiving information from aliens; they believed they were receiving guidance from morally superior beings involved in humanity’s spiritual destiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+One figure eventually became especially significant: Sananda. Martin understood Sananda not merely as an extraterrestrial teacher but as a spiritual being connected to Jesus Christ. This fusion of Christian symbolism and space-age imagery gave the messages a religious weight that went beyond ordinary UFO stories. Followers were not simply receiving information from aliens; they believed they were receiving guidance from morally superior beings involved in humanity’s spiritual destiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-According to the communications, Earth faced an impending cataclysm. The messages warned of destructive floods and global upheaval. Believers who accepted the warnings would be protected and removed from danger by spacecraft associated with the Clarion beings. These instructions became increasingly detailed as the predicted date approached, giving followers practical expectations about how rescue would occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December-21-1954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor+2Amazon Germany]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">The Christian Science Monitor Judgment Day?</span><span class="citation-popover-snippet">Five failed end-of-the-world predictions18 May 2011 — Through automatic writing, Martin came in contact with beings from the planet Clari...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
+According to the communications, Earth faced an impending cataclysm. The messages warned of destructive floods and global upheaval. Believers who accepted the warnings would be protected and removed from danger by spacecraft associated with the Clarion beings. These instructions became increasingly detailed as the predicted date approached, giving followers practical expectations about how rescue would occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor+2Amazon Germany]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">The Christian Science Monitor Judgment Day?</span><span class="citation-popover-snippet">Five failed end-of-the-world predictions18 May 2011 — Through automatic writing, Martin came in contact with beings from the planet Clari...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-2-dark.svg" | relative_url }}" alt="Clarion messages illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,11 +313,11 @@ Three features made the Clarion messages unusually persuasive to followers:
 
 * **Named authorities:** The messages came from recognisable entities such as Sananda and the Guardians rather than from an undefined spiritual force.
 * **A coherent cosmology:** Clarion, Cerus and other locations formed a structured universe that gave believers a framework for interpreting events.
-* **Concrete predictions:** The communications included warnings about a coming flood and promises of rescue, creating expectations that could be acted upon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+* **Concrete predictions:** The communications included warnings about a coming flood and promises of rescue, creating expectations that could be acted upon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-The naming of sources was especially important. In many occult traditions, authority comes from the perceived status of the communicator. By presenting messages as originating from spiritually advanced beings, Martin's writings supplied a reason for followers to trust information that otherwise lacked external evidence. The messages did not merely predict disaster; they explained who knew about it and why believers should listen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+The naming of sources was especially important. In many occult traditions, authority comes from the perceived status of the communicator. By presenting messages as originating from spiritually advanced beings, Martin's writings supplied a reason for followers to trust information that otherwise lacked external evidence. The messages did not merely predict disaster; they explained who knew about it and why believers should listen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-The warnings also became progressively more specific. Instead of offering symbolic prophecies open to endless reinterpretation, the Clarion communications pointed toward an identifiable future event. This specificity is what eventually made the prophecy famous. Once a date was attached to the warning, the movement's claims could no longer remain entirely within the realm of [private revelation]({{ 'private-claims/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December-21-1954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">The Christian Science Monitor Judgment Day?</span><span class="citation-popover-snippet">Five failed end-of-the-world predictions18 May 2011 — Through automatic writing, Martin came in contact with beings from the planet Clari...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
+The warnings also became progressively more specific. Instead of offering symbolic prophecies open to endless reinterpretation, the Clarion communications pointed toward an identifiable future event. This specificity is what eventually made the prophecy famous. Once a date was attached to the warning, the movement's claims could no longer remain entirely within the realm of [private revelation]({{ 'private-claims/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmonitor.com">[The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmonitor.com</span><span class="citation-popover-title">The Christian Science Monitor Judgment Day?</span><span class="citation-popover-snippet">Five failed end-of-the-world predictions18 May 2011 — Through automatic writing, Martin came in contact with beings from the planet Clari...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6d6SJd5sxnM" title="InPresence 0211: When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer">InPresence 0211: When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6d6SJd5sxnM">Open on YouTube</a></p></div></div></div>
@@ -327,204 +327,204 @@ The warnings also became progressively more specific. Instead of offering symbol
 
 ## How the messages turned belief into prophecy
 
-The significance of Martin’s automatic writing lies less in the content of any single message than in the mechanism it created. Automatic writing provided a continuous source of new revelations. Whenever [uncertainty]({{ 'uncertainty/' | relative_url }}) arose, another message could clarify instructions, adjust expectations or explain setbacks. This gave the movement a sense of ongoing communication with higher powers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+The significance of Martin’s automatic writing lies less in the content of any single message than in the mechanism it created. Automatic writing provided a continuous source of new revelations. Whenever [uncertainty]({{ 'uncertainty/' | relative_url }}) arose, another message could clarify instructions, adjust expectations or explain setbacks. This gave the movement a sense of ongoing communication with higher powers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-Because the messages appeared to arrive directly from transcendent authorities, they carried an immediacy that books, doctrines or ordinary speculation could not match. Followers could believe they were receiving real-time guidance from beings who knew the future. In that sense, automatic writing functioned as the engine that drove the Clarion prophecy forward. Without it, there would have been no authoritative warning, no rescue narrative and no specific prediction to fail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+Because the messages appeared to arrive directly from transcendent authorities, they carried an immediacy that books, doctrines or ordinary speculation could not match. Followers could believe they were receiving real-time guidance from beings who knew the future. In that sense, automatic writing functioned as the engine that drove the Clarion prophecy forward. Without it, there would have been no authoritative warning, no rescue narrative and no specific prediction to fail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-The Clarion messages therefore occupy a distinctive place in the history of failed UFO predictions. They show how a private channeling practice evolved into a public prophecy: one in which named extraterrestrial-spiritual beings, communicated through automatic writing, transformed belief into a concrete expectation about the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+The Clarion messages therefore occupy a distinctive place in the history of failed UFO predictions. They show how a private channeling practice evolved into a public prophecy: one in which named extraterrestrial-spiritual beings, communicated through automatic writing, transformed belief into a concrete expectation about the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Christian Science Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-3-dark.svg" | relative_url }}" alt="Clarion messages illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_clarion_messages_1255a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Clarion messages made prophecy specific. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Clarion messages made prophecy specific. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Discusses the messages, believers, and failed prediction at the center of the story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the messages, believers, and failed prediction at the center of the story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts+Joe+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The siren call of hungry ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/955767-M.jpg" alt="Cover for The siren call of hungry ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts+Joe+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The siren call of hungry ghosts">The siren call of hungry ghosts</a>
-        </h4>
-        <p class="fr-book-author">By Joe Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts+Joe+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The siren call of hungry ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/955767-M.jpg" alt="Cover for The siren call of hungry ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts+Joe+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The siren call of hungry ghosts">The siren call of hungry ghosts</a>
+</h4>
+<p class="fr-book-author">By Joe Fisher</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Channeling (Spiritualism), Guides (Spiritualism).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts+Joe+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Channeling (Spiritualism), Guides (Spiritualism).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts+Joe+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Oahspe+John+Ballou+Newbrough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oahspe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/731421-M.jpg" alt="Cover for Oahspe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Oahspe+John+Ballou+Newbrough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oahspe">Oahspe</a>
-        </h4>
-        <p class="fr-book-author">By John Ballou Newbrough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Oahspe+John+Ballou+Newbrough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oahspe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/731421-M.jpg" alt="Cover for Oahspe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Oahspe+John+Ballou+Newbrough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oahspe">Oahspe</a>
+</h4>
+<p class="fr-book-author">By John Ballou Newbrough</p>
         
-        <p class="fr-book-desc">First published 1882. Subjects: Automatism, spiritualism, bible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Oahspe+John+Ballou+Newbrough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1882. Subjects: Automatism, spiritualism, bible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Oahspe+John+Ballou+Newbrough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The siren call of hungry ghosts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The siren call of hungry ghosts</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/65478f36ac9eb65d6e9f.jpg' | relative_url }}" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/65478f36ac9eb65d6e9f.jpg' | relative_url }}" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture"><img src="{{ '/assets/images/marketplace-covers/359939611f2a9033a7c2.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture"><img src="{{ '/assets/images/marketplace-covers/359939611f2a9033a7c2.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/25c33379bf4f27794534.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/25c33379bf4f27794534.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/45c397a9e6ad58253f3e.jpg' | relative_url }}" alt="Listing image for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/45c397a9e6ad58253f3e.jpg' | relative_url }}" alt="Listing image for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="clarion-messages-how-the-clarion-messages-made-prophecy-specific-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,107 +730,107 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — Martin began practising automatic writing, initially receiving messages allegedly from her deceased father. Martin believed...</p></details>
    Published: May 3, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6960441/ufo-cultists-political-paranoia-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6960441/ufo-cultists-political-paranoia-essay/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What UFO Cultists Can Teach Us About Political ParanoiaMar 26, 2024 — Their spiritual leader was Dorothy Martin (Festinger and his co...</p></details>
+   Link:<a href="https://time.com/6960441/ufo-cultists-political-paranoia-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6960441/ufo-cultists-political-paranoia-essay/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What UFO Cultists Can Teach Us About Political ParanoiaMar 26, 2024 — Their spiritual leader was Dorothy Martin (Festinger and his co...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ng occult or psychic messages where spirits or other...Read more...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng occult or psychic messages where spirits or other...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Automatic writing  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_writing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_writing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_writing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_writing</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: The Seekers (rapturists)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: amazon.de  
-   Link: <a href="https://www.amazon.de/When-Prophecy-Fails-Psychological-Destruction/dp/1521269769?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/When-Prophecy-Fails-Psychological-Destruction/dp/1521269769?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (here renamed “Mrs. Marian Keech”) began receiving messages from the Space Brothers via automatic writing. They told her a...</p></details>
+   Link:<a href="https://www.amazon.de/When-Prophecy-Fails-Psychological-Destruction/dp/1521269769?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/When-Prophecy-Fails-Psychological-Destruction/dp/1521269769?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (here renamed “Mrs. Marian Keech”) began receiving messages from the Space Brothers via automatic writing. They told her a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: amazon.de  
-   Link: <a href="https://www.amazon.de/When-Prophecy-Fails-Leon-Festinger/dp/1614272905?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/When-Prophecy-Fails-Leon-Festinger/dp/1614272905?tag=searcht-20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Festinger, Leon, Riecken...When Prophecy Fails [1956] is a classic text in social psychology. It chronicles the ex...</p></details>
+   Link:<a href="https://www.amazon.de/When-Prophecy-Fails-Leon-Festinger/dp/1614272905?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/When-Prophecy-Fails-Leon-Festinger/dp/1614272905?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Festinger, Leon, Riecken...When Prophecy Fails [1956] is a classic text in social psychology. It chronicles the ex...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: csmonitor.com  
    Title: The Christian Science Monitor Judgment Day?  
-   Link: <a href="https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December-21-1954" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December-21-1954</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five failed end-of-the-world predictions18 May 2011 — Through automatic writing, Martin came in contact with beings from the planet Clari...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2011/0518/Judgment-Day-Five-failed-end-of-the-world-predictions/December</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five failed end-of-the-world predictions18 May 2011 — Through automatic writing, Martin came in contact with beings from the planet Clari...</p></details>
    Published: May 2011  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316581825_Of_flying_saucers_and_social_scientists_A_re-reading_of_when_prophecy_fails_and_of_cognitive_dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316581825_Of_flying_saucers_and_social_scientists_A_re-reading_of_when_prophecy_fails_and_of_cognitive_dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Of flying saucers and social scientists: A re-reading...The case of the Brotherhood, which formed around Dorothy Martin and Charles Laug...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316581825_Of_flying_saucers_and_social_scientists_A_re-reading_of_when_prophecy_fails_and_of_cognitive_dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316581825_Of_flying_saucers_and_social_scientists_A_re-reading_of_when_prophecy_fails_and_of_cognitive_dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Of flying saucers and social scientists: A re-reading...The case of the Brotherhood, which formed around Dorothy Martin and Charles Laug...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that...Dorothy Martin who convinced a small group that aliens had warned her of a c...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that...Dorothy Martin who convinced a small group that aliens had warned her of a c...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: studocu.com  
    Title: ib psychology festingers 1956 study on cognitive dissonance  
-   Link: <a href="https://www.studocu.com/pl/document/the-british-school-warsaw/psychologia/ib-psychology-festingers-1956-study-on-cognitive-dissonance/151072169" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/pl/document/the-british-school-warsaw/psychologia/ib-psychology-festingers-1956-study-on-cognitive-dissonance/151072169</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IB Psychology: Festinger&#x27;s 1956 Study on Cognitive...The cult was led by Dorothy Martin (aka Marian Keech in Festinger&#x27;s book) who recei...</p></details>
+   Link:<a href="https://www.studocu.com/pl/document/the-british-school-warsaw/psychologia/ib-psychology-festingers-1956-study-on-cognitive-dissonance/151072169" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/pl/document/the-british-school-warsaw/psychologia/ib-psychology-festingers-1956-study-on-cognitive-dissonance/151072169</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IB Psychology: Festinger&#x27;s 1956 Study on Cognitive...The cult was led by Dorothy Martin (aka Marian Keech in Festinger&#x27;s book) who recei...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mayooshin.com  
-   Link: <a href="https://mayooshin.com/why-we-keep-making-the-same-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://mayooshin.com/why-we-keep-making-the-same-mistakes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hy Martin), who claimed that she had received a prophecy from “superior beings...Read more...</p></details>
+   Link:<a href="https://mayooshin.com/why-we-keep-making-the-same-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://mayooshin.com/why-we-keep-making-the-same-mistakes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hy Martin), who claimed that she had received a prophecy from “superior beings...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/1835405.When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/1835405.When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: A Social and Psychological Study of...Marian Keech, a Michigan housewife, received a message from the plan...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/1835405.When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/1835405.When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: A Social and Psychological Study of...Marian Keech, a Michigan housewife, received a message from the plan...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] When Prophecy FailsIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] When Prophecy FailsIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theatlantic.com  
    Title: the christmas the aliens didnt come  
-   Link: <a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — It all started with a prophecy that a massive flood was coming on December 21, 1954. Th...</p></details>
+   Link:<a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — It all started with a prophecy that a massive flood was coming on December 21, 1954. Th...</p></details>
    Published: December 21, 1954  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Q-e2k7QFU0k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Q-e2k7QFU0k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leon Festinger when prophecy fails ufo cult End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Cogito Creative...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Q-e2k7QFU0k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Q-e2k7QFU0k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leon Festinger when prophecy fails ufo cult End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Cogito Creative...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: quizlet.com  
    Title: festinger 1954 flash cards  
-   Link: <a href="https://quizlet.com/467873277/festinger-1954-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/467873277/festinger-1954-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger (1954) FlashcardsThe cult was led by Dorothy Martin (aka Marian Keech in Festinger&#x27;s book) who received &quot;messages&quot; through &quot;aut...</p></details>
+   Link:<a href="https://quizlet.com/467873277/festinger-1954-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/467873277/festinger-1954-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger (1954) FlashcardsThe cult was led by Dorothy Martin (aka Marian Keech in Festinger&#x27;s book) who received &quot;messages&quot; through &quot;aut...</p></details>

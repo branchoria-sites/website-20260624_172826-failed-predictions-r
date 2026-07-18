@@ -274,13 +274,13 @@ image: /assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thoug
 
 ## Introduction
 
-[George Van Tassel]({{ 'van-tassel/' | relative_url }})’s contactee message system contained a built-in answer to one of the hardest problems facing UFO prophecy: how to justify extraordinary claims when [public evidence]({{ 'public-evidence/' | relative_url }}) was weak or absent. Rather than relying primarily on recovered artefacts, independently witnessed landings or repeatable demonstrations, Van Tassel often described communication through “thought transference” and encouraged audiences to recognise truth inwardly. This moved the centre of proof from public observation to personal conviction. As a result, many claims became difficult to verify, but also difficult to disprove. Within the history of failed UFO predictions, that shift mattered because it provided a mechanism through which unmet expectations could be reinterpreted rather than abandoned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgehbalazs.com">[George Harvey Balazs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgehbalazs.com</span><span class="citation-popover-title">1952 I RODE A FLYING SAUCER BY GEORGE W. VAN TASSEL</span><span class="citation-popover-snippet">In reading this book, listen to that &quot;inner voice&quot; that will cause you to recognize truth when it appears. Anyone who can break the...Re...</span></span></span>
+[George Van Tassel]({{ 'van-tassel/' | relative_url }})’s contactee message system contained a built-in answer to one of the hardest problems facing UFO prophecy: how to justify extraordinary claims when [public evidence]({{ 'public-evidence/' | relative_url }}) was weak or absent. Rather than relying primarily on recovered artefacts, independently witnessed landings or repeatable demonstrations, Van Tassel often described communication through “thought transference” and encouraged audiences to recognise truth inwardly. This moved the centre of proof from public observation to personal conviction. As a result, many claims became difficult to verify, but also difficult to disprove. Within the history of failed UFO predictions, that shift mattered because it provided a mechanism through which unmet expectations could be reinterpreted rather than abandoned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgehbalazs.com">[George Harvey Balazs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgehbalazs.com</span><span class="citation-popover-title">1952 I RODE A FLYING SAUCER BY GEORGE W. VAN TASSEL</span><span class="citation-popover-snippet">In reading this book, listen to that &quot;inner voice&quot; that will cause you to recognize truth when it appears. Anyone who can break the...Re...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-1-dark.svg" | relative_url }}" alt="Verification illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Thought Transference Claimed to Provide
 
-Van Tassel described many of his communications with extraterrestrial intelligences as mental transmissions rather than ordinary conversations. Accounts of his [Giant Rock]({{ 'giant-rock/' | relative_url }}) activities describe messages arriving through psychic or telepathic means, often framed as communications from benevolent space beings concerned about humanity’s future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Van Tassel</span><span class="citation-popover-snippet">George Van Tassel</span></span></span>
+Van Tassel described many of his communications with extraterrestrial intelligences as mental transmissions rather than ordinary conversations. Accounts of his [Giant Rock]({{ 'giant-rock/' | relative_url }}) activities describe messages arriving through psychic or telepathic means, often framed as communications from benevolent space beings concerned about humanity’s future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Van Tassel</span><span class="citation-popover-snippet">George Van Tassel</span></span></span>
 
 In this framework, thought transference offered several advantages to believers:
 
@@ -290,11 +290,11 @@ In this framework, thought transference offered several advantages to believers:
 * It explained why messages could be received without a spacecraft landing in public view.
 * It presented extraterrestrials as technologically and spiritually advanced enough to communicate directly with consciousness.
 * It allowed messages to be transmitted rapidly and repeatedly without physical proof.
-* It gave special authority to the recipient, who became the interpreter of otherwise inaccessible information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* It gave special authority to the recipient, who became the interpreter of otherwise inaccessible information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
-Van Tassel’s own writings encouraged readers to trust an “inner voice” that would help them recognise truth. The appeal was not primarily empirical. It was experiential. A person was asked to feel that a message was authentic rather than test it through independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgehbalazs.com">[George Harvey Balazs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgehbalazs.com</span><span class="citation-popover-title">1952 I RODE A FLYING SAUCER BY GEORGE W. VAN TASSEL</span><span class="citation-popover-snippet">In reading this book, listen to that &quot;inner voice&quot; that will cause you to recognize truth when it appears. Anyone who can break the...Re...</span></span></span>
+Van Tassel’s own writings encouraged readers to trust an “inner voice” that would help them recognise truth. The appeal was not primarily empirical. It was experiential. A person was asked to feel that a message was authentic rather than test it through independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgehbalazs.com">[George Harvey Balazs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgehbalazs.com</span><span class="citation-popover-title">1952 I RODE A FLYING SAUCER BY GEORGE W. VAN TASSEL</span><span class="citation-popover-snippet">In reading this book, listen to that &quot;inner voice&quot; that will cause you to recognize truth when it appears. Anyone who can break the...Re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wZbFsFWk__c" title="KVOS Webster Reports: The Extraordinary Equation of George Van Tassel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wZbFsFWk__c" target="_blank" rel="noopener noreferrer">KVOS Webster Reports: The Extraordinary Equation of George Van Tassel</a></p><p class="youtube-embed-meta">Channel: Western Washington University</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wZbFsFWk__c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wZbFsFWk__c">Open on YouTube</a></p></div></div></div>
@@ -303,9 +303,9 @@ Van Tassel’s own writings encouraged readers to trust an “inner voice” tha
 
 The verification problem emerges when a claim depends upon private experience that cannot be independently examined. If a contactee reports a telepathic warning from a cosmic commander, outsiders have no direct access to the original communication. They can evaluate only the contactee’s account.
 
-This created a markedly different evidential standard from conventional scientific or historical investigation. Public claims can normally be checked through documents, measurements, physical traces or multiple independent witnesses. [Telepathic messages]({{ 'channeling/' | relative_url }}), by contrast, often depend on a single source. The claim and the evidence become almost identical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This created a markedly different evidential standard from conventional scientific or historical investigation. Public claims can normally be checked through documents, measurements, physical traces or multiple independent witnesses. [Telepathic messages]({{ 'channeling/' | relative_url }}), by contrast, often depend on a single source. The claim and the evidence become almost identical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Critics of the contactee movement repeatedly pointed to this issue. Even within ufology, many investigators regarded contactee narratives as unreliable because they offered grand declarations while providing little verifiable information. Jacques Vallée noted that serious UFO investigators generally paid little attention to contactee claims, while Carl Sagan famously observed that alleged extraterrestrial communicators seemed willing to answer broad moral questions but not specific questions that could establish extraordinary knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Critics of the contactee movement repeatedly pointed to this issue. Even within ufology, many investigators regarded contactee narratives as unreliable because they offered grand declarations while providing little verifiable information. Jacques Vallée noted that serious UFO investigators generally paid little attention to contactee claims, while Carl Sagan famously observed that alleged extraterrestrial communicators seemed willing to answer broad moral questions but not specific questions that could establish extraordinary knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The result was a form of asymmetry:
 
@@ -314,7 +314,7 @@ The result was a form of asymmetry:
 
 * Supporters could point to personal certainty.
 * Skeptics could point to the absence of independent confirmation.
-* Neither side possessed a decisive test capable of settling the matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* Neither side possessed a decisive test capable of settling the matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
@@ -324,7 +324,7 @@ For prophecy, this asymmetry was especially important. Predictions grounded in p
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-2-dark.svg" | relative_url }}" alt="Verification illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Private Revelation Protects Failed Expectations
 
-The contactee tradition surrounding [Ashtar]({{ 'ashtar/' | relative_url }}) and related figures illustrates how telepathic authority could survive predictive failure. After Van Tassel introduced Ashtar in 1952, numerous later claimants also reported receiving messages from the same source. Over time, conflicting revelations accumulated. Different channels delivered different warnings, timetables and expectations. When specific expectations failed, new communications could revise, postpone or reinterpret them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The contactee tradition surrounding [Ashtar]({{ 'ashtar/' | relative_url }}) and related figures illustrates how telepathic authority could survive predictive failure. After Van Tassel introduced Ashtar in 1952, numerous later claimants also reported receiving messages from the same source. Over time, conflicting revelations accumulated. Different channels delivered different warnings, timetables and expectations. When specific expectations failed, new communications could revise, postpone or reinterpret them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 A prediction based on a publicly observable event—such as a fleet landing on a specific date—is vulnerable because everyone can see whether it happened. A prediction based on spiritual readiness, vibrational change or telepathic preparation is more resilient because fulfilment can be defined internally.
 
@@ -336,7 +336,7 @@ Several protective mechanisms emerged:
 
 **Selective reception.** Believers could argue that only receptive individuals understood what truly occurred.
 
-**New revelation.** Fresh messages could supersede earlier ones without requiring the original source to be rejected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Extraterrestrials and the American Zeitgeist: Alien Contact...Dozens of people were claiming contact with Ashtar (and therefore authorit...</span></span></span>
+**New revelation.** Fresh messages could supersede earlier ones without requiring the original source to be rejected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Extraterrestrials and the American Zeitgeist: Alien Contact...Dozens of people were claiming contact with Ashtar (and therefore authorit...</span></span></span>
 
 Because the authority rested in ongoing communication rather than a completed prediction, disappointment did not automatically terminate belief. The communication channel itself remained the primary source of legitimacy.
 
@@ -350,202 +350,202 @@ Because the authority rested in ongoing communication rather than a completed pr
 
 The significance of thought transference in the history of failed UFO predictions is not that it proved or disproved extraterrestrial contact. Its importance lies in how it changed the location of evidence.
 
-When proof is expected to appear publicly—a landing, a craft, a technological demonstration—failure is relatively straightforward to identify. When proof is expected to appear internally through intuition, recognition or telepathic experience, failure becomes much harder to define. The claim survives because its validation is personal rather than collective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgehbalazs.com">[George Harvey Balazs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgehbalazs.com</span><span class="citation-popover-title">1952 I RODE A FLYING SAUCER BY GEORGE W. VAN TASSEL</span><span class="citation-popover-snippet">In reading this book, listen to that &quot;inner voice&quot; that will cause you to recognize truth when it appears. Anyone who can break the...Re...</span></span></span>
+When proof is expected to appear publicly—a landing, a craft, a technological demonstration—failure is relatively straightforward to identify. When proof is expected to appear internally through intuition, recognition or telepathic experience, failure becomes much harder to define. The claim survives because its validation is personal rather than collective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgehbalazs.com">[George Harvey Balazs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgehbalazs.com</span><span class="citation-popover-title">1952 I RODE A FLYING SAUCER BY GEORGE W. VAN TASSEL</span><span class="citation-popover-snippet">In reading this book, listen to that &quot;inner voice&quot; that will cause you to recognize truth when it appears. Anyone who can break the...Re...</span></span></span>
 
-Van Tassel’s approach helped establish a model that later contactee and channelled-UFO movements repeatedly adopted. Messages could remain meaningful to believers even when dramatic external expectations went unmet. In that sense, thought transference functioned not merely as a method of communication but as a mechanism that insulated prophetic claims from ordinary public testing. Within the broader history of UFO prediction failures, that shift from external evidence to inward certainty became one of the movement’s most enduring features. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Van Tassel</span><span class="citation-popover-snippet">George Van Tassel</span></span></span>
+Van Tassel’s approach helped establish a model that later contactee and channelled-UFO movements repeatedly adopted. Messages could remain meaningful to believers even when dramatic external expectations went unmet. In that sense, thought transference functioned not merely as a method of communication but as a mechanism that insulated prophetic claims from ordinary public testing. Within the broader history of UFO prediction failures, that shift from external evidence to inward certainty became one of the movement’s most enduring features.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Van Tassel</span><span class="citation-popover-snippet">George Van Tassel</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-3-dark.svg" | relative_url }}" alt="Verification illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_thought_transference_3a1d93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Proof Moved Inside the Believer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Proof Moved Inside the Believer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Foundational study of how believers reinterpret failed predictions and preserve commitment after expectations collapse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational study of how believers reinterpret failed predictions and preserve commitment after expectations collapse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how belief, revelation, and personal experience function as sources of truth within UFO communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how belief, revelation, and personal experience function as sources of truth within UFO communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses standards of evidence, skepticism, and why private conviction can persist despite weak public proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses standards of evidence, skepticism, and why private conviction can persist despite weak public proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for UFO claims, witness testimony, and debates over evidence versus personal conviction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for UFO claims, witness testimony, and debates over evidence versus personal conviction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="{{ '/assets/images/marketplace-covers/1282abce5a8a5425e0e8.jpg' | relative_url }}" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="{{ '/assets/images/marketplace-covers/1282abce5a8a5425e0e8.jpg' | relative_url }}" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="verification-when-proof-moved-inside-the-believer-failed-predictions-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ Van Tassel’s approach helped establish a model that later contactee and channe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ Van Tassel’s approach helped establish a model that later contactee and channe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ Van Tassel’s approach helped establish a model that later contactee and channe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ Van Tassel’s approach helped establish a model that later contactee and channe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ Van Tassel’s approach helped establish a model that later contactee and channe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,90 +751,90 @@ Van Tassel’s approach helped establish a model that later contactee and channe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrials and the American Zeitgeist: Alien Contact...Dozens of people were claiming contact with Ashtar (and therefore authorit...</p></details>
+   Link:<a href="https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrials and the American Zeitgeist: Alien Contact...Dozens of people were claiming contact with Ashtar (and therefore authorit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: georgehbalazs.com  
    Title: 1952 I RODE A FLYING SAUCER BY GEORGE W. VAN TASSEL  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In reading this book, listen to that &quot;inner voice&quot; that will cause you to recognize truth when it appears. Anyone who can break the...Re...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In reading this book, listen to that &quot;inner voice&quot; that will cause you to recognize truth when it appears. Anyone who can break the...Re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scribd.com  
    Title: George Van Tassel  
-   Link: <a href="https://www.scribd.com/doc/45651279/George-Van-Tassel-I-Rode-a-Flying-Saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/45651279/George-Van-Tassel-I-Rode-a-Flying-Saucer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I Rode A Flying Saucer | PDFGeorge Van Tassel - I Rode a Flying Saucer - Free download as PDF File (.pdf) or read online for free. George...</p></details>
+   Link:<a href="https://www.scribd.com/doc/45651279/George-Van-Tassel-I-Rode-a-Flying-Saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/45651279/George-Van-Tassel-I-Rode-a-Flying-Saucer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Rode A Flying Saucer | PDFGeorge Van Tassel - I Rode a Flying Saucer - Free download as PDF File (.pdf) or read online for free. George...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A few years ago, this notion seemed farfetched; today, the existence of extraterrestrial intelligence is taken for granted...Read mor...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A few years ago, this notion seemed farfetched; today, the existence of extraterrestrial intelligence is taken for granted...Read mor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spacecowboybooks.com  
-   Link: <a href="https://spacecowboybooks.com/book-reviews/i-rode-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://spacecowboybooks.com/book-reviews/i-rode-a-flying-saucer/</a>  
+   Link:<a href="https://spacecowboybooks.com/book-reviews/i-rode-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://spacecowboybooks.com/book-reviews/i-rode-a-flying-saucer/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: voice of george van tassel 1950s ufo contactee at giant rock in the mojave deser  
-   Link: <a href="https://www.facebook.com/100067811412084/videos/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1925180781547582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067811412084/videos/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1925180781547582/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of George Van Tassel — 1950s UFO contactee at Giant...Voice of George Van Tassel — 1950s UFO contactee at Giant Rock in the Mojave...</p></details>
+   Link:<a href="https://www.facebook.com/100067811412084/videos/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1925180781547582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067811412084/videos/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1925180781547582/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of George Van Tassel — 1950s UFO contactee at Giant...Voice of George Van Tassel — 1950s UFO contactee at Giant Rock in the Mojave...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ForgottenMadnessLA/posts/photos-taken-at-the-4th-annual-interplanetary-spacecraft-convention-in-may-1957-/1335054068724580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForgottenMadnessLA/posts/photos-taken-at-the-4th-annual-interplanetary-spacecraft-convention-in-may-1957-/1335054068724580/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eakers said to be &quot;old timers in the saucer research field,&quot; as...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ForgottenMadnessLA/posts/photos-taken-at-the-4th-annual-interplanetary-spacecraft-convention-in-may-1957-/1335054068724580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForgottenMadnessLA/posts/photos-taken-at-the-4th-annual-interplanetary-spacecraft-convention-in-may-1957-/1335054068724580/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eakers said to be &quot;old timers in the saucer research field,&quot; as...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCArchive/posts/reincarnated-star-persons-michael-and-aurora-el-legion-claimed-to-be-missionarie/1259470374425990/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/reincarnated-star-persons-michael-and-aurora-el-legion-claimed-to-be-missionarie/1259470374425990/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l messages from a being named Ashtar, leader of the so-called...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/BBCArchive/posts/reincarnated-star-persons-michael-and-aurora-el-legion-claimed-to-be-missionarie/1259470374425990/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/reincarnated-star-persons-michael-and-aurora-el-legion-claimed-to-be-missionarie/1259470374425990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l messages from a being named Ashtar, leader of the so-called...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Rode-Flying-Saucer-Mystery-Revealed/dp/B0DRCPTMPH?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Rode-Flying-Saucer-Mystery-Revealed/dp/B0DRCPTMPH?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r and Venusians, who aim to guide humanity toward peace and...Read more...</p></details>
+   Link:<a href="https://www.amazon.com/Rode-Flying-Saucer-Mystery-Revealed/dp/B0DRCPTMPH?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Rode-Flying-Saucer-Mystery-Revealed/dp/B0DRCPTMPH?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r and Venusians, who aim to guide humanity toward peace and...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: smithsonianmag.com  
    Title: new film tells story ufo contactee 180969368  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineNew Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineNew Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bol.com  
    Title: I Rode a Flying Saucer., George W Tassel  
-   Link: <a href="https://www.bol.com/nl/nl/p/i-rode-a-flying-saucer/9300000010067998/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/p/i-rode-a-flying-saucer/9300000010067998/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeken - Bol&#x27;This title was originally published in 1952.George Van Tassel was an American author and ufologist once claimed to have been...</p></details>
+   Link:<a href="https://www.bol.com/nl/nl/p/i-rode-a-flying-saucer/9300000010067998/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/p/i-rode-a-flying-saucer/9300000010067998/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeken - Bol&#x27;This title was originally published in 1952.George Van Tassel was an American author and ufologist once claimed to have been...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: avalonlibrary.net  
    Title: Avalon Library George Van Tassel  
-   Link: <a href="https://avalonlibrary.net/ebooks/George%20Van%20Tassel%20-%20I%20Rode%20A%20Flying%20Saucer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/George%20Van%20Tassel%20-%20I%20Rode%20A%20Flying%20Saucer.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marion Kyle. George W. Van Tassel. The Mystery of the Flying Saucers Revealed. Page 2. Page 3. Page 4. Page 5. Page 6. Page 7. Page 8...</p></details>
+   Link:<a href="https://avalonlibrary.net/ebooks/George%20Van%20Tassel%20-%20I%20Rode%20A%20Flying%20Saucer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/George%20Van%20Tassel%20-%20I%20Rode%20A%20Flying%20Saucer.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marion Kyle. George W. Van Tassel. The Mystery of the Flying Saucers Revealed. Page 2. Page 3. Page 4. Page 5. Page 6. Page 7. Page 8...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: open.spotify.com  
    Title: 26Fk W1dkdbv2ev61EMJ8HM  
-   Link: <a href="https://open.spotify.com/episode/26FkW1dkdbv2ev61EMJ8HM" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/26FkW1dkdbv2ev61EMJ8HM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>123: The Story of The Integratron14 May 2025 — Van Tassel was an aerospace engineer who became a UFO pioneer after claiming contact with...</p></details>
+   Link:<a href="https://open.spotify.com/episode/26FkW1dkdbv2ev61EMJ8HM" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/26FkW1dkdbv2ev61EMJ8HM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>123: The Story of The Integratron14 May 2025 — Van Tassel was an aerospace engineer who became a UFO pioneer after claiming contact with...</p></details>
    Published: May 2025  

@@ -447,7 +447,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266-ove
 
 ## Introduction
 
-Chen Tao’s Channel 18 prophecy failed in a unusually public and testable way. Hon-Ming Chen, leader of the Taiwanese [UFO religion]({{ 'ufo-religion/' | relative_url }}) also known as God’s Salvation Church, taught that God would take control of television airwaves and appear on Channel 18 across North America just after midnight on 25 March 1998. That broadcast was supposed to prepare the world for a second event: God’s physical arrival at Chen’s Garland, Texas, address at 10 a.m. on 31 March. Neither event happened. The case matters because it shows a familiar pattern in failed UFO prophecy: a literal, checkable claim collapses, then the leader tries to absorb the failure through [recantation]({{ 'recantation/' | relative_url }}), reinterpretation, and a new spiritualised timeline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Chen Tao’s Channel 18 prophecy failed in a unusually public and testable way. Hon-Ming Chen, leader of the Taiwanese [UFO religion]({{ 'ufo-religion/' | relative_url }}) also known as God’s Salvation Church, taught that God would take control of television airwaves and appear on Channel 18 across North America just after midnight on 25 March 1998. That broadcast was supposed to prepare the world for a second event: God’s physical arrival at Chen’s Garland, Texas, address at 10 a.m. on 31 March. Neither event happened. The case matters because it shows a familiar pattern in failed UFO prophecy: a literal, checkable claim collapses, then the leader tries to absorb the failure through [recantation]({{ 'recantation/' | relative_url }}), reinterpretation, and a new spiritualised timeline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266-overview.webp" | relative_url }}" alt="Overview image for Chen Tao" loading="eager" decoding="sync" fetchpriority="high">
@@ -457,44 +457,44 @@ Chen Tao was not simply predicting a vague age of contact or a distant [apocalyp
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266-Illustration-3-dark.svg" | relative_url }}" alt="Chen Tao illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Channel 18 prediction
 
-Chen Tao had moved from Taiwan to the United States and then to [Garland]({{ 'garland/' | relative_url }}), a suburb of Dallas, by 1997. In Garland, the group self-published *God’s Descending on Clouds (Flying Saucers) to Save People*, a book that placed the coming of God at Chen’s house, 3513 [Ridgedale]({{ 'ridgedale/' | relative_url }}) Drive, at exactly 10 a.m. on 31 March 1998. The same account said God would announce that descent six days earlier by taking control of television airwaves: at 12:01 a.m. on 25 March, God would be seen on Channel 18 across North America. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Chen Tao had moved from Taiwan to the United States and then to [Garland]({{ 'garland/' | relative_url }}), a suburb of Dallas, by 1997. In Garland, the group self-published *God’s Descending on Clouds (Flying Saucers) to Save People*, a book that placed the coming of God at Chen’s house, 3513 [Ridgedale]({{ 'ridgedale/' | relative_url }}) Drive, at exactly 10 a.m. on 31 March 1998. The same account said God would announce that descent six days earlier by taking control of television airwaves: at 12:01 a.m. on 25 March, God would be seen on Channel 18 across North America.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-The claim was extraordinary because it converted a UFO-apocalyptic theology into a broadcast event that anyone could check. It was not just that God would communicate inwardly to followers, or that believers would perceive a hidden sign. The prediction specified a medium, a channel number, a continent-wide audience, and a time. A specialist account by Charles Houston Prather notes that copies of Chen’s Garland book were freely given to media and others who asked for them, which helped make the prediction public rather than merely internal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+The claim was extraordinary because it converted a UFO-apocalyptic theology into a broadcast event that anyone could check. It was not just that God would communicate inwardly to followers, or that believers would perceive a hidden sign. The prediction specified a medium, a channel number, a continent-wide audience, and a time. A specialist account by Charles Houston Prather notes that copies of Chen’s Garland book were freely given to media and others who asked for them, which helped make the prediction public rather than merely internal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-Channel 18 was also tied to the group’s larger UFO salvation story. Chen Tao expected a period of tribulation and taught that God would use space aircraft, or UFOs, to save believers. A March press release, posted in billboard form outside Chen’s house, described God commandeering space aircraft to rescue believers during the coming tribulation. In the days before the broadcast date, members prepared spiritually, watched aircraft and contrails, and faced intense media attention around the neighbourhood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Channel 18 was also tied to the group’s larger UFO salvation story. Chen Tao expected a period of tribulation and taught that God would use space aircraft, or UFOs, to save believers. A March press release, posted in billboard form outside Chen’s house, described God commandeering space aircraft to rescue believers during the coming tribulation. In the days before the broadcast date, members prepared spiritually, watched aircraft and contrails, and faced intense media attention around the neighbourhood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-The content expected from the broadcast was not merely a symbolic sign. Watchman Fellowship’s contemporary account, based on press-conference material and hostile to the group but useful for its detailed chronology, says Chen expected God to appear in a body identical to his own on every television set in the United States beginning at midnight on 25 March. It also records spokesperson Richard Liu’s statement that God would provide films and other programming as part of the broadcast, because people would become bored simply listening to God speak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[watchman.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-title">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span><span class="citation-popover-snippet">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span></span></span>
+The content expected from the broadcast was not merely a symbolic sign. Watchman Fellowship’s contemporary account, based on press-conference material and hostile to the group but useful for its detailed chronology, says Chen expected God to appear in a body identical to his own on every television set in the United States beginning at midnight on 25 March. It also records spokesperson Richard Liu’s statement that God would provide films and other programming as part of the broadcast, because people would become bored simply listening to God speak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[watchman.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-title">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span><span class="citation-popover-snippet">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266-Illustration-1-dark.svg" | relative_url }}" alt="Chen Tao illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_chen_tao_channel_18_67a266-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Garland arrival date
 
-The failed television appearance did not stand alone. It was the first act in a two-stage prophecy. The broadcast was meant to prepare for God’s bodily arrival in Garland on 31 March 1998. Chen’s book said the incarnation would physically resemble Chen, speak all languages, walk through walls, and replicate himself as many times as necessary to greet everyone simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+The failed television appearance did not stand alone. It was the first act in a two-stage prophecy. The broadcast was meant to prepare for God’s bodily arrival in Garland on 31 March 1998. Chen’s book said the incarnation would physically resemble Chen, speak all languages, walk through walls, and replicate himself as many times as necessary to greet everyone simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-That second deadline made the story more socially consequential. By March, Richard Liu was fielding about ten calls a day from journalists seeking interviews, photographs and updates. Chen Tao held regular press conferences, and a March 12 event answered questions about Heaven’s Gate, suicide fears, wrongdoing allegations, and the expected divine arrival. Chen restated that God would come to his house at 10 a.m. on 31 March and that the Channel 18 broadcast would precede it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+That second deadline made the story more socially consequential. By March, Richard Liu was fielding about ten calls a day from journalists seeking interviews, photographs and updates. Chen Tao held regular press conferences, and a March 12 event answered questions about Heaven’s Gate, suicide fears, wrongdoing allegations, and the expected divine arrival. Chen restated that God would come to his house at 10 a.m. on 31 March and that the Channel 18 broadcast would precede it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-The Garland authorities treated the situation as a public-safety challenge without assuming that the group was violent. An article in the *FBI Law Enforcement Bulletin* later described how the Garland Police Department gathered information, consulted government and academic sources, established contact with Chen Tao members, and planned for possible emergencies. The Office of Justice Programs abstract of the same article stresses that the police approach was to assess the movement objectively, safeguard both residents and group members, and avoid serious confrontation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+The Garland authorities treated the situation as a public-safety challenge without assuming that the group was violent. An article in the *FBI Law Enforcement Bulletin* later described how the Garland Police Department gathered information, consulted government and academic sources, established contact with Chen Tao members, and planned for possible emergencies. The Office of Justice Programs abstract of the same article stresses that the police approach was to assess the movement objectively, safeguard both residents and group members, and avoid serious confrontation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
-This matters because the failed prophecy was observed not only by believers and reporters but by a local system prepared for multiple outcomes. Police maintained a continuing dialogue with Chen Tao officials, recognised the group’s constitutional rights, met with members, and even developed enough [rapport]({{ 'rapport/' | relative_url }}) for regular dinners with them. At the same time, they prepared for crowd control, possible harm, child protection issues, poisonous gas rumours and helicopter-traffic risks as the predicted date approached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+This matters because the failed prophecy was observed not only by believers and reporters but by a local system prepared for multiple outcomes. Police maintained a continuing dialogue with Chen Tao officials, recognised the group’s constitutional rights, met with members, and even developed enough [rapport]({{ 'rapport/' | relative_url }}) for regular dinners with them. At the same time, they prepared for crowd control, possible harm, child protection issues, poisonous gas rumours and helicopter-traffic risks as the predicted date approached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-When 31 March arrived, God did not appear. The *FBI Law Enforcement Bulletin* summary of the day is blunt: time passed, God did not arrive, the situation did not become a tragedy, Chen announced that he had misunderstood God’s plans, and members quietly returned home. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+When 31 March arrived, God did not appear. The *FBI Law Enforcement Bulletin* summary of the day is blunt: time passed, God did not arrive, the situation did not become a tragedy, Chen announced that he had misunderstood God’s plans, and members quietly returned home.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sPyWo4Ei5vU" title="USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer">USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sPyWo4Ei5vU">Open on YouTube</a></p></div></div></div>
 
 ## Recantation, reinterpretation, and member loss
 
-The first response came almost immediately after the Channel 18 failure. Wright and Greil’s chapter on Chen Tao in *How Prophecy Lives* says that after God did not appear on 25 March, Master Chen retracted the prophecy. Their summary then notes that on 31 March he tried to minimise the second disconfirmation and pushed the apocalyptic date back to 1999. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
+The first response came almost immediately after the Channel 18 failure. Wright and Greil’s chapter on Chen Tao in *How Prophecy Lives* says that after God did not appear on 25 March, Master Chen retracted the prophecy. Their summary then notes that on 31 March he tried to minimise the second disconfirmation and pushed the apocalyptic date back to 1999.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
 
-Other accounts preserve the sharper, more dramatic form of the recantation. Watchman Fellowship reports that at about 12:30 a.m. on 25 March, shortly after the failed television prophecy, Chen held a press conference and said his prophecies could be considered nonsense, while dismissing his followers. It also reports that after the 31 March non-arrival, Chen offered reporters ten minutes to stone or crucify him, but no one did. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[watchman.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-title">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span><span class="citation-popover-snippet">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span></span></span>
+Other accounts preserve the sharper, more dramatic form of the recantation. Watchman Fellowship reports that at about 12:30 a.m. on 25 March, shortly after the failed television prophecy, Chen held a press conference and said his prophecies could be considered nonsense, while dismissing his followers. It also reports that after the 31 March non-arrival, Chen offered reporters ten minutes to stone or crucify him, but no one did.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[watchman.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-title">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span><span class="citation-popover-snippet">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span></span></span>
 
-The reinterpretation then moved in a different direction. At the 31 March press conference, Chen reportedly treated the presence of reporters themselves as part of the fulfilment, with God identified through those assembled rather than through the expected physical manifestation. Watchman Fellowship also records further claims from that day: God would appear to followers in dreams, eaten animals would confront non-vegetarians in dreams, and inanimate objects such as refrigerators and shoes would speak to their owners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[watchman.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-title">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span><span class="citation-popover-snippet">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span></span></span>
+The reinterpretation then moved in a different direction. At the 31 March press conference, Chen reportedly treated the presence of reporters themselves as part of the fulfilment, with God identified through those assembled rather than through the expected physical manifestation. Watchman Fellowship also records further claims from that day: God would appear to followers in dreams, eaten animals would confront non-vegetarians in dreams, and inanimate objects such as refrigerators and shoes would speak to their owners.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[watchman.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-title">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span><span class="citation-popover-snippet">God&#x27;s Salvation Church &#124; Watchman Fellowship, Inc</span></span></span>
 
-This shift is exactly why the Channel 18 episode is useful for understanding failed UFO prophecy. The original claim was physical, dated and public: a divine appearance on a television channel followed by a bodily descent in Texas. After the failure, the explanation moved towards mistake, spiritual meaning, dream experience and delayed fulfilment. Ryan Cook’s study of Chen Tao in Texas identifies the Channel 18 failure as the most significant adaptation Chen had to account for, while noting that much of the group’s broader doctrine did not immediately change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[cesnur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR</span></span></span>
+This shift is exactly why the Channel 18 episode is useful for understanding failed UFO prophecy. The original claim was physical, dated and public: a divine appearance on a television channel followed by a bodily descent in Texas. After the failure, the explanation moved towards mistake, spiritual meaning, dream experience and delayed fulfilment. Ryan Cook’s study of Chen Tao in Texas identifies the Channel 18 failure as the most significant adaptation Chen had to account for, while noting that much of the group’s broader doctrine did not immediately change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[cesnur.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR</span></span></span>
 
-The failure also cost the group members. Prather wrote in 1999 that immediately after the failed prophecies of 25 and 31 March, God’s Salvation Church lost two thirds of its members; by April 1999, it had been reduced to between thirty-five and forty people. He interpreted this as a filtering effect: those whose commitment could be shaken by a visibly failed prophecy left, while a smaller and more devoted core remained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+The failure also cost the group members. Prather wrote in 1999 that immediately after the failed prophecies of 25 and 31 March, God’s Salvation Church lost two thirds of its members; by April 1999, it had been reduced to between thirty-five and forty people. He interpreted this as a filtering effect: those whose commitment could be shaken by a visibly failed prophecy left, while a smaller and more devoted core remained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-Wright and Greil later treated Chen Tao as an unusual case because many failed-prophecy groups survive through reinterpretation, whereas Chen Tao eventually collapsed. They argue cautiously rather than mechanically: the prophetic failures appear to have weakened the charismatic bond between Chen and his followers, but the group also faced language barriers, financial strain, isolation from likely recruits, and the practical consequences of moving to a foreign suburban setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
+Wright and Greil later treated Chen Tao as an unusual case because many failed-prophecy groups survive through reinterpretation, whereas Chen Tao eventually collapsed. They argue cautiously rather than mechanically: the prophetic failures appear to have weakened the charismatic bond between Chen and his followers, but the group also faced language barriers, financial strain, isolation from likely recruits, and the practical consequences of moving to a foreign suburban setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;How Prophecy Lives</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;How Prophecy Lives</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KaJ35xn1YU" title="USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer">USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KaJ35xn1YU">Open on YouTube</a></p></div></div></div>
@@ -507,201 +507,201 @@ Chen Tao’s failed Channel 18 prophecy is distinctive because the evidential te
 
 The case also shows how UFO prophecy can make modern technology part of the sacred script. In Chen Tao’s story, television was not incidental publicity; it was supposed to be the medium God would seize to warn humanity. UFOs were likewise not merely alien craft in a science-fiction sense, but divine rescue vehicles tied to tribulation, reincarnation, bodily transformation and salvation geography. That combination made the prophecy both technologically vivid and readily falsifiable.
 
-Finally, the aftermath complicates the simple idea that failed prophecy always strengthens belief. Some Chen Tao members did continue, move on, and accept further reinterpretations. But many left. Later scholarly analysis suggests that the group’s decline came from a combination of prophetic disconfirmation, leadership strain, financial pressure, lack of recruitment, and cultural isolation. In other words, the Channel 18 failure did not automatically destroy Chen Tao on the spot, but it exposed the gap between a literal UFO-divine prediction and the reality that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Finally, the aftermath complicates the simple idea that failed prophecy always strengthens belief. Some Chen Tao members did continue, move on, and accept further reinterpretations. But many left. Later scholarly analysis suggests that the group’s decline came from a combination of prophetic disconfirmation, leadership strain, financial pressure, lack of recruitment, and cultural isolation. In other words, the Channel 18 failure did not automatically destroy Chen Tao on the spot, but it exposed the gap between a literal UFO-divine prediction and the reality that followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8nGLzE-vA18" title="God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer">God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8nGLzE-vA18">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When God Did Not Appear on Channel 18. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When God Did Not Appear on Channel 18. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains the social and psychological dynamics seen after Chen Tao&#x27;s failed Channel 18 prediction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains the social and psychological dynamics seen after Chen Tao&#x27;s failed Channel 18 prediction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Addresses religious groups built around UFO beliefs, prophecy, and contact expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses religious groups built around UFO beliefs, prophecy, and contact expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{ '/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="chen-tao-when-god-did-not-appear-on-channel-18-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -717,7 +717,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -737,7 +737,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -769,7 +769,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -821,7 +821,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -866,7 +866,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -907,88 +907,88 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "How Prophecy Lives"  
-   Link: <a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: watchman.org  
    Title: God's Salvation Church | Watchman Fellowship, Inc  
-   Link: <a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
+   Link:<a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: leb.fbi.gov  
    Title: Law Enforcement Bulletin  
-   Link: <a href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/sep00leb.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Bulletin...</p></details>
+   Link:<a href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/sep00leb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Bulletin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cesnur.org  
    Title: Chen Tao in Texas (CESNUR)  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model</a>  
+   Link:<a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scholarsbank.uoregon.edu  
-   Link: <a href="https://scholarsbank.uoregon.edu/server/api/core/bitstreams/ca72e006-e0da-4138-89aa-9cd75b7fb7eb/content" target="_blank" rel="noopener noreferrer nofollow">https://scholarsbank.uoregon.edu/server/api/core/bitstreams/ca72e006-e0da-4138-89aa-9cd75b7fb7eb/content</a>  
+   Link:<a href="https://scholarsbank.uoregon.edu/server/api/core/bitstreams/ca72e006-e0da-4138-89aa-9cd75b7fb7eb/content" target="_blank" rel="noopener noreferrer nofollow">https://scholarsbank.uoregon.edu/server/api/core/bitstreams/ca72e006-e0da-4138-89aa-9cd75b7fb7eb/content</a>  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 292144959 Failed Prophecy and Group Demise The Case of Chen Tao  
-   Link: <a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy and Group Demise: The Case of Chen TaoFailed prophecy may lead to religious demise as Wright and Greil (2011) have shown...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy and Group Demise: The Case of Chen TaoFailed prophecy may lead to religious demise as Wright and Greil (2011) have shown...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in the United States to escape the end of the world...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the United States to escape the end of the world...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: God's Salvation Church  
-   Link: <a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doomsday Prophecies That Failed So Hard They Became Comedy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doomsday Prophecies That Failed So Hard They Became Comedy...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: USA: TAIWANESE CULT DISAPPOINTED AT GOD'S FAILURE TO APPEAR ON TV  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Doomsday Prophecies That Failed So Hard They Became Comedy  
-   Link: <a href="https://www.youtube.com/watch?v=G3jh8_IgsNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G3jh8_IgsNc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: The Cult of Cults | Official Trailer | Max...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G3jh8_IgsNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G3jh8_IgsNc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: The Cult of Cults | Official Trailer | Max...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE  
-   Link: <a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tcmtv/videos/as-the-year-comes-to-a-close-tcm-remembers-the-actors-filmmakers-and-creatives-w/851045781251676/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tcmtv/videos/as-the-year-comes-to-a-close-tcm-remembers-the-actors-filmmakers-and-creatives-w/851045781251676/</a>  
+   Link:<a href="https://www.facebook.com/tcmtv/videos/as-the-year-comes-to-a-close-tcm-remembers-the-actors-filmmakers-and-creatives-w/851045781251676/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tcmtv/videos/as-the-year-comes-to-a-close-tcm-remembers-the-actors-filmmakers-and-creatives-w/851045781251676/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: networkcultures.org  
-   Link: <a href="https://networkcultures.org/wp-content/uploads/2025/01/Chronicles_of_the_Cyber_Village_INC2025_TOD56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://networkcultures.org/wp-content/uploads/2025/01/Chronicles_of_the_Cyber_Village_INC2025_TOD56.pdf</a>  
+   Link:<a href="https://networkcultures.org/wp-content/uploads/2025/01/Chronicles_of_the_Cyber_Village_INC2025_TOD56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://networkcultures.org/wp-content/uploads/2025/01/Chronicles_of_the_Cyber_Village_INC2025_TOD56.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-bloomsbury-companion-to-new-religious-movements-9781441190055-9781472594518-9781441198297.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-bloomsbury-companion-to-new-religious-movements-9781441190055-9781472594518-9781441198297.html</a>  
+   Link:<a href="https://dokumen.pub/the-bloomsbury-companion-to-new-religious-movements-9781441190055-9781472594518-9781441198297.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-bloomsbury-companion-to-new-religious-movements-9781441190055-9781472594518-9781441198297.html</a>  

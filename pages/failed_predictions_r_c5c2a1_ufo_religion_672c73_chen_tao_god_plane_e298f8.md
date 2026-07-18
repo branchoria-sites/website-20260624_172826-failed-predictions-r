@@ -280,38 +280,38 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_g
 
 ## Introduction
 
-Chen Tao’s “God plane” rescue scenario emerged after the movement’s most famous prophecy failed in March 1998. When leader Hon-Ming Chen’s prediction that God would appear on American television and then physically manifest in [Garland]({{ 'garland/' | relative_url }}), Texas did not occur, the group did not simply abandon its apocalyptic worldview. Instead, surviving members shifted attention toward a new expectation: a future nuclear catastrophe, particularly involving conflict between China and Taiwan, followed by divine evacuation through a supernatural vehicle often described as a “God plane”. This development is important because it illustrates a recurring pattern in UFO-related religious movements. Rather than ending belief, a failed prediction can be absorbed into a revised narrative in which cosmic rescue remains central even as dates, mechanisms and expectations change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Chen Tao’s “God plane” rescue scenario emerged after the movement’s most famous prophecy failed in March 1998. When leader Hon-Ming Chen’s prediction that God would appear on American television and then physically manifest in [Garland]({{ 'garland/' | relative_url }}), Texas did not occur, the group did not simply abandon its apocalyptic worldview. Instead, surviving members shifted attention toward a new expectation: a future nuclear catastrophe, particularly involving conflict between China and Taiwan, followed by divine evacuation through a supernatural vehicle often described as a “God plane”. This development is important because it illustrates a recurring pattern in UFO-related religious movements. Rather than ending belief, a failed prediction can be absorbed into a revised narrative in which cosmic rescue remains central even as dates, mechanisms and expectations change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-1-dark.svg" | relative_url }}" alt="God Plane illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## From television prophecy to rescue scenario
 
-The original Chen Tao prophecy centred on highly specific public claims. Chen announced that God would appear on Channel 18 in the United States and later manifest physically in Garland. The predictions attracted international [media]({{ 'media/' | relative_url }}) attention because they were unusually concrete and easy to verify. When the expected events failed to occur, Chen acknowledged that he had misunderstood God’s intentions, and many followers left the movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+The original Chen Tao prophecy centred on highly specific public claims. Chen announced that God would appear on Channel 18 in the United States and later manifest physically in Garland. The predictions attracted international [media]({{ 'media/' | relative_url }}) attention because they were unusually concrete and easy to verify. When the expected events failed to occur, Chen acknowledged that he had misunderstood God’s intentions, and many followers left the movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-What remained notable, however, was the way the movement reworked its expectations after the failure. Rather than abandoning the broader apocalyptic framework, the remaining members relocated to western New York and continued to anticipate a coming global crisis. Within this revised narrative, divine intervention no longer depended on a televised appearance or a public manifestation in Texas. Instead, salvation would arrive through a heavenly craft or “God plane” sent to rescue the faithful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+What remained notable, however, was the way the movement reworked its expectations after the failure. Rather than abandoning the broader apocalyptic framework, the remaining members relocated to western New York and continued to anticipate a coming global crisis. Within this revised narrative, divine intervention no longer depended on a televised appearance or a public manifestation in Texas. Instead, salvation would arrive through a heavenly craft or “God plane” sent to rescue the faithful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-This shift preserved one of the movement’s most important themes: humanity faced imminent disaster, but spiritually prepared believers would be removed from danger by higher powers. The rescue mechanism changed, yet the basic promise of cosmic deliverance remained intact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+This shift preserved one of the movement’s most important themes: humanity faced imminent disaster, but spiritually prepared believers would be removed from danger by higher powers. The rescue mechanism changed, yet the basic promise of cosmic deliverance remained intact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8nGLzE-vA18" title="God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer">God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8nGLzE-vA18">Open on YouTube</a></p></div></div></div>
 
 ## Nuclear catastrophe in the group's story
 
-The God plane idea became closely tied to predictions of nuclear destruction. After the Garland prophecy failed, Chen Tao teachings increasingly focused on the prospect of war between China and Taiwan leading to a nuclear holocaust. According to accounts from scholars and journalists who followed the group after 1998, members expected enormous loss of life across Asia and beyond. In that setting, the God plane would function as a vehicle of selective salvation, preserving the faithful while much of humanity suffered catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+The God plane idea became closely tied to predictions of nuclear destruction. After the Garland prophecy failed, Chen Tao teachings increasingly focused on the prospect of war between China and Taiwan leading to a nuclear holocaust. According to accounts from scholars and journalists who followed the group after 1998, members expected enormous loss of life across Asia and beyond. In that setting, the God plane would function as a vehicle of selective salvation, preserving the faithful while much of humanity suffered catastrophe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-The concept fit naturally within the movement’s existing blend of religious and UFO imagery. Chen Tao combined elements of Christianity, Buddhism, Taoist traditions, Taiwanese folk religion and flying-saucer beliefs. Earlier teachings had already incorporated ideas of divine craft, higher dimensions and rescue from world-ending events. The God plane therefore represented less a new doctrine than a reconfigured version of themes already present in the movement’s worldview. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">God&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kn...</span></span></span>
+The concept fit naturally within the movement’s existing blend of religious and UFO imagery. Chen Tao combined elements of Christianity, Buddhism, Taoist traditions, Taiwanese folk religion and flying-saucer beliefs. Earlier teachings had already incorporated ideas of divine craft, higher dimensions and rescue from world-ending events. The God plane therefore represented less a new doctrine than a reconfigured version of themes already present in the movement’s worldview.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">God&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kn...</span></span></span>
 
-Some descriptions of Chen Tao beliefs portrayed divine spacecraft as hidden within clouds and sent by God to save spiritually advanced individuals before a period of destruction. The God plane narrative continued this logic by providing a concrete answer to a practical question that many apocalyptic movements face: if catastrophe is coming, how exactly will believers survive? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WSC Beijing Alpacas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Chen Tao</span></span></span>
+Some descriptions of Chen Tao beliefs portrayed divine spacecraft as hidden within clouds and sent by God to save spiritually advanced individuals before a period of destruction. The God plane narrative continued this logic by providing a concrete answer to a practical question that many apocalyptic movements face: if catastrophe is coming, how exactly will believers survive?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Chen_Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WSC Beijing Alpacas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Chen Tao</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-2-dark.svg" | relative_url }}" alt="God Plane illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why cosmic rescue outlasted one failed date
 
-The persistence of the God plane story highlights a broader feature of failed UFO prophecies. Specific predictions can [collapse]({{ 'collapse/' | relative_url }}) while the larger framework survives. In Chen Tao’s case, the March 1998 failure damaged confidence in the original timetable and led many followers to leave. Yet a core group remained committed enough to reinterpret events rather than reject the underlying message. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+The persistence of the God plane story highlights a broader feature of failed UFO prophecies. Specific predictions can [collapse]({{ 'collapse/' | relative_url }}) while the larger framework survives. In Chen Tao’s case, the March 1998 failure damaged confidence in the original timetable and led many followers to leave. Yet a core group remained committed enough to reinterpret events rather than reject the underlying message.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-For those who stayed, the failed appearance of God did not necessarily prove that cosmic rescue was impossible. Instead, the expected sequence of events was revised. The disaster was moved into the future, the timetable became more flexible, and salvation was attached to a different mechanism. Reports indicate that the predicted nuclear conflict and God plane rescue were initially expected around 1999 but were later postponed when those expectations also failed to materialise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+For those who stayed, the failed appearance of God did not necessarily prove that cosmic rescue was impossible. Instead, the expected sequence of events was revised. The disaster was moved into the future, the timetable became more flexible, and salvation was attached to a different mechanism. Reports indicate that the predicted nuclear conflict and God plane rescue were initially expected around 1999 but were later postponed when those expectations also failed to materialise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-This pattern resembles a well-documented tendency in prophetic movements: the rescue promise often proves more durable than the failed date itself. The emotional appeal of being among a chosen group destined for survival can persist even when earlier predictions are disproved. In Chen Tao, the God plane served precisely that function. It transformed a public prophetic embarrassment into a continuing story of future deliverance, allowing the movement’s remaining members to maintain a sense of purpose despite the collapse of the original prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+This pattern resembles a well-documented tendency in prophetic movements: the rescue promise often proves more durable than the failed date itself. The emotional appeal of being among a chosen group destined for survival can persist even when earlier predictions are disproved. In Chen Tao, the God plane served precisely that function. It transformed a public prophetic embarrassment into a continuing story of future deliverance, allowing the movement’s remaining members to maintain a sense of purpose despite the collapse of the original prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sp-9m8kTT6g" title="When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sp-9m8kTT6g" target="_blank" rel="noopener noreferrer">When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong!</a></p><p class="youtube-embed-meta">Channel: MythVision TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sp-9m8kTT6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sp-9m8kTT6g">Open on YouTube</a></p></div></div></div>
@@ -321,186 +321,186 @@ This pattern resembles a well-documented tendency in prophetic movements: the re
 
 ## What the God plane episode reveals about failed UFO prophecies
 
-Within the history of failed UFO-related predictions, Chen Tao’s God plane claim stands out because it shows how a movement can move from a failed public sign to a more expansive rescue narrative. The expected television appearance and physical manifestation were observable events that never happened. The God plane, by contrast, belonged to a future-oriented scenario tied to war, [apocalypse]({{ 'apocalypse/' | relative_url }}) and selective salvation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Within the history of failed UFO-related predictions, Chen Tao’s God plane claim stands out because it shows how a movement can move from a failed public sign to a more expansive rescue narrative. The expected television appearance and physical manifestation were observable events that never happened. The God plane, by contrast, belonged to a future-oriented scenario tied to war, [apocalypse]({{ 'apocalypse/' | relative_url }}) and selective salvation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-As a result, the movement’s emphasis shifted from proving a specific prophecy to sustaining a broader worldview in which divine technology, extraterrestrial-style rescue and end-times expectations remained interconnected. The God plane was therefore not merely a replacement prediction. It was a mechanism for preserving the movement’s central conviction that higher powers would intervene to save the faithful from an approaching global catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Teacher Chen emphasized the soul&#x27;s cultivation as central...Read more...</span></span></span>
+As a result, the movement’s emphasis shifted from proving a specific prophecy to sustaining a broader worldview in which divine technology, extraterrestrial-style rescue and end-times expectations remained interconnected. The God plane was therefore not merely a replacement prediction. It was a mechanism for preserving the movement’s central conviction that higher powers would intervene to save the faithful from an approaching global catastrophe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Teacher Chen emphasized the soul&#x27;s cultivation as central...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-3-dark.svg" | relative_url }}" alt="God Plane illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_chen_tao_god_plane_e298f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Chen Tao&#x27;s God Plane Rescue Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Chen Tao&#x27;s God Plane Rescue Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Explains how groups adapt after concrete prophecies fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how groups adapt after concrete prophecies fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Places extraordinary claims and cosmic narratives in a broader UFO context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places extraordinary claims and cosmic narratives in a broader UFO context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
-        </h4>
-        <p class="fr-book-author">By Gregory L. Reece</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
+</h4>
+<p class="fr-book-author">By Gregory L. Reece</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="god-plane-chen-tao-s-god-plane-rescue-claim-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -516,7 +516,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -536,7 +536,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -568,7 +568,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -620,7 +620,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -665,7 +665,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,105 +706,105 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kn...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kn...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, and in...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, and in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Chen tao (secta)  
-   Link: <a href="https://es.wikipedia.org/wiki/Chen_tao_%28secta%29" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Chen_tao_%28secta%29</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Chen_tao_%28secta%29" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Chen_tao_%28secta%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teacher Chen emphasized the soul&#x27;s cultivation as central...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teacher Chen emphasized the soul&#x27;s cultivation as central...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Chen Tao  
-   Link: <a href="https://de.wikipedia.org/wiki/Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Chen_Tao</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Chen_Tao</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wscbeijingalpacas.com  
-   Link: <a href="https://www.wscbeijingalpacas.com/the-end-is-nearish" target="_blank" rel="noopener noreferrer nofollow">https://www.wscbeijingalpacas.com/the-end-is-nearish</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The End is NearishHon-Ming Chen established Chen Tao, Followers could be spared by buying their way aboard spaceships, disguised as cloud...</p></details>
+   Link:<a href="https://www.wscbeijingalpacas.com/the-end-is-nearish" target="_blank" rel="noopener noreferrer nofollow">https://www.wscbeijingalpacas.com/the-end-is-nearish</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The End is NearishHon-Ming Chen established Chen Tao, Followers could be spared by buying their way aboard spaceships, disguised as cloud...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History, Beliefs, &amp; Facts22 May 2026 — He then became convinced that Garland, Texas, would be the place where God would come, for to his...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History, Beliefs, &amp; Facts22 May 2026 — He then became convinced that Garland, Texas, would be the place where God would come, for to his...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: watchman.org  
-   Link: <a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), assured the public that he w...</p></details>
+   Link:<a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), assured the public that he w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/legitngnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/969764135369996/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/legitngnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/969764135369996/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l end which will lead to judgement day. The year is in the comments...</p></details>
+   Link:<a href="https://www.facebook.com/legitngnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/969764135369996/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/legitngnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/969764135369996/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l end which will lead to judgement day. The year is in the comments...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: the first one i remember was acid rain  
-   Link: <a href="https://www.reddit.com/r/GenX/comments/rzypi9/the_first_one_i_remember_was_acid_rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GenX/comments/rzypi9/the_first_one_i_remember_was_acid_rain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/GenX31 Mar 1998 Hon-Ming Chen Chen, leader of the Taiwanese cult Chen Tao – &quot;The True Way&quot; – claimed that God would come to Earth in a...</p></details>
+   Link:<a href="https://www.reddit.com/r/GenX/comments/rzypi9/the_first_one_i_remember_was_acid_rain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/GenX/comments/rzypi9/the_first_one_i_remember_was_acid_rain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/GenX31 Mar 1998 Hon-Ming Chen Chen, leader of the Taiwanese cult Chen Tao – &quot;The True Way&quot; – claimed that God would come to Earth in a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Festinger's When Prophecy Fails: What Happens After the World Doesn't End  
-   Link: <a href="https://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bkRjQ5juZXk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao cult Garland Texas video USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV AP Archive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bkRjQ5juZXk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao cult Garland Texas video USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV AP Archive...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopgOnbt9M9GD16mNXQLXfKXnWvAZIhvPvNSRdMMYmNrknAlmWk-" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopgOnbt9M9GD16mNXQLXfKXnWvAZIhvPvNSRdMMYmNrknAlmWk-</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In the summer of 1997, approximately 140 emigrant members of a little- known Taiwanese UFO group, Chen Tao, ap...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopgOnbt9M9GD16mNXQLXfKXnWvAZIhvPvNSRdMMYmNrknAlmWk-" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopgOnbt9M9GD16mNXQLXfKXnWvAZIhvPvNSRdMMYmNrknAlmWk-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In the summer of 1997, approximately 140 emigrant members of a little- known Taiwanese UFO group, Chen Tao, ap...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqSxc6PEcf1Y-gDlCoFIPtplgKjvOU7VG70x5SwRWiWX_22nfZd" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqSxc6PEcf1Y-gDlCoFIPtplgKjvOU7VG70x5SwRWiWX_22nfZd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — The group was alternately known as God&#x27;s Salvation Church and God Saves the Earth Flying Saucer Foundation. Ch...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqSxc6PEcf1Y-gDlCoFIPtplgKjvOU7VG70x5SwRWiWX_22nfZd" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqSxc6PEcf1Y-gDlCoFIPtplgKjvOU7VG70x5SwRWiWX_22nfZd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — The group was alternately known as God&#x27;s Salvation Church and God Saves the Earth Flying Saucer Foundation. Ch...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong!  
-   Link: <a href="https://www.youtube.com/watch?v=Sp-9m8kTT6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sp-9m8kTT6g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger&#x27;s When Prophecy Fails: What Happens After the World Doesn&#x27;t End...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sp-9m8kTT6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sp-9m8kTT6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger&#x27;s When Prophecy Fails: What Happens After the World Doesn&#x27;t End...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: End of Days Cults, the Day After | [Cognitive Dissonance](&#123;&#123; 'dissonance/' | relative_url &#125;&#125;) (Video Essay)  
-   Link: <a href="https://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5yVuauQjkDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5yVuauQjkDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: USA: TAIWANESE CULT DISAPPOINTED AT GOD'S FAILURE TO APPEAR ON TV  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE  
-   Link: <a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)...</p></details>

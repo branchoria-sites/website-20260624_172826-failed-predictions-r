@@ -278,7 +278,7 @@ One of the most durable ways UFO prophecies survive a failed landing date is by 
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-1-dark.svg" | relative_url }}" alt="Hostile Forces illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism appears repeatedly in UFO contactee and channelled traditions, especially those influenced by apocalyptic ideas and cosmic-war narratives. It is significant because it transforms a clear public test—“the ships will land on this date”—into an open-ended struggle whose outcome can always be postponed. The prediction moves from the observable world into an invisible battlefield where failure becomes difficult to falsify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">313714001 Apocalypse in Early UFO and Alien Based Religions Christian and Theosophical Themes</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
+This mechanism appears repeatedly in UFO contactee and channelled traditions, especially those influenced by apocalyptic ideas and cosmic-war narratives. It is significant because it transforms a clear public test—“the ships will land on this date”—into an open-ended struggle whose outcome can always be postponed. The prediction moves from the observable world into an invisible battlefield where failure becomes difficult to falsify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">313714001 Apocalypse in Early UFO and Alien Based Religions Christian and Theosophical Themes</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
 
 ## Who Gets Blamed When Saucers Do Not Land?
 
@@ -297,7 +297,7 @@ Commonly blamed opponents include:
 
 </div>
 
-Because these actors are usually invisible and difficult to verify, they provide an explanation that cannot easily be disproved. The absence of a landing becomes compatible with continued belief in the prophecy itself. Rather than asking whether the prediction was correct, followers are encouraged to ask whether hostile interference prevented its fulfilment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">313714001 Apocalypse in Early UFO and Alien Based Religions Christian and Theosophical Themes</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
+Because these actors are usually invisible and difficult to verify, they provide an explanation that cannot easily be disproved. The absence of a landing becomes compatible with continued belief in the prophecy itself. Rather than asking whether the prediction was correct, followers are encouraged to ask whether hostile interference prevented its fulfilment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">313714001 Apocalypse in Early UFO and Alien Based Religions Christian and Theosophical Themes</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IaUhR-tRkHY" title="bending truth | how adults get indoctrinated [cc]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IaUhR-tRkHY" target="_blank" rel="noopener noreferrer">bending truth | how adults get indoctrinated [cc]</a></p><p class="youtube-embed-meta">Channel: TheraminTrees</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IaUhR-tRkHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IaUhR-tRkHY">Open on YouTube</a></p></div></div></div>
@@ -308,17 +308,17 @@ Contactee movements often present history as a struggle between higher and lower
 
 Once that worldview is accepted, a failed prediction naturally invites conflict-based explanations. If benevolent space fleets are real and their mission is important, then opponents must also exist. A missed deadline can therefore be interpreted as a temporary setback in a larger campaign rather than as a failed forecast.
 
-Religious scholars studying UFO-based movements have noted that apocalyptic expectations are frequently embedded in wider narratives of spiritual warfare, planetary transformation, and cosmic intervention. Such frameworks make postponement easier because delays can always be attributed to ongoing struggles behind the scenes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">313714001 Apocalypse in Early UFO and Alien Based Religions Christian and Theosophical Themes</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
+Religious scholars studying UFO-based movements have noted that apocalyptic expectations are frequently embedded in wider narratives of spiritual warfare, planetary transformation, and cosmic intervention. Such frameworks make postponement easier because delays can always be attributed to ongoing struggles behind the scenes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">313714001 Apocalypse in Early UFO and Alien Based Religions Christian and Theosophical Themes</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-2-dark.svg" | relative_url }}" alt="Hostile Forces illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ashtar Command Delay Narratives
 
-The [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) tradition provides some of the clearest examples of this mechanism. Since the 1950s, various contactees and channelers have claimed communications from [Ashtar]({{ 'ashtar/' | relative_url }}), a supposed commander of a vast extraterrestrial fleet. Different groups associated with Ashtar have predicted dramatic interventions, evacuations, landings, broadcasts, or transformations of human civilisation. Many of these predictions failed to occur publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) tradition provides some of the clearest examples of this mechanism. Since the 1950s, various contactees and channelers have claimed communications from [Ashtar]({{ 'ashtar/' | relative_url }}), a supposed commander of a vast extraterrestrial fleet. Different groups associated with Ashtar have predicted dramatic interventions, evacuations, landings, broadcasts, or transformations of human civilisation. Many of these predictions failed to occur publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-When expected events did not happen, explanations often shifted from certainty to obstruction. The promised intervention might be delayed because hostile influences remained active, because earthly authorities were suppressing [disclosure]({{ 'disclosure/' | relative_url }}), because humanity had not reached the necessary level of readiness, or because darker forces were attempting to interfere with the mission. These explanations preserved the underlying belief that the fleet existed and intended to act in the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+When expected events did not happen, explanations often shifted from certainty to obstruction. The promised intervention might be delayed because hostile influences remained active, because earthly authorities were suppressing [disclosure]({{ 'disclosure/' | relative_url }}), because humanity had not reached the necessary level of readiness, or because darker forces were attempting to interfere with the mission. These explanations preserved the underlying belief that the fleet existed and intended to act in the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-The pattern is especially visible in later channelled literature associated with Ashtar-themed movements. The expected event remains imminent, but the timetable becomes conditional. A prophecy that once appeared to describe a scheduled arrival becomes a strategic operation affected by opposition, changing circumstances, or spiritual warfare. Failed dates therefore generate revised narratives rather than abandonment of the original expectation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The pattern is especially visible in later channelled literature associated with Ashtar-themed movements. The expected event remains imminent, but the timetable becomes conditional. A prophecy that once appeared to describe a scheduled arrival becomes a strategic operation affected by opposition, changing circumstances, or spiritual warfare. Failed dates therefore generate revised narratives rather than abandonment of the original expectation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pp0E1gb80WQ" title="Secret History #22: The Divine Spark of Jesus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pp0E1gb80WQ" target="_blank" rel="noopener noreferrer">Secret History #22: The Divine Spark of Jesus</a></p><p class="youtube-embed-meta">Channel: Predictive History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pp0E1gb80WQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pp0E1gb80WQ">Open on YouTube</a></p></div></div></div>
@@ -337,7 +337,7 @@ Several features make it resilient:
 
 **Future revisions remain possible.** Once interference is accepted as an explanation, any new date can be postponed for similar reasons.
 
-This dynamic resembles broader patterns identified in studies of failed prophecy. When a prediction is deeply tied to identity and commitment, believers often develop interpretations that preserve the larger worldview despite contrary events. The hostile-forces explanation is one of the most flexible versions of that process because it converts disconfirmation into evidence of an ongoing struggle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+This dynamic resembles broader patterns identified in studies of failed prophecy. When a prediction is deeply tied to identity and commitment, believers often develop interpretations that preserve the larger worldview despite contrary events. The hostile-forces explanation is one of the most flexible versions of that process because it converts disconfirmation into evidence of an ongoing struggle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-3-dark.svg" | relative_url }}" alt="Hostile Forces illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_hostile_forces_delay_be107b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -347,185 +347,185 @@ The appeal of hostile-force explanations is not limited to UFO beliefs. They off
 
 Rather than requiring followers to conclude that the message was mistaken, the narrative preserves both the messenger and the prophecy. The promised landing is still expected. The benevolent extraterrestrials are still believed to exist. Only the circumstances have changed.
 
-Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A missed landing is no longer an embarrassment but a chapter in a larger cosmic conflict. The absence of evidence becomes evidence of resistance. As a result, predictions that should have ended with a passed deadline can continue for years or decades through repeated postponements and revised explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">313714001 Apocalypse in Early UFO and Alien Based Religions Christian and Theosophical Themes</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
+Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A missed landing is no longer an embarrassment but a chapter in a larger cosmic conflict. The absence of evidence becomes evidence of resistance. As a result, predictions that should have ended with a passed deadline can continue for years or decades through repeated postponements and revised explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">313714001 Apocalypse in Early UFO and Alien Based Religions Christian and Theosophical Themes</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5yVuauQjkDc" title="End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer">End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)</a></p><p class="youtube-embed-meta">Channel: Cogito Creative</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5yVuauQjkDc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Gets Blamed When Saucers Do Not Land?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Gets Blamed When Saucers Do Not Land?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly addresses rationalizations and blame after prophetic failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses rationalizations and blame after prophetic failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why external enemies become persuasive explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why external enemies become persuasive explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides historical context for collective belief and failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides historical context for collective belief and failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Includes UFO groups that invoke cosmic conflict narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes UFO groups that invoke cosmic conflict narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="hostile-forces-who-gets-blamed-when-saucers-do-not-land-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,103 +731,103 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
    Title: Academic Avertive Apocalypticism | The Oxford Handbook of Millennialism  
-   Link: <a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command that will descend prior to worldly catastrophe. Beaming his messages to contactees from a colossal starship, Commander Ash...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command that will descend prior to worldly catastrophe. Beaming his messages to contactees from a colossal starship, Commander Ash...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archiv.ub.uni-marburg.de  
-   Link: <a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</p></details>
+   Link:<a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Never Fails: Myth and Reality in a Flying-...When Prophecy Never Fails: Myth and Reality in a Flying-Saucer Group...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Never Fails: Myth and Reality in a Flying-...When Prophecy Never Fails: Myth and Reality in a Flying-Saucer Group...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: robertsspaceindustries.com  
    Title: The Ashtar  
-   Link: <a href="https://robertsspaceindustries.com/en/orgs/SPEEDOGHOS" target="_blank" rel="noopener noreferrer nofollow">https://robertsspaceindustries.com/en/orgs/SPEEDOGHOS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Galactic Command [SPEEDOGHOS] - OrganizationsThe Ashtar Command are perfected humans that vibrate to the Christ Vibration and are...</p></details>
+   Link:<a href="https://robertsspaceindustries.com/en/orgs/SPEEDOGHOS" target="_blank" rel="noopener noreferrer nofollow">https://robertsspaceindustries.com/en/orgs/SPEEDOGHOS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Galactic Command [SPEEDOGHOS] - OrganizationsThe Ashtar Command are perfected humans that vibrate to the Christ Vibration and are...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: extraterrestrials.fandom.com  
    Title: Ashtar command  
-   Link: <a href="https://extraterrestrials.fandom.com/wiki/Ashtar_command" target="_blank" rel="noopener noreferrer nofollow">https://extraterrestrials.fandom.com/wiki/Ashtar_command</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>command - Alien Wiki - FandomThe Ashtar Command is an etheric group of extraterrestrials, angels and lightbeings and millions of &quot;starshi...</p></details>
+   Link:<a href="https://extraterrestrials.fandom.com/wiki/Ashtar_command" target="_blank" rel="noopener noreferrer nofollow">https://extraterrestrials.fandom.com/wiki/Ashtar_command</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>command - Alien Wiki - FandomThe Ashtar Command is an etheric group of extraterrestrials, angels and lightbeings and millions of &quot;starshi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Failed Doomsday PredictionsThey&#x27;ve predicted the destruction of the world through floods, fires, and comets—luckily for us, none of it...</p></details>
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Failed Doomsday PredictionsThey&#x27;ve predicted the destruction of the world through floods, fires, and comets—luckily for us, none of it...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/167240849991995/posts/8414208328628498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/167240849991995/posts/8414208328628498/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command and the origins of UFO religionsUFO phenomenon linked to biblical prophecy and alien intervention... alien contacts recei...</p></details>
+   Link:<a href="https://www.facebook.com/groups/167240849991995/posts/8414208328628498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/167240849991995/posts/8414208328628498/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command and the origins of UFO religionsUFO phenomenon linked to biblical prophecy and alien intervention... alien contacts recei...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillion The Ashtar Galactic CommandFamous UFO sightings and their impact. Theories on ancient... r/aliens - Galactic Federation of Ligh...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillion The Ashtar Galactic CommandFamous UFO sightings and their impact. Theories on ancient... r/aliens - Galactic Federation of Ligh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40hoangphucle/vrillon-a-message-from-the-ashtar-galactic-command-d9c52e1d3780" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hoangphucle/vrillon-a-message-from-the-ashtar-galactic-command-d9c52e1d3780</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillon: A Message from the Ashtar Galactic CommandWe of the Ashtar Galactic Command thank you for your attention. We are now leaving the...</p></details>
+   Link:<a href="https://medium.com/%40hoangphucle/vrillon-a-message-from-the-ashtar-galactic-command-d9c52e1d3780" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hoangphucle/vrillon-a-message-from-the-ashtar-galactic-command-d9c52e1d3780</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillon: A Message from the Ashtar Galactic CommandWe of the Ashtar Galactic Command thank you for your attention. We are now leaving the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...13 Nov 2025 — New research questions When Prophecy Fails, the classic study of a...</p></details>
+   Link:<a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...13 Nov 2025 — New research questions When Prophecy Fails, the classic study of a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A few years ago, this notion seemed farfetched; today, the existence of extraterrestrial intelligence...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A few years ago, this notion seemed farfetched; today, the existence of extraterrestrial intelligence...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/Ashtar-Revealing-Identity-Spiritual-Program-ebook/dp/B00DGCQDNC?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Ashtar-Revealing-Identity-Spiritual-Program-ebook/dp/B00DGCQDNC?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man or Myth? Name or Title? Space Commander or Archangel? Intergalactic Spiritual Leader? The name Ashtar has become widely known in UFO...</p></details>
+   Link:<a href="https://www.amazon.nl/Ashtar-Revealing-Identity-Spiritual-Program-ebook/dp/B00DGCQDNC?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Ashtar-Revealing-Identity-Spiritual-Program-ebook/dp/B00DGCQDNC?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man or Myth? Name or Title? Space Commander or Archangel? Intergalactic Spiritual Leader? The name Ashtar has become widely known in UFO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: insighttimer.com  
    Title: you were chosen for this ashtar s message for starseeds  
-   Link: <a href="https://insighttimer.com/athinakrol/guided-meditations/you-were-chosen-for-this-ashtar-s-message-for-starseeds" target="_blank" rel="noopener noreferrer nofollow">https://insighttimer.com/athinakrol/guided-meditations/you-were-chosen-for-this-ashtar-s-message-for-starseeds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Were Chosen For This: Ashtar&#x27;s Message For Starseeds4 Feb 2025 — This channeled transmission from Ashtar is a divine call to step ful...</p></details>
+   Link:<a href="https://insighttimer.com/athinakrol/guided-meditations/you-were-chosen-for-this-ashtar-s-message-for-starseeds" target="_blank" rel="noopener noreferrer nofollow">https://insighttimer.com/athinakrol/guided-meditations/you-were-chosen-for-this-ashtar-s-message-for-starseeds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Were Chosen For This: Ashtar&#x27;s Message For Starseeds4 Feb 2025 — This channeled transmission from Ashtar is a divine call to step ful...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wwwuser.gwdguser.de  
-   Link: <a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ill Rose), an Editor of a 1950s UFO magazine - &quot;Interplanetary News&quot; and at one time...</p></details>
+   Link:<a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ill Rose), an Editor of a 1950s UFO magazine - &quot;Interplanetary News&quot; and at one time...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s “spreading light” through their religious faith, the catastrophe had been...</p></details>
+   Link:<a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s “spreading light” through their religious faith, the catastrophe had been...</p></details>

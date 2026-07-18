@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_pu
 
 ## Introduction
 
-Failed UFO rescue predictions often become costly long before the predicted spacecraft fails to appear. In several well-documented saucer and contactee movements, believers did not merely hold unusual ideas; they altered their lives around an approaching deadline. Some gave away possessions, left jobs, moved across countries, severed relationships, or publicly warned [neighbours]({{ 'neighbours/' | relative_url }}) about an imminent catastrophe and extraterrestrial rescue. When the appointed date passed uneventfully, these sacrifices created a second crisis alongside the failed prediction itself. The problem was no longer only that the rescue had not occurred. Followers also had to explain lost money, disrupted families, abandoned plans and public embarrassment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Failed UFO rescue predictions often become costly long before the predicted spacecraft fails to appear. In several well-documented saucer and contactee movements, believers did not merely hold unusual ideas; they altered their lives around an approaching deadline. Some gave away possessions, left jobs, moved across countries, severed relationships, or publicly warned [neighbours]({{ 'neighbours/' | relative_url }}) about an imminent catastrophe and extraterrestrial rescue. When the appointed date passed uneventfully, these sacrifices created a second crisis alongside the failed prediction itself. The problem was no longer only that the rescue had not occurred. Followers also had to explain lost money, disrupted families, abandoned plans and public embarrassment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_public_sacrifice_res_44f5df-Illustration-1-dark.svg" | relative_url }}" alt="Public Stakes illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_public_sacrifice_res_44f5df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_public_sacrifice_res_44f5df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ Understanding these [public sacrifices]({{ 'public-sacrifice/' | relative_url }}
 
 ## Possessions, Travel and Departure Plans
 
-The classic example is the 1954 Seekers group led by [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}). Members expected a catastrophic flood and believed flying saucers from the planet Clarion would rescue them before the disaster. Contemporary accounts and later studies report that some followers took concrete steps demonstrating commitment. Believers left or lost jobs, disrupted studies, ended relationships, gave away money and disposed of possessions in preparation for departure aboard a spacecraft. These actions transformed a prediction into a public commitment visible to family members, employers and friends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The classic example is the 1954 Seekers group led by [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}). Members expected a catastrophic flood and believed flying saucers from the planet Clarion would rescue them before the disaster. Contemporary accounts and later studies report that some followers took concrete steps demonstrating commitment. Believers left or lost jobs, disrupted studies, ended relationships, gave away money and disposed of possessions in preparation for departure aboard a spacecraft. These actions transformed a prediction into a public commitment visible to family members, employers and friends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The sacrifices were not always dramatic liquidation of all assets. In many cases, preparation itself imposed costs. Followers spent time travelling to gathering locations, reorganising their lives around the expected rescue timetable and placing ordinary responsibilities on hold. The famous waiting sessions before the predicted departure involved believers arranging their lives around specific hours and instructions rather than everyday obligations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The sacrifices were not always dramatic liquidation of all assets. In many cases, preparation itself imposed costs. Followers spent time travelling to gathering locations, reorganising their lives around the expected rescue timetable and placing ordinary responsibilities on hold. The famous waiting sessions before the predicted departure involved believers arranging their lives around specific hours and instructions rather than everyday obligations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-A later UFO-oriented movement, Chen Tao (God's Salvation Church), illustrates the same pattern on a larger geographical scale. Before failed prophetic events in Texas in 1998, members relocated to [Garland]({{ 'garland/' | relative_url }}), Texas, because the town was expected to play a central role in coming divine and extraterrestrial events. Researchers reported that followers sold houses and liquidated assets to support their extended stay in the United States while awaiting fulfilment of the prophecy. The movement's public migration made commitment highly visible both to members and to outsiders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasGarland Chen made public his prophecies concerning the dual theophanies, Members had sold their houses and liquida...</span></span></span>
+A later UFO-oriented movement, Chen Tao (God's Salvation Church), illustrates the same pattern on a larger geographical scale. Before failed prophetic events in Texas in 1998, members relocated to [Garland]({{ 'garland/' | relative_url }}), Texas, because the town was expected to play a central role in coming divine and extraterrestrial events. Researchers reported that followers sold houses and liquidated assets to support their extended stay in the United States while awaiting fulfilment of the prophecy. The movement's public migration made commitment highly visible both to members and to outsiders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasGarland Chen made public his prophecies concerning the dual theophanies, Members had sold their houses and liquida...</span></span></span>
 
 The key point is that these actions were not symbolic. They involved housing, employment, savings and relocation decisions that could not easily be reversed once the predicted rescue date passed.
 
@@ -305,7 +305,7 @@ Private belief can be quietly abandoned. Public sacrifice is different.
 
 When believers announce that extraterrestrial rescuers will arrive on a specific date, they create witnesses to their commitment. Neighbours know they are preparing. Family members hear the warnings. Employers see [departures]({{ 'departures/' | relative_url }}) or absences. Journalists may report the prediction. By the time the deadline arrives, the prophecy has become part of the believer's public identity.
 
-The Seekers experienced exactly this dynamic. Researchers, reporters and curious observers surrounded the group during the final days before the expected rescue. The resulting publicity meant that failure unfolded before an audience rather than in private. Accounts from the period describe growing ridicule and scrutiny directed at leading believers as the prophecy approached and then failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia802802.us.archive.org">[ia802802.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia802802.us.archive.org</span><span class="citation-popover-title">Festinger Riecken Schachter When Prophecy Fails 1956</span><span class="citation-popover-snippet">Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</span></span></span>
+The Seekers experienced exactly this dynamic. Researchers, reporters and curious observers surrounded the group during the final days before the expected rescue. The resulting publicity meant that failure unfolded before an audience rather than in private. Accounts from the period describe growing ridicule and scrutiny directed at leading believers as the prophecy approached and then failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia802802.us.archive.org">[ia802802.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia802802.us.archive.org</span><span class="citation-popover-title">Festinger Riecken Schachter When Prophecy Fails 1956</span><span class="citation-popover-snippet">Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</span></span></span>
 
 For groups centred on UFO salvation, publicity creates a particularly sharp dilemma. The prediction is concrete: a craft will arrive, a catastrophe will occur, or a chosen group will depart. Once those events fail to materialise, the contradiction is visible to everyone who heard the original claim. Unlike vague spiritual promises, the expected rescue leaves little room for outsiders to miss the result.
 
@@ -319,9 +319,9 @@ Relatives could experience financial losses when a family member abandoned work,
 
 When the date failed, followers had to confront reactions from the same social networks they had previously tried to persuade. Skeptical relatives, neighbours and colleagues became living reminders of the failed prediction. The embarrassment was often intensified because the prophecy had been presented with certainty rather than as a possibility.
 
-Chen Tao's experience in Garland demonstrates this public dimension. The group's arrival attracted extensive media attention and concern among local residents. When the predicted events failed to occur, the failure was witnessed not only by members but also by journalists, law-enforcement officials and the wider community. The disappointment therefore carried a significant reputational cost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Chen Tao's experience in Garland demonstrates this public dimension. The group's arrival attracted extensive media attention and concern among local residents. When the predicted events failed to occur, the failure was witnessed not only by members but also by journalists, law-enforcement officials and the wider community. The disappointment therefore carried a significant reputational cost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-Public ridicule can also accelerate group fragmentation. Studies of failed prophecy movements have noted that intense external criticism sometimes demoralises believers and contributes to disintegration rather than renewed commitment. The outcome is not always greater faith; in some cases the social pressure becomes too great to sustain participation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Diana Tumminia, “How Prophecy Never Fails: Interpretive Reason in a Flying-Saucer.Read more...</span></span></span>
+Public ridicule can also accelerate group fragmentation. Studies of failed prophecy movements have noted that intense external criticism sometimes demoralises believers and contributes to disintegration rather than renewed commitment. The outcome is not always greater faith; in some cases the social pressure becomes too great to sustain participation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Diana Tumminia, “How Prophecy Never Fails: Interpretive Reason in a Flying-Saucer.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5V6FmVS_Gr0" title="10 Doomsday Cults That Got It Wrong | When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer">10 Doomsday Cults That Got It Wrong | When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: MythVision Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5V6FmVS_Gr0">Open on YouTube</a></p></div></div></div>
@@ -332,9 +332,9 @@ The most important lesson from failed saucer rescue dates is that sacrifice chan
 
 If a believer merely entertained the idea of extraterrestrial rescue, abandoning it after a missed deadline would be relatively straightforward. But when the belief has already cost money, status, relationships or personal credibility, admitting error becomes more complicated. The believer is no longer evaluating only the prediction. They are also evaluating the consequences of having acted on it.
 
-This dynamic became central to discussions surrounding *When Prophecy Fails*. Although historians continue to debate aspects of the original study and some recent scholarship challenges parts of its interpretation, the underlying observation remains influential: people who have invested heavily in a prediction often face strong psychological and social pressures after disconfirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+This dynamic became central to discussions surrounding *When Prophecy Fails*. Although historians continue to debate aspects of the original study and some recent scholarship challenges parts of its interpretation, the underlying observation remains influential: people who have invested heavily in a prediction often face strong psychological and social pressures after disconfirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-For UFO rescue prophecies, the problem is especially acute because the sacrifices are often visible and irreversible. A sold house, a lost job, a public warning campaign or a cross-country move cannot simply be undone when the saucer fails to arrive. The failed date therefore threatens not only a belief about extraterrestrials but also a person's narrative about why those sacrifices were made in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasGarland Chen made public his prophecies concerning the dual theophanies, Members had sold their houses and liquida...</span></span></span>
+For UFO rescue prophecies, the problem is especially acute because the sacrifices are often visible and irreversible. A sold house, a lost job, a public warning campaign or a cross-country move cannot simply be undone when the saucer fails to arrive. The failed date therefore threatens not only a belief about extraterrestrials but also a person's narrative about why those sacrifices were made in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasGarland Chen made public his prophecies concerning the dual theophanies, Members had sold their houses and liquida...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_public_sacrifice_res_44f5df-Illustration-3-dark.svg" | relative_url }}" alt="Public Stakes illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_public_sacrifice_res_44f5df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_public_sacrifice_res_44f5df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,201 +342,201 @@ For UFO rescue prophecies, the problem is especially acute because the sacrifice
 
 The history of failed UFO rescue predictions shows that the greatest damage is frequently incurred before the deadline. Believers may spend months reorganising their lives around an expected salvation event, making commitments that become increasingly difficult to reverse. By the time the predicted spacecraft fails to appear, the real issue is often not simply whether the prophecy was wrong but how much has already been invested in it.
 
-That is why public sacrifice occupies such an important place in the history of failed saucer rescue dates. The visible commitments—[selling possessions]({{ 'selling-up/' | relative_url }}), relocating, warning outsiders and staking one's reputation on a deadline—help explain both the intensity of the disappointment and the difficulty many believers faced when deciding what to do after the rescue never came. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+That is why public sacrifice occupies such an important place in the history of failed saucer rescue dates. The visible commitments—[selling possessions]({{ 'selling-up/' | relative_url }}), relocating, warning outsiders and staking one's reputation on a deadline—help explain both the intensity of the disappointment and the difficulty many believers faced when deciding what to do after the rescue never came.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vvFV1v8l-PI" title="The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer">The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vvFV1v8l-PI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Failed Rescue Dates Cost So Much. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Failed Rescue Dates Cost So Much. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Examines the Seekers group and explains why costly sacrifices can deepen commitment after predictions fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the Seekers group and explains why costly sacrifices can deepen commitment after predictions fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why people maintain beliefs despite contradictory evidence and public embarrassment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people maintain beliefs despite contradictory evidence and public embarrassment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains cognitive dissonance and self-justification, central to understanding failed rescue-date commitments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive dissonance and self-justification, central to understanding failed rescue-date commitments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides historical examples of collective belief, social pressure and costly public commitment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides historical examples of collective belief, social pressure and costly public commitment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="public-stakes-why-failed-rescue-dates-cost-so-much-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ That is why public sacrifice occupies such an important place in the history of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ That is why public sacrifice occupies such an important place in the history of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ That is why public sacrifice occupies such an important place in the history of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ That is why public sacrifice occupies such an important place in the history of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ That is why public sacrifice occupies such an important place in the history of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,131 +742,131 @@ That is why public sacrifice occupies such an important place in the history of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Seekers (rapturists)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Seekers_%28rapturists%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ia802802.us.archive.org  
    Title: Festinger Riecken Schachter When Prophecy Fails 1956  
-   Link: <a href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</p></details>
+   Link:<a href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cesnur.org  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasGarland Chen made public his prophecies concerning the dual theophanies, Members had sold their houses and liquida...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasGarland Chen made public his prophecies concerning the dual theophanies, Members had sold their houses and liquida...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopiDG89C0IpQ736ChwLFf8sd47IosXzxPyNKfubEzmN1WVJ-skN" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopiDG89C0IpQ736ChwLFf8sd47IosXzxPyNKfubEzmN1WVJ-skN</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In June, members of Chen Tao began moving to Garland, Texas, a bedroom community of 200,000 just north of Dall...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopiDG89C0IpQ736ChwLFf8sd47IosXzxPyNKfubEzmN1WVJ-skN" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOopiDG89C0IpQ736ChwLFf8sd47IosXzxPyNKfubEzmN1WVJ-skN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In June, members of Chen Tao began moving to Garland, Texas, a bedroom community of 200,000 just north of Dall...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diana Tumminia, “How Prophecy Never Fails: Interpretive Reason in a Flying-Saucer.Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diana Tumminia, “How Prophecy Never Fails: Interpretive Reason in a Flying-Saucer.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers.Read more...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Disconfirmed expectancy  
-   Link: <a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disconfirmed_expectancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disconfirmed_expectancy</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theatlantic.com  
    Title: the christmas the aliens didnt come  
-   Link: <a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — The Christmas the Aliens Didn&#x27;t Come. What a failed doomsday prophecy taught psychologi...</p></details>
+   Link:<a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — The Christmas the Aliens Didn&#x27;t Come. What a failed doomsday prophecy taught psychologi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: God's Salvation Church  
-   Link: <a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Cult of Chen Tao | Episode...When he and the rest of the UFOlogy cult take up residence in a Texas suburb, Hon-Ming Chen turn ou...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Cult of Chen Tao | Episode...When he and the rest of the UFOlogy cult take up residence in a Texas suburb, Hon-Ming Chen turn ou...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy Fails. The book is based on the account of Dorothy Martin, who in 1954 predicted a world-ending flood that would result in her...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy Fails. The book is based on the account of Dorothy Martin, who in 1954 predicted a world-ending flood that would result in her...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psychologytoday.com  
    Title: why do doomsday believers double down when prophecy fails  
-   Link: <a href="https://www.psychologytoday.com/gb/blog/freedom-of-mind/202506/why-do-doomsday-believers-double-down-when-prophecy-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/freedom-of-mind/202506/why-do-doomsday-believers-double-down-when-prophecy-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens about an imminent apocalypse. The... It also reminds us that using facts of ridicule to argue with a cult member will backfire.Re...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/blog/freedom-of-mind/202506/why-do-doomsday-believers-double-down-when-prophecy-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/freedom-of-mind/202506/why-do-doomsday-believers-double-down-when-prophecy-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens about an imminent apocalypse. The... It also reminds us that using facts of ridicule to argue with a cult member will backfire.Re...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: andzwa.medium.com  
    Title: cognitive dissonance and doomsday cults 785c9403cae5  
-   Link: <a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerIt&#x27;s a story of a 1950s cult called the Seekers led by a lady called Dorothy Martin who had...</p></details>
+   Link:<a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerIt&#x27;s a story of a 1950s cult called the Seekers led by a lady called Dorothy Martin who had...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>least claimed to learn from aliens. One alien claimed...Read more...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>least claimed to learn from aliens. One alien claimed...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bps.org.uk  
    Title: when when prophecy fails fails  
-   Link: <a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lesswrong.com  
    Title: debunking when prophecy fails  
-   Link: <a href="https://www.lesswrong.com/posts/qth5r82ZhMEXzc25y/debunking-when-prophecy-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/qth5r82ZhMEXzc25y/debunking-when-prophecy-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”6 Nov 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by f...</p></details>
+   Link:<a href="https://www.lesswrong.com/posts/qth5r82ZhMEXzc25y/debunking-when-prophecy-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/qth5r82ZhMEXzc25y/debunking-when-prophecy-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”6 Nov 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by f...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: quizlet.com  
    Title: festinger 1954 flash cards  
-   Link: <a href="https://quizlet.com/467873277/festinger-1954-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/467873277/festinger-1954-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger (1954) FlashcardsThe cult was led by Dorothy Martin (aka Marian Keech in Festinger&#x27;s book) who received &quot;messages&quot; through &quot;aut...</p></details>
+   Link:<a href="https://quizlet.com/467873277/festinger-1954-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/467873277/festinger-1954-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger (1954) FlashcardsThe cult was led by Dorothy Martin (aka Marian Keech in Festinger&#x27;s book) who received &quot;messages&quot; through &quot;aut...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger/dp/1578988527?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger/dp/1578988527?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROPHECY FAILS A...Read more...</p></details>
+   Link:<a href="https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger/dp/1578988527?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger/dp/1578988527?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROPHECY FAILS A...Read more...</p></details>

@@ -284,13 +284,13 @@ One of the most durable ways a UFO prediction survives failure is through a chan
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_craft_to_spiritual_r_8e35ad-Illustration-1-dark.svg" | relative_url }}" alt="Spiritual Shift illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_craft_to_spiritual_r_8e35ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_craft_to_spiritual_r_8e35ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism is especially important within failed UFO prophecies because UFO beliefs occupy an unusual space between technology, religion, mysticism, and salvation narratives. A saucer can be presented as a machine one day and as a transcendent reality the next. That flexibility allows a failed prediction to be absorbed into a larger story rather than abandoned outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+This mechanism is especially important within failed UFO prophecies because UFO beliefs occupy an unusual space between technology, religion, mysticism, and salvation narratives. A saucer can be presented as a machine one day and as a transcendent reality the next. That flexibility allows a failed prediction to be absorbed into a larger story rather than abandoned outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## When the Saucer Stops Being Just a Machine
 
-Early flying-saucer movements often described extraterrestrial visitors in highly physical terms. Contactees spoke of metallic craft, interplanetary travel, scheduled landings, and rescues from coming catastrophes. Yet many of the same movements also borrowed ideas from spiritualism, theosophy, channelled revelation, and Christian apocalyptic traditions. The result was a belief system in which a UFO could be both a spacecraft and a sacred vessel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Early flying-saucer movements often described extraterrestrial visitors in highly physical terms. Contactees spoke of metallic craft, interplanetary travel, scheduled landings, and rescues from coming catastrophes. Yet many of the same movements also borrowed ideas from spiritualism, theosophy, channelled revelation, and Christian apocalyptic traditions. The result was a belief system in which a UFO could be both a spacecraft and a sacred vessel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) movement studied in *When Prophecy Fails* illustrates this overlap. Martin's messages described rescue by spacecraft before a devastating flood, but her wider cosmology already included spiritual hierarchies, astral realms, different vibrational levels of existence, and beings who were simultaneously extraterrestrial and spiritually advanced. The prophecy therefore contained the seeds of reinterpretation before it ever failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) movement studied in *When Prophecy Fails* illustrates this overlap. Martin's messages described rescue by spacecraft before a devastating flood, but her wider cosmology already included spiritual hierarchies, astral realms, different vibrational levels of existence, and beings who were simultaneously extraterrestrial and spiritually advanced. The prophecy therefore contained the seeds of reinterpretation before it ever failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 When the predicted rescue did not happen, the language could move away from engineering and towards spirituality without requiring a complete break from the original worldview. The "craft" remained important, but increasingly as a symbol of higher guidance rather than a vehicle expected to arrive on a timetable.
 
@@ -308,7 +308,7 @@ The transition usually follows a predictable pattern.
 
 </div>
 
-In this framework, believers may be told that the spacecraft arrived but was invisible to ordinary perception, operated in another dimension, communicated telepathically rather than physically, or completed its mission spiritually rather than materially. The central claim survives because the meaning of "arrival" changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In this framework, believers may be told that the spacecraft arrived but was invisible to ordinary perception, operated in another dimension, communicated telepathically rather than physically, or completed its mission spiritually rather than materially. The central claim survives because the meaning of "arrival" changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5V6FmVS_Gr0" title="10 Doomsday Cults That Got It Wrong | When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer">10 Doomsday Cults That Got It Wrong | When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: MythVision Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5V6FmVS_Gr0">Open on YouTube</a></p></div></div></div>
@@ -323,9 +323,9 @@ First, it preserves the authority of the original message. If the prophecy was m
 
 Second, it transforms disappointment into insight. Followers who waited for a landing can be told that the real purpose was spiritual growth. The absence of the craft becomes part of the lesson rather than a contradiction of it.
 
-Third, spiritual explanations are difficult to falsify. A failed landing can be photographed, documented, and compared against predictions. Claims about invisible protection, altered timelines, higher dimensions, or collective consciousness cannot be tested in the same way. The discussion moves from observation to interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Third, spiritual explanations are difficult to falsify. A failed landing can be photographed, documented, and compared against predictions. Claims about invisible protection, altered timelines, higher dimensions, or collective consciousness cannot be tested in the same way. The discussion moves from observation to interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-This mechanism resembles what scholars of failed prophecy have long observed: predictions often survive when believers redefine what counts as fulfilment. In UFO movements, however, the transition is particularly smooth because the subject matter already combines technological imagery with spiritual meaning. A saucer can function simultaneously as a machine, a heavenly chariot, and a metaphor for transcendence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ub.uni-heidelberg.de/index.php/syllogos/article/view/110987/106763" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ub.uni-heidelberg.de">[HeiJOURNALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ub.uni-heidelberg.de</span><span class="citation-popover-title">Hei JOURNALSModern UFO Cults and Oracular Prophecy in Herodotus</span><span class="citation-popover-snippet">Herodotus. Daniel J. Crosby. ABSTRACT: Current scholarship on the topic of &#x27;failed prophecy&#x27;, both in.Read more...</span></span></span>
+This mechanism resembles what scholars of failed prophecy have long observed: predictions often survive when believers redefine what counts as fulfilment. In UFO movements, however, the transition is particularly smooth because the subject matter already combines technological imagery with spiritual meaning. A saucer can function simultaneously as a machine, a heavenly chariot, and a metaphor for transcendence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.ub.uni-heidelberg.de/index.php/syllogos/article/view/110987/106763" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.ub.uni-heidelberg.de">[HeiJOURNALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.ub.uni-heidelberg.de</span><span class="citation-popover-title">Hei JOURNALSModern UFO Cults and Oracular Prophecy in Herodotus</span><span class="citation-popover-snippet">Herodotus. Daniel J. Crosby. ABSTRACT: Current scholarship on the topic of &#x27;failed prophecy&#x27;, both in.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_craft_to_spiritual_r_8e35ad-Illustration-2-dark.svg" | relative_url }}" alt="Spiritual Shift illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_craft_to_spiritual_r_8e35ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_craft_to_spiritual_r_8e35ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,7 +346,7 @@ Originally, rescue may mean boarding a craft and physically escaping disaster. [
 
 </div>
 
-The classic post-failure explanation associated with the [Martin case]({{ 'martin-case/' | relative_url }}) was that the group's spiritual efforts had helped avert destruction. The expected flood never arrived, but that absence was interpreted as evidence that a higher intervention had succeeded. The rescue no longer involved transportation away from Earth. It involved the preservation of Earth itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The classic post-failure explanation associated with the [Martin case]({{ 'martin-case/' | relative_url }}) was that the group's spiritual efforts had helped avert destruction. The expected flood never arrived, but that absence was interpreted as evidence that a higher intervention had succeeded. The rescue no longer involved transportation away from Earth. It involved the preservation of Earth itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This is a crucial shift within UFO prophecy. The spacecraft ceases to be the main point. What matters is the salvific role previously assigned to it. Once salvation is detached from physical arrival, the prophecy can continue without the craft ever appearing.
 
@@ -359,7 +359,7 @@ A failed prediction could, in principle, cause a movement to abandon UFO languag
 
 They do so because UFOs perform several functions simultaneously.
 
-The UFO remains a marker of special knowledge. It signals that followers possess insight unavailable to outsiders. It also provides a bridge between modern technological culture and older religious themes. Instead of angels, chariots, or divine messengers, the narrative features advanced extraterrestrials, interdimensional intelligences, or cosmic guardians. The underlying structure of rescue and revelation remains recognisable even when the imagery changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The UFO remains a marker of special knowledge. It signals that followers possess insight unavailable to outsiders. It also provides a bridge between modern technological culture and older religious themes. Instead of angels, chariots, or divine messengers, the narrative features advanced extraterrestrials, interdimensional intelligences, or cosmic guardians. The underlying structure of rescue and revelation remains recognisable even when the imagery changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This allows believers to maintain continuity. They do not have to admit that the UFO was merely symbolic all along. Rather, they can claim that outsiders misunderstood its true nature. The craft was always more than a machine; the failed prediction simply revealed that deeper meaning.
 
@@ -371,203 +371,203 @@ The movement from craft to [spiritual rescue]({{ 'spiritual-rescue/' | relative_
 
 Specific predictions create risk. Vague spiritual fulfilments create flexibility. Once a prophecy has survived one failed deadline through reinterpretation, future claims can be framed more cautiously from the outset. Messages increasingly emphasise consciousness, vibration, awakening, preparation, or dimensional change rather than publicly observable landings.
 
-This does not necessarily happen through deliberate deception. Many believers sincerely conclude that they misunderstood earlier messages. Yet the practical effect is the same: the claim becomes harder to disprove because its fulfilment no longer depends on a visible spacecraft appearing at a visible place and time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+This does not necessarily happen through deliberate deception. Many believers sincerely conclude that they misunderstood earlier messages. Yet the practical effect is the same: the claim becomes harder to disprove because its fulfilment no longer depends on a visible spacecraft appearing at a visible place and time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Within the broader history of failed UFO predictions, this is one of the most effective survival mechanisms. The saucer begins as an object expected in the sky. After disappointment, it becomes a vehicle of spiritual meaning. The prophecy survives because the UFO is no longer judged solely by whether it arrives, but by whether believers can find a higher purpose in its absence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Alex Quigley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Within the broader history of failed UFO predictions, this is one of the most effective survival mechanisms. The saucer begins as an object expected in the sky. After disappointment, it becomes a vehicle of spiritual meaning. The prophecy survives because the UFO is no longer judged solely by whether it arrives, but by whether believers can find a higher purpose in its absence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Alex Quigley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sp-9m8kTT6g" title="When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sp-9m8kTT6g" target="_blank" rel="noopener noreferrer">When the World Didn’t End: 10 Doomsday Cults That Got It Totally Wrong!</a></p><p class="youtube-embed-meta">Channel: MythVision TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sp-9m8kTT6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sp-9m8kTT6g">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Saucer Stops Being Just a Machine. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Saucer Stops Being Just a Machine. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how believers reinterpret failed predictions rather than abandoning them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how believers reinterpret failed predictions rather than abandoning them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how technological UFO narratives evolve into spiritual and religious frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how technological UFO narratives evolve into spiritual and religious frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Argues that UFO experiences often shift from physical interpretations toward mythic and spiritual meanings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Argues that UFO experiences often shift from physical interpretations toward mythic and spiritual meanings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers historical examples of collective belief and the social dynamics that sustain implausible claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Offers historical examples of collective belief and the social dynamics that sustain implausible claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Show Flying Saucer SHADO POSTER"><img src="{{ '/assets/images/marketplace-covers/f905d9529d0c2d6446cf.jpg' | relative_url }}" alt="Listing image for UFO TV Show Flying Saucer SHADO POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">UFO TV Show Flying Saucer SHADO POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Show Flying Saucer SHADO POSTER"><img src="{{ '/assets/images/marketplace-covers/f905d9529d0c2d6446cf.jpg' | relative_url }}" alt="Listing image for UFO TV Show Flying Saucer SHADO POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">UFO TV Show Flying Saucer SHADO POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="spiritual-shift-when-the-saucer-stops-being-just-a-machine-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ Within the broader history of failed UFO predictions, this is one of the most ef
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ Within the broader history of failed UFO predictions, this is one of the most ef
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ Within the broader history of failed UFO predictions, this is one of the most ef
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ Within the broader history of failed UFO predictions, this is one of the most ef
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ Within the broader history of failed UFO predictions, this is one of the most ef
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,92 +773,92 @@ Within the broader history of failed UFO predictions, this is one of the most ef
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Leon Festinger  
-   Link: <a href="https://www.britannica.com/biography/Leon-Festinger/[Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/[Cognitive-dissonance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keech,” reported receiving messages from extraterrestrial aliens that the world would end in a great flood on a specific date.Read more...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Leon-Festinger/[Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/[Cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keech,” reported receiving messages from extraterrestrial aliens that the world would end in a great flood on a specific date.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Instead of abandoning the prophecy when no flood or flying saucer materialized, several of Martin&#x27;s follo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Instead of abandoning the prophecy when no flood or flying saucer materialized, several of Martin&#x27;s follo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: alexquigley.co.uk  
    Title: when prophecies fail and evidence backfires  
-   Link: <a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of rejecting Martin and her failed prophecies, the group quickly adapted and found a...Read more...</p></details>
+   Link:<a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of rejecting Martin and her failed prophecies, the group quickly adapted and found a...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.ub.uni-heidelberg.de  
    Title: Hei JOURNALSModern UFO Cults and Oracular Prophecy in Herodotus  
-   Link: <a href="https://journals.ub.uni-heidelberg.de/index.php/syllogos/article/view/110987/106763" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-heidelberg.de/index.php/syllogos/article/view/110987/106763</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Herodotus. Daniel J. Crosby. ABSTRACT: Current scholarship on the topic of &#x27;failed prophecy&#x27;, both in.Read more...</p></details>
+   Link:<a href="https://journals.ub.uni-heidelberg.de/index.php/syllogos/article/view/110987/106763" target="_blank" rel="noopener noreferrer nofollow">https://journals.ub.uni-heidelberg.de/index.php/syllogos/article/view/110987/106763</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Herodotus. Daniel J. Crosby. ABSTRACT: Current scholarship on the topic of &#x27;failed prophecy&#x27;, both in.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40nahudini/we-are-[not-ready" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nahudini/we-are-[not-ready</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WE ARE NOT READY. Contact, Civilization, and the Laws...UFOs: God From Inner Space. Lanham, Nahu. Alien Invasion Agenda. Lanham, Nahu. E...</p></details>
+   Link:<a href="https://medium.com/%40nahudini/we-are-[not-ready" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nahudini/we-are-[not-ready</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WE ARE NOT READY. Contact, Civilization, and the Laws...UFOs: God From Inner Space. Lanham, Nahu. Alien Invasion Agenda. Lanham, Nahu. E...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...13 Nov 2025 — New research questions When Prophecy Fails, the classic study of a...</p></details>
+   Link:<a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...13 Nov 2025 — New research questions When Prophecy Fails, the classic study of a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: templetonworldcharity.org  
    Title: Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?  
-   Link: <a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary resident, was the cult&#x27;s leader who claimed she could communicate with alie...</p></details>
+   Link:<a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary resident, was the cult&#x27;s leader who claimed she could communicate with alie...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mycharisma.com  
    Title: fbi ufo memo reveals alleged alien warning about humanitys future  
-   Link: <a href="https://mycharisma.com/news/fbi-ufo-memo-reveals-alleged-alien-warning-about-humanitys-future/" target="_blank" rel="noopener noreferrer nofollow">https://mycharisma.com/news/fbi-ufo-memo-reveals-alleged-alien-warning-about-humanitys-future/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UFO Memo Reveals Alleged &#x27;Alien&#x27; Warning About...15 May 2026 — Newly declassified FBI UFO files reveal chilling alleged alien messag...</p></details>
+   Link:<a href="https://mycharisma.com/news/fbi-ufo-memo-reveals-alleged-alien-warning-about-humanitys-future/" target="_blank" rel="noopener noreferrer nofollow">https://mycharisma.com/news/fbi-ufo-memo-reveals-alleged-alien-warning-about-humanitys-future/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UFO Memo Reveals Alleged &#x27;Alien&#x27; Warning About...15 May 2026 — Newly declassified FBI UFO files reveal chilling alleged alien messag...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: andzwa.medium.com  
    Title: cognitive dissonance and doomsday cults 785c9403cae5  
-   Link: <a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerThe buzz of excitement as people pondered what aliens look like. What colour sky would wait...</p></details>
+   Link:<a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerThe buzz of excitement as people pondered what aliens look like. What colour sky would wait...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Never Fails: Myth and Reality in a Flying-...When Prophecy Never Fails: Myth and Reality in a Flying-Saucer Group...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Never Fails: Myth and Reality in a Flying-...When Prophecy Never Fails: Myth and Reality in a Flying-Saucer Group...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers r...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: when prophecy fails the case study that helped  
-   Link: <a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...A foundational 1956 study of Cognitive Dissonance, focussed on a U.F.O. doomsda...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...A foundational 1956 study of Cognitive Dissonance, focussed on a U.F.O. doomsda...</p></details>

@@ -451,7 +451,7 @@ Apocalyptic Earth transformation claims are the sharpest form of failed UFO prop
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e-overview.webp" | relative_url }}" alt="Overview image for Apocalypse" loading="eager" decoding="sync" fetchpriority="high">
-The most revealing cases are not ordinary UFO sightings, but dated prophecies that make reality a witness. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flood-and-flying-saucer rescue, Chen Tao’s 1998 Texas prophecies, Heaven’s Gate’s Hale-Bopp interpretation, and [Ashtar]({{ 'ashtar/' | relative_url }})-linked evacuation narratives show how UFO apocalypse claims can fail visibly while still producing reinterpretation, fragmentation or renewed spiritualisation. They also show why the emotional cost is higher than in vague UFO belief: a failed apocalypse can leave people not only embarrassed, but materially, socially or physically harmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
+The most revealing cases are not ordinary UFO sightings, but dated prophecies that make reality a witness. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flood-and-flying-saucer rescue, Chen Tao’s 1998 Texas prophecies, Heaven’s Gate’s Hale-Bopp interpretation, and [Ashtar]({{ 'ashtar/' | relative_url }})-linked evacuation narratives show how UFO apocalypse claims can fail visibly while still producing reinterpretation, fragmentation or renewed spiritualisation. They also show why the emotional cost is higher than in vague UFO belief: a failed apocalypse can leave people not only embarrassed, but materially, socially or physically harmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
 
 ## Why UFO apocalypse claims are unusually testable
 
@@ -459,7 +459,7 @@ Many UFO claims are hard to settle. A witness may report a light, a craft, a mis
 
 That makes these claims more falsifiable than ordinary UFO stories. When the date passes and no flood, landing, television message or mass evacuation occurs, the prophecy has failed in the ordinary evidential sense. This does not prove that every UFO report is false, but it does show that a specific prophetic package has not matched the world.
 
-The distinction matters because official and scientific investigations into UFOs and UAPs have repeatedly separated unidentified observations from extraterrestrial conclusions. The US Air Force’s Project Blue Book ended with no evidence that unidentified sightings were extraterrestrial vehicles, while NASA’s 2023 UAP study said there was no conclusive peer-reviewed evidence for an extraterrestrial origin, even though better data collection was needed for [unresolved]({{ 'unresolved/' | relative_url }}) cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
+The distinction matters because official and scientific investigations into UFOs and UAPs have repeatedly separated unidentified observations from extraterrestrial conclusions. The US Air Force’s Project Blue Book ended with no evidence that unidentified sightings were extraterrestrial vehicles, while NASA’s 2023 UAP study said there was no conclusive peer-reviewed evidence for an extraterrestrial origin, even though better data collection was needed for [unresolved]({{ 'unresolved/' | relative_url }}) cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
 
 Apocalyptic UFO claims go beyond “we do not know what this was”. They usually add a story about cosmic authority, impending Earth crisis and a special path to survival. That extra story is where the failed prediction becomes visible.
 
@@ -469,11 +469,11 @@ Apocalyptic UFO claims go beyond “we do not know what this was”. They usuall
 
 The recurring image in UFO apocalypse claims is not simply alien arrival. It is Earth under judgement: water rising, nuclear war looming, the planet being “recycled”, governments hiding cosmic truth, or humanity being sorted into those who will be rescued and those who will not.
 
-Dorothy Martin’s group, often discussed through the case made famous in *When Prophecy Fails*, expected a destructive flood before dawn on 21 December 1954 and believed that committed followers would be rescued by flying saucer. The prophecy had a clear event window and a concrete expected outcome: catastrophe for the wider world, rescue for the faithful. Recent historical criticism has challenged the neat textbook version that the group simply became more committed after the failure, arguing instead that Martin recanted, the group dissolved, and proselytising ceased. That dispute matters because it weakens the simplistic claim that failed prophecy always strengthens belief, but it does not weaken the core point that the apocalyptic UFO prediction itself failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
+Dorothy Martin’s group, often discussed through the case made famous in *When Prophecy Fails*, expected a destructive flood before dawn on 21 December 1954 and believed that committed followers would be rescued by flying saucer. The prophecy had a clear event window and a concrete expected outcome: catastrophe for the wider world, rescue for the faithful. Recent historical criticism has challenged the neat textbook version that the group simply became more committed after the failure, arguing instead that Martin recanted, the group dissolved, and proselytising ceased. That dispute matters because it weakens the simplistic claim that failed prophecy always strengthens belief, but it does not weaken the core point that the apocalyptic UFO prediction itself failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
 
-Chen Tao, the Taiwanese UFO religion that moved to Garland, Texas, gave the pattern a late-1990s media form. Hon-Ming Chen predicted that God would announce his Second Coming on television channel 18 on 25 March 1998, then appear physically on 31 March. The wider prophetic frame included survival through a coming “Great Tribulation” and later claims about nuclear catastrophe. When the televised appearance did not happen, Chen revised his interpretation; when the physical appearance did not happen, the group’s credibility collapsed and many members left. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Chen Tao, the Taiwanese UFO religion that moved to Garland, Texas, gave the pattern a late-1990s media form. Hon-Ming Chen predicted that God would announce his Second Coming on television channel 18 on 25 March 1998, then appear physically on 31 March. The wider prophetic frame included survival through a coming “Great Tribulation” and later claims about nuclear catastrophe. When the televised appearance did not happen, Chen revised his interpretation; when the physical appearance did not happen, the group’s credibility collapsed and many members left.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-Heaven’s Gate shows the darkest edge of the same structure. The group interpreted Comet Hale-Bopp as a sign connected with a UFO and the chance to leave Earth for the “Next Level”. Britannica summarises the group’s belief that Hale-Bopp signalled a UFO that would take members onward; contemporary reporting described a lethal mixture of comet rumours, UFO expectation and apocalyptic belief behind the deaths of 39 members in 1997. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Early in 1997 a rumor circulated among the New Age and UFO communities that an artif...</span></span></span>
+Heaven’s Gate shows the darkest edge of the same structure. The group interpreted Comet Hale-Bopp as a sign connected with a UFO and the chance to leave Earth for the “Next Level”. Britannica summarises the group’s belief that Hale-Bopp signalled a UFO that would take members onward; contemporary reporting described a lethal mixture of comet rumours, UFO expectation and apocalyptic belief behind the deaths of 39 members in 1997.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Early in 1997 a rumor circulated among the New Age and UFO communities that an artif...</span></span></span>
 
 These cases differ sharply in outcome. Martin’s case became a landmark in social psychology. Chen Tao became a public policing and [media]({{ 'media/' | relative_url }})-management episode. Heaven’s Gate became a mass-death event. What binds them is the apocalyptic UFO mechanism: the sky is treated as a deadline, not merely a mystery.
 
@@ -486,11 +486,11 @@ Catastrophe gives UFO prophecy urgency. A future contact claim can always drift:
 
 That urgency can mobilise people in several ways.
 
-**It makes belief costly.** In the Dorothy Martin case, accounts describe followers preparing for rescue and orienting their lives around the flood date. The precise extent and aftermath of those sacrifices are debated by later historians, but the prophecy itself required people to treat a deadline as more important than normal life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
+**It makes belief costly.** In the Dorothy Martin case, accounts describe followers preparing for rescue and orienting their lives around the flood date. The precise extent and aftermath of those sacrifices are debated by later historians, but the prophecy itself required people to treat a deadline as more important than normal life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
 
-**It makes a small group feel historically central.** Apocalyptic UFO narratives often tell believers that they are not merely interested observers, but selected witnesses, ambassadors, evacuees or survivors. In Chen Tao’s case, the group’s move to Texas placed a small religious community at the centre of a supposed world-historical divine event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">God&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">God&#x27;s Salvation Church: Past, Present and Future</span></span></span>
+**It makes a small group feel historically central.** Apocalyptic UFO narratives often tell believers that they are not merely interested observers, but selected witnesses, ambassadors, evacuees or survivors. In Chen Tao’s case, the group’s move to Texas placed a small religious community at the centre of a supposed world-historical divine event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">God&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">God&#x27;s Salvation Church: Past, Present and Future</span></span></span>
 
-**It offers a moral explanation for global fear.** Nuclear war, ecological anxiety, social breakdown and cosmic uncertainty are recast as signs within a larger plan. Ashtar-linked beliefs are a useful example: scholarship on UFO religions describes extraterrestrial intervention, world evacuation and Earth transformation as recurring apocalyptic motifs, with failed physical expectations often shifting towards more spiritualised interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">Open source on uni-marburg.de.</span></span></span>
+**It offers a moral explanation for global fear.** Nuclear war, ecological anxiety, social breakdown and cosmic uncertainty are recast as signs within a larger plan. Ashtar-linked beliefs are a useful example: scholarship on UFO religions describes extraterrestrial intervention, world evacuation and Earth transformation as recurring apocalyptic motifs, with failed physical expectations often shifting towards more spiritualised interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">Open source on uni-marburg.de.</span></span></span>
 
 **It converts non-belief into danger.** If catastrophe is imminent, scepticism can be framed not as caution but as blindness. This is one reason failed UFO apocalypses can carry high emotional cost. People are not merely asked to accept aliens; they are asked to distrust ordinary social anchors at the moment when those anchors might protect them.
 
@@ -500,11 +500,11 @@ The strongest UFO apocalypse claims therefore do more than predict an event. The
 
 One of the most distinctive features of UFO apocalypse prophecy is the rescue clause. In older religious apocalypticism, salvation may be spiritual, heavenly or post-judgement. In UFO apocalypticism, rescue is often technological: saucers, spacecraft, fleets, “God planes”, or extraterrestrial commands evacuate chosen people before Earth’s crisis peaks.
 
-Dorothy Martin’s 1954 prophecy is the classic version: flood for the world, flying-saucer rescue for the faithful. Chen Tao’s later claims similarly linked divine action, flying saucers and survival through tribulation. Ashtar Command material popularised an even broader version, in which extraterrestrial fleets stand ready to evacuate or protect humanity during planetary danger. Google Books’ bibliographic entry for *Project World Evacuation* describes the premise directly: guardians of Earth are ready to protect the planet and evacuate inhabitants when danger is threatened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
+Dorothy Martin’s 1954 prophecy is the classic version: flood for the world, flying-saucer rescue for the faithful. Chen Tao’s later claims similarly linked divine action, flying saucers and survival through tribulation. Ashtar Command material popularised an even broader version, in which extraterrestrial fleets stand ready to evacuate or protect humanity during planetary danger. Google Books’ bibliographic entry for *Project World Evacuation* describes the premise directly: guardians of Earth are ready to protect the planet and evacuate inhabitants when danger is threatened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
 
 This rescue pattern is emotionally potent because it solves two problems at once. It explains why the world appears doomed, and it gives believers a privileged escape route. It also protects the prophecy from immediate practical scrutiny. If the rescue depends on hidden beings, secret timing or spiritual readiness, the absence of spacecraft can be reinterpreted as postponement, invisibility, human unworthiness, or a mercy granted because catastrophe was averted.
 
-That is where “avertive apocalypticism” becomes important. In this pattern, disaster is predicted but may be delayed, softened or prevented by spiritual action. Oxford’s handbook discussion frames avertive apocalypticism as belief in imminent worldly destruction that can be averted or forestalled through specific religious or ritual responses; UFO groups are among the movements where this pattern appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Open source on oup.com.</span></span></span>
+That is where “avertive apocalypticism” becomes important. In this pattern, disaster is predicted but may be delayed, softened or prevented by spiritual action. Oxford’s handbook discussion frames avertive apocalypticism as belief in imminent worldly destruction that can be averted or forestalled through specific religious or ritual responses; UFO groups are among the movements where this pattern appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Open source on oup.com.</span></span></span>
 
 The rescue clause therefore makes the prophecy testable and slippery at the same time. A named date can fail, but the believer may preserve the larger story by saying the rescue was spiritual, the danger was postponed, or the faithful helped prevent the worst.
 
@@ -516,11 +516,11 @@ The most important question after a failed UFO apocalypse is not only “Why did
 
 The answer varies by case.
 
-In Dorothy Martin’s case, the older popular lesson was that failure intensified commitment and produced more active proselytising. Recent archival criticism disputes that version, arguing that the group’s post-failure behaviour was less dramatic and less supportive of the standard [cognitive-dissonance]({{ 'dissonance/' | relative_url }}) story than many textbooks implied. This is a useful correction: failed prophecy does not have one automatic psychological outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
+In Dorothy Martin’s case, the older popular lesson was that failure intensified commitment and produced more active proselytising. Recent archival criticism disputes that version, arguing that the group’s post-failure behaviour was less dramatic and less supportive of the standard [cognitive-dissonance]({{ 'dissonance/' | relative_url }}) story than many textbooks implied. This is a useful correction: failed prophecy does not have one automatic psychological outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
 
-Chen Tao shows a different path: public failure, embarrassment, partial dispersal and revision. After God did not appear on television or in Garland as predicted, Chen acknowledged misunderstanding, offered himself for punishment, and the group lost many members. Later remnants moved and adapted further apocalyptic claims, but the highly public Texas prophecy did not survive intact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Chen Tao shows a different path: public failure, embarrassment, partial dispersal and revision. After God did not appear on television or in Garland as predicted, Chen acknowledged misunderstanding, offered himself for punishment, and the group lost many members. Later remnants moved and adapted further apocalyptic claims, but the highly public Texas prophecy did not survive intact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-Ashtar-linked prophecy shows a more diffuse pattern. Because Ashtar claims were channelled by many people rather than governed by one central institution, failed messages could be displaced onto unreliable channelers, negative influences, symbolic fulfilment or future correction. The movement’s content shifted over time from imminent physical landings and Earth rescue towards more spiritualised teachings about human transformation, according to scholarship summarised in reference works on UFO religions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Ashtar-linked prophecy shows a more diffuse pattern. Because Ashtar claims were channelled by many people rather than governed by one central institution, failed messages could be displaced onto unreliable channelers, negative influences, symbolic fulfilment or future correction. The movement’s content shifted over time from imminent physical landings and Earth rescue towards more spiritualised teachings about human transformation, according to scholarship summarised in reference works on UFO religions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 These differences matter. “Failed UFO prophecy” should not be reduced to one stereotype in which every believer doubles down forever. Some leave. Some reinterpret. Some fragment. Some spiritualise the claim. Some leaders apologise or revise. Some communities become more dangerous before they collapse. The failed date is only the first test; the aftermath shows the social structure around the belief.
 
@@ -531,7 +531,7 @@ These differences matter. “Failed UFO prophecy” should not be reduced to one
 
 Apocalyptic UFO claims often become public events before the predicted event occurs. Reporters gather, neighbours worry, police prepare, scholars are consulted, and the group becomes aware that the outside world is watching. That attention can help prevent harm, but it can also turn a small prophecy into a spectacle.
 
-Chen Tao is the clearest example. The group’s presence in Garland attracted heavy media attention partly because it came soon after Heaven’s Gate. Scholars and law-enforcement observers later treated the case as a lesson in how authorities might respond without escalating a peaceful but unusual religious group. Search summaries of the scholarship describe police coordination, the involvement of religious studies expertise, and public anxiety about whether the group might become another mass-death case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Open source on jstor.org.</span></span></span>
+Chen Tao is the clearest example. The group’s presence in Garland attracted heavy media attention partly because it came soon after Heaven’s Gate. Scholars and law-enforcement observers later treated the case as a lesson in how authorities might respond without escalating a peaceful but unusual religious group. Search summaries of the scholarship describe police coordination, the involvement of religious studies expertise, and public anxiety about whether the group might become another mass-death case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Open source on jstor.org.</span></span></span>
 
 The risk is that outsiders may flatten every apocalyptic UFO group into the same “suicide cult” template. That can obscure real differences. Heaven’s Gate did end in mass death; Chen Tao did not. Dorothy Martin’s group did not become a mass-casualty event. Treating all such groups as identical can produce panic, stigma and poor decisions.
 
@@ -543,7 +543,7 @@ The point is not to mock believers. It is to recognise that apocalyptic UFO clai
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e-Illustration-3-dark.svg" | relative_url }}" alt="Apocalypse illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What non-events reveal
 
-The non-event is the most important evidence in this subtopic. No flood arrived for Dorothy Martin’s group on 21 December 1954. God did not appear on television for Chen Tao on 25 March 1998 or physically in Garland on 31 March. The Hale-Bopp UFO belief did not produce a verifiable spacecraft rescue. Ashtar-linked expectations of public landings, evacuations or world-transforming interventions have repeatedly lacked public confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Wikipedia+3PubMed+3Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
+The non-event is the most important evidence in this subtopic. No flood arrived for Dorothy Martin’s group on 21 December 1954. God did not appear on television for Chen Tao on 25 March 1998 or physically in Garland on 31 March. The Hale-Bopp UFO belief did not produce a verifiable spacecraft rescue. Ashtar-linked expectations of public landings, evacuations or world-transforming interventions have repeatedly lacked public confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Wikipedia+3PubMed+3Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
 
 A failed apocalyptic UFO prediction reveals three things at once.
 
@@ -565,194 +565,194 @@ The failure of such claims does not mean every unexplained aerial report has a s
 For readers trying to assess a UFO apocalypse claim, the warning signs are practical rather than exotic: a fixed deadline, a demand for irreversible sacrifice, a promise that only insiders will survive, an explanation that failure will prove success, and a leader or channel who can continually revise the message without accountability. Those features are what make apocalyptic UFO prophecy dangerous even before the predicted date arrives.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Prophecy Predicts Earth&#x27;s End. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Prophecy Predicts Earth&#x27;s End. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader UFO context that attracts readers interested in prophecy, contact claims, and extraterrestrial beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO context that attracts readers interested in prophecy, contact claims, and extraterrestrial beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explores extraordinary claims, belief formation, and critical thinking relevant to UFO apocalypse narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores extraordinary claims, belief formation, and critical thinking relevant to UFO apocalypse narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly examines Dorothy Martin&#x27;s flying-saucer prophecy group and the psychology of failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Dorothy Martin&#x27;s flying-saucer prophecy group and the psychology of failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why people embrace and maintain strong beliefs even when predictions fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people embrace and maintain strong beliefs even when predictions fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool"><img src="{{ '/assets/images/marketplace-covers/fb160c0bd6265f087d7a.jpg' | relative_url }}" alt="Listing image for Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Large 3D Alien Wall Plaque ET UFO Style Extra Terrestrial Wall Sign Very Cool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="{{ '/assets/images/marketplace-covers/ca65b55c57bdf2da97e6.jpg' | relative_url }}" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="apocalypse-when-ufo-prophecy-predicts-earth-s-end-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -768,7 +768,7 @@ For readers trying to assess a UFO apocalypse claim, the warning signs are pract
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -788,7 +788,7 @@ For readers trying to assess a UFO apocalypse claim, the warning signs are pract
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -820,7 +820,7 @@ For readers trying to assess a UFO apocalypse claim, the warning signs are pract
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -872,7 +872,7 @@ For readers trying to assess a UFO apocalypse claim, the warning signs are pract
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -917,7 +917,7 @@ For readers trying to assess a UFO apocalypse claim, the warning signs are pract
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -958,169 +958,169 @@ For readers trying to assess a UFO apocalypse claim, the warning signs are pract
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</p></details>
    Published: May 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Early in 1997 a rumor circulated among the New Age and UFO communities that an artif...</p></details>
+   Link:<a href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early in 1997 a rumor circulated among the New Age and UFO communities that an artif...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: d-nb.info  
    Title: God's Salvation Church: Past, Present and Future  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archiv.ub.uni-marburg.de  
-   Link: <a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624</a>  
+   Link:<a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
+   Link:<a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: books.google.com  
    Title: Books Project: World Evacuation  
-   Link: <a href="https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of dates predicted for apocalyptic events  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2006.10.2.75" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2006.10.2.75</a>  
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2006.10.2.75" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2006.10.2.75</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the Air...Read more...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the Air...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theatlantic.com  
    Title: the christmas the aliens didnt come  
-   Link: <a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AtlanticThe Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — It all started with a prophecy that a massive flood was coming on December...</p></details>
+   Link:<a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AtlanticThe Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — It all started with a prophecy that a massive flood was coming on December...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin & The Seekers  
-   Link: <a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vvFV1v8l-PI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: The UFO Cult That Convinced 39 People to Die Together...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vvFV1v8l-PI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: The UFO Cult That Convinced 39 People to Die Together...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: The BRUTALITY Of The Heaven's Gate Cult  
-   Link: <a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
+   Link:<a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/legitngbreakingnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/1133390988815341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/legitngbreakingnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/1133390988815341/</a>  
+   Link:<a href="https://www.facebook.com/legitngbreakingnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/1133390988815341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/legitngbreakingnews/posts/a-book-which-had-existed-for-over-900-years-predicted-the-year-the-world-will-en/1133390988815341/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1340012006110961/posts/1354511604661001/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1340012006110961/posts/1354511604661001/</a>  
+   Link:<a href="https://www.facebook.com/groups/1340012006110961/posts/1354511604661001/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1340012006110961/posts/1354511604661001/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/167240849991995/posts/8543410359041627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/167240849991995/posts/8543410359041627/</a>  
+   Link:<a href="https://www.facebook.com/groups/167240849991995/posts/8543410359041627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/167240849991995/posts/8543410359041627/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Books-Ashtar-Command/s?rh=n%3A283155%2Cp_27%3AAshtar%2BCommand&amp;tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Books-Ashtar-Command/s?rh=n%3A283155%2Cp_27%3AAshtar%2BCommand&amp;tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.com/Books-Ashtar-Command/s?rh=n%3A283155%2Cp_27%3AAshtar%2BCommand&amp;tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Books-Ashtar-Command/s?rh=n%3A283155%2Cp_27%3AAshtar%2BCommand&amp;tag=searcht-20</a>  

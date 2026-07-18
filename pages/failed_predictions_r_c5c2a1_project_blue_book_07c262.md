@@ -447,7 +447,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-overv
 
 ## Introduction
 
-Project Blue Book matters to failed UFO predictions because it supplies the official evidential backdrop against which many prophecy claims are judged. It was not a tribunal for every saucer religion, alien-contact message or date-setting prophecy. Its job was narrower: to collect and assess UFO reports for the US Air Force, especially in relation to national security and possible scientific or technical implications. By the time it closed in 1969, Blue Book had received 12,618 reports, with 701 still listed as “unidentified”, but the Air Force said it had found no evidence that any investigated UFO was an extraterrestrial vehicle or a technology beyond modern scientific knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+Project Blue Book matters to failed UFO predictions because it supplies the official evidential backdrop against which many prophecy claims are judged. It was not a tribunal for every saucer religion, alien-contact message or date-setting prophecy. Its job was narrower: to collect and assess UFO reports for the US Air Force, especially in relation to national security and possible scientific or technical implications. By the time it closed in 1969, Blue Book had received 12,618 reports, with 701 still listed as “unidentified”, but the Air Force said it had found no evidence that any investigated UFO was an extraterrestrial vehicle or a technology beyond modern scientific knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,13 +455,13 @@ That distinction is crucial. A failed UFO prophecy usually collapses because a p
 
 ## What Blue Book investigated
 
-Project Blue Book was the best-known phase of a longer US Air Force effort that began after the post-war rise of “flying saucer” reports. The Air Force fact sheet places official UFO investigations from 1947 to 1969 and identifies Blue Book as the programme headquartered at Wright-Patterson Air Force Base in Ohio, terminated on 17 December 1969. Its central questions were not spiritual, prophetic or theological. They were whether UFO reports indicated a national-security threat, whether they revealed technology beyond known science, and whether they showed evidence of extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+Project Blue Book was the best-known phase of a longer US Air Force effort that began after the post-war rise of “flying saucer” reports. The Air Force fact sheet places official UFO investigations from 1947 to 1969 and identifies Blue Book as the programme headquartered at Wright-Patterson Air Force Base in Ohio, terminated on 17 December 1969. Its central questions were not spiritual, prophetic or theological. They were whether UFO reports indicated a national-security threat, whether they revealed technology beyond known science, and whether they showed evidence of extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 That makes Blue Book a dataset-evidence source rather than a prophecy-debunking office. Its files were built around reported sightings, not around predictions of future events. A witness might describe lights, radar returns, shapes, motion, duration, location and other observational details. A prophecy claim, by contrast, often asserts [private revelation]({{ 'private-claims/' | relative_url }}), telepathic contact, a future landing, a rescue scenario or a hidden cosmic plan. Those claims could overlap culturally with UFO sightings, but they were not the same kind of evidence.
 
-The Air Force’s own summary gives the strongest compact statement of the project’s evidential result: of 12,618 sightings, 701 remained “unidentified”; nevertheless, the Air Force concluded that none of the UFOs it reported, investigated and evaluated indicated a threat to US national security, none showed evidence of technology beyond the range of modern scientific knowledge, and none was shown to be an extraterrestrial vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The Air Force’s own summary gives the strongest compact statement of the project’s evidential result: of 12,618 sightings, 701 remained “unidentified”; nevertheless, the Air Force concluded that none of the UFOs it reported, investigated and evaluated indicated a threat to US national security, none showed evidence of technology beyond the range of modern scientific knowledge, and none was shown to be an extraterrestrial vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-The 701 [unresolved]({{ 'unresolved/' | relative_url }}) cases are important because they are often misused. “Unidentified” did not mean “alien”. It meant the available information did not permit a confident ordinary identification. NASA’s later UAP study made a similar methodological point in modern language: eyewitness reports may be interesting, but they often lack reproducible, calibrated information needed to decide what a phenomenon is, and there is no conclusive peer-reviewed evidence for an extraterrestrial origin for UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+The 701 [unresolved]({{ 'unresolved/' | relative_url }}) cases are important because they are often misused. “Unidentified” did not mean “alien”. It meant the available information did not permit a confident ordinary identification. NASA’s later UAP study made a similar methodological point in modern language: eyewitness reports may be interesting, but they often lack reproducible, calibrated information needed to decide what a phenomenon is, and there is no conclusive peer-reviewed evidence for an extraterrestrial origin for UAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,7 +469,7 @@ The 701 [unresolved]({{ 'unresolved/' | relative_url }}) cases are important bec
 
 Blue Book’s conclusions were broad but not unlimited. They covered investigated UFO reports, not every claim made in UFO subcultures. A saucer-contact group could say that extraterrestrials had sent a message, postponed a landing, spiritually saved the Earth, or chosen not to appear because humanity was [not ready]({{ 'not-ready/' | relative_url }}). Blue Book’s files could not fully test such claims unless they produced a public, observable event or physical evidence. This matters because many failed UFO predictions retreat into claims that are less testable after the expected date passes.
 
-The most famous UFO prophecy case, [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue prediction, illustrates the difference. Martin predicted an apocalyptic flood and rescue by flying saucers. The predicted catastrophe and rescue did not occur. The case became famous through *When Prophecy Fails*, although recent historical criticism argues that the canonical social-psychology account overstated or misread what happened after the failed prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
+The most famous UFO prophecy case, [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue prediction, illustrates the difference. Martin predicted an apocalyptic flood and rescue by flying saucers. The predicted catastrophe and rescue did not occur. The case became famous through *When Prophecy Fails*, although recent historical criticism argues that the canonical social-psychology account overstated or misread what happened after the failed prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</span></span></span>
 
 Blue Book did not need to rule on Martin’s private messages from space beings to make the prophecy evidentially weak. The predicted event itself failed in public time. But Blue Book’s wider significance is that it gave no independent support to the background assumption that alien vehicles were visiting Earth in a way that could plausibly underwrite such rescue claims. In other words, the prophecy failed directly because the promised event did not happen; it was further weakened indirectly because the official sighting record did not establish the extraterrestrial infrastructure that the prophecy required.
 
@@ -480,25 +480,25 @@ This same distinction applies to later UFO-related prophecies and contact expect
 
 ## Why unresolved sightings did not rescue failed prophecies
 
-The strongest misunderstanding around Blue Book is the leap from “some reports remained unidentified” to “therefore alien prophecies were plausible”. That leap is not supported by the official record. The Air Force retained an unidentified category, but its final conclusions still rejected extraterrestrial interpretation as an established finding. The National Archives repeats the same three-part conclusion: no national-security threat, no evidence of beyond-known-science technology, and no evidence that unidentified sightings were extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
+The strongest misunderstanding around Blue Book is the leap from “some reports remained unidentified” to “therefore alien prophecies were plausible”. That leap is not supported by the official record. The Air Force retained an unidentified category, but its final conclusions still rejected extraterrestrial interpretation as an established finding. The National Archives repeats the same three-part conclusion: no national-security threat, no evidence of beyond-known-science technology, and no evidence that unidentified sightings were extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
-The 2024 All-domain Anomaly Resolution Office historical report helps clarify the same pattern across earlier programmes. It notes that Captain Edward Ruppelt wanted an “unknown” category so cases would not be forced into premature explanations. That is significant: a serious unknown category can be a sign of caution, not belief. The same AARO historical review says the Battelle-supported statistical work behind Special Report No. 14 used improved questionnaires and punch-card analysis, yet assessed that cases with enough data were resolved and that it was highly improbable the reports represented technology beyond the scientific knowledge of the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The 2024 All-domain Anomaly Resolution Office historical report helps clarify the same pattern across earlier programmes. It notes that Captain Edward Ruppelt wanted an “unknown” category so cases would not be forced into premature explanations. That is significant: a serious unknown category can be a sign of caution, not belief. The same AARO historical review says the Battelle-supported statistical work behind Special Report No. 14 used improved questionnaires and punch-card analysis, yet assessed that cases with enough data were resolved and that it was highly improbable the reports represented technology beyond the scientific knowledge of the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 This is why Blue Book is awkward for both extremes. It does not prove that every witness was foolish, deceptive or mistaken. Some reports remained unresolved. But it also does not provide the missing bridge from unresolved aerial report to date-specific prophecy. A prophecy about a rescue craft, public landing or alien intervention needs more than an unexplained light or radar incident. It needs the predicted event to happen.
 
-The [Condon Report]({{ 'condon-report/' | relative_url }}) and the National Academy of Sciences review reinforced the same evidential direction near the end of Blue Book. The National Academy summary of the Colorado study said about 90 per cent of UFO reports were plausibly related to ordinary phenomena, that little had come from UFO study in the previous 21 years that added to scientific knowledge, and that further extensive study was not justified on the expectation that science would be advanced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDof the university of colorado report on unidentified flying</span><span class="citation-popover-snippet">WHS ESDof the university of colorado report on unidentified flying...September 25, 2012 — The study concludes (a) that about 90 percent...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
+The [Condon Report]({{ 'condon-report/' | relative_url }}) and the National Academy of Sciences review reinforced the same evidential direction near the end of Blue Book. The National Academy summary of the Colorado study said about 90 per cent of UFO reports were plausibly related to ordinary phenomena, that little had come from UFO study in the previous 21 years that added to scientific knowledge, and that further extensive study was not justified on the expectation that science would be advanced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">ESDof the university of colorado report on unidentified flying</span><span class="citation-popover-snippet">WHS ESDof the university of colorado report on unidentified flying...September 25, 2012 — The study concludes (a) that about 90 percent...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official findings frame prophecy failures
 
-Blue Book frames failed UFO predictions in three practical ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[origins.osu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">project blue book</span><span class="citation-popover-snippet">project blue book</span></span></span>
+Blue Book frames failed UFO predictions in three practical ways.<span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[origins.osu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">project blue book</span><span class="citation-popover-snippet">project blue book</span></span></span>
 
 **First, it separates unidentified reports from alien confirmation.** A failed prophecy often depends on treating UFO reports as indirect confirmation that extraterrestrials are already present and operational. Blue Book’s record does not support that move. Its unresolved cases leave room for uncertainty about particular sightings, but not for the stronger claim that alien craft were verified.
 
 **Second, it shifts attention from belief to evidence.** Prophecy groups may interpret failure spiritually: the rescue was postponed, the catastrophe was averted, the contact occurred invisibly, or believers’ faith changed the outcome. Blue Book does not answer those internal theological moves. It instead anchors the public question: was there physical, observational or technical evidence of the predicted alien event? In the cases most relevant to failed UFO predictions, that evidence is absent.
 
-**Third, it shows why official debunking can still leave cultural fuel behind.** The Robertson Panel, discussed in the 2024 AARO historical review, concluded that UFOs were not an extraterrestrial threat but worried about public hysteria and recommended using public channels to debunk UFO reports and monitor enthusiast organisations. AARO also notes that this public-steering proposal existed even though the panel did not believe UFOs were foreign or extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+**Third, it shows why official debunking can still leave cultural fuel behind.** The Robertson Panel, discussed in the 2024 AARO historical review, concluded that UFOs were not an extraterrestrial threat but worried about public hysteria and recommended using public channels to debunk UFO reports and monitor enthusiast organisations. AARO also notes that this public-steering proposal existed even though the panel did not believe UFOs were foreign or extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 That last point matters because distrust of official handling can become part of prophecy culture. When a landing fails, believers can say the authorities suppressed the truth, the event was hidden, or official denial proves the prophecy threatened powerful institutions. Blue Book’s record therefore plays a double role: evidentially, it weakens alien-prophecy claims; culturally, its official status and perceived dismissiveness sometimes become material for new claims about concealment.
 
@@ -509,9 +509,9 @@ That last point matters because distrust of official handling can become part of
 
 The most useful phrase for Blue Book’s relevance to prophecy claims is the “alien evidence gap”. On one side are thousands of reports, public fascination, unexplained cases, and occasional official concern that unidentified reports could clog intelligence channels or be exploited during the Cold War. On the other side is the missing evidence needed to validate the prophetic leap: confirmed alien vehicles, recovered extraterrestrial technology, reliable public contact, or fulfilled dated intervention.
 
-The National Archives is explicit on one of the most persistent alien-evidence claims: it says it could not locate Project Blue Book records discussing the 1947 Roswell incident, and that later Air Force research found no information showing Roswell was a UFO event or a government cover-up; materials recovered were consistent with a balloon device from a then-classified project, and no records indicated alien bodies or extraterrestrial materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
+The National Archives is explicit on one of the most persistent alien-evidence claims: it says it could not locate Project Blue Book records discussing the 1947 Roswell incident, and that later Air Force research found no information showing Roswell was a UFO event or a government cover-up; materials recovered were consistent with a balloon device from a then-classified project, and no records indicated alien bodies or extraterrestrial materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
-Modern reviews have not closed that gap in favour of prophecy claims. NASA’s UAP independent study said extraterrestrial life should be treated as a hypothesis of last resort when explaining UAP and that no conclusive evidence in peer-reviewed literature supports an extraterrestrial origin. AARO’s 2024 historical review likewise reported that no US government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+Modern reviews have not closed that gap in favour of prophecy claims. NASA’s UAP independent study said extraterrestrial life should be treated as a hypothesis of last resort when explaining UAP and that no conclusive evidence in peer-reviewed literature supports an extraterrestrial origin. AARO’s 2024 historical review likewise reported that no US government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 For failed UFO predictions, that does not mean every aerial anomaly is solved or that official investigations were perfect. It means the evidential burden remains on the prophecy. A date-specific prediction becomes credible only if the predicted event occurs or if independent evidence verifies the alien source behind it. Blue Book’s legacy is that, across a large official sighting archive, the missing step from “unidentified” to “extraterrestrial agent of prophecy” was never established.
 
@@ -519,7 +519,7 @@ For failed UFO predictions, that does not mean every aerial anomaly is solved or
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The takeaway for failed UFO predictions
 
-Project Blue Book did not adjudicate every saucer prophecy, and it should not be treated as if it did. Its relevance is more basic and more durable. It tested the surrounding claim that UFO reports, once properly investigated, pointed to extraterrestrial visitors. The Air Force’s answer was no: many reports had ordinary explanations, some remained unresolved, but none was shown to be alien technology or a national-security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+Project Blue Book did not adjudicate every saucer prophecy, and it should not be treated as if it did. Its relevance is more basic and more durable. It tested the surrounding claim that UFO reports, once properly investigated, pointed to extraterrestrial visitors. The Air Force’s answer was no: many reports had ordinary explanations, some remained unresolved, but none was shown to be alien technology or a national-security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 That makes Blue Book a boundary marker for interpreting failed UFO predictions. A prophecy can fail at the event level when the promised craft, rescue, broadcast or landing does not happen. It can also fail at the evidential-background level when the broader UFO record does not establish the alien presence on which the prophecy depends. Blue Book did not close every mystery in the sky. It did close off, in official evidential terms, the easy conversion of those mysteries into proof that alien prophecies were true.
 
@@ -528,194 +528,194 @@ That makes Blue Book a boundary marker for interpreting failed UFO predictions. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Project Blue Book and the Alien Evidence Gap. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Project Blue Book and the Alien Evidence Gap. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers firsthand perspective on investigation methods and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers firsthand perspective on investigation methods and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for official UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for official UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly tied to the origins and investigative context of Project Blue Book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly tied to the origins and investigative context of Project Blue Book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports discussion of evidence standards and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports discussion of evidence standards and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New"><img src="{{ '/assets/images/marketplace-covers/c1331218a00ac90d30d0.jpg' | relative_url }}" alt="Listing image for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New"><img src="{{ '/assets/images/marketplace-covers/c1331218a00ac90d30d0.jpg' | relative_url }}" alt="Listing image for NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">NEW Alien Romulus Regal Popcorn Facehugger Lightup Bucket Film Memorabilia New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/2ac1b5230bb4e4527cbf.jpg' | relative_url }}" alt="Listing image for Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Alien Signed Large A2 Sci-Fi Horror Framed Printed Autograph Memorabilia Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS PATCH MEMORABILIA ALIEN NOSTROMO USCSS CLOTH PATCH HIGH QUALITY"><img src="{{ '/assets/images/marketplace-covers/ca59c9290c5a4a2bb285.jpg' | relative_url }}" alt="Listing image for ALIENS PATCH MEMORABILIA ALIEN NOSTROMO USCSS CLOTH PATCH HIGH QUALITY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS PATCH MEMORABILIA ALIEN NOSTROMO USCSS CLOTH PATCH HIGH QUALITY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS PATCH MEMORABILIA ALIEN NOSTROMO USCSS CLOTH PATCH HIGH QUALITY"><img src="{{ '/assets/images/marketplace-covers/ca59c9290c5a4a2bb285.jpg' | relative_url }}" alt="Listing image for ALIENS PATCH MEMORABILIA ALIEN NOSTROMO USCSS CLOTH PATCH HIGH QUALITY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS PATCH MEMORABILIA ALIEN NOSTROMO USCSS CLOTH PATCH HIGH QUALITY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare"><img src="{{ '/assets/images/marketplace-covers/c96f63b80d570049044d.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare"><img src="{{ '/assets/images/marketplace-covers/c96f63b80d570049044d.jpg' | relative_url }}" alt="Listing image for ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM STICKER MEMORABILIA “ ALIEN USCSS NOSTROMO 180286” Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien memorabilia" data-ebay-reference="blue-book-project-blue-book-and-the-alien-evidence-gap-failed-predictions-alien-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -731,7 +731,7 @@ That makes Blue Book a boundary marker for interpreting failed UFO predictions. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -751,7 +751,7 @@ That makes Blue Book a boundary marker for interpreting failed UFO predictions. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -783,7 +783,7 @@ That makes Blue Book a boundary marker for interpreting failed UFO predictions. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -835,7 +835,7 @@ That makes Blue Book a boundary marker for interpreting failed UFO predictions. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -880,7 +880,7 @@ That makes Blue Book a boundary marker for interpreting failed UFO predictions. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -921,200 +921,200 @@ That makes Blue Book a boundary marker for interpreting failed UFO predictions. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: esd.whs.mil  
    Title: ESDof the university of colorado report on unidentified flying  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDof the university of colorado report on unidentified flying...September 25, 2012 — The study concludes (a) that about 90 percent...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDof the university of colorado report on unidentified flying...September 25, 2012 — The study concludes (a) that about 90 percent...</p></details>
    Published: September 25, 2012  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: esd.whs.mil  
    Title: mil IMMEDIAT E RELEASE  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/852591292422526/posts/1717523702595943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852591292422526/posts/1717523702595943/</a>  
+   Link:<a href="https://www.facebook.com/groups/852591292422526/posts/1717523702595943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852591292422526/posts/1717523702595943/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
+   Link:<a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: britannica.com  
    Title: Project Blue Book | Definition, History, Aliens, UFOs, & Facts  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports since. 1948, the conclusions of Project Blue Book were: (1) no UFO reported, investigated and evaluated by the Air Force was...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports since. 1948, the conclusions of Project Blue Book were: (1) no UFO reported, investigated and evaluated by the Air Force was...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: US Air Force Claims NO ALIEN Investigations Since PROJECT BLUE BOOK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: US Air Force Claims NO ALIEN Investigations Since PROJECT BLUE BOOK...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFO: US Air Force Claims NO ALIEN Investigations Since PROJECT BLUE BOOK  
-   Link: <a href="https://www.youtube.com/watch?v=I1hf7WjG46Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I1hf7WjG46Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the World Didn&#x27;t End: 10 Doomsday Cults That Got It Totally Wrong...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I1hf7WjG46Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I1hf7WjG46Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the World Didn&#x27;t End: 10 Doomsday Cults That Got It Totally Wrong...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: gwern.net  
    Title: 2025 kelly  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying sa...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying sa...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theswissbay.ch  
-   Link: <a href="https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Allen.and.Unwin-The.UFO.Diaries.Travels.in.the.Weird.World.of.High.Strangeness.2011.RETAiL.EBook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Allen.and.Unwin-The.UFO.Diaries.Travels.in.the.Weird.World.of.High.Strangeness.2011.RETAiL.EBook.pdf</a>  
+   Link:<a href="https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Allen.and.Unwin-The.UFO.Diaries.Travels.in.the.Weird.World.of.High.Strangeness.2011.RETAiL.EBook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/Allen.and.Unwin-The.UFO.Diaries.Travels.in.the.Weird.World.of.High.Strangeness.2011.RETAiL.EBook.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nscs8i/youve_been_lied_to_australian_intel_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nscs8i/youve_been_lied_to_australian_intel_report/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1nscs8i/youve_been_lied_to_australian_intel_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nscs8i/youve_been_lied_to_australian_intel_report/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/</a>  
+   Link:<a href="https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/</a>  

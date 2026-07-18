@@ -274,17 +274,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_rid
 
 ## Introduction
 
-Among failed UFO-related prophecies, few predictions were easier to test than the one tied to 3513 Ridgedale Drive in [Garland]({{ 'garland/' | relative_url }}), Texas. Chen Tao (God’s Salvation Church) did not predict a vague future revelation or an event hidden in a remote location. The group identified a specific suburban house, a specific date, and a specific time when God was expected to appear. By attaching a cosmic claim to an ordinary residential address, the prophecy created a public experiment whose outcome could be witnessed by [neighbours]({{ 'neighbours/' | relative_url }}), journalists, police officers and anyone who chose to watch. When nothing happened, the address itself became part of the evidence of failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+Among failed UFO-related prophecies, few predictions were easier to test than the one tied to 3513 Ridgedale Drive in [Garland]({{ 'garland/' | relative_url }}), Texas. Chen Tao (God’s Salvation Church) did not predict a vague future revelation or an event hidden in a remote location. The group identified a specific suburban house, a specific date, and a specific time when God was expected to appear. By attaching a cosmic claim to an ordinary residential address, the prophecy created a public experiment whose outcome could be witnessed by [neighbours]({{ 'neighbours/' | relative_url }}), journalists, police officers and anyone who chose to watch. When nothing happened, the address itself became part of the evidence of failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-1-dark.svg" | relative_url }}" alt="Ridgedale illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## 3513 Ridgedale Drive as a Prophecy Site
 
-The significance of 3513 Ridgedale Drive was not architectural, religious or historical. It was an ordinary ranch-style suburban home purchased by the movement’s leader after the group relocated to Garland. Researchers studying the movement note that the house became the focal point of a prophecy stating that God would descend there in human form on 31 March 1998 at precisely 10:00 a.m. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">How Chen Tao Became a “Suicide Cult”1June 23, 2014 — by RJ Cook · 2014 — Chen purchased a ranch-style house on a cul-de-sac at 3513...</span><span class="citation-popover-meta">Published: June 23, 2014</span></span></span>
+The significance of 3513 Ridgedale Drive was not architectural, religious or historical. It was an ordinary ranch-style suburban home purchased by the movement’s leader after the group relocated to Garland. Researchers studying the movement note that the house became the focal point of a prophecy stating that God would descend there in human form on 31 March 1998 at precisely 10:00 a.m.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">How Chen Tao Became a “Suicide Cult”1June 23, 2014 — by RJ Cook · 2014 — Chen purchased a ranch-style house on a cul-de-sac at 3513...</span><span class="citation-popover-meta">Published: June 23, 2014</span></span></span>
 
-The specificity mattered. In Chen Tao publications and public statements, the prediction was not merely that a divine manifestation would occur somewhere in Texas. The location was narrowed to a single street address. According to contemporary studies of the movement, the prediction even included details about the expected manifestation and its timing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+The specificity mattered. In Chen Tao publications and public statements, the prediction was not merely that a divine manifestation would occur somewhere in Texas. The location was narrowed to a single street address. According to contemporary studies of the movement, the prediction even included details about the expected manifestation and its timing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
-This transformed the house from a private residence into a [verification]({{ 'verification/' | relative_url }}) point. Anyone could determine whether the event occurred. There was no need for secret knowledge, specialised equipment or privileged access. The claim would either be fulfilled at the stated location or it would not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+This transformed the house from a private residence into a [verification]({{ 'verification/' | relative_url }}) point. Anyone could determine whether the event occurred. There was no need for secret knowledge, specialised equipment or privileged access. The claim would either be fulfilled at the stated location or it would not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_sqbyqQP7Zg" title="Pete Hegseth Addresses China, Taiwan And Iran At Shangri-La Dialogue | WORLD NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_sqbyqQP7Zg" target="_blank" rel="noopener noreferrer">Pete Hegseth Addresses China, Taiwan And Iran At Shangri-La Dialogue | WORLD NEWS</a></p><p class="youtube-embed-meta">Channel: The Financial Express</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_sqbyqQP7Zg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_sqbyqQP7Zg">Open on YouTube</a></p></div></div></div>
@@ -297,11 +297,11 @@ Three features made it unusually testable:
 
 * **A named address:** observers knew exactly where the event was supposed to happen.
 * **A fixed time:** the prophecy specified a precise moment rather than an indefinite future period.
-* **Public visibility:** the predicted manifestation was expected in a residential setting accessible to outside observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+* **Public visibility:** the predicted manifestation was expected in a residential setting accessible to outside observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
-Because of these features, the prophecy effectively invited external scrutiny. Scholars who conducted fieldwork in Garland during the countdown describe interviewing not only believers but also neighbours, reporters and police officers who were preparing for the anticipated event. The prediction had become a community matter rather than an exclusively internal religious expectation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</span></span></span>
+Because of these features, the prophecy effectively invited external scrutiny. Scholars who conducted fieldwork in Garland during the countdown describe interviewing not only believers but also neighbours, reporters and police officers who were preparing for the anticipated event. The prediction had become a community matter rather than an exclusively internal religious expectation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</span></span></span>
 
-This public character distinguished the case from many UFO-related claims. The movement could not later argue that observers had looked in the wrong place or arrived on the wrong day. The test conditions had already been announced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+This public character distinguished the case from many UFO-related claims. The movement could not later argue that observers had looked in the wrong place or arrived on the wrong day. The test conditions had already been announced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-2-dark.svg" | relative_url }}" alt="Ridgedale illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,11 +309,11 @@ This public character distinguished the case from many UFO-related claims. The m
 
 The most revealing aspect of the Ridgedale Drive episode is that the physical setting itself became evidence.
 
-Ordinarily, evidence in religious prophecy disputes comes from texts, testimonies or interpretations. At Ridgedale Drive, the central evidence was the absence of the predicted event at a known location. The front lawn of a suburban house became the stage on which a supernatural claim could be checked against observable reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Ordinarily, evidence in religious prophecy disputes comes from texts, testimonies or interpretations. At Ridgedale Drive, the central evidence was the absence of the predicted event at a known location. The front lawn of a suburban house became the stage on which a supernatural claim could be checked against observable reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-As the date approached, [media]({{ 'media/' | relative_url }}) organisations travelled to Garland, while local authorities monitored the situation because of public concern and memories of recent apocalyptic-group tragedies elsewhere in the United States. Researchers later noted that the interaction among believers, journalists, neighbours and police unfolded around the residence itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</span></span></span>
+As the date approached, [media]({{ 'media/' | relative_url }}) organisations travelled to Garland, while local authorities monitored the situation because of public concern and memories of recent apocalyptic-group tragedies elsewhere in the United States. Researchers later noted that the interaction among believers, journalists, neighbours and police unfolded around the residence itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</span></span></span>
 
-When the appointed time passed without the promised appearance, the same lawn that had been presented as the site of a divine arrival became a visible record of non-fulfilment. There was no hidden outcome to investigate later. The prediction had been tied to a publicly observable place, and observers saw that the expected event did not occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+When the appointed time passed without the promised appearance, the same lawn that had been presented as the site of a divine arrival became a visible record of non-fulfilment. There was no hidden outcome to investigate later. The prediction had been tied to a publicly observable place, and observers saw that the expected event did not occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sPyWo4Ei5vU" title="USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer">USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sPyWo4Ei5vU">Open on YouTube</a></p></div></div></div>
@@ -325,200 +325,200 @@ When the appointed time passed without the promised appearance, the same lawn th
 
 The Ridgedale Drive case remains notable within the history of failed UFO-related predictions because it demonstrates how specificity can increase accountability. The prophecy's credibility depended on an observable event occurring at a named address. That same specificity also ensured that failure would be difficult to obscure or reinterpret.
 
-Rather than a remote desert landing site, a secret meeting place or a symbolic prophecy, the test was anchored to a suburban street in Garland. The address functioned as a public checkpoint between belief and reality. Once the predicted moment passed, 3513 Ridgedale Drive became memorable not as the place where a prophecy was fulfilled, but as the place where its failure could be plainly seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+Rather than a remote desert landing site, a secret meeting place or a symbolic prophecy, the test was anchored to a suburban street in Garland. The address functioned as a public checkpoint between belief and reality. Once the predicted moment passed, 3513 Ridgedale Drive became memorable not as the place where a prophecy was fulfilled, but as the place where its failure could be plainly seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-3-dark.svg" | relative_url }}" alt="Ridgedale illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_ridgedale_public_tes_c470f1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Address That Made Failure Public. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Address That Made Failure Public. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains what happens when a specific prediction fails, matching the page&#x27;s central theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains what happens when a specific prediction fails, matching the page&#x27;s central theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/208092-M.jpg" alt="Cover for A History of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of God">A History of God</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/208092-M.jpg" alt="Cover for A History of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of God">A History of God</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Offers broader background on religious belief, revelation claims, and evolving concepts of the divine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader background on religious belief, revelation claims, and evolving concepts of the divine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford handbook of new religious movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/125689-M.jpg" alt="Cover for The Oxford handbook of new religious movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
-        </h4>
-        <p class="fr-book-author">By James R Lewis, James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford handbook of new religious movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/125689-M.jpg" alt="Cover for The Oxford handbook of new religious movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
+</h4>
+<p class="fr-book-author">By James R Lewis, James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Cults, Sectes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Cults, Sectes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of God</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+new+religious+movements+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of new religious movements books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of God</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+new+religious+movements+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of new religious movements books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches"><img src="{{ '/assets/images/marketplace-covers/dc10eda6b86e6a4463b0.jpg' | relative_url }}" alt="Listing image for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches"><img src="{{ '/assets/images/marketplace-covers/dc10eda6b86e6a4463b0.jpg' | relative_url }}" alt="Listing image for 1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">1934 TOTAL SOLAR ECLIPSE Print - Astronomy Wall Art - 9.15 x 6 Inches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor"><img src="{{ '/assets/images/marketplace-covers/93b7705b16efcc7df5e4.jpg' | relative_url }}" alt="Listing image for Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Framed Wall Print | Sun &amp; Planets Space Art | Astronomy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/1a9c77cbc02519118525.jpg' | relative_url }}" alt="Listing image for Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Solar System Orbit Celestial Space Astronomy Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6951ec6710a542d339ee.jpg' | relative_url }}" alt="Listing image for Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6951ec6710a542d339ee.jpg' | relative_url }}" alt="Listing image for Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">Planet Uranus Astronomy Solar Syste Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: astronomy wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="ridgedale-the-address-that-made-failure-public-failed-predictions-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ Rather than a remote desert landing site, a secret meeting place or a symbolic p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ Rather than a remote desert landing site, a secret meeting place or a symbolic p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ Rather than a remote desert landing site, a secret meeting place or a symbolic p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ Rather than a remote desert landing site, a secret meeting place or a symbolic p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ Rather than a remote desert landing site, a secret meeting place or a symbolic p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,93 +724,93 @@ Rather than a remote desert landing site, a secret meeting place or a symbolic p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and FutureApril 11, 2004 — by CH Prather · 1999 · Cited by 10 — In this book Chen states that Go...</p></details>
    Published: April 11, 2004  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Chen Tao Became a “Suicide Cult”1June 23, 2014 — by RJ Cook · 2014 — Chen purchased a ranch-style house on a cul-de-sac at 3513...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Chen Tao Became a “Suicide Cult”1June 23, 2014 — by RJ Cook · 2014 — Chen purchased a ranch-style house on a cul-de-sac at 3513...</p></details>
    Published: June 23, 2014  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: judiciary.house.gov  
    Title: 2023 08 10 jdj to doj re geofencing  
-   Link: <a href="https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2023-08-10-jdj-to-doj-re-geofencing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2023-08-10-jdj-to-doj-re-geofencing.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Garland...10 Aug 2023 — In particular, the Committee is examining the Federal Bureau of Investigation&#x27;s purported decision to use geofen...</p></details>
+   Link:<a href="https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2023-08-10-jdj-to-doj-re-geofencing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2023-08-10-jdj-to-doj-re-geofencing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Garland...10 Aug 2023 — In particular, the Committee is examining the Federal Bureau of Investigation&#x27;s purported decision to use geofen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: garlandpolice.com  
-   Link: <a href="https://garlandpolice.com/" target="_blank" rel="noopener noreferrer nofollow">https://garlandpolice.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Police | Garland, TXPolice Reports, Live in Garland, Contact GPD 1891 Forest Lane PO Box 469002 Garland, TX 75046 Lobby Hours 8 am-7 pm D...</p></details>
+   Link:<a href="https://garlandpolice.com/" target="_blank" rel="noopener noreferrer nofollow">https://garlandpolice.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police | Garland, TXPolice Reports, Live in Garland, Contact GPD 1891 Forest Lane PO Box 469002 Garland, TX 75046 Lobby Hours 8 am-7 pm D...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nacdl.org  
-   Link: <a href="https://www.nacdl.org/getattachment/816437c7-8943-425c-9b3b-4faf7da24bba/nacdl_geofence_warrant_primer_fourth_amendment_center_2023-08-29_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nacdl.org/getattachment/816437c7-8943-425c-9b3b-4faf7da24bba/nacdl_geofence_warrant_primer_fourth_amendment_center_2023-08-29_v2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geofence Warrant PrimerGeofence warrants are general warrants — which are prohibited by the Fourth Amendment — because they are devoid of...</p></details>
+   Link:<a href="https://www.nacdl.org/getattachment/816437c7-8943-425c-9b3b-4faf7da24bba/nacdl_geofence_warrant_primer_fourth_amendment_center_2023-08-29_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nacdl.org/getattachment/816437c7-8943-425c-9b3b-4faf7da24bba/nacdl_geofence_warrant_primer_fourth_amendment_center_2023-08-29_v2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geofence Warrant PrimerGeofence warrants are general warrants — which are prohibited by the Fourth Amendment — because they are devoid of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheYoungTurks/posts/trump-suggests-fbi-planted-evidence-during-mar-a-lago-raid/10159438933029205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheYoungTurks/posts/trump-suggests-fbi-planted-evidence-during-mar-a-lago-raid/10159438933029205/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Suggests FBI &quot;Planted Evidence&quot; During Mar-aDavid Hoeltzle We know they collected records marked top-secret SCI. Those are not supp...</p></details>
+   Link:<a href="https://www.facebook.com/TheYoungTurks/posts/trump-suggests-fbi-planted-evidence-during-mar-a-lago-raid/10159438933029205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheYoungTurks/posts/trump-suggests-fbi-planted-evidence-during-mar-a-lago-raid/10159438933029205/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Suggests FBI &quot;Planted Evidence&quot; During Mar-aDavid Hoeltzle We know they collected records marked top-secret SCI. Those are not supp...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cfr.org  
    Title: does chinese state media pose threat united states  
-   Link: <a href="https://www.cfr.org/articles/does-chinese-state-media-pose-threat-united-states" target="_blank" rel="noopener noreferrer nofollow">https://www.cfr.org/articles/does-chinese-state-media-pose-threat-united-states</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Chinese State Media Pose a Threat to the United...24 Aug 2020 — Chinese state media outlets will use propaganda to shape Americans&#x27;...</p></details>
+   Link:<a href="https://www.cfr.org/articles/does-chinese-state-media-pose-threat-united-states" target="_blank" rel="noopener noreferrer nofollow">https://www.cfr.org/articles/does-chinese-state-media-pose-threat-united-states</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does Chinese State Media Pose a Threat to the United...24 Aug 2020 — Chinese state media outlets will use propaganda to shape Americans&#x27;...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: realtor.com  
    Title: 3314 Ridgedale Dr Garland TX 75041 M76315 30587  
-   Link: <a href="https://www.realtor.com/realestateandhomes-detail/3314-Ridgedale-Dr_Garland_TX_75041_M76315-30587" target="_blank" rel="noopener noreferrer nofollow">https://www.realtor.com/realestateandhomes-detail/3314-Ridgedale-Dr_Garland_TX_75041_M76315-30587</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3314 Ridgedale Dr, Garland, TX 75041Sold: View 38 photos for 3314 Ridgedale Dr, this 3 bed, 2 bath, 2318 sqft. single family home in Garl...</p></details>
+   Link:<a href="https://www.realtor.com/realestateandhomes-detail/3314-Ridgedale-Dr_Garland_TX_75041_M76315-30587" target="_blank" rel="noopener noreferrer nofollow">https://www.realtor.com/realestateandhomes-detail/3314-Ridgedale-Dr_Garland_TX_75041_M76315-30587</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3314 Ridgedale Dr, Garland, TX 75041Sold: View 38 photos for 3314 Ridgedale Dr, this 3 bed, 2 bath, 2318 sqft. single family home in Garl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: harvardlawreview.org  
    Title: geofence warrants and the fourth amendment  
-   Link: <a href="https://harvardlawreview.org/print/vol-134/geofence-warrants-and-the-fourth-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://harvardlawreview.org/print/vol-134/geofence-warrants-and-the-fourth-amendment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 May 2021 — While traditional court orders permit searches related to known suspects, geofence warrants are issued specifically because...</p></details>
+   Link:<a href="https://harvardlawreview.org/print/vol-134/geofence-warrants-and-the-fourth-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://harvardlawreview.org/print/vol-134/geofence-warrants-and-the-fourth-amendment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 May 2021 — While traditional court orders permit searches related to known suspects, geofence warrants are issued specifically because...</p></details>
    Published: May 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYXb8p7i1FT/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYXb8p7i1FT/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t Xi Jinping to do something that would jeopardize the American...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYXb8p7i1FT/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYXb8p7i1FT/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t Xi Jinping to do something that would jeopardize the American...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/videos/a-ufc-fight-is-planned-on-the-white-house-south-lawn-this-sunday-on-president-tr/1616185069471620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/videos/a-ufc-fight-is-planned-on-the-white-house-south-lawn-this-sunday-on-president-tr/1616185069471620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt Trump&#x27;s 80th birthday. A federal lawsuit tried to stop it —...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/videos/a-ufc-fight-is-planned-on-the-white-house-south-lawn-this-sunday-on-president-tr/1616185069471620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/videos/a-ufc-fight-is-planned-on-the-white-house-south-lawn-this-sunday-on-president-tr/1616185069471620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt Trump&#x27;s 80th birthday. A federal lawsuit tried to stop it —...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: har.com  
    Title: 3313 ridgedale dr garland tx 75041  
-   Link: <a href="https://www.har.com/homedetail/3313-ridgedale-dr-garland-tx-75041/8588729" target="_blank" rel="noopener noreferrer nofollow">https://www.har.com/homedetail/3313-ridgedale-dr-garland-tx-75041/8588729</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3313 Ridgedale Dr, Garland, TX 75041Explore 3313 Ridgedale Dr in Garland. This 2954 square feet home offers 4 beds and 3 baths in the Rid...</p></details>
+   Link:<a href="https://www.har.com/homedetail/3313-ridgedale-dr-garland-tx-75041/8588729" target="_blank" rel="noopener noreferrer nofollow">https://www.har.com/homedetail/3313-ridgedale-dr-garland-tx-75041/8588729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3313 Ridgedale Dr, Garland, TX 75041Explore 3313 Ridgedale Dr in Garland. This 2954 square feet home offers 4 beds and 3 baths in the Rid...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: washingtonpost.com  
    Title: garland trump mar a lago  
-   Link: <a href="https://www.washingtonpost.com/national-security/2022/08/11/garland-trump-mar-a-lago/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2022/08/11/garland-trump-mar-a-lago/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI searched Trump&#x27;s home to look for nuclear documents...12 Aug 2022 — In another post early Friday, he called the nuclear weapons issu...</p></details>
+   Link:<a href="https://www.washingtonpost.com/national-security/2022/08/11/garland-trump-mar-a-lago/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2022/08/11/garland-trump-mar-a-lago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI searched Trump&#x27;s home to look for nuclear documents...12 Aug 2022 — In another post early Friday, he called the nuclear weapons issu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/read-merrick-garlands-full-remarks-fbis-search-trumps/story?id=88257832" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/read-merrick-garlands-full-remarks-fbis-search-trumps/story?id=88257832</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>first time on this week&#x27;s FBI search of Trump&#x27;s Mar-a-Lago residence.Read more...</p></details>
+   Link:<a href="https://abcnews.com/Politics/read-merrick-garlands-full-remarks-fbis-search-trumps/story?id=88257832" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/read-merrick-garlands-full-remarks-fbis-search-trumps/story?id=88257832</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>first time on this week&#x27;s FBI search of Trump&#x27;s Mar-a-Lago residence.Read more...</p></details>

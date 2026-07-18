@@ -453,11 +453,11 @@ George Van Tassel matters to the history of failed UFO predictions because he he
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071-overview.webp" | relative_url }}" alt="Overview image for Van Tassel" loading="eager" decoding="sync" fetchpriority="high">
 ## Van Tassel made Giant Rock a contactee stage
 
-Van Tassel was not just a solitary claimant writing odd pamphlets. He became an organiser. Encyclopedia.com describes him as an early flying-saucer contactee and author of the 1952 volume *I Rode in a Flying Saucer*, then notes that he organised the Giant Rock Space Convention at Giant Rock Airport near Yucca Valley, California, as other contactees responded to his claims. It also records his aviation background and his desert move in 1947, where he opened an airport, restaurant and dude ranch before beginning to receive psychic messages in 1952. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/van-tassel-george-w-1910-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">van tassel george w 1910 1978</span><span class="citation-popover-snippet">Van Tassel, George W. (1910-1978) &#124; Encyclopedia.com...</span></span></span>
+Van Tassel was not just a solitary claimant writing odd pamphlets. He became an organiser. Encyclopedia.com describes him as an early flying-saucer contactee and author of the 1952 volume *I Rode in a Flying Saucer*, then notes that he organised the Giant Rock Space Convention at Giant Rock Airport near Yucca Valley, California, as other contactees responded to his claims. It also records his aviation background and his desert move in 1947, where he opened an airport, restaurant and dude ranch before beginning to receive psychic messages in 1952.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/van-tassel-george-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">van tassel george w</span><span class="citation-popover-snippet">Van Tassel, George W. (1910-1978) &#124; Encyclopedia.com...</span></span></span>
 
-That combination mattered. A desert airstrip, a giant boulder, group meditation sessions and an annual convention made the claims social rather than merely private. PBS SoCal’s history of Giant Rock places Van Tassel’s Friday-night “meditation” meetings in the former subterranean rooms associated with Frank Critzer and says Van Tassel described the communications as “thought transference” from compassionate Venusian extraterrestrials. The same account says his first psychic transmission began on 6 January 1952 and that the messages multiplied quickly enough for him to publish *I Rode a Flying Saucer* by the end of that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-snippet">Open source on pbssocal.org.</span></span></span>
+That combination mattered. A desert airstrip, a giant boulder, group meditation sessions and an annual convention made the claims social rather than merely private. PBS SoCal’s history of Giant Rock places Van Tassel’s Friday-night “meditation” meetings in the former subterranean rooms associated with Frank Critzer and says Van Tassel described the communications as “thought transference” from compassionate Venusian extraterrestrials. The same account says his first psychic transmission began on 6 January 1952 and that the messages multiplied quickly enough for him to publish *I Rode a Flying Saucer* by the end of that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-snippet">Open source on pbssocal.org.</span></span></span>
 
-The early contactee culture around him was distinct from later abduction-centred UFO lore. Its aliens were usually not terrifying experimenters but teachers, patrol commanders, “space brothers” and spiritual technicians. They warned about atomic weapons, offered moral correction and claimed access to higher knowledge. Van Tassel’s own author’s note in *I Rode a Flying Saucer* framed the book as “radioned” by other-world intelligences in reaction to humanity’s destructive action, and urged readers to listen to an inner voice that would let them “recognise truth” when it appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mspong.org/ufo_pamphlets/irode.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mspong.org">[mspong.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mspong.org</span><span class="citation-popover-title">I RODE A FLYING SAUCER</span><span class="citation-popover-snippet">I RODE A FLYING SAUCER</span></span></span>
+The early contactee culture around him was distinct from later abduction-centred UFO lore. Its aliens were usually not terrifying experimenters but teachers, patrol commanders, “space brothers” and spiritual technicians. They warned about atomic weapons, offered moral correction and claimed access to higher knowledge. Van Tassel’s own author’s note in *I Rode a Flying Saucer* framed the book as “radioned” by other-world intelligences in reaction to humanity’s destructive action, and urged readers to listen to an inner voice that would let them “recognise truth” when it appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mspong.org/ufo_pamphlets/irode.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mspong.org">[mspong.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mspong.org</span><span class="citation-popover-title">I RODE A FLYING SAUCER</span><span class="citation-popover-snippet">I RODE A FLYING SAUCER</span></span></span>
 
 That wording reveals a crucial evidential problem. The reader is not asked to verify a landed craft, recover hardware or compare instrument readings. The reader is asked to recognise truth inwardly. In a UFO-prophecy setting, this moves authority away from [public evidence]({{ 'public-evidence/' | relative_url }}) and towards receptivity, intuition and group trust. That made the contactee message emotionally powerful but also unusually resistant to disconfirmation.
 
@@ -465,13 +465,13 @@ That wording reveals a crucial evidential problem. The reader is not asked to ve
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071-Illustration-1-dark.svg" | relative_url }}" alt="Van Tassel illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Ashtar entered the contactee bloodstream
 
-[Ashtar]({{ 'ashtar/' | relative_url }})’s later fame can obscure how early and contingent the figure’s appearance was. Encyclopedia.com’s Ashtar entry identifies Ashtar as one of the original extraterrestrial entities of the 1950s flying-saucer contactee scene and says Van Tassel claimed messages from beings associated with a planet named Shanchea. These messages warned that atomic weapons threatened not only Earth but the wider solar system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
+[Ashtar]({{ 'ashtar/' | relative_url }})’s later fame can obscure how early and contingent the figure’s appearance was. Encyclopedia.com’s Ashtar entry identifies Ashtar as one of the original extraterrestrial entities of the 1950s flying-saucer contactee scene and says Van Tassel claimed messages from beings associated with a planet named Shanchea. These messages warned that atomic weapons threatened not only Earth but the wider solar system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
 
-The same account gives the basic sequence. Van Tassel began receiving messages in January 1952; in July, another entity announced the approach of a craft with a commandant aboard; that commandant then introduced himself as Ashtar, “commandant quadra sector” and a figure of patrol authority. Ashtar’s messages continued the anti-atomic theme already present in Van Tassel’s communications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
+The same account gives the basic sequence. Van Tassel began receiving messages in January 1952; in July, another entity announced the approach of a craft with a commandant aboard; that commandant then introduced himself as Ashtar, “commandant quadra sector” and a figure of patrol authority. Ashtar’s messages continued the anti-atomic theme already present in Van Tassel’s communications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
 
 This is where Van Tassel’s contribution to later [failed predictions]({{ 'failed-predictions/' | relative_url }}) becomes clear. Ashtar was not merely an alien name. He was introduced with a bureaucratic-military aura: commandant, sector, patrol, station, projections and waves. That language gave later believers a ready-made cosmic chain of command. It sounded more organised than a one-off visitation and more actionable than a vague spiritual guide.
 
-The Centre for the Critical Study of Apocalyptic and Millenarian Movements similarly places Van Tassel at the start of Ashtar contact, describing him as the first to claim telepathic contact with Ashtar. It quotes the 18 July 1952 warning in which Ashtar links nuclear physics, atomic knowledge and the survival of humanity, then says Van Tassel’s associate Robert Short soon also claimed to channel Ashtar. Van Tassel did not accept Short’s experiences as genuine, and Short broke away in 1952 to found the Ashtar Command. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
+The Centre for the Critical Study of Apocalyptic and Millenarian Movements similarly places Van Tassel at the start of Ashtar contact, describing him as the first to claim telepathic contact with Ashtar. It quotes the 18 July 1952 warning in which Ashtar links nuclear physics, atomic knowledge and the survival of humanity, then says Van Tassel’s associate Robert Short soon also claimed to channel Ashtar. Van Tassel did not accept Short’s experiences as genuine, and Short broke away in 1952 to found the Ashtar Command.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM...</span></span></span>
 
 That break is important for understanding why later Ashtar claims became so hard to control. Once Ashtar was treated as a telepathic commander rather than a source tied only to Van Tassel, other channels could claim access. The authority became portable. Ashtar could be reintroduced through new messengers, new warnings and new timetables, even when those claims contradicted one another.
 
@@ -480,11 +480,11 @@ That break is important for understanding why later Ashtar claims became so hard
 
 ## The messages mixed nuclear fear with spiritual rescue
 
-Van Tassel’s contactee world grew in a specific historical atmosphere: early Cold War [atomic fear]({{ 'atomic-fear/' | relative_url }}), post-war aviation culture, Southern California esotericism and the sudden visibility of flying saucers after 1947. PBS SoCal notes that many of Van Tassel’s telepathic missives warned about atomic and thermonuclear testing. It gives an April 1952 message attributed to “Kerrull” warning that an imminent atomic experiment would cause illness, and places it alongside the US Government’s Operation Tumbler-Snapper tests in Nevada in spring 1952. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-snippet">Open source on pbssocal.org.</span></span></span>
+Van Tassel’s contactee world grew in a specific historical atmosphere: early Cold War [atomic fear]({{ 'atomic-fear/' | relative_url }}), post-war aviation culture, Southern California esotericism and the sudden visibility of flying saucers after 1947. PBS SoCal notes that many of Van Tassel’s telepathic missives warned about atomic and thermonuclear testing. It gives an April 1952 message attributed to “Kerrull” warning that an imminent atomic experiment would cause illness, and places it alongside the US Government’s Operation Tumbler-Snapper tests in Nevada in spring 1952.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-snippet">Open source on pbssocal.org.</span></span></span>
 
 This did not make the messages scientifically verified. It did make them culturally timely. Atomic tests were real; fears about fallout were real; distrust of authorities was growing. Van Tassel’s contactee messages attached those anxieties to a cosmic drama in which extraterrestrials were not simply observers but moral overseers. The danger was not just geopolitical; it was spiritual and planetary.
 
-The Ashtar entry on Encyclopedia.com describes the same theme: humanity’s warlike development of super-atomic weapons threatened peace beyond Earth, and Ashtar’s later messages expanded the anti-atomic warning. It also notes that Ashtar’s spokespeople resonated with public anxiety over the hydrogen bomb before later literature shifted towards disasters such as pole shifts as nuclear fear receded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
+The Ashtar entry on Encyclopedia.com describes the same theme: humanity’s warlike development of super-atomic weapons threatened peace beyond Earth, and Ashtar’s later messages expanded the anti-atomic warning. It also notes that Ashtar’s spokespeople resonated with public anxiety over the hydrogen bomb before later literature shifted towards disasters such as pole shifts as nuclear fear receded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
 
 For the history of failed prediction, this shows how a message can outlive its original trigger. A warning born in atomic-age fear can be repurposed as new anxieties emerge. If nuclear catastrophe does not happen, the story need not collapse. The warning can become proof that intervention worked, that disaster was delayed, or that humanity received another chance.
 
@@ -492,13 +492,13 @@ For the history of failed prediction, this shows how a message can outlive its o
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071-Illustration-2-dark.svg" | relative_url }}" alt="Van Tassel illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the claims were hard to verify
 
-The most important evidential feature of Van Tassel’s early messages is that they rested on private reception. He did later describe a physical encounter: PBS SoCal recounts his claim that on 24 August 1953 he was awakened by Solganda, taken aboard a craft at Giant Rock’s airstrip, shown its features and given information telepathically during an encounter said to have lasted about twenty minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-snippet">Open source on pbssocal.org.</span></span></span>
+The most important evidential feature of Van Tassel’s early messages is that they rested on private reception. He did later describe a physical encounter: PBS SoCal recounts his claim that on 24 August 1953 he was awakened by Solganda, taken aboard a craft at Giant Rock’s airstrip, shown its features and given information telepathically during an encounter said to have lasted about twenty minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-snippet">Open source on pbssocal.org.</span></span></span>
 
-But even this more physical story remained dependent on Van Tassel’s testimony. The vehicle, occupants and technical knowledge were not independently demonstrated. In *I Rode a Flying Saucer*, Van Tassel himself framed the problem oddly: he wrote that he did not claim to have been aboard a saucer; rather, the intelligences operating the saucers claimed he was aboard. That rhetorical move distances the author from direct proof while still presenting the claim to readers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mspong.org/ufo_pamphlets/irode.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mspong.org">[mspong.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mspong.org</span><span class="citation-popover-title">I RODE A FLYING SAUCER</span><span class="citation-popover-snippet">I RODE A FLYING SAUCER</span></span></span>
+But even this more physical story remained dependent on Van Tassel’s testimony. The vehicle, occupants and technical knowledge were not independently demonstrated. In *I Rode a Flying Saucer*, Van Tassel himself framed the problem oddly: he wrote that he did not claim to have been aboard a saucer; rather, the intelligences operating the saucers claimed he was aboard. That rhetorical move distances the author from direct proof while still presenting the claim to readers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mspong.org/ufo_pamphlets/irode.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mspong.org">[mspong.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mspong.org</span><span class="citation-popover-title">I RODE A FLYING SAUCER</span><span class="citation-popover-snippet">I RODE A FLYING SAUCER</span></span></span>
 
-The same structure appears in the Integratron story. The present-day Integratron site states that Van Tassel claimed the Landers dome was based on Moses’ Tabernacle, Nikola Tesla’s writings and telepathic directions from extraterrestrials, and that it was intended as a 38-foot-high, 55-foot-diameter electrostatic generator for rejuvenation and time travel. It also says the structure was listed on the National Register of Historic Places in 2019. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">About: The History of the Integratron</span><span class="citation-popover-snippet">About: The History of the Integratron - Integratron...</span></span></span>
+The same structure appears in the Integratron story. The present-day Integratron site states that Van Tassel claimed the Landers dome was based on Moses’ Tabernacle, Nikola Tesla’s writings and telepathic directions from extraterrestrials, and that it was intended as a 38-foot-high, 55-foot-diameter electrostatic generator for rejuvenation and time travel. It also says the structure was listed on the National Register of Historic Places in 2019.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: integratron.com">[Integratron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">integratron.com</span><span class="citation-popover-title">About: The History of the Integratron</span><span class="citation-popover-snippet">About: The History of the Integratron - Integratron...</span></span></span>
 
-Historically, the building is real. The claimed extraterrestrial instructions and rejuvenation function are not established by the building’s existence. PBS SoCal reports that the building had been constructed by 1959, but that when Van Tassel died in 1978 the electrostatic mechanism was said to be ninety per cent complete and no plans or instructions could be found to make it operational. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-snippet">Open source on pbssocal.org.</span></span></span>
+Historically, the building is real. The claimed extraterrestrial instructions and rejuvenation function are not established by the building’s existence. PBS SoCal reports that the building had been constructed by 1959, but that when Van Tassel died in 1978 the electrostatic mechanism was said to be ninety per cent complete and no plans or instructions could be found to make it operational.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-snippet">Open source on pbssocal.org.</span></span></span>
 
 This is a recurring failure mode in UFO prophecy. A concrete artefact or gathering can make the movement feel evidentially anchored, while the central claim remains insulated. The convention happened. The book existed. The dome was built. But the core assertions — extraterrestrial authorship, telepathic authority, rejuvenation, time travel, cosmic rescue — stayed outside ordinary public testing.
 
@@ -507,11 +507,11 @@ This is a recurring failure mode in UFO prophecy. A concrete artefact or gatheri
 
 ## Van Tassel’s role in later Ashtar expectations
 
-Van Tassel did not single-handedly create every later Ashtar belief, but he supplied the first widely cited Ashtar channel and a social infrastructure through which contactee ideas circulated. Encyclopedia.com says that after Van Tassel, Ashtar messages began to be received and spread by other channels within a few months. It also explains that “channel” became a contactee-era term drawn from television, replacing the older Spiritualist word “medium” for someone receiving telepathic messages from outer-space beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
+Van Tassel did not single-handedly create every later Ashtar belief, but he supplied the first widely cited Ashtar channel and a social infrastructure through which contactee ideas circulated. Encyclopedia.com says that after Van Tassel, Ashtar messages began to be received and spread by other channels within a few months. It also explains that “channel” became a contactee-era term drawn from television, replacing the older Spiritualist word “medium” for someone receiving telepathic messages from outer-space beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
 
 That change of vocabulary matters. “Medium” sounded Victorian and Spiritualist; “channel” sounded modern, technological and broadcast-like. In the 1950s, this helped transform older esoteric ideas into a flying-saucer idiom. The entities might still function like Theosophical masters, but now they arrived through interplanetary patrols, spacecraft and cosmic command structures.
 
-The Ashtar mythology later developed beyond Van Tassel into a broad, unstable field. Encyclopedia.com says Ashtar came to be seen as the Supreme Director of a spiritual programme for Earth, leading millions of “space brothers” and preparing humanity for future evolution. It also notes that by the end of the twentieth century there were so many varied descriptions and contradictory pieces of information about Ashtar that writing a coherent biography had become difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
+The Ashtar mythology later developed beyond Van Tassel into a broad, unstable field. Encyclopedia.com says Ashtar came to be seen as the Supreme Director of a spiritual programme for Earth, leading millions of “space brothers” and preparing humanity for future evolution. It also notes that by the end of the twentieth century there were so many varied descriptions and contradictory pieces of information about Ashtar that writing a coherent biography had become difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Ashtar &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Ashtar &#124; Encyclopedia.com</span></span></span>
 
 This instability is not a side issue. It helps explain why Ashtar-linked predictions could repeatedly fail without ending the tradition. If one channel’s message failed, another could reinterpret it. If one landing did not occur, a later message could say the event had been spiritual, delayed, hidden, conditional or misunderstood. Van Tassel’s early contactee form made this possible by treating reception itself as the key evidence.
 
@@ -523,7 +523,7 @@ Van Tassel’s early messages sit near the source of a larger pattern in failed 
 
 That does not mean every Van Tassel message was a dated failed prophecy. His importance is subtler. He made later failed predictions more plausible to believers by giving them a cast of characters, a method of communication and a moral plot. The plot was simple: Earth is in danger, governments and ordinary science do not understand the full situation, higher beings are monitoring humanity, and receptive individuals can receive instructions before a coming transformation.
 
-Modern official reviews do not validate the extraterrestrial premise behind such claims. The US Air Force’s Project Blue Book conclusions stated that investigated UFO reports provided no evidence of a national-security threat, no evidence of technology beyond modern scientific knowledge and no evidence that unidentified sightings were extraterrestrial vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Forces]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> NASA’s UAP FAQ likewise says there are no data supporting UAP as evidence of alien technologies and stresses that most sightings have limited data, making firm scientific conclusions difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs - NASA Science...</span></span></span>
+Modern official reviews do not validate the extraterrestrial premise behind such claims. The US Air Force’s Project Blue Book conclusions stated that investigated UFO reports provided no evidence of a national-security threat, no evidence of technology beyond modern scientific knowledge and no evidence that unidentified sightings were extraterrestrial vehicles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Forces]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> NASA’s UAP FAQ likewise says there are no data supporting UAP as evidence of alien technologies and stresses that most sightings have limited data, making firm scientific conclusions difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs - NASA Science...</span></span></span>
 
 Those findings do not explain every strange report, but they do clarify the burden of proof. Van Tassel’s contactee messages were not just claims about unusual lights; they were claims about named extraterrestrial commanders, telepathic instruction, hidden cosmic government and world-changing intervention. The evidence offered for those claims was overwhelmingly testimonial, [channelling]({{ 'channelling/' | relative_url }})-based and movement-internal.
 
@@ -539,194 +539,194 @@ The same features that made the messages attractive also made them unreliable as
 That is Van Tassel’s branch-specific significance in the history of failed UFO predictions. He helped seed the Ashtar world before its later prophetic disappointments. He did not merely add one more saucer story; he helped create a contactee grammar in which failed public events could be converted into hidden missions, spiritual progress and renewed expectation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Contactee Roots of Ashtar Prophecy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Contactee Roots of Ashtar Prophecy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Barkun</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Barkun</p>
         
-        <p class="fr-book-desc">Examines how prophetic, conspiratorial, and unverifiable claims persist and adapt when predictions fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how prophetic, conspiratorial, and unverifiable claims persist and adapt when predictions fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Explains how contactee narratives and prophetic expectations developed into organized belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how contactee narratives and prophetic expectations developed into organized belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical background on the UFO era that produced contactees such as George Van Tassel and the early Ashtar tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical background on the UFO era that produced contactees such as George Van Tassel and the early Ashtar tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Culture of Conspiracy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Culture of Conspiracy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="van-tassel-the-contactee-roots-of-ashtar-prophecy-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -742,7 +742,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -762,7 +762,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -794,7 +794,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -846,7 +846,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -891,7 +891,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -932,181 +932,181 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: encyclopedia.com  
    Title: van tassel george w 1910 1978  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/van-tassel-george-w-1910-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/van-tassel-george-w-1910-1978</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Van Tassel, George W. (1910-1978) | Encyclopedia.com...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/van-tassel-george-w" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/van-tassel-george-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Van Tassel, George W. (1910-1978) | Encyclopedia.com...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mspong.org  
    Title: I RODE A FLYING SAUCER  
-   Link: <a href="https://mspong.org/ufo_pamphlets/irode.html" target="_blank" rel="noopener noreferrer nofollow">https://mspong.org/ufo_pamphlets/irode.html</a>  
+   Link:<a href="https://mspong.org/ufo_pamphlets/irode.html" target="_blank" rel="noopener noreferrer nofollow">https://mspong.org/ufo_pamphlets/irode.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: encyclopedia.com  
    Title: Ashtar | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/[UFO Religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM...</p></details>
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: integratron.com  
    Title: About: The History of the Integratron  
-   Link: <a href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow">https://www.integratron.com/history-about/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About: The History of the Integratron - Integratron...</p></details>
+   Link:<a href="https://www.integratron.com/history-about/" target="_blank" rel="noopener noreferrer nofollow">https://www.integratron.com/history-about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About: The History of the Integratron - Integratron...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: af.mil  
    Title: Air Forces  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs - NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs - NASA Science...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: integratron.com  
    Title: college of universal wisdom  
-   Link: <a href="https://integratron.com/wp-content/uploads/2018/12/APR_MAY-1967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://integratron.com/wp-content/uploads/2018/12/APR_MAY-1967.pdf</a>  
+   Link:<a href="https://integratron.com/wp-content/uploads/2018/12/APR_MAY-1967.pdf" target="_blank" rel="noopener noreferrer nofollow">https://integratron.com/wp-content/uploads/2018/12/APR_MAY-1967.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: integratron.com  
-   Link: <a href="https://integratron.com/wp-content/uploads/2018/12/Integratron-National-Register-of-Historic-Places-Registration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://integratron.com/wp-content/uploads/2018/12/Integratron-National-Register-of-Historic-Places-Registration.pdf</a>  
+   Link:<a href="https://integratron.com/wp-content/uploads/2018/12/Integratron-National-Register-of-Historic-Places-Registration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://integratron.com/wp-content/uploads/2018/12/Integratron-National-Register-of-Historic-Places-Registration.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: integratron.com  
-   Link: <a href="https://integratron.com/wp-content/uploads/2018/12/OCT-1953-OCT-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://integratron.com/wp-content/uploads/2018/12/OCT-1953-OCT-1956.pdf</a>  
+   Link:<a href="https://integratron.com/wp-content/uploads/2018/12/OCT-1953-OCT-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://integratron.com/wp-content/uploads/2018/12/OCT-1953-OCT-1956.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdamm.org  
    Title: 1753 extraterrestrial ufo religion  
-   Link: <a href="https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf</a>  
+   Link:<a href="https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: encyclopedia.com  
    Title: proceedings college universal wisdom  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/proceedings-college-universal-wisdom" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/proceedings-college-universal-wisdom</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/proceedings-college-universal-wisdom" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/proceedings-college-universal-wisdom</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: encyclopedia.com  
    Title: ufo religions  
-   Link: <a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
+   Link:<a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pbssocal.org  
-   Link: <a href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow">https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron</a>  
+   Link:<a href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow">https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
    Title: George Van Tassel  
-   Link: <a href="https://www.scribd.com/doc/45651279/George-Van-Tassel-I-Rode-a-Flying-Saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/45651279/George-Van-Tassel-I-Rode-a-Flying-Saucer</a>  
+   Link:<a href="https://www.scribd.com/doc/45651279/George-Van-Tassel-I-Rode-a-Flying-Saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/45651279/George-Van-Tassel-I-Rode-a-Flying-Saucer</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/George" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/George" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: boneandsickle.com  
    Title: george van tassel  
-   Link: <a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
+   Link:<a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: atollon.com.au  
    Title: The Integratron  
-   Link: <a href="https://atollon.com.au/article/the-integratron-george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://atollon.com.au/article/the-integratron-george-van-tassel/</a>  
+   Link:<a href="https://atollon.com.au/article/the-integratron-george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://atollon.com.au/article/the-integratron-george-van-tassel/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Giant Rock  
-   Link: <a href="https://www.youtube.com/watch?v=M5InKdKsKFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5InKdKsKFg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=M5InKdKsKFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5InKdKsKFg</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2otW78YYzwc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2otW78YYzwc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel Integratron Giant Rock UFO contactee George Van Tassel &amp; the Venusians | Giant Rock, Ashtar Command, and the Secrets of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2otW78YYzwc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2otW78YYzwc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel Integratron Giant Rock UFO contactee George Van Tassel &amp; the Venusians | Giant Rock, Ashtar Command, and the Secrets of...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lq1HIT_Yp1s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel &amp; the Venusians | Giant Rock, Ashtar Command, and the Secrets of the Integratron...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lq1HIT_Yp1s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel &amp; the Venusians | Giant Rock, Ashtar Command, and the Secrets of the Integratron...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Cz72ZzyaPvs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cz72ZzyaPvs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Contactee Builds Desert Dome From Alien Blue Prints - George Van Tassel and the Integratron...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Cz72ZzyaPvs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Cz72ZzyaPvs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Contactee Builds Desert Dome From Alien Blue Prints - George Van Tassel and the Integratron...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
    Title: Sound bath at the #integratron What a trip  
-   Link: <a href="https://www.instagram.com/p/DVv_WMjlB4d/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVv_WMjlB4d/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We loved it! [https://](https://)...... Ashtar Command, an important and high ranking ET.... Proceedings of the College of Universal Wisdom Into Th...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVv_WMjlB4d/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVv_WMjlB4d/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We loved it! [https://](https://)...... Ashtar Command, an important and high ranking ET.... Proceedings of the College of Universal Wisdom Into Th...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: UFO Contactee Builds Desert Dome From Alien Blue Prints  
-   Link: <a href="https://www.youtube.com/watch?v=1mo4FnJORt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1mo4FnJORt0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Rock Van Tassel Integratron Barbara Harris...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1mo4FnJORt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1mo4FnJORt0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Rock Van Tassel Integratron Barbara Harris...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Giant Rock Van Tassel Integratron Barbara Harris  
-   Link: <a href="https://www.youtube.com/watch?v=t19pWvGgv7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t19pWvGgv7Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RARE UFO ARCHIVE FOOTAGE INTERVIEW! GEORGE VAN TASSEL! UNSEEN 1950s UFO INTERVIEW...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t19pWvGgv7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t19pWvGgv7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RARE UFO ARCHIVE FOOTAGE INTERVIEW! GEORGE VAN TASSEL! UNSEEN 1950s UFO INTERVIEW...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/295375302_Waiting_for_the_Big_Beam_UFO_Religions_and_Ufological_Themes_in_New_Religious_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295375302_Waiting_for_the_Big_Beam_UFO_Religions_and_Ufological_Themes_in_New_Religious_Movements</a>  
+   Link:<a href="https://www.researchgate.net/publication/295375302_Waiting_for_the_Big_Beam_UFO_Religions_and_Ufological_Themes_in_New_Religious_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295375302_Waiting_for_the_Big_Beam_UFO_Religions_and_Ufological_Themes_in_New_Religious_Movements</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/ashtar-command-profile/60572420" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/ashtar-command-profile/60572420</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/ashtar-command-profile/60572420" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/ashtar-command-profile/60572420</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/mysterysciencetheater3000fans/posts/3570682436418575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mysterysciencetheater3000fans/posts/3570682436418575/</a>  
+   Link:<a href="https://www.facebook.com/groups/mysterysciencetheater3000fans/posts/3570682436418575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mysterysciencetheater3000fans/posts/3570682436418575/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/495381245/FBI-George-Van-Tassel-Part-01-of-01" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/495381245/FBI-George-Van-Tassel-Part-01-of-01</a>  
+   Link:<a href="https://www.scribd.com/document/495381245/FBI-George-Van-Tassel-Part-01-of-01" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/495381245/FBI-George-Van-Tassel-Part-01-of-01</a>  

@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_av
 
 ## Introduction
 
-One of the most effective ways UFO rescue prophecies survive failure is through a mechanism scholars call **avertive apocalypticism**. In this pattern, believers are told that catastrophe is imminent—nuclear war, planetary destruction, flooding, divine judgement or social [collapse]({{ 'collapse/' | relative_url }})—but that spiritual action can prevent or postpone it. When the predicted disaster does not occur, the absence of catastrophe becomes evidence not that the prophecy was wrong, but that the warning worked. The world was saved because believers prayed, channelled higher beings, raised collective consciousness, performed rituals, or spread a message in time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismThe concept of avertive apocalypticism describes a wide range o...</span></span></span>
+One of the most effective ways UFO rescue prophecies survive failure is through a mechanism scholars call **avertive apocalypticism**. In this pattern, believers are told that catastrophe is imminent—nuclear war, planetary destruction, flooding, divine judgement or social [collapse]({{ 'collapse/' | relative_url }})—but that spiritual action can prevent or postpone it. When the predicted disaster does not occur, the absence of catastrophe becomes evidence not that the prophecy was wrong, but that the warning worked. The world was saved because believers prayed, channelled higher beings, raised collective consciousness, performed rituals, or spread a message in time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismThe concept of avertive apocalypticism describes a wide range o...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_avertive_ufo_apocaly_1fe4c9-Illustration-1-dark.svg" | relative_url }}" alt="Averted Doom illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_avertive_ufo_apocaly_1fe4c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_avertive_ufo_apocaly_1fe4c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -296,7 +296,7 @@ Within UFO movements, this mechanism is especially powerful because it combines 
 
 ## How Avertive Apocalypse Works
 
-Daniel Wojcik's research defines avertive apocalypticism as a form of end-times belief in which impending destruction is regarded as real but conditional. Unlike fatalistic prophecies, which insist catastrophe must occur, avertive systems hold that human spiritual action can alter events. Prayer, repentance, energy work, psychic intervention, ritual practice, or obedience to prophetic messages are believed capable of preventing disaster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismThe concept of avertive apocalypticism describes a wide range o...</span></span></span>
+Daniel Wojcik's research defines avertive apocalypticism as a form of end-times belief in which impending destruction is regarded as real but conditional. Unlike fatalistic prophecies, which insist catastrophe must occur, avertive systems hold that human spiritual action can alter events. Prayer, repentance, energy work, psychic intervention, ritual practice, or obedience to prophetic messages are believed capable of preventing disaster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismThe concept of avertive apocalypticism describes a wide range o...</span></span></span>
 
 In UFO contexts, the mechanism often unfolds in four stages:
 
@@ -337,7 +337,7 @@ What makes the case particularly relevant to avertive [apocalypse]({{ 'apocalyps
 The logic was striking:
 
 [* The flood was predicted.](#endnote-15 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p&quot;)...</p></details>
 * The believers remained faithful.
 * The flood did not occur.
 * Therefore the world had been saved because of the believers' actions.
@@ -380,194 +380,194 @@ Within the history of failed UFO rescue predictions, avertive apocalypse functio
 That idea has appeared in UFO contactee traditions, channelled extraterrestrial messages, and rescue-oriented apocalyptic groups for decades. It remains one of the clearest examples of how failed catastrophe-and-salvation predictions can retain persuasive power long after the expected deadline has passed. [ojs.zrc-sazu.si+2ResearchGate](https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Doom Is Said to Be Averted. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Doom Is Said to Be Averted. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Covers UFO spiritual movements, prophecy, contactee traditions, and belief maintenance after unmet predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers UFO spiritual movements, prophecy, contactee traditions, and belief maintenance after unmet predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how groups reinterpret failed apocalyptic predictions as confirmation rather than disconfirmation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how groups reinterpret failed apocalyptic predictions as confirmation rather than disconfirmation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="averted-doom-642bb8-when-ufo-doom-is-said-to-be-averted-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ That idea has appeared in UFO contactee traditions, channelled extraterrestrial 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ That idea has appeared in UFO contactee traditions, channelled extraterrestrial 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ That idea has appeared in UFO contactee traditions, channelled extraterrestrial 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ That idea has appeared in UFO contactee traditions, channelled extraterrestrial 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ That idea has appeared in UFO contactee traditions, channelled extraterrestrial 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,120 +773,120 @@ That idea has appeared in UFO contactee traditions, channelled extraterrestrial 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicAvertive Apocalypticism | The Oxford Handbook of MillennialismThe concept of avertive apocalypticism describes a wide range o...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicAvertive Apocalypticism | The Oxford Handbook of MillennialismThe concept of avertive apocalypticism describes a wide range o...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: 292491570 Avertive Apocalypticism  
-   Link: <a href="https://www.researchgate.net/publication/292491570_Avertive_Apocalypticism" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292491570_Avertive_Apocalypticism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Avertive Apocalypticism27 Dec 2020 — The concept of avertive apocalypticism describes a wide range of beliefs that predict imminent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292491570_Avertive_Apocalypticism" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292491570_Avertive_Apocalypticism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Avertive Apocalypticism27 Dec 2020 — The concept of avertive apocalypticism describes a wide range of beliefs that predict imminent...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Daniel-Wojcik-5/publication/347932896_Wojcik_Apocalyptic_and_Millenarian_Aspects_of_American_UFOism/links/5fe827f5a6fdccdcb80761ed/Wojcik-Apocalyptic-and-Millenarian-Aspects-of-American-UFOism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Daniel-Wojcik-5/publication/347932896_Wojcik_Apocalyptic_and_Millenarian_Aspects_of_American_UFOism/links/5fe827f5a6fdccdcb80761ed/Wojcik-Apocalyptic-and-Millenarian-Aspects-of-American-UFOism.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>apocalyptic and millenarian aspects of american ufoismNumerous UFO movements warn that the human species has regressed and that worldly c...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Daniel-Wojcik-5/publication/347932896_Wojcik_Apocalyptic_and_Millenarian_Aspects_of_American_UFOism/links/5fe827f5a6fdccdcb80761ed/Wojcik-Apocalyptic-and-Millenarian-Aspects-of-American-UFOism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Daniel-Wojcik-5/publication/347932896_Wojcik_Apocalyptic_and_Millenarian_Aspects_of_American_UFOism/links/5fe827f5a6fdccdcb80761ed/Wojcik-Apocalyptic-and-Millenarian-Aspects-of-American-UFOism.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apocalyptic and millenarian aspects of american ufoismNumerous UFO movements warn that the human species has regressed and that worldly c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ojs.zrc-sazu.si  
-   Link: <a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO MYTHOLOGIESJune 2, 2023 — Avertive apocalyptic ideas characterized the early contactee movement, with the Space Brothers intervening...</p></details>
+   Link:<a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO MYTHOLOGIESJune 2, 2023 — Avertive apocalyptic ideas characterized the early contactee movement, with the Space Brothers intervening...</p></details>
    Published: June 2, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”Drawing on newly unsealed archival material, this article demonstrates that the book&#x27;s central claims are...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”Drawing on newly unsealed archival material, this article demonstrates that the book&#x27;s central claims are...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_[Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_[Media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1998) God was prophesied to appear at Teacher Chen&#x27;s house. God “failed” to appear on the 31st, and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_[Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_[Media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 1998) God was prophesied to appear at Teacher Chen&#x27;s house. God “failed” to appear on the 31st, and...</p></details>
    Published: March 1998  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (UFO religion)Members later moved to Texas in 1997, where they became notorious for a highly publicized failed millennial pro...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (UFO religion)Members later moved to Texas in 1997, where they became notorious for a highly publicized failed millennial pro...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/2395018/Apocalypse_in_Early_UFO_and_Alien_Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2395018/Apocalypse_in_Early_UFO_and_Alien_Based_Religions_Christian_and_Theosophical_Themes</a>  
+   Link:<a href="https://www.academia.edu/2395018/Apocalypse_in_Early_UFO_and_Alien_Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2395018/Apocalypse_in_Early_UFO_and_Alien_Based_Religions_Christian_and_Theosophical_Themes</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: paisleytownhall.org  
    Title: when prophecy fails  
-   Link: <a href="https://www.paisleytownhall.org/whats-on/when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://www.paisleytownhall.org/whats-on/when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover the true story of the world&#x27;s first UFO doomsday cult, which led to a ground breaking 1950s study into the concept of cognitive...</p></details>
+   Link:<a href="https://www.paisleytownhall.org/whats-on/when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://www.paisleytownhall.org/whats-on/when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discover the true story of the world&#x27;s first UFO doomsday cult, which led to a ground breaking 1950s study into the concept of cognitive...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archiv.ub.uni-marburg.de  
-   Link: <a href="https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uni-marburg.deGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · Cited by 10 — 1998 God&#x27;s Salvation Church, also known as Ch...</p></details>
+   Link:<a href="https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uni-marburg.deGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · Cited by 10 — 1998 God&#x27;s Salvation Church, also known as Ch...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: searchworks.stanford.edu  
-   Link: <a href="https://searchworks.stanford.edu/view/3508074" target="_blank" rel="noopener noreferrer nofollow">https://searchworks.stanford.edu/view/3508074</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daniel Wojcik sheds new light on America&#x27;s fascination with worldly destruction and transformation. He explores the origins of contempora...</p></details>
+   Link:<a href="https://searchworks.stanford.edu/view/3508074" target="_blank" rel="noopener noreferrer nofollow">https://searchworks.stanford.edu/view/3508074</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daniel Wojcik sheds new light on America&#x27;s fascination with worldly destruction and transformation. He explores the origins of contempora...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cesnur.org  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen had to make was to account publicly (and privately) for &quot;failed&quot; prophecy -- specifically, God&#x27;s scheduled appearan...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen had to make was to account publicly (and privately) for &quot;failed&quot; prophecy -- specifically, God&#x27;s scheduled appearan...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: askergren.com  
-   Link: <a href="https://askergren.com/prophecyfails.html" target="_blank" rel="noopener noreferrer nofollow">https://askergren.com/prophecyfails.html</a>  
+   Link:<a href="https://askergren.com/prophecyfails.html" target="_blank" rel="noopener noreferrer nofollow">https://askergren.com/prophecyfails.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: the story of the first ever ufo doomsday cult reimagined when prophecy fails dra  
-   Link: <a href="https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the first ever UFO doomsday cult, reimagined...When Prophecy Fails draws on the events surrounding a 1954 study that outlin...</p></details>
+   Link:<a href="https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the first ever UFO doomsday cult, reimagined...When Prophecy Fails draws on the events surrounding a 1954 study that outlin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.lib.unb.ca  
-   Link: <a href="https://journals.lib.unb.ca/index.php/MCR/article/view/17879/22111" target="_blank" rel="noopener noreferrer nofollow">https://journals.lib.unb.ca/index.php/MCR/article/view/17879/22111</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Chapter 8, &quot;Emergent Apocalyptic Beliefs about UFOs and Extraterrestrial Beings,&quot; Wojcik notes...</p></details>
+   Link:<a href="https://journals.lib.unb.ca/index.php/MCR/article/view/17879/22111" target="_blank" rel="noopener noreferrer nofollow">https://journals.lib.unb.ca/index.php/MCR/article/view/17879/22111</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Chapter 8, &quot;Emergent Apocalyptic Beliefs about UFOs and Extraterrestrial Beings,&quot; Wojcik notes...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-oxford-handbook-of-millennialism-1nbsped-9780195301052-2010049028.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-oxford-handbook-of-millennialism-1nbsped-9780195301052-2010049028.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>etic warnings, the imminent cataclysm may be averted...</p></details>
+   Link:<a href="https://dokumen.pub/the-oxford-handbook-of-millennialism-1nbsped-9780195301052-2010049028.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-oxford-handbook-of-millennialism-1nbsped-9780195301052-2010049028.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>etic warnings, the imminent cataclysm may be averted...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: blackwells.co.uk  
-   Link: <a href="https://blackwells.co.uk/bookshop/product/When-PROPHECY-FAILS-A-Doomsday-Cult-On-Alien-Invasion-by-Leon-Festinger-Henry-W-Riecken-Stanley-Schachter/9781955087650?srsltid=AfmBOopFR23gdCWEGfYNSRNbIyQUmnCUGNUpPmik2iVRvs8Y_iGgSccC" target="_blank" rel="noopener noreferrer nofollow">https://blackwells.co.uk/bookshop/product/When-PROPHECY-FAILS-A-Doomsday-Cult-On-Alien-Invasion-by-Leon-Festinger-Henry-W-Riecken-Stanley-Schachter/9781955087650?srsltid=AfmBOopFR23gdCWEGfYNSRNbIyQUmnCUGNUpPmik2iVRvs8Y_iGgSccC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The authors focused on the members&#x27; coping...</p></details>
+   Link:<a href="https://blackwells.co.uk/bookshop/product/When-PROPHECY-FAILS-A-Doomsday-Cult-On-Alien-Invasion-by-Leon-Festinger-Henry-W-Riecken-Stanley-Schachter/9781955087650?srsltid=AfmBOopFR23gdCWEGfYNSRNbIyQUmnCUGNUpPmik2iVRvs8Y_iGgSccC" target="_blank" rel="noopener noreferrer nofollow">https://blackwells.co.uk/bookshop/product/When-PROPHECY-FAILS-A-Doomsday-Cult-On-Alien-Invasion-by-Leon-Festinger-Henry-W-Riecken-Stanley-Schachter/9781955087650?srsltid=AfmBOopFR23gdCWEGfYNSRNbIyQUmnCUGNUpPmik2iVRvs8Y_iGgSccC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The authors focused on the members&#x27; coping...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOorRdVkQuoD85bynHChCsRsLeXaBPpfa1vIUSdth-RVNkx0u4t6f" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOorRdVkQuoD85bynHChCsRsLeXaBPpfa1vIUSdth-RVNkx0u4t6f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Master Chen predicted that God Page 7 failed prophecy and group demise 159 would appear in a flying saucer or...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOorRdVkQuoD85bynHChCsRsLeXaBPpfa1vIUSdth-RVNkx0u4t6f" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOorRdVkQuoD85bynHChCsRsLeXaBPpfa1vIUSdth-RVNkx0u4t6f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Master Chen predicted that God Page 7 failed prophecy and group demise 159 would appear in a flying saucer or...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: God's Salvation Church  
-   Link: <a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Cult of Chen Tao | Episode...On the brink of the new millennium, one man claims to know the day God will return to Earth...and H...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Cult of Chen Tao | Episode...On the brink of the new millennium, one man claims to know the day God will return to Earth...and H...</p></details>

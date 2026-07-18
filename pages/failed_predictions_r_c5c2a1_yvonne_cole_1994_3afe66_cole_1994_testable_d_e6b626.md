@@ -274,7 +274,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_1
 
 ## Introduction
 
-Yvonne Cole’s [1994 Ashtar]({{ '1994-ashtar/' | relative_url }}) landing prophecy became a notable failed UFO prediction largely because it specified a public timeframe. Unlike many channelled messages that describe vague future transformations, Cole claimed that an [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) arrival would occur in 1994, accompanied by public disclosure, media coverage, and visible interaction between extraterrestrials and humanity. By attaching the prediction to a definite period, she transformed a private spiritual claim into an event that could be checked against observable reality. When the predicted landing did not occur, the prophecy could be judged against clear expectations rather than interpreted indefinitely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">UFO Religion: Inside Flying Saucer Cults and Culture...Yvonne Cole, for example, predicted that the Ashtar Command fleet would arrive on...</span></span></span>
+Yvonne Cole’s [1994 Ashtar]({{ '1994-ashtar/' | relative_url }}) landing prophecy became a notable failed UFO prediction largely because it specified a public timeframe. Unlike many channelled messages that describe vague future transformations, Cole claimed that an [Ashtar Command]({{ 'ashtar-command/' | relative_url }}) arrival would occur in 1994, accompanied by public disclosure, media coverage, and visible interaction between extraterrestrials and humanity. By attaching the prediction to a definite period, she transformed a private spiritual claim into an event that could be checked against observable reality. When the predicted landing did not occur, the prophecy could be judged against clear expectations rather than interpreted indefinitely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">UFO Religion: Inside Flying Saucer Cults and Culture...Yvonne Cole, for example, predicted that the Ashtar Command fleet would arrive on...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_1994_testable_d_e6b626-Illustration-1-dark.svg" | relative_url }}" alt="1994 Date illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_1994_testable_d_e6b626-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_1994_testable_d_e6b626-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ This distinction is important within the history of failed UFO prophecies. A pre
 
 ## What Cole Said Would Happen in 1994
 
-Accounts of Cole’s teachings describe more than a general expectation of extraterrestrial contact. She reportedly predicted that the [Ashtar]({{ 'ashtar/' | relative_url }}) Command fleet would arrive on Earth in 1994 and that governments had already been cooperating with extraterrestrials to prepare humanity for the announcement. According to descriptions of the prophecy, the landing would be publicly revealed through the world's media and would initiate a dramatic transformation in human society. Followers were even encouraged to prepare for roles assisting the incoming visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2World Religions Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Accounts of Cole’s teachings describe more than a general expectation of extraterrestrial contact. She reportedly predicted that the [Ashtar]({{ 'ashtar/' | relative_url }}) Command fleet would arrive on Earth in 1994 and that governments had already been cooperating with extraterrestrials to prepare humanity for the announcement. According to descriptions of the prophecy, the landing would be publicly revealed through the world's media and would initiate a dramatic transformation in human society. Followers were even encouraged to prepare for roles assisting the incoming visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2World Religions Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 These details mattered because they created multiple observable benchmarks:
 
@@ -292,7 +292,7 @@ These details mattered because they created multiple observable benchmarks:
 * Global media involvement.
 * Social and political consequences visible to the wider world.
 
-Each element narrowed the range of possible interpretations. The prediction was not merely that spiritual change would occur someday; it described a concrete sequence of events expected within a known timeframe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Each element narrowed the range of possible interpretations. The prediction was not merely that spiritual change would occur someday; it described a concrete sequence of events expected within a known timeframe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8zZKKYEXFlk" title="Days of Noah 25: Integratron, Ashtar Command, extra-terrestrials, the &quot;ascension&quot; fake rapture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8zZKKYEXFlk" target="_blank" rel="noopener noreferrer">Days of Noah 25: Integratron, Ashtar Command, extra-terrestrials, the &quot;ascension&quot; fake rapture</a></p><p class="youtube-embed-meta">Channel: The Protoevangelium and the days of Noah</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8zZKKYEXFlk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8zZKKYEXFlk">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ Many UFO and contactee prophecies avoid precise deadlines. Predictions framed as
 
 In Cole's case, the prediction became testable because the expected event was public rather than personal. A private vision or mystical experience can be confirmed only by the person reporting it. A globally broadcast extraterrestrial landing would leave evidence available to everyone. Governments, journalists, scientists, and ordinary observers would all be able to verify whether it had occurred.
 
-The prophecy also involved claims that would have been difficult to miss. If world governments had revealed long-standing extraterrestrial cooperation and a fleet had openly arrived, the event would have become one of the most significant developments in recorded history. The absence of such an event is therefore itself meaningful evidence against the prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The prophecy also involved claims that would have been difficult to miss. If world governments had revealed long-standing extraterrestrial cooperation and a fleet had openly arrived, the event would have become one of the most significant developments in recorded history. The absence of such an event is therefore itself meaningful evidence against the prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 From an evidence perspective, the prediction met a basic criterion often discussed in the study of prophecy and scientific claims: it exposed itself to potential failure. Because the date and expected outcome were identifiable in advance, observers did not need to guess what success would look like.
 
@@ -313,7 +313,7 @@ From an evidence perspective, the prediction met a basic criterion often discuss
 
 When 1994 passed without the promised arrival, the prophecy encountered a problem that vague predictions can often avoid. The question was not whether humanity had become slightly more spiritually aware or whether unidentified aerial sightings continued to occur. The question was whether the publicly announced extraterrestrial landing had happened.
 
-According to accounts of the Ashtar movement, the fleet did not materialise as predicted. Gregory Reece notes that Cole's prophecy consequently joined a longer list of failed Ashtar predictions. The outcome was particularly significant because followers had reportedly been trained to assist the expected mission, suggesting that the prediction had practical consequences within the movement rather than remaining a purely symbolic teaching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">UFO Religion: Inside Flying Saucer Cults and Culture...Yvonne Cole, for example, predicted that the Ashtar Command fleet would arrive on...</span></span></span>
+According to accounts of the Ashtar movement, the fleet did not materialise as predicted. Gregory Reece notes that Cole's prophecy consequently joined a longer list of failed Ashtar predictions. The outcome was particularly significant because followers had reportedly been trained to assist the expected mission, suggesting that the prediction had practical consequences within the movement rather than remaining a purely symbolic teaching.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">UFO Religion: Inside Flying Saucer Cults and Culture...Yvonne Cole, for example, predicted that the Ashtar Command fleet would arrive on...</span></span></span>
 
 The missed date therefore functioned as a clear verdict on the original claim. Observers did not need specialised expertise, secret documents, or insider knowledge. They simply had to note that the promised public event had not occurred.
 
@@ -322,9 +322,9 @@ The missed date therefore functioned as a clear verdict on the original claim. O
 
 ## How the Missed Date Shaped the Ashtar Record
 
-One reason the 1994 prediction remains noteworthy is that it illustrates a broader pattern found in [UFO religions]({{ 'ufo-religion/' | relative_url }}) and contactee movements. Scholars of the Ashtar phenomenon have observed that failed physical predictions often lead to reinterpretation rather than abandonment of belief. Over time, emphasis can shift from literal spacecraft arrivals to spiritual experiences, inner transformations, ascension narratives, or events said to occur on non-physical planes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+One reason the 1994 prediction remains noteworthy is that it illustrates a broader pattern found in [UFO religions]({{ 'ufo-religion/' | relative_url }}) and contactee movements. Scholars of the Ashtar phenomenon have observed that failed physical predictions often lead to reinterpretation rather than abandonment of belief. Over time, emphasis can shift from literal spacecraft arrivals to spiritual experiences, inner transformations, ascension narratives, or events said to occur on non-physical planes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-The period after the failed 1994 expectations shows this tendency. Accounts of later Ashtar-related activities increasingly described spiritual journeys, consciousness transfers, and experiences aboard "ships of Light" accessed through meditation rather than publicly observable landings. These developments reduced dependence on externally verifiable events and moved the focus toward experiences that believers interpreted personally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The period after the failed 1994 expectations shows this tendency. Accounts of later Ashtar-related activities increasingly described spiritual journeys, consciousness transfers, and experiences aboard "ships of Light" accessed through meditation rather than publicly observable landings. These developments reduced dependence on externally verifiable events and moved the focus toward experiences that believers interpreted personally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 For historians of failed UFO predictions, that contrast is revealing. The original 1994 landing claim was vulnerable because it relied on a specific date and a public event. Later spiritualised interpretations were harder to test because they depended on subjective experiences rather than observable occurrences.
 
@@ -334,185 +334,185 @@ For historians of failed UFO predictions, that contrast is revealing. The origin
 
 The significance of Cole's prediction lies less in the details of the Ashtar narrative than in the role played by the date itself. By naming 1994 as the year of arrival, the prophecy crossed a line from open-ended expectation to measurable prediction. It established a deadline, defined a public outcome, and created conditions under which the claim could clearly succeed or fail.
 
-When the predicted landing did not occur, the result was not merely a disappointment for believers. It became a documented example of how a precise UFO prophecy can be evaluated against observable events. In that sense, the 1994 date is what made Cole's claim historically useful as a case study in failed UFO predictions: it provided a clear test, and the test produced a clear result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">UFO Religion: Inside Flying Saucer Cults and Culture...Yvonne Cole, for example, predicted that the Ashtar Command fleet would arrive on...</span></span></span>
+When the predicted landing did not occur, the result was not merely a disappointment for believers. It became a documented example of how a precise UFO prophecy can be evaluated against observable events. In that sense, the 1994 date is what made Cole's claim historically useful as a case study in failed UFO predictions: it provided a clear test, and the test produced a clear result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">UFO Religion: Inside Flying Saucer Cults and Culture...Yvonne Cole, for example, predicted that the Ashtar Command fleet would arrive on...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5V6FmVS_Gr0" title="10 Doomsday Cults That Got It Wrong | When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer">10 Doomsday Cults That Got It Wrong | When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: MythVision Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5V6FmVS_Gr0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the 1994 Date Raised the Stakes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the 1994 Date Raised the Stakes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how groups respond when specific predictions fail, matching the 1994 prophecy theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how groups respond when specific predictions fail, matching the 1994 prophecy theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers compare evidence-based UFO discussions with prophetic and channelled predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare evidence-based UFO discussions with prophetic and channelled predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses testable claims, skepticism, and verification, all central to evaluating dated prophecies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses testable claims, skepticism, and verification, all central to evaluating dated prophecies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides broader context for evaluating UFO assertions and public expectations surrounding contact claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for evaluating UFO assertions and public expectations surrounding contact claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="1994-date-why-the-1994-date-raised-the-stakes-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-series-progra" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ When the predicted landing did not occur, the result was not merely a disappoint
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ When the predicted landing did not occur, the result was not merely a disappoint
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ When the predicted landing did not occur, the result was not merely a disappoint
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ When the predicted landing did not occur, the result was not merely a disappoint
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ When the predicted landing did not occur, the result was not merely a disappoint
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,84 +718,84 @@ When the predicted landing did not occur, the result was not merely a disappoint
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Religion: Inside Flying Saucer Cults and Culture...Yvonne Cole, for example, predicted that the Ashtar Command fleet would arrive on...</p></details>
+   Link:<a href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Religion: Inside Flying Saucer Cults and Culture...Yvonne Cole, for example, predicted that the Ashtar Command fleet would arrive on...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/war-in-heaven-heaven-on-earth-theories-of-the-apocalyptic-millennialism-and-society-1nbsped-1904768881-9781904768883.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/war-in-heaven-heaven-on-earth-theories-of-the-apocalyptic-millennialism-and-society-1nbsped-1904768881-9781904768883.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n Heaven/Heaven on Earth...</p></details>
+   Link:<a href="https://dokumen.pub/war-in-heaven-heaven-on-earth-theories-of-the-apocalyptic-millennialism-and-society-1nbsped-1904768881-9781904768883.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/war-in-heaven-heaven-on-earth-theories-of-the-apocalyptic-millennialism-and-society-1nbsped-1904768881-9781904768883.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Heaven/Heaven on Earth...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wrldrels.org  
    Title: ashtar command  
-   Link: <a href="https://wrldrels.org/2016/12/05/ashtar-command/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2016/12/05/ashtar-command/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Religions OnlineAshtar Command – WRSP5 Dec 2016 — 1986: Yvonne Cole warned her followers that the destruction of Earth would occur...</p></details>
+   Link:<a href="https://wrldrels.org/2016/12/05/ashtar-command/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2016/12/05/ashtar-command/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Religions OnlineAshtar Command – WRSP5 Dec 2016 — 1986: Yvonne Cole warned her followers that the destruction of Earth would occur...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/1999/02/cole/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1999/02/cole/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;) Soon1 Feb 1999 — Back in May 1997, Cole was nabbed by the FBI for possession of illegally converted automatic weapons and vari...</p></details>
+   Link:<a href="https://www.wired.com/1999/02/cole/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1999/02/cole/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;) Soon1 Feb 1999 — Back in May 1997, Cole was nabbed by the FBI for possession of illegally converted automatic weapons and vari...</p></details>
    Published: May 1997  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/author/b07kh3rtms/henry-cole" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/author/b07kh3rtms/henry-cole</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Henry Cole Bestsellers, Signed &amp; First EditionsExplore 100+ books by Henry Cole: bestsellers, signed copies, first editions, and new or u...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/author/b07kh3rtms/henry-cole" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/author/b07kh3rtms/henry-cole</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Henry Cole Bestsellers, Signed &amp; First EditionsExplore 100+ books by Henry Cole: bestsellers, signed copies, first editions, and new or u...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=8zZKKYEXFlk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8zZKKYEXFlk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO cults when prophecy fails [cognitive dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;) End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Cogito Creative...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8zZKKYEXFlk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8zZKKYEXFlk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO cults when prophecy fails [cognitive dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;) End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Cogito Creative...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
    Title: UFO Religion Inside Flying Saucer Cults and Culture PDFDrive  
-   Link: <a href="https://www.scribd.com/document/501944064/UFO-Religion-Inside-Flying-Saucer-Cults-and-Culture-PDFDrive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/501944064/UFO-Religion-Inside-Flying-Saucer-Cults-and-Culture-PDFDrive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Religion - Inside Flying Saucer Cults and Culture...In his 1994 book Abduction: Human Encounter with Aliens, his experiences as a...</p></details>
+   Link:<a href="https://www.scribd.com/document/501944064/UFO-Religion-Inside-Flying-Saucer-Cults-and-Culture-PDFDrive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/501944064/UFO-Religion-Inside-Flying-Saucer-Cults-and-Culture-PDFDrive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Religion - Inside Flying Saucer Cults and Culture...In his 1994 book Abduction: Human Encounter with Aliens, his experiences as a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366218470_PROPHECY_ESCHATOLOGY_GLOBAL_NETWORKS_AND_THE_CRUSADES_FROM_HATTIN_TO_FREDERICK_II" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366218470_PROPHECY_ESCHATOLOGY_GLOBAL_NETWORKS_AND_THE_CRUSADES_FROM_HATTIN_TO_FREDERICK_II</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>prophecy, eschatology, global networks, and the crusades...Toledan prophecy failed to materialize, Christian interpreters were faced wi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/366218470_PROPHECY_ESCHATOLOGY_GLOBAL_NETWORKS_AND_THE_CRUSADES_FROM_HATTIN_TO_FREDERICK_II" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366218470_PROPHECY_ESCHATOLOGY_GLOBAL_NETWORKS_AND_THE_CRUSADES_FROM_HATTIN_TO_FREDERICK_II</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prophecy, eschatology, global networks, and the crusades...Toledan prophecy failed to materialize, Christian interpreters were faced wi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064006363653/posts/ashtar-extraterrestrial-beingalleged-extraterrestrial-beingfor-the-god-ashtar-se/314385570339123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064006363653/posts/ashtar-extraterrestrial-beingalleged-extraterrestrial-beingfor-the-god-ashtar-se/314385570339123/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed from the Ashtar Command, made alliances with similar others...</p></details>
+   Link:<a href="https://www.facebook.com/100064006363653/posts/ashtar-extraterrestrial-beingalleged-extraterrestrial-beingfor-the-god-ashtar-se/314385570339123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064006363653/posts/ashtar-extraterrestrial-beingalleged-extraterrestrial-beingfor-the-god-ashtar-se/314385570339123/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed from the Ashtar Command, made alliances with similar others...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metmuseum.org  
    Title: thomas coles journey atlantic crossings  
-   Link: <a href="https://www.metmuseum.org/met-publications/thomas-coles-journey-atlantic-crossings" target="_blank" rel="noopener noreferrer nofollow">https://www.metmuseum.org/met-publications/thomas-coles-journey-atlantic-crossings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Cole&#x27;s Journey: Atlantic CrossingsThomas Cole&#x27;s Journey emphasizes the artist&#x27;s travels in England and Italy from 1829 to 1832 and...</p></details>
+   Link:<a href="https://www.metmuseum.org/met-publications/thomas-coles-journey-atlantic-crossings" target="_blank" rel="noopener noreferrer nofollow">https://www.metmuseum.org/met-publications/thomas-coles-journey-atlantic-crossings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Cole&#x27;s Journey: Atlantic CrossingsThomas Cole&#x27;s Journey emphasizes the artist&#x27;s travels in England and Italy from 1829 to 1832 and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/contributors/henri-cole?page=2" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/contributors/henri-cole?page=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e)t, Stories News Books &amp; Culture Fiction &amp; Poetry Humor...</p></details>
+   Link:<a href="https://www.newyorker.com/contributors/henri-cole?page=2" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/contributors/henri-cole?page=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e)t, Stories News Books &amp; Culture Fiction &amp; Poetry Humor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/a/a-bomb%2Bsurvived%2Bpatients" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/a/a-bomb%2Bsurvived%2Bpatients</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a-bomb survived patients: Topics by...The aim of the present study was to investigate the clinicopathological features of prostate cance...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/a/a-bomb%2Bsurvived%2Bpatients" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/a/a-bomb%2Bsurvived%2Bpatients</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a-bomb survived patients: Topics by...The aim of the present study was to investigate the clinicopathological features of prostate cance...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: a-rabbitsfoot.com  
    Title: ernest coles the true america  
-   Link: <a href="https://a-rabbitsfoot.com/editorial/culture/ernest-coles-the-true-america/" target="_blank" rel="noopener noreferrer nofollow">https://a-rabbitsfoot.com/editorial/culture/ernest-coles-the-true-america/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ernest Cole&#x27;s photographs depict America at a turning point31 Jan 2024 — The Magnum photographer captured scenes in US life during its pi...</p></details>
+   Link:<a href="https://a-rabbitsfoot.com/editorial/culture/ernest-coles-the-true-america/" target="_blank" rel="noopener noreferrer nofollow">https://a-rabbitsfoot.com/editorial/culture/ernest-coles-the-true-america/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ernest Cole&#x27;s photographs depict America at a turning point31 Jan 2024 — The Magnum photographer captured scenes in US life during its pi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qxjtFg5jvcI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qxjtFg5jvcI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lactic Command? Dr. Ethan Cole UROLOGIST REVEALS: WATER to AVOID...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qxjtFg5jvcI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qxjtFg5jvcI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lactic Command? Dr. Ethan Cole UROLOGIST REVEALS: WATER to AVOID...</p></details>

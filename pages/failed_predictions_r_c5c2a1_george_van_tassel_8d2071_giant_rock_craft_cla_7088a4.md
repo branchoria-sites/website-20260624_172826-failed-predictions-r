@@ -280,17 +280,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant
 
 ## Introduction
 
-[George Van Tassel]({{ 'van-tassel/' | relative_url }})’s most dramatic claim was not a telepathic message but a supposedly physical encounter. He said that in August 1953 a spacecraft landed near [Giant Rock]({{ 'giant-rock/' | relative_url }}) in the California desert, that he was taken aboard, and that the experience lasted roughly twenty minutes. For believers, this appeared to move the story from private impressions to a direct encounter with a tangible craft. Yet when examined as evidence, the episode remained largely dependent on Van Tassel’s own account. No publicly available photographs, physical artefacts, instrument records, or independently documented observations established that a spacecraft had actually landed. As a result, the incident became an influential contactee story rather than a verified UFO event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
+[George Van Tassel]({{ 'van-tassel/' | relative_url }})’s most dramatic claim was not a telepathic message but a supposedly physical encounter. He said that in August 1953 a spacecraft landed near [Giant Rock]({{ 'giant-rock/' | relative_url }}) in the California desert, that he was taken aboard, and that the experience lasted roughly twenty minutes. For believers, this appeared to move the story from private impressions to a direct encounter with a tangible craft. Yet when examined as evidence, the episode remained largely dependent on Van Tassel’s own account. No publicly available photographs, physical artefacts, instrument records, or independently documented observations established that a spacecraft had actually landed. As a result, the incident became an influential contactee story rather than a verified UFO event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-1-dark.svg" | relative_url }}" alt="Craft Claim illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The August 1953 Encounter Story
 
-According to Van Tassel’s later descriptions, the event occurred in the early hours of 24 August 1953 at Giant Rock. He stated that he was awakened around 2 a.m. by a being named Solganda, whom he identified as a member of a cosmic governing group called the “Council of the Seven Lights”. Van Tassel claimed that a spacecraft had landed near the Giant Rock airstrip and that he was taken aboard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
+According to Van Tassel’s later descriptions, the event occurred in the early hours of 24 August 1953 at Giant Rock. He stated that he was awakened around 2 a.m. by a being named Solganda, whom he identified as a member of a cosmic governing group called the “Council of the Seven Lights”. Van Tassel claimed that a spacecraft had landed near the Giant Rock airstrip and that he was taken aboard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
 
-His account included unusually specific details. He described the craft as approximately thirty-six feet in diameter and nineteen feet high. Inside, he said, he was shown navigational systems and other features by several human-looking occupants who communicated largely through telepathy. Van Tassel later estimated that the entire encounter lasted about twenty minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
+His account included unusually specific details. He described the craft as approximately thirty-six feet in diameter and nineteen feet high. Inside, he said, he was shown navigational systems and other features by several human-looking occupants who communicated largely through telepathy. Van Tassel later estimated that the entire encounter lasted about twenty minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
 
-The story became important because Van Tassel connected it to later projects and teachings. He maintained that information received during this encounter inspired the design of the [Integratron]({{ 'integratron/' | relative_url }}), a structure he promoted as a device for rejuvenation research, anti-gravity studies and other advanced scientific purposes. In his telling, the encounter was not merely a sighting but the source of practical knowledge allegedly supplied by extraterrestrial visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-title">PBS So Cal Giant Rock, Space People and the Integratron</span><span class="citation-popover-snippet">PBS SoCalGiant Rock, Space People and the IntegratronMay 15, 2018 — 15 May 2018 — Beginning in 1953, Van Tassel began to conceive, plan a...</span><span class="citation-popover-meta">Published: May 15, 2018</span></span></span>
+The story became important because Van Tassel connected it to later projects and teachings. He maintained that information received during this encounter inspired the design of the [Integratron]({{ 'integratron/' | relative_url }}), a structure he promoted as a device for rejuvenation research, anti-gravity studies and other advanced scientific purposes. In his telling, the encounter was not merely a sighting but the source of practical knowledge allegedly supplied by extraterrestrial visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-title">PBS So Cal Giant Rock, Space People and the Integratron</span><span class="citation-popover-snippet">PBS SoCalGiant Rock, Space People and the IntegratronMay 15, 2018 — 15 May 2018 — Beginning in 1953, Van Tassel began to conceive, plan a...</span><span class="citation-popover-meta">Published: May 15, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lq1HIT_Yp1s" title="Joshua Tree UFO Mystery (2014) | Full Documentary | Giant Rock, Alien Contact &amp; George Van Tassel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer">Joshua Tree UFO Mystery (2014) | Full Documentary | Giant Rock, Alien Contact &amp; George Van Tassel</a></p><p class="youtube-embed-meta">Channel: Grapevine Documentaries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lq1HIT_Yp1s">Open on YouTube</a></p></div></div></div>
@@ -313,19 +313,19 @@ A claim of a landed craft could potentially be supported by several forms of ind
 
 </div>
 
-For the August 1953 encounter, publicly available accounts do not provide such corroboration. Historical summaries of the event consistently trace the story back to Van Tassel’s own descriptions and later retellings. The encounter became famous through his books, lectures, conventions and interviews rather than through independently documented physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
+For the August 1953 encounter, publicly available accounts do not provide such corroboration. Historical summaries of the event consistently trace the story back to Van Tassel’s own descriptions and later retellings. The encounter became famous through his books, lectures, conventions and interviews rather than through independently documented physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT+2Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
 
-This distinction matters because the encounter is often described as a “physical” contact rather than a purely psychic communication. A physical event can in principle generate external evidence. In this case, however, the publicly known record remained centred on a single narrator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
+This distinction matters because the encounter is often described as a “physical” contact rather than a purely psychic communication. A physical event can in principle generate external evidence. In this case, however, the publicly known record remained centred on a single narrator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-2-dark.svg" | relative_url }}" alt="Craft Claim illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Testimony Alone Left the Claim Unresolved
 
-Witness testimony can be valuable, especially when provided by someone with relevant experience. Van Tassel was not an obvious outsider to aviation. He had worked in aircraft-related positions and had experience as a mechanic and flight inspector before moving to Giant Rock. Supporters sometimes point to this background when arguing that he was familiar with conventional aircraft and therefore less likely to mistake one for something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">new film tells story ufo contactee 180969368</span><span class="citation-popover-snippet">Smithsonian MagazineNew Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings...</span></span></span>
+Witness testimony can be valuable, especially when provided by someone with relevant experience. Van Tassel was not an obvious outsider to aviation. He had worked in aircraft-related positions and had experience as a mechanic and flight inspector before moving to Giant Rock. Supporters sometimes point to this background when arguing that he was familiar with conventional aircraft and therefore less likely to mistake one for something extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">new film tells story ufo contactee 180969368</span><span class="citation-popover-snippet">Smithsonian MagazineNew Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings...</span></span></span>
 
-However, expertise does not by itself verify an extraordinary claim. Historians and investigators generally distinguish between the credibility of a witness and the independent [verification]({{ 'verification/' | relative_url }}) of the reported event. In the Giant Rock case, readers are effectively asked to accept that the encounter occurred because Van Tassel said it occurred. The evidence does not extend much beyond his narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
+However, expertise does not by itself verify an extraordinary claim. Historians and investigators generally distinguish between the credibility of a witness and the independent [verification]({{ 'verification/' | relative_url }}) of the reported event. In the Giant Rock case, readers are effectively asked to accept that the encounter occurred because Van Tassel said it occurred. The evidence does not extend much beyond his narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[THE MOJAVE PROJECT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
 
-This became especially significant within the broader history of UFO predictions and contactee movements. Van Tassel’s authority rested heavily on claimed access to advanced extraterrestrial knowledge. If the 1953 encounter could not be independently confirmed, then later claims derived from it—including technical instructions, prophetic warnings and promises of higher scientific understanding—rested on an evidential foundation that outsiders could not directly examine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-title">PBS So Cal Giant Rock, Space People and the Integratron</span><span class="citation-popover-snippet">PBS SoCalGiant Rock, Space People and the IntegratronMay 15, 2018 — 15 May 2018 — Beginning in 1953, Van Tassel began to conceive, plan a...</span><span class="citation-popover-meta">Published: May 15, 2018</span></span></span>
+This became especially significant within the broader history of UFO predictions and contactee movements. Van Tassel’s authority rested heavily on claimed access to advanced extraterrestrial knowledge. If the 1953 encounter could not be independently confirmed, then later claims derived from it—including technical instructions, prophetic warnings and promises of higher scientific understanding—rested on an evidential foundation that outsiders could not directly examine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbssocal.org">[PBS SoCal+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbssocal.org</span><span class="citation-popover-title">PBS So Cal Giant Rock, Space People and the Integratron</span><span class="citation-popover-snippet">PBS SoCalGiant Rock, Space People and the IntegratronMay 15, 2018 — 15 May 2018 — Beginning in 1953, Van Tassel began to conceive, plan a...</span><span class="citation-popover-meta">Published: May 15, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M5InKdKsKFg" title="Giant Rock - Aliens, Exploding Hermits, and a Time Travel Machine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M5InKdKsKFg" target="_blank" rel="noopener noreferrer">Giant Rock - Aliens, Exploding Hermits, and a Time Travel Machine</a></p><p class="youtube-embed-meta">Channel: Sidetrack Adventures</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M5InKdKsKFg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M5InKdKsKFg">Open on YouTube</a></p></div></div></div>
@@ -335,170 +335,170 @@ This became especially significant within the broader history of UFO predictions
 
 ## Did the Giant Rock Craft Claim Prove Anything?
 
-The encounter undoubtedly played a major role in establishing Van Tassel’s reputation. It helped transform Giant Rock into a centre of contactee culture and provided a dramatic origin story for ideas that would influence later UFO believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The encounter undoubtedly played a major role in establishing Van Tassel’s reputation. It helped transform Giant Rock into a centre of contactee culture and provided a dramatic origin story for ideas that would influence later UFO believers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-As evidence for extraterrestrial visitation, however, the claim remained [unresolved]({{ 'unresolved/' | relative_url }}). Van Tassel presented a detailed and consistent narrative, but the reported craft was never publicly demonstrated, and no widely accepted independent evidence emerged to confirm that a spacecraft had landed at Giant Rock in August 1953. The event therefore occupies an important place in UFO history primarily as a testimony-based case: influential, widely repeated and central to Van Tassel’s message, yet ultimately unverified. THE MOJAVE PROJECT+2Welcome to San Bernardino County <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[mojaveproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
+As evidence for extraterrestrial visitation, however, the claim remained [unresolved]({{ 'unresolved/' | relative_url }}). Van Tassel presented a detailed and consistent narrative, but the reported craft was never publicly demonstrated, and no widely accepted independent evidence emerged to confirm that a spacecraft had landed at Giant Rock in August 1953. The event therefore occupies an important place in UFO history primarily as a testimony-based case: influential, widely repeated and central to Van Tassel’s message, yet ultimately unverified. THE MOJAVE PROJECT+2Welcome to San Bernardino County<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mojaveproject.org">[mojaveproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mojaveproject.org</span><span class="citation-popover-snippet">THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-3-dark.svg" | relative_url }}" alt="Craft Claim illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_giant_rock_craft_cla_7088a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Giant Rock Craft Claim Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Giant Rock Craft Claim Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores standards of evidence and documented UFO cases, providing context for evaluating unverified encounter claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores standards of evidence and documented UFO cases, providing context for evaluating unverified encounter claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on how UFO reports should be assessed and what constitutes meaningful evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how UFO reports should be assessed and what constitutes meaningful evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
-        </h4>
-        <p class="fr-book-author">By John Fuller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
+</h4>
+<p class="fr-book-author">By John Fuller</p>
         
-        <p class="fr-book-desc">Provides a comparative example of extraordinary UFO encounter testimony and the challenges of verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a comparative example of extraordinary UFO encounter testimony and the challenges of verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Examines how extraordinary encounter narratives are evaluated when physical evidence is limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how extraordinary encounter narratives are evaluated when physical evidence is limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible" data-ebay-reference="craft-claim-did-the-giant-rock-craft-claim-prove-anything-failed-predictions-alien-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -514,7 +514,7 @@ As evidence for extraterrestrial visitation, however, the claim remained [unreso
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -534,7 +534,7 @@ As evidence for extraterrestrial visitation, however, the claim remained [unreso
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -566,7 +566,7 @@ As evidence for extraterrestrial visitation, however, the claim remained [unreso
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -618,7 +618,7 @@ As evidence for extraterrestrial visitation, however, the claim remained [unreso
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -663,7 +663,7 @@ As evidence for extraterrestrial visitation, however, the claim remained [unreso
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,116 +704,116 @@ As evidence for extraterrestrial visitation, however, the claim remained [unreso
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mojaveproject.org  
-   Link: <a href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow">https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</p></details>
+   Link:<a href="https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/" target="_blank" rel="noopener noreferrer nofollow">https://mojaveproject.org/dispatches-item/giant-rock-space-people-and-the-integratron/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE MOJAVE PROJECTGiant Rock, Space People and the IntegratronVan Tassel recounted his first physical encounter with the beings. He was a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Integratron" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Integratron</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Integratron" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Integratron</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Van Tassel started hosting group meditation in 1953 in a room underneath Giant Rock, excavated by Frank Critze...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Van Tassel started hosting group meditation in 1953 in a room underneath Giant Rock, excavated by Frank Critze...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: [Ashtar](&#123;&#123; 'ashtar/' | relative_url &#125;&#125;) Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lq1HIT_Yp1s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel - The Council Of Seven Lights: The Missing Link...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lq1HIT_Yp1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lq1HIT_Yp1s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel - The Council Of Seven Lights: The Missing Link...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: George Van Tassel  
-   Link: <a href="https://www.youtube.com/watch?v=4hf0oYzY980" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4hf0oYzY980</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling All Earthlings | Documentary Trailer (2018) | UFO Doc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4hf0oYzY980" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4hf0oYzY980</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling All Earthlings | Documentary Trailer (2018) | UFO Doc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: main.sbcounty.gov  
    Title: san bernardino county history giant rock  
-   Link: <a href="https://main.sbcounty.gov/2025/03/20/san-bernardino-county-history-giant-rock/" target="_blank" rel="noopener noreferrer nofollow">https://main.sbcounty.gov/2025/03/20/san-bernardino-county-history-giant-rock/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to San Bernardino CountySan Bernardino County history: Giant Rock20 Mar 2025 — In 1953, Van Tassel claimed that he encountered ex...</p></details>
+   Link:<a href="https://main.sbcounty.gov/2025/03/20/san-bernardino-county-history-giant-rock/" target="_blank" rel="noopener noreferrer nofollow">https://main.sbcounty.gov/2025/03/20/san-bernardino-county-history-giant-rock/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to San Bernardino CountySan Bernardino County history: Giant Rock20 Mar 2025 — In 1953, Van Tassel claimed that he encountered ex...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pbssocal.org  
    Title: PBS So Cal Giant Rock, Space People and the Integratron  
-   Link: <a href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow">https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBS SoCalGiant Rock, Space People and the IntegratronMay 15, 2018 — 15 May 2018 — Beginning in 1953, Van Tassel began to conceive, plan a...</p></details>
+   Link:<a href="https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron" target="_blank" rel="noopener noreferrer nofollow">https://www.pbssocal.org/shows/artbound/giant-rock-space-people-and-the-integratron</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PBS SoCalGiant Rock, Space People and the IntegratronMay 15, 2018 — 15 May 2018 — Beginning in 1953, Van Tassel began to conceive, plan a...</p></details>
    Published: May 15, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: smithsonianmag.com  
    Title: new film tells story ufo contactee 180969368  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineNew Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian MagazineNew Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Giant Rock  
-   Link: <a href="https://www.youtube.com/watch?v=M5InKdKsKFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5InKdKsKFg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens, Exploding Hermits, and a Time Travel...They had numerous framed, noterized space encounter testimonials fastened to the walls. T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M5InKdKsKFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M5InKdKsKFg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens, Exploding Hermits, and a Time Travel...They had numerous framed, noterized space encounter testimonials fastened to the walls. T...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cabinetmagazine.org  
-   Link: <a href="https://www.cabinetmagazine.org/issues/53/archibald.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cabinetmagazine.org/issues/53/archibald.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Effect | Sasha ArchibaldAn undated postcard of a plane grounded by Giant Rock during the Van Tassel family&#x27;s occupancy. A meeting pl...</p></details>
+   Link:<a href="https://www.cabinetmagazine.org/issues/53/archibald.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cabinetmagazine.org/issues/53/archibald.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Effect | Sasha ArchibaldAn undated postcard of a plane grounded by Giant Rock during the Van Tassel family&#x27;s occupancy. A meeting pl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: georgehbalazs.com  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2024/03/1942-1995-Articles-about-Giant-Rock-George-Van-Tassell-Including-a-Letter-from-Mom-Dad.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2024/03/1942-1995-Articles-about-Giant-Rock-George-Van-Tassell-Including-a-Letter-from-Mom-Dad.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tassel, owner and operator of the Giant Rock Airport, originator and host o...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2024/03/1942-1995-Articles-about-Giant-Rock-George-Van-Tassell-Including-a-Letter-from-Mom-Dad.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2024/03/1942-1995-Articles-about-Giant-Rock-George-Van-Tassell-Including-a-Letter-from-Mom-Dad.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tassel, owner and operator of the Giant Rock Airport, originator and host o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/mysterysciencetheater3000fans/posts/3570682436418575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mysterysciencetheater3000fans/posts/3570682436418575/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a wise group of aliens known as the “Council of Seven Lights...</p></details>
+   Link:<a href="https://www.facebook.com/groups/mysterysciencetheater3000fans/posts/3570682436418575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mysterysciencetheater3000fans/posts/3570682436418575/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a wise group of aliens known as the “Council of Seven Lights...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/u4le0h/van_tassel_with_his_time_machine_model_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/u4le0h/van_tassel_with_his_time_machine_model_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d to have received from the &quot;Beings&quot; he encountered in Yucca...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/u4le0h/van_tassel_with_his_time_machine_model_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/u4le0h/van_tassel_with_his_time_machine_model_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d to have received from the &quot;Beings&quot; he encountered in Yucca...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sueddeutsche.de  
    Title: Dem Geheimnis auf der Spur  
-   Link: <a href="https://www.sueddeutsche.de/stil/dem-geheimnis-auf-der-spur-das-integratron-1.3915189" target="_blank" rel="noopener noreferrer nofollow">https://www.sueddeutsche.de/stil/dem-geheimnis-auf-der-spur-das-integratron-1.3915189</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Das Integratron - Stil23 Mar 2018 — Von Mitte der Fünfzigerjahre an veranstaltete Van Tassel am nahen Giant Rock die jährliche Spacecraft...</p></details>
+   Link:<a href="https://www.sueddeutsche.de/stil/dem-geheimnis-auf-der-spur-das-integratron-1.3915189" target="_blank" rel="noopener noreferrer nofollow">https://www.sueddeutsche.de/stil/dem-geheimnis-auf-der-spur-das-integratron-1.3915189</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Das Integratron - Stil23 Mar 2018 — Von Mitte der Fünfzigerjahre an veranstaltete Van Tassel am nahen Giant Rock die jährliche Spacecraft...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: open.spotify.com  
    Title: 7Jn Ku Hl PLl NGf Tm2Hgvt D7  
-   Link: <a href="https://open.spotify.com/episode/7JnKuHlPLlNGfTm2HgvtD7" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/7JnKuHlPLlNGfTm2HgvtD7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel Archive [Patreon Preview]Myself, Theo and Theo head into the desert to meet a man named Don McKinney who owns a massive...</p></details>
+   Link:<a href="https://open.spotify.com/episode/7JnKuHlPLlNGfTm2HgvtD7" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/7JnKuHlPLlNGfTm2HgvtD7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel Archive [Patreon Preview]Myself, Theo and Theo head into the desert to meet a man named Don McKinney who owns a massive...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HmiyCCKT47A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HmiyCCKT47A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Building of The Immortality Machine (Season 18) | Ancient Aliens | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HmiyCCKT47A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HmiyCCKT47A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Building of The Immortality Machine (Season 18) | Ancient Aliens | History...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theamericanscholar.org  
    Title: good vibrations  
-   Link: <a href="https://theamericanscholar.org/good-vibrations/" target="_blank" rel="noopener noreferrer nofollow">https://theamericanscholar.org/good-vibrations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Apr 2024 — At two a.m. on August 24, 1953, as he recalled, Van Tassel was awakened by a being from Venus named Solgonda. The alien wor...</p></details>
+   Link:<a href="https://theamericanscholar.org/good-vibrations/" target="_blank" rel="noopener noreferrer nofollow">https://theamericanscholar.org/good-vibrations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Apr 2024 — At two a.m. on August 24, 1953, as he recalled, Van Tassel was awakened by a being from Venus named Solgonda. The alien wor...</p></details>
    Published: August 24, 1953  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
    Title: DY6B9f Ll Hi B  
-   Link: <a href="https://www.instagram.com/reel/DY6B9fLlHiB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY6B9fLlHiB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the California desert sits a giant boulder that became a UFO...In the 1950s, aviation mechanic and alleged alien contactee George Van...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DY6B9fLlHiB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY6B9fLlHiB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the California desert sits a giant boulder that became a UFO...In the 1950s, aviation mechanic and alleged alien contactee George Van...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: California's Gold S11E11 Giant Rock  
-   Link: <a href="https://www.youtube.com/watch?v=a-KHXfvR61o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a-KHXfvR61o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joshua Tree UFO Mystery (2014) | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a-KHXfvR61o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a-KHXfvR61o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joshua Tree UFO Mystery (2014) | Full Documentary...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_cos
 
 ## Introduction
 
-Failed UFO predictions become most significant when they prompt people to make irreversible decisions before the promised event occurs. Unlike a simple UFO sighting, a prophecy about a spacecraft landing, a rescue by extraterrestrials, or a world-changing transformation can lead followers to reorganise their lives around a deadline. When the prediction fails, the consequences are often measured not only in disappointed expectations but also in lost jobs, damaged relationships, financial sacrifices, and social isolation. Historical cases show that the greatest risks arise when belief moves from interpretation into action—when people sell possessions, abandon careers, relocate, or sever ties because they expect an imminent intervention that never arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Failed UFO predictions become most significant when they prompt people to make irreversible decisions before the promised event occurs. Unlike a simple UFO sighting, a prophecy about a spacecraft landing, a rescue by extraterrestrials, or a world-changing transformation can lead followers to reorganise their lives around a deadline. When the prediction fails, the consequences are often measured not only in disappointed expectations but also in lost jobs, damaged relationships, financial sacrifices, and social isolation. Historical cases show that the greatest risks arise when belief moves from interpretation into action—when people sell possessions, abandon careers, relocate, or sever ties because they expect an imminent intervention that never arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_costly_ufo_predictio_f96d19-Illustration-1-dark.svg" | relative_url }}" alt="Costly Choices illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_costly_ufo_predictio_f96d19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_costly_ufo_predictio_f96d19-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Failed UFO predictions become most significant when they prompt people to make i
 
 The best-known examples of failed UFO prophecies involve preparations for a specific date. Believers frequently treated the prediction as a practical reality rather than a symbolic possibility.
 
-In the 1954 case studied in *When Prophecy Fails*, followers of [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s flying-saucer movement expected rescue by spacecraft before a catastrophic flood. Contemporary accounts and later reviews describe members making substantial commitments to the prophecy. Some left or lost jobs, interrupted education, gave away money, disposed of possessions, and distanced themselves from sceptical friends and relatives because they expected imminent evacuation by extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In the 1954 case studied in *When Prophecy Fails*, followers of [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s flying-saucer movement expected rescue by spacecraft before a catastrophic flood. Contemporary accounts and later reviews describe members making substantial commitments to the prophecy. Some left or lost jobs, interrupted education, gave away money, disposed of possessions, and distanced themselves from sceptical friends and relatives because they expected imminent evacuation by extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 These actions matter because they transform a belief into a tangible investment. A prediction that costs nothing can be abandoned easily. A prediction that has already required financial sacrifice, public commitment, or major life changes becomes much harder to reject once evidence turns against it.
 
@@ -300,7 +300,7 @@ Several recurring patterns appear across UFO-related prophetic movements:
 * **Disposal of property:** Believers may sell possessions or reduce long-term commitments because they expect to leave Earth, be rescued, or witness an imminent transformation.
 * **Employment disruption:** Some followers leave jobs, stop pursuing careers, or neglect professional responsibilities in anticipation of a near-term event.
 * **Relocation and gathering:** Groups often assemble physically before a predicted deadline, increasing dependence on fellow believers.
-* **Relationship strain:** Family members who challenge the prediction may be viewed as obstacles, leading to isolation from outside social networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+* **Relationship strain:** Family members who challenge the prediction may be viewed as obstacles, leading to isolation from outside social networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 </div>
 
@@ -315,14 +315,14 @@ Financial losses are often visible, but social costs can be even more important.
 
 When people publicly declare that a UFO rescue, landing, or extraterrestrial intervention will occur on a particular date, they attach their reputation to the prediction. Friends, relatives, colleagues, and community members become witnesses. Once the date passes uneventfully, believers face not only contradictory evidence but also potential embarrassment and loss of status.
 
-Social psychologists have long noted that costly commitment can strengthen attachment to a belief rather than weaken it. The more someone has sacrificed, the harder it becomes to conclude that the sacrifice was unnecessary. This dynamic helped make the 1954 flying-saucer case a classic example in discussions of belief persistence after failed prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Social psychologists have long noted that costly commitment can strengthen attachment to a belief rather than weaken it. The more someone has sacrificed, the harder it becomes to conclude that the sacrifice was unnecessary. This dynamic helped make the 1954 flying-saucer case a classic example in discussions of belief persistence after failed prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 Costly commitments create several pressures:
 
 * **Identity pressure:** The belief becomes part of a person's self-understanding.
 * **Community pressure:** Fellow believers reinforce one another's interpretations.
 * **Reputation pressure:** Admitting error may feel more painful than revising the meaning of the prediction.
-* **Sunk-cost pressure:** Previous sacrifices encourage continued investment rather than withdrawal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing?This article examines the enduring psychological concept of cognitive dissonance,</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+* **Sunk-cost pressure:** Previous sacrifices encourage continued investment rather than withdrawal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing?This article examines the enduring psychological concept of cognitive dissonance,</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
 These pressures help explain why failed UFO predictions often produce complex reactions rather than immediate abandonment of the belief.
 
@@ -332,9 +332,9 @@ These pressures help explain why failed UFO predictions often produce complex re
 
 Most failed UFO predictions end in disappointment and reinterpretation rather than tragedy. However, history includes cases where expectations about extraterrestrial rescue became intertwined with severe personal risk.
 
-The most famous example is Heaven's Gate. The movement combined UFO beliefs with a broader religious worldview and eventually interpreted the Hale–Bopp comet as a sign connected to a spacecraft that would transport members to a higher existence. In 1997, thirty-nine members died in a mass suicide intended to allow their spirits to join the anticipated craft. The event demonstrates the most extreme form of costly commitment: followers acted on the belief that departure from earthly life was necessary to reach the promised destination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhat was the significance of Comet Hale-Bopp to...The group&#x27;s cofounder and leader, Marshall Applewhite, believed...</span></span></span>
+The most famous example is Heaven's Gate. The movement combined UFO beliefs with a broader religious worldview and eventually interpreted the Hale–Bopp comet as a sign connected to a spacecraft that would transport members to a higher existence. In 1997, thirty-nine members died in a mass suicide intended to allow their spirits to join the anticipated craft. The event demonstrates the most extreme form of costly commitment: followers acted on the belief that departure from earthly life was necessary to reach the promised destination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaWhat was the significance of Comet Hale-Bopp to...The group&#x27;s cofounder and leader, Marshall Applewhite, believed...</span></span></span>
 
-Even before that final act, members had made extensive personal sacrifices. Researchers and journalists have documented years of communal living, separation from conventional careers and family structures, and intense dedication to the group's expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">May 8, 2026 — Members of Heaven&#x27;s Gate believed that evil space aliens – Luciferians... Heaven&#x27;s Gate: America&#x27;s UFO Religion. New York...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+Even before that final act, members had made extensive personal sacrifices. Researchers and journalists have documented years of communal living, separation from conventional careers and family structures, and intense dedication to the group's expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">May 8, 2026 — Members of Heaven&#x27;s Gate believed that evil space aliens – Luciferians... Heaven&#x27;s Gate: America&#x27;s UFO Religion. New York...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 Cases of this magnitude are unusual, but they illustrate an important point: the danger lies not in observing unexplained lights in the sky but in reorganising one's life around a prediction that demands escalating commitments.
 
@@ -353,7 +353,7 @@ Common reinterpretations include:
 * The prediction was delayed because humanity was [not ready]({{ 'not-ready/' | relative_url }}).
 * Believers' faith prevented a catastrophe that would otherwise have occurred.
 
-The 1954 flying-saucer prophecy became famous partly because observers reported that some committed followers sought new explanations after the predicted rescue failed to occur. More recent archival research has challenged aspects of the classic account, arguing that the original movement may have fragmented more than later retellings suggested. Even amid this scholarly dispute, the underlying lesson remains clear: believers do not all react the same way when a UFO prophecy fails. Some leave immediately, while others reinterpret events in ways that preserve their commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</span></span></span>
+The 1954 flying-saucer prophecy became famous partly because observers reported that some committed followers sought new explanations after the predicted rescue failed to occur. More recent archival research has challenged aspects of the classic account, arguing that the original movement may have fragmented more than later retellings suggested. Even amid this scholarly dispute, the underlying lesson remains clear: believers do not all react the same way when a UFO prophecy fails. Some leave immediately, while others reinterpret events in ways that preserve their commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</span></span></span>
 
 The outcome often depends on how much has already been invested. Individuals who sacrificed careers, possessions, relationships, or status may have stronger incentives to find a new explanation than those whose involvement was limited.
 
@@ -372,194 +372,194 @@ That is why failed UFO prophecies occupy a distinctive place in the history of U
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a failed prophecy changes lives. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a failed prophecy changes lives. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Built around a famous UFO-linked prophecy group and explains how believers reacted when predictions failed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around a famous UFO-linked prophecy group and explains how believers reacted when predictions failed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why people form and maintain beliefs, including extraordinary claims and disconfirmed expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people form and maintain beliefs, including extraordinary claims and disconfirmed expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Directly helps explain why followers reinterpret failure rather than abandoning deeply invested beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly helps explain why followers reinterpret failure rather than abandoning deeply invested beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Examines collective belief, mass enthusiasm, and the social dynamics that can amplify questionable predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Examines collective belief, mass enthusiasm, and the social dynamics that can amplify questionable predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia"><img src="{{ '/assets/images/marketplace-covers/89f265c48b09ef905820.jpg' | relative_url }}" alt="Listing image for Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Star Trek Movie Science Fiction Spock Captain Kirk Wall Art Poster memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item"><img src="{{ '/assets/images/marketplace-covers/a7e522cc0c53bc09220b.jpg' | relative_url }}" alt="Listing image for Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item"><img src="{{ '/assets/images/marketplace-covers/a7e522cc0c53bc09220b.jpg' | relative_url }}" alt="Listing image for Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Blade Runner Style Cyberpunk Future Prop Model - Sci-Fi Cosplay Costume Item</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Imperial Stormtrooper Bust - Star Wars Memorabilia / sci-fii Collectible Unique"><img src="{{ '/assets/images/marketplace-covers/b25730326c98d23a54c0.jpg' | relative_url }}" alt="Listing image for Imperial Stormtrooper Bust - Star Wars Memorabilia / sci-fii Collectible Unique" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Imperial Stormtrooper Bust - Star Wars Memorabilia / sci-fii Collectible Unique</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Imperial Stormtrooper Bust - Star Wars Memorabilia / sci-fii Collectible Unique"><img src="{{ '/assets/images/marketplace-covers/b25730326c98d23a54c0.jpg' | relative_url }}" alt="Listing image for Imperial Stormtrooper Bust - Star Wars Memorabilia / sci-fii Collectible Unique" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Imperial Stormtrooper Bust - Star Wars Memorabilia / sci-fii Collectible Unique</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed"><img src="{{ '/assets/images/marketplace-covers/dd0901642ceb5d38e826.jpg' | relative_url }}" alt="Listing image for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed"><img src="{{ '/assets/images/marketplace-covers/dd0901642ceb5d38e826.jpg' | relative_url }}" alt="Listing image for Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Part II Movie Poster Signed Printed Autograph A4 Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science fiction memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: science fiction memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+fiction+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science fiction memorabilia" data-ebay-reference="costly-choices-when-a-failed-prophecy-changes-lives-failed-predictions-science-fiction-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ That is why failed UFO prophecies occupy a distinctive place in the history of U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ That is why failed UFO prophecies occupy a distinctive place in the history of U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ That is why failed UFO prophecies occupy a distinctive place in the history of U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ That is why failed UFO prophecies occupy a distinctive place in the history of U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ That is why failed UFO prophecies occupy a distinctive place in the history of U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,120 +765,120 @@ That is why failed UFO prophecies occupy a distinctive place in the history of U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gwern.net  
    Title: Debunking “When Prophecy Fails”  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhat was the significance of Comet Hale-Bopp to...The group&#x27;s cofounder and leader, Marshall Applewhite, believed...</p></details>
+   Link:<a href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhat was the significance of Comet Hale-Bopp to...The group&#x27;s cofounder and leader, Marshall Applewhite, believed...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
    Title: heavens gate mass suicide  
-   Link: <a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?7 Mar 2023 — Inside a San Diego mansion, authorities discovered the remains of 39 memb...</p></details>
+   Link:<a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?7 Mar 2023 — Inside a San Diego mansion, authorities discovered the remains of 39 memb...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — Members of Heaven&#x27;s Gate believed that evil space aliens – Luciferians... Heaven&#x27;s Gate: America&#x27;s [UFO Religion](&amp;#123;&amp;#123; &#x27;ufo-religion/&#x27; | relative_url &amp;#125;&amp;#125;). New York...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — Members of Heaven&#x27;s Gate believed that evil space aliens – Luciferians... Heaven&#x27;s Gate: America&#x27;s [UFO Religion](&amp;#123;&amp;#123; &#x27;ufo-religion/&#x27; | relative_url &amp;#125;&amp;#125;). New York...</p></details>
    Published: May 8, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Ufo, alien, space over trees. Britannica Quiz. Don&#x27;t Drink the Punch Q...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Ufo, alien, space over trees. Britannica Quiz. Don&#x27;t Drink the Punch Q...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-[cognitive-dissonance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: Heaven's Gate  
-   Link: <a href="https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cult that committed mass suicide on...I am only just now find out I survived a cult? r/cults. • 5mo ago...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cult that committed mass suicide on...I am only just now find out I survived a cult? r/cults. • 5mo ago...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newyorker.com  
    Title: de programming heavens gate the wrong stuff  
-   Link: <a href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Wrong Stuff7 Apr 1997 —... alien spacecraft that would, as they put it on their Web site, “take us home to... the literal Heavens...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Wrong Stuff7 Apr 1997 —... alien spacecraft that would, as they put it on their Web site, “take us home to... the literal Heavens...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fails Fails: The Lies Promoted by the Originator of Cognitive Dissonance... job due to his UFO proselytizing before the failed prophecy...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fails Fails: The Lies Promoted by the Originator of Cognitive Dissonance... job due to his UFO proselytizing before the failed prophecy...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: templetonworldcharity.org  
    Title: Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?  
-   Link: <a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary resident, was the cult&#x27;s leader who claimed she could communicate with alie...</p></details>
+   Link:<a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary resident, was the cult&#x27;s leader who claimed she could communicate with alie...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: crimeandinvestigation.co.uk  
-   Link: <a href="https://www.crimeandinvestigation.co.uk/crime-files/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/crime-files/[heaven-s-gate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate CultHeaven&#x27;s Gate Cult... Heaven&#x27;s Gate was the name of an American religious group led by Marshall Applewhite and Bonnie...</p></details>
+   Link:<a href="https://www.crimeandinvestigation.co.uk/crime-files/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/crime-files/[heaven-s-gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate CultHeaven&#x27;s Gate Cult... Heaven&#x27;s Gate was the name of an American religious group led by Marshall Applewhite and Bonnie...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — The group also believed that God was an advanced alien travelling in...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — The group also believed that God was an advanced alien travelling in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sfgate.com  
    Title: Cultists Saw Hale Bopp as a Heavenly Sign It 2848671  
-   Link: <a href="https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultists Saw Hale-Bopp as a Heavenly Sign / It meant UFO...28 Mar 1997 — Rumors of an impending UFO encounter, the arrival of the Hale-B...</p></details>
+   Link:<a href="https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultists Saw Hale-Bopp as a Heavenly Sign / It meant UFO...28 Mar 1997 — Rumors of an impending UFO encounter, the arrival of the Hale-B...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: a foundational 1956 study of cognitive dissonance  
-   Link: <a href="https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist Leon Festinger coined the term after infiltrating a 1954 UFO cult whose members became more devoted when their prophecy fail...</p></details>
+   Link:<a href="https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist Leon Festinger coined the term after infiltrating a 1954 UFO cult whose members became more devoted when their prophecy fail...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 397254906 Debunking When Prophecy Fails  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bps.org.uk  
    Title: when when prophecy fails fails  
-   Link: <a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers.Read more...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 1997 — Alien abductions, poltergeists, UFO encounters, [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing/&#x27; | relative_url &amp;#125;&amp;#125;), ESP and other unlikely phenomena are common fare. Given tha...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 1997 — Alien abductions, poltergeists, UFO encounters, [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing/&#x27; | relative_url &amp;#125;&amp;#125;), ESP and other unlikely phenomena are common fare. Given tha...</p></details>

@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_
 
 ## Introduction
 
-Among the many failed UFO-related prophecies of the early Cold War, [George Van Tassel]({{ 'van-tassel/' | relative_url }})’s July 1952 [Ashtar]({{ 'ashtar/' | relative_url }}) message stands out because it made a concrete, testable claim. Rather than predicting a vague spiritual crisis or distant catastrophe, the message warned that detonating a hydrogen bomb would extinguish life on Earth. The warning arrived just as the United States was preparing to enter the thermonuclear age, turning widespread public anxiety about nuclear weapons into a specific forecast that could soon be checked against reality. When the first full-scale hydrogen bomb test took place later in 1952 and humanity survived, the claim became one of the clearest examples of a failed prediction within early contactee UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+Among the many failed UFO-related prophecies of the early Cold War, [George Van Tassel]({{ 'van-tassel/' | relative_url }})’s July 1952 [Ashtar]({{ 'ashtar/' | relative_url }}) message stands out because it made a concrete, testable claim. Rather than predicting a vague spiritual crisis or distant catastrophe, the message warned that detonating a hydrogen bomb would extinguish life on Earth. The warning arrived just as the United States was preparing to enter the thermonuclear age, turning widespread public anxiety about nuclear weapons into a specific forecast that could soon be checked against reality. When the first full-scale hydrogen bomb test took place later in 1952 and humanity survived, the claim became one of the clearest examples of a failed prediction within early contactee UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-1-dark.svg" | relative_url }}" alt="July warning illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ Among the many failed UFO-related prophecies of the early Cold War, [George Van 
 
 ### The July 1952 contact claim
 
-According to Van Tassel, on 18 July 1952 he received a telepathic communication from an extraterrestrial commander named Ashtar. The message framed Earth’s scientists as having crossed a dangerous boundary by moving beyond ordinary atomic weapons and attempting to exploit hydrogen itself. The communication asserted that hydrogen was a “life giving” element present throughout living systems and warned that humanity did not understand the consequences of tampering with it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+According to Van Tassel, on 18 July 1952 he received a telepathic communication from an extraterrestrial commander named Ashtar. The message framed Earth’s scientists as having crossed a dangerous boundary by moving beyond ordinary atomic weapons and attempting to exploit hydrogen itself. The communication asserted that hydrogen was a “life giving” element present throughout living systems and warned that humanity did not understand the consequences of tampering with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
-The most important statement was unambiguous: when scientists exploded the hydrogen atom, life on Earth would be extinguished. The message did not merely argue that hydrogen bombs would be powerful or morally dangerous. It claimed that the act of detonating hydrogen would trigger a planetary-scale destruction of life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+The most important statement was unambiguous: when scientists exploded the hydrogen atom, life on Earth would be extinguished. The message did not merely argue that hydrogen bombs would be powerful or morally dangerous. It claimed that the act of detonating hydrogen would trigger a planetary-scale destruction of life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
-Van Tassel also said he was instructed to communicate the warning to governments and encourage international cooperation. The message portrayed the danger as so severe that political divisions should be set aside in order to prevent the proposed tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+Van Tassel also said he was instructed to communicate the warning to governments and encourage international cooperation. The message portrayed the danger as so severe that political divisions should be set aside in order to prevent the proposed tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qq_viSR2Yhs" title="George Van Tassel 1964 Interview on Aliens,Ufo&#x27;s and Time Travel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qq_viSR2Yhs" target="_blank" rel="noopener noreferrer">George Van Tassel 1964 Interview on Aliens,Ufo&#x27;s and Time Travel</a></p><p class="youtube-embed-meta">Channel: Joe Kiernan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qq_viSR2Yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qq_viSR2Yhs">Open on YouTube</a></p></div></div></div>
@@ -301,11 +301,11 @@ Van Tassel also said he was instructed to communicate the warning to governments
 
 The logic behind the warning reflected a mixture of nuclear anxiety, spiritual belief, and speculative science rather than established physics.
 
-In the message, hydrogen was treated not simply as a chemical element but as a fundamental component of living creation. Because hydrogen exists in water, organic matter, and the atmosphere, the communication suggested that detonating it would damage the foundations of life itself. This was presented as fundamentally different from earlier atomic weapons based on uranium or plutonium. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+In the message, hydrogen was treated not simply as a chemical element but as a fundamental component of living creation. Because hydrogen exists in water, organic matter, and the atmosphere, the communication suggested that detonating it would damage the foundations of life itself. This was presented as fundamentally different from earlier atomic weapons based on uranium or plutonium.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
-This distinction mattered because the hydrogen bomb represented a new and poorly understood technology in public discourse during 1952. Many people outside the scientific community struggled to understand thermonuclear reactions, and fears about unprecedented consequences were widespread. Van Tassel’s message transformed those fears into a dramatic cosmic narrative: humanity was not merely building a stronger bomb but threatening the life-supporting structure of the planet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+This distinction mattered because the hydrogen bomb represented a new and poorly understood technology in public discourse during 1952. Many people outside the scientific community struggled to understand thermonuclear reactions, and fears about unprecedented consequences were widespread. Van Tassel’s message transformed those fears into a dramatic cosmic narrative: humanity was not merely building a stronger bomb but threatening the life-supporting structure of the planet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
-The warning also drew on a recurring contactee theme that advanced extraterrestrials acted as guardians against humanity’s self-destruction. In the same communication, Ashtar claimed authority to intervene if necessary and declared that projects connected with such testing would be stopped if humanity persisted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+The warning also drew on a recurring contactee theme that advanced extraterrestrials acted as guardians against humanity’s self-destruction. In the same communication, Ashtar claimed authority to intervene if necessary and declared that projects connected with such testing would be stopped if humanity persisted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-2-dark.svg" | relative_url }}" alt="July warning illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -315,13 +315,13 @@ Many UFO prophecies are difficult to evaluate because they are symbolic, open-en
 
 Three features made it testable:
 
-* **A specific trigger:** the explosion of a hydrogen bomb. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[ahf.nuclearmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">hydrogen bomb 1950</span><span class="citation-popover-snippet">Bomb - 1950 - Nuclear MuseumThe purpose of the experiment, nicknamed the “George” shot, was to demonstrate, as a minimum, that a thermonu...</span></span></span>
+* **A specific trigger:** the explosion of a hydrogen bomb.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[ahf.nuclearmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">hydrogen bomb 1950</span><span class="citation-popover-snippet">Bomb - 1950 - Nuclear MuseumThe purpose of the experiment, nicknamed the “George” shot, was to demonstrate, as a minimum, that a thermonu...</span></span></span>
 * **A specific outcome:** extinction of life on Earth.
-* **A near-term opportunity for [verification]({{ 'verification/' | relative_url }}):** the United States was actively developing and preparing thermonuclear tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+* **A near-term opportunity for [verification]({{ 'verification/' | relative_url }}):** the United States was actively developing and preparing thermonuclear tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
-Because the predicted mechanism was tied to a real-world technological event, observers did not need special spiritual insight to determine whether the prophecy succeeded. Once a thermonuclear device was detonated, the prediction faced a straightforward empirical test. Either the predicted planetary catastrophe would occur, or it would not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Because the predicted mechanism was tied to a real-world technological event, observers did not need special spiritual insight to determine whether the prophecy succeeded. Once a thermonuclear device was detonated, the prediction faced a straightforward empirical test. Either the predicted planetary catastrophe would occur, or it would not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-This is what makes the July warning especially important in the history of failed UFO predictions. It was not merely a warning that nuclear weapons were dangerous—a claim that many scientists and political [leaders]({{ 'leaders/' | relative_url }}) also accepted. Instead, it asserted a specific physical consequence that could be checked against observable reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+This is what makes the July warning especially important in the history of failed UFO predictions. It was not merely a warning that nuclear weapons were dangerous—a claim that many scientists and political [leaders]({{ 'leaders/' | relative_url }}) also accepted. Instead, it asserted a specific physical consequence that could be checked against observable reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vvFV1v8l-PI" title="The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer">The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vvFV1v8l-PI">Open on YouTube</a></p></div></div></div>
@@ -331,206 +331,206 @@ This is what makes the July warning especially important in the history of faile
 
 ## The Outcome and Its Evidential Significance
 
-Later in 1952, the United States conducted the first full-scale thermonuclear test. The predicted extinction of life did not occur. Human civilisation continued, and the planet remained intact. In evidential terms, this directly contradicted the central claim of the July Ashtar message. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Later in 1952, the United States conducted the first full-scale thermonuclear test. The predicted extinction of life did not occur. Human civilisation continued, and the planet remained intact. In evidential terms, this directly contradicted the central claim of the July Ashtar message.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-Researchers who have examined the history of the Ashtar movement frequently point to this episode as an early example of failed prophecy. Christopher Helland, whose work on the Ashtar tradition is widely cited, notes that the prediction that life would be destroyed when humanity exploded the hydrogen atom failed when the H-bomb was tested without producing the foretold result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Researchers who have examined the history of the Ashtar movement frequently point to this episode as an early example of failed prophecy. Christopher Helland, whose work on the Ashtar tradition is widely cited, notes that the prediction that life would be destroyed when humanity exploded the hydrogen atom failed when the H-bomb was tested without producing the foretold result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-What followed is also revealing. The original message had included statements that Ashtar’s forces would prevent planetary destruction if necessary. After the test, later believers could therefore reinterpret the outcome: the world survived not because the warning was wrong, but because extraterrestrial intervention had prevented the worst effects. This shift from prediction to invisible rescue became a recurring pattern in later UFO-contactee belief systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+What followed is also revealing. The original message had included statements that Ashtar’s forces would prevent planetary destruction if necessary. After the test, later believers could therefore reinterpret the outcome: the world survived not because the warning was wrong, but because extraterrestrial intervention had prevented the worst effects. This shift from prediction to invisible rescue became a recurring pattern in later UFO-contactee belief systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
-Within the narrower history of failed UFO predictions, Van Tassel’s July 1952 warning remains notable because it linked extraterrestrial authority to a clear scientific forecast. The forecast was simple enough to verify, and the real-world event that tested it arrived within months. That combination makes it one of the most straightforwardly falsified apocalyptic claims of the early contactee era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
+Within the narrower history of failed UFO predictions, Van Tassel’s July 1952 warning remains notable because it linked extraterrestrial authority to a clear scientific forecast. The forecast was simple enough to verify, and the real-world event that tested it arrived within months. That combination makes it one of the most straightforwardly falsified apocalyptic claims of the early contactee era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-3-dark.svg" | relative_url }}" alt="July warning illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_july_ashtar_warning_f22bfe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Ashtar Say Would Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Ashtar Say Would Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers place early UFO-contact narratives within the wider history of UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers place early UFO-contact narratives within the wider history of UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses how extraordinary predictions and testable claims can be evaluated using evidence and critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how extraordinary predictions and testable claims can be evaluated using evidence and critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Explains the real-world nuclear anxieties that made hydrogen-bomb apocalypse predictions persuasive to some audiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the real-world nuclear anxieties that made hydrogen-bomb apocalypse predictions persuasive to some audiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Captures the atmosphere of the early 1950s UFO era in which Ashtar-related claims emerged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the atmosphere of the early 1950s UFO era in which Ashtar-related claims emerged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="july-warning-what-did-ashtar-say-would-happen-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ Within the narrower history of failed UFO predictions, Van Tassel’s July 1952 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ Within the narrower history of failed UFO predictions, Van Tassel’s July 1952 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ Within the narrower history of failed UFO predictions, Van Tassel’s July 1952 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ Within the narrower history of failed UFO predictions, Van Tassel’s July 1952 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ Within the narrower history of failed UFO predictions, Van Tassel’s July 1952 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,108 +736,108 @@ Within the narrower history of failed UFO predictions, Van Tassel’s July 1952 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/George" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GeorgeFilm and television · George (1972 TV series), a Canadian-Swiss television series · George (1993 TV series), a short-lived sitco...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/George" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeorgeFilm and television · George (1972 TV series), a Canadian-Swiss television series · George (1993 TV series), a short-lived sitco...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wwwuser.gwdguser.de  
    Title: ashtar muw  
-   Link: <a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</p></details>
+   Link:<a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When they explode the hydrogen atom, they shall extinguish life on this planet. refused to have anything to do with the explosion of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdamm.org  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>/UFO ReligionJan 15, 2021 — The doomed planet has been called Clarion, Lucifer, Lyra, Maldek, and Car.... On 18 July 1952, Van Tassel al...</p></details>
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/UFO ReligionJan 15, 2021 — The doomed planet has been called Clarion, Lucifer, Lyra, Maldek, and Car.... On 18 July 1952, Van Tassel al...</p></details>
    Published: July 1952  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Atom And Hydrogen Bombs (Information)  
-   Link: <a href="https://hansard.parliament.uk/commons/1952-11-20/debates/846988b3-401f-41b1-b754-5a4529914a3d/AtomAndHydrogenBombs%28Information%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1952-11-20/debates/846988b3-401f-41b1-b754-5a4529914a3d/AtomAndHydrogenBombs%28Information%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>And Hydrogen Bombs (Information) - HansardHansard record of the item: &#x27;Atom And Hydrogen Bombs (Information)&#x27; on Thursday 20 November 1952...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/1952-11-20/debates/846988b3-401f-41b1-b754-5a4529914a3d/AtomAndHydrogenBombs%28Information%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1952-11-20/debates/846988b3-401f-41b1-b754-5a4529914a3d/AtomAndHydrogenBombs%28Information%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And Hydrogen Bombs (Information) - HansardHansard record of the item: &#x27;Atom And Hydrogen Bombs (Information)&#x27; on Thursday 20 November 1952...</p></details>
    Published: November 1952  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: boneandsickle.com  
    Title: george van tassel  
-   Link: <a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: George van Tassel30 Jul 2021 — Chief among the Space People van Tassel claimed to contact was Ashtar, whose messages were largely de...</p></details>
+   Link:<a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: George van Tassel30 Jul 2021 — Chief among the Space People van Tassel claimed to contact was Ashtar, whose messages were largely de...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ahf.nuclearmuseum.org  
    Title: hydrogen bomb 1950  
-   Link: <a href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bomb - 1950 - Nuclear MuseumThe purpose of the experiment, nicknamed the “George” shot, was to demonstrate, as a minimum, that a thermonu...</p></details>
+   Link:<a href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bomb - 1950 - Nuclear MuseumThe purpose of the experiment, nicknamed the “George” shot, was to demonstrate, as a minimum, that a thermonu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: uk Hydrogen Bomb  
-   Link: <a href="https://hansard.parliament.uk/commons/1954-04-05/debates/b42abc3a-85f2-410a-9e9f-b27b8a25ea72/HydrogenBomb" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1954-04-05/debates/b42abc3a-85f2-410a-9e9f-b27b8a25ea72/HydrogenBomb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bomb - HansardWe believe that civilisation today is in grave danger. The immediate cause for this debate is the explosion of a hydrogen b...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/1954-04-05/debates/b42abc3a-85f2-410a-9e9f-b27b8a25ea72/HydrogenBomb" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1954-04-05/debates/b42abc3a-85f2-410a-9e9f-b27b8a25ea72/HydrogenBomb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bomb - HansardWe believe that civilisation today is in grave danger. The immediate cause for this debate is the explosion of a hydrogen b...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AshtarThese channeled messages were directed toward the people of Earth, warning that humanity&#x27;s warlike ways, in the development of supe...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AshtarThese channeled messages were directed toward the people of Earth, warning that humanity&#x27;s warlike ways, in the development of supe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/35938555/Free_Energy_George_Van_Tassel_s_UFOlogy_as_Reactionary_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35938555/Free_Energy_George_Van_Tassel_s_UFOlogy_as_Reactionary_Science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel&#x27;s UFOlogy as Reactionary ScienceWhen the hydrogen bomb, for instance, did not usher in an [apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;), it was because th...</p></details>
+   Link:<a href="https://www.academia.edu/35938555/Free_Energy_George_Van_Tassel_s_UFOlogy_as_Reactionary_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35938555/Free_Energy_George_Van_Tassel_s_UFOlogy_as_Reactionary_Science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel&#x27;s UFOlogy as Reactionary ScienceWhen the hydrogen bomb, for instance, did not usher in an [apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;), it was because th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: orwellfoundation.com  
-   Link: <a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/you-and-the-atom-bomb/" target="_blank" rel="noopener noreferrer nofollow">https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/you-and-the-atom-bomb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You and the Atom BombSome months ago, when the bomb was still only a rumour, there was a widespread belief that splitting the atom was me...</p></details>
+   Link:<a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/you-and-the-atom-bomb/" target="_blank" rel="noopener noreferrer nofollow">https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/you-and-the-atom-bomb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You and the Atom BombSome months ago, when the bomb was still only a rumour, there was a widespread belief that splitting the atom was me...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt30727086/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt30727086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Original Alien Contactee Podcast Episode 2022. Release date April 7, 2022 (United Kingdom)...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt30727086/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt30727086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Original Alien Contactee Podcast Episode 2022. Release date April 7, 2022 (United Kingdom)...</p></details>
    Published: April 7, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: smithsonianmag.com  
    Title: new film tells story ufo contactee 180969368  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings, filmmaker Jonathan...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/new-film-tells-story-ufo-contactee-180969368/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Film Tells the Story of George Van Tassel and His...14 Jun 2018 — In his new documentary, Calling All Earthlings, filmmaker Jonathan...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/326152327795032/posts/1038293676580890/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/326152327795032/posts/1038293676580890/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>h through the wrong use of nuclear power and that the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/326152327795032/posts/1038293676580890/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/326152327795032/posts/1038293676580890/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>h through the wrong use of nuclear power and that the...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: georgehbalazs.com  
    Title: to do with the explosion of the hydrogen atom. The.Read more  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>any effort to end continual destruction on earth, before man destroys the eart...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>any effort to end continual destruction on earth, before man destroys the eart...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rense.com  
    Title: The Original Space Channeler  
-   Link: <a href="https://rense.com/general70/tass.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general70/tass.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Van Tassel, contactee, who held the first ongoing spacecraft conventions in the high desert at a place called Gia...</p></details>
+   Link:<a href="https://rense.com/general70/tass.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general70/tass.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Van Tassel, contactee, who held the first ongoing spacecraft conventions in the high desert at a place called Gia...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thebulletin.org  
    Title: 1950 the hydrogen bomb  
-   Link: <a href="https://thebulletin.org/premium/2025-12/1950-the-hydrogen-bomb/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/premium/2025-12/1950-the-hydrogen-bomb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1950: The Hydrogen Bomb10 Dec 2025 — In this article I shall discuss some of the scientific, moral, and political aspects of the hydrogen...</p></details>
+   Link:<a href="https://thebulletin.org/premium/2025-12/1950-the-hydrogen-bomb/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/premium/2025-12/1950-the-hydrogen-bomb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1950: The Hydrogen Bomb10 Dec 2025 — In this article I shall discuss some of the scientific, moral, and political aspects of the hydrogen...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: open.spotify.com  
    Title: 7Jn Ku Hl PLl NGf Tm2Hgvt D7  
-   Link: <a href="https://open.spotify.com/episode/7JnKuHlPLlNGfTm2HgvtD7" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/7JnKuHlPLlNGfTm2HgvtD7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel Archive [Patreon Preview]19 May 2025 — Theo and Theo head into the desert to meet a man named Don McKinney who owns a m...</p></details>
+   Link:<a href="https://open.spotify.com/episode/7JnKuHlPLlNGfTm2HgvtD7" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/7JnKuHlPLlNGfTm2HgvtD7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van Tassel Archive [Patreon Preview]19 May 2025 — Theo and Theo head into the desert to meet a man named Don McKinney who owns a m...</p></details>
    Published: May 2025  

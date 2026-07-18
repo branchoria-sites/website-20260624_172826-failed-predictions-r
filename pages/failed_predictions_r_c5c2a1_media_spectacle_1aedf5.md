@@ -447,17 +447,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5-overvie
 
 ## Introduction
 
-Media spectacle can turn a failed UFO prediction from a private disappointment into a public drama. Cameras gather because the claim is visual, time-stamped and easy to explain: a saucer will arrive, God will appear on television, a comet hides a spacecraft, or the chosen will be rescued before catastrophe. When nothing happens, the story does not simply end. Publicity can intensify pressure inside the group, alarm [neighbours]({{ 'neighbours/' | relative_url }}) and police, invite mockery, and leave behind a simplified cultural memory that may outlast the facts. The clearest examples are [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue prediction, Chen Tao’s 1998 Garland, Texas, prophecy, and the media afterlife of Heaven’s Gate and Hale-Bopp. In each case, reporters did more than record a failed prediction; their presence helped shape what the failure meant to believers, officials and the wider public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Media spectacle can turn a failed UFO prediction from a private disappointment into a public drama. Cameras gather because the claim is visual, time-stamped and easy to explain: a saucer will arrive, God will appear on television, a comet hides a spacecraft, or the chosen will be rescued before catastrophe. When nothing happens, the story does not simply end. Publicity can intensify pressure inside the group, alarm [neighbours]({{ 'neighbours/' | relative_url }}) and police, invite mockery, and leave behind a simplified cultural memory that may outlast the facts. The clearest examples are [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue prediction, Chen Tao’s 1998 Garland, Texas, prophecy, and the media afterlife of Heaven’s Gate and Hale-Bopp. In each case, reporters did more than record a failed prediction; their presence helped shape what the failure meant to believers, officials and the wider public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5-overview.webp" | relative_url }}" alt="Overview image for Media" loading="eager" decoding="sync" fetchpriority="high">
 ## Why prophecy draws cameras
 
-Failed UFO predictions have a built-in news hook: they promise a visible event at a known time. Ordinary UFO belief can be vague or private, but a dated prophecy gives editors a countdown, a location and a possible spectacle. That is why Dorothy Martin’s small circle in 1954 became famous far beyond its size. The story began with a press-friendly claim that a catastrophic flood was coming and that the faithful would be saved by flying saucer. In the classic account later published as *When Prophecy Fails*, press attention, prank calls, spectators and police involvement all became part of the event rather than background scenery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Failed UFO predictions have a built-in news hook: they promise a visible event at a known time. Ordinary UFO belief can be vague or private, but a dated prophecy gives editors a countdown, a location and a possible spectacle. That is why Dorothy Martin’s small circle in 1954 became famous far beyond its size. The story began with a press-friendly claim that a catastrophic flood was coming and that the faithful would be saved by flying saucer. In the classic account later published as *When Prophecy Fails*, press attention, prank calls, spectators and police involvement all became part of the event rather than background scenery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 The mechanism is simple. A dated UFO prophecy gives reporters three phases to cover: anticipation, the appointed moment, and the explanation afterwards. Before the deadline, cameras can show believers waiting, neighbours reacting and authorities preparing. At the moment of failure, the absence itself becomes the story. After the deadline, journalists ask whether believers will abandon, reinterpret or escalate the claim. That structure is especially attractive because it does not require the audience to understand the full theology behind the prediction; viewers can grasp the surface question immediately: did the saucer arrive?
 
-Chen Tao shows the same dynamic in a more modern, international form. Its leader, Hon-Ming Chen, predicted that God would appear on television and then physically descend in [Garland]({{ 'garland/' | relative_url }}), Texas, in March 1998. Religious-studies researcher Ryan Cook argued that these prophecies were unusually “media-friendly” and that Chen tried to make the news media an instrument of prophecy. Charles Houston Prather’s account in the *Marburg Journal of Religion* likewise notes that the group held international media attention, with Chen and spokesperson Richard Liu giving many press conferences to handle demand for interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR)...</span></span></span>
+Chen Tao shows the same dynamic in a more modern, international form. Its leader, Hon-Ming Chen, predicted that God would appear on television and then physically descend in [Garland]({{ 'garland/' | relative_url }}), Texas, in March 1998. Religious-studies researcher Ryan Cook argued that these prophecies were unusually “media-friendly” and that Chen tried to make the news media an instrument of prophecy. Charles Houston Prather’s account in the *Marburg Journal of Religion* likewise notes that the group held international media attention, with Chen and spokesperson Richard Liu giving many press conferences to handle demand for interviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR)...</span></span></span>
 
 That media-friendliness mattered because the prediction was not only cosmic but broadcastable. “God will appear on television” is almost designed for television coverage: the medium becomes part of the miracle. Once reporters arrive, the prophecy gains a second audience. It is no longer just a message for adherents; it is a public event staged before sceptics, neighbours, police and viewers who expect an ending.
 
@@ -467,24 +467,24 @@ That media-friendliness mattered because the prediction was not only cosmic but 
 
 Media attention can raise the emotional cost of being wrong. A believer who has privately expected a UFO rescue may feel disappointment when it fails. A believer who has made the same claim before journalists, neighbours and relatives must also face embarrassment, reputational loss and urgent demands for explanation. That pressure can encourage reinterpretation, but it can also accelerate [collapse]({{ 'collapse/' | relative_url }}). The key point is that publicity does not have one predictable effect.
 
-The famous Martin case is often used to illustrate [cognitive dissonance]({{ 'dissonance/' | relative_url }}): the idea that people under pressure may reduce the discomfort of failed belief by doubling down. In the standard version, after the flood and flying saucer failed to arrive, the group reinterpreted the non-event as a spiritual victory and sought publicity more actively. But later criticism has challenged the neatness of that story. Recent archival work summarised by Sciety argues that the group had proselytised before the failure and that it quickly abandoned its beliefs afterwards, while also raising serious ethical questions about the original researchers’ conduct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The famous Martin case is often used to illustrate [cognitive dissonance]({{ 'dissonance/' | relative_url }}): the idea that people under pressure may reduce the discomfort of failed belief by doubling down. In the standard version, after the flood and flying saucer failed to arrive, the group reinterpreted the non-event as a spiritual victory and sought publicity more actively. But later criticism has challenged the neatness of that story. Recent archival work summarised by Sciety argues that the group had proselytised before the failure and that it quickly abandoned its beliefs afterwards, while also raising serious ethical questions about the original researchers’ conduct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-That dispute is useful for understanding media spectacle. It suggests that the cameras can distort the evidence twice: first by altering the behaviour of the group being observed, and later by helping create a memorable but simplified lesson. In Martin’s case, reporters, social psychologists, prank callers and spectators were all part of the environment. It is therefore risky to treat the episode as a clean laboratory test of how believers naturally respond when UFO prophecy fails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+That dispute is useful for understanding media spectacle. It suggests that the cameras can distort the evidence twice: first by altering the behaviour of the group being observed, and later by helping create a memorable but simplified lesson. In Martin’s case, reporters, social psychologists, prank callers and spectators were all part of the environment. It is therefore risky to treat the episode as a clean laboratory test of how believers naturally respond when UFO prophecy fails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-In Chen Tao, publicity created pressure not only inside the group but around it. The Garland authorities were concerned because the prediction came soon after highly publicised deaths involving the Solar Temple and Heaven’s Gate. The Garland Police Department mobilised resources, coordinated with local agencies, consulted outside experts and maintained contact with Chen Tao members. The FBI Law Enforcement Bulletin later presented the episode as a policing case study, stressing that unfamiliar dress or strong devotion should not automatically be read as proof of violent intent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+In Chen Tao, publicity created pressure not only inside the group but around it. The Garland authorities were concerned because the prediction came soon after highly publicised deaths involving the Solar Temple and Heaven’s Gate. The Garland Police Department mobilised resources, coordinated with local agencies, consulted outside experts and maintained contact with Chen Tao members. The FBI Law Enforcement Bulletin later presented the episode as a policing case study, stressing that unfamiliar dress or strong devotion should not automatically be read as proof of violent intent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-The police also had to manage the media spectacle itself. Reporters and camera crews came from countries including England, France, Germany and China; the department issued media passes, created press kits, arranged interviews and handled practical issues such as parking and sanitation. This is an important part of the mechanism: a failed UFO prediction can become a crowd-management problem before it becomes an evidential one. The event being covered may not happen, but the coverage still creates real logistical and public-safety consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+The police also had to manage the media spectacle itself. Reporters and camera crews came from countries including England, France, Germany and China; the department issued media passes, created press kits, arranged interviews and handled practical issues such as parking and sanitation. This is an important part of the mechanism: a failed UFO prediction can become a crowd-management problem before it becomes an evidential one. The event being covered may not happen, but the coverage still creates real logistical and public-safety consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iE68xtZj99M" title="Heaven&#x27;s Gate and the Hale Bopp Comet: What&#x27;s the Connection? | Heaven&#x27;s Gate 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iE68xtZj99M" target="_blank" rel="noopener noreferrer">Heaven&#x27;s Gate and the Hale Bopp Comet: What&#x27;s the Connection? | Heaven&#x27;s Gate 101</a></p><p class="youtube-embed-meta">Channel: Varsity Bookworm</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iE68xtZj99M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iE68xtZj99M">Open on YouTube</a></p></div></div></div>
 
 ## When publicity becomes part of the prophecy
 
-Some failed UFO predictions do not merely attract media; they incorporate media into the claim. Chen Tao is the clearest example because the prophecy involved a television appearance. When the expected broadcast did not occur, the group’s public explanation had to address both the religious failure and the failed media event. Prather records that media interest fell after 31 March 1998, even though the group continued practising its religion with far less attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Some failed UFO predictions do not merely attract media; they incorporate media into the claim. Chen Tao is the clearest example because the prophecy involved a television appearance. When the expected broadcast did not occur, the group’s public explanation had to address both the religious failure and the failed media event. Prather records that media interest fell after 31 March 1998, even though the group continued practising its religion with far less attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
 This pattern is important because it shows how the spectacle can be self-limiting. Before the deadline, the claim has suspense. After the deadline, unless there is violence, scandal or a new prediction, the same reporters often leave. That can create a sharp emotional contrast: a group is briefly treated as a global story, then returned to obscurity once the camera-friendly moment has passed.
 
-In some cases, the spectacle can even be interpreted by believers as meaningful. If a leader has said that a message must reach the world, then the arrival of journalists can be framed as evidence that the prophecy is working at a social level, even if the physical event fails. Cook’s field report on Chen Tao is especially valuable here because it describes the group’s relationship with the news media not as incidental, but as part of its adaptation to an American suburban setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR)...</span></span></span>
+In some cases, the spectacle can even be interpreted by believers as meaningful. If a leader has said that a message must reach the world, then the arrival of journalists can be framed as evidence that the prophecy is working at a social level, even if the physical event fails. Cook’s field report on Chen Tao is especially valuable here because it describes the group’s relationship with the news media not as incidental, but as part of its adaptation to an American suburban setting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR)...</span></span></span>
 
 The danger is that coverage can reward the most theatrical version of a claim. A quiet, cautious, ambiguous belief is less newsworthy than a definite date, a named location and a dramatic promised sign. That does not mean journalists cause the prophecy, but their attention can change which versions of a belief become publicly visible. The prophecy that can be filmed is the prophecy that travels.
 
@@ -492,13 +492,13 @@ The danger is that coverage can reward the most theatrical version of a claim. A
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5-Illustration-2-dark.svg" | relative_url }}" alt="Media illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aftermath stories and simplified myths
 
-The afterlife of a failed UFO prediction often depends on the simplest story the media leaves behind. Heaven’s Gate is the strongest example. The group’s 1997 mass suicide was tied to its belief that the Hale-Bopp comet marked the time to leave Earth, and the group’s own website framed Hale-Bopp as the “marker” for the arrival of a spacecraft from the “Level Above Human”. But public memory often compresses a longer religious history into a few symbols: comet, UFO, internet, tracksuits, mansion, mass death. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Whether Hale-Bopp has a &quot;companion&quot; or... ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo space alien space alien...Read more...</span></span></span>
+The afterlife of a failed UFO prediction often depends on the simplest story the media leaves behind. Heaven’s Gate is the strongest example. The group’s 1997 mass suicide was tied to its belief that the Hale-Bopp comet marked the time to leave Earth, and the group’s own website framed Hale-Bopp as the “marker” for the arrival of a spacecraft from the “Level Above Human”. But public memory often compresses a longer religious history into a few symbols: comet, UFO, internet, tracksuits, mansion, mass death.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Whether Hale-Bopp has a &quot;companion&quot; or... ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo space alien space alien...Read more...</span></span></span>
 
-Media coverage quickly leaned into the “[internet cult]({{ 'internet-cult/' | relative_url }})” angle. A 1997 article in the *Journal of Computer-Mediated Communication* noted headlines presenting Heaven’s Gate as deeply involved in cyberspace and treating the case as an early internet mystery. Wired’s contemporary coverage criticised the rush to blame the internet, arguing that the group’s web skills were being sensationalised rather than carefully explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — This paper looks at online material produced by...</span></span></span>
+Media coverage quickly leaned into the “[internet cult]({{ 'internet-cult/' | relative_url }})” angle. A 1997 article in the *Journal of Computer-Mediated Communication* noted headlines presenting Heaven’s Gate as deeply involved in cyberspace and treating the case as an early internet mystery. Wired’s contemporary coverage criticised the rush to blame the internet, arguing that the group’s web skills were being sensationalised rather than carefully explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — This paper looks at online material produced by...</span></span></span>
 
-The Hale-Bopp “companion” rumour shows how a media ecosystem can feed a failed UFO expectation even before a tragedy. Astronomer Olivier Hainaut’s Hale-Bopp page at the European Southern Observatory documented a claimed UFO image posted on Art Bell’s and Whitley Strieber’s websites and identified it as fake, based on an original digital image from University of Hawaii astronomer David Tholen. Time’s 1997 coverage of Art Bell likewise focused on how the spacecraft rumour circulated through paranormal broadcasting before becoming entangled in the Heaven’s Gate story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?</span></span></span>
+The Hale-Bopp “companion” rumour shows how a media ecosystem can feed a failed UFO expectation even before a tragedy. Astronomer Olivier Hainaut’s Hale-Bopp page at the European Southern Observatory documented a claimed UFO image posted on Art Bell’s and Whitley Strieber’s websites and identified it as fake, based on an original digital image from University of Hawaii astronomer David Tholen. Time’s 1997 coverage of Art Bell likewise focused on how the spacecraft rumour circulated through paranormal broadcasting before becoming entangled in the Heaven’s Gate story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?</span></span></span>
 
-The simplified myth can obscure two different failures. One was empirical: there was no verified spacecraft accompanying Hale-Bopp. The other was interpretive: a complex religious movement became a shorthand warning about gullibility, computers or “cults”, depending on the commentator’s agenda. That compression made the story memorable, but it also made it easier to miss the longer development of Heaven’s Gate theology and the specific media conditions that amplified the comet rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — This paper looks at online material produced by...</span></span></span>
+The simplified myth can obscure two different failures. One was empirical: there was no verified spacecraft accompanying Hale-Bopp. The other was interpretive: a complex religious movement became a shorthand warning about gullibility, computers or “cults”, depending on the commentator’s agenda. That compression made the story memorable, but it also made it easier to miss the longer development of Heaven’s Gate theology and the specific media conditions that amplified the comet rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — This paper looks at online material produced by...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Up1WH943xs" title="Heaven&#x27;s Gate: The suicide cult that shocked the world | How to watch on CBS8+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Up1WH943xs" target="_blank" rel="noopener noreferrer">Heaven&#x27;s Gate: The suicide cult that shocked the world | How to watch on CBS8+</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Up1WH943xs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Up1WH943xs">Open on YouTube</a></p></div></div></div>
@@ -508,11 +508,11 @@ The simplified myth can obscure two different failures. One was empirical: there
 
 ## What the spectacle leaves behind
 
-Media spectacle around failed UFO predictions leaves three durable effects. First, it creates public anxiety before anything has happened. Chen Tao’s Garland neighbours and police did not merely evaluate a theological claim; they had to prepare for possible disorder under intense international scrutiny. The FBI case study later treated that preparation as a lesson in avoiding panic while still planning for risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+Media spectacle around failed UFO predictions leaves three durable effects. First, it creates public anxiety before anything has happened. Chen Tao’s Garland neighbours and police did not merely evaluate a theological claim; they had to prepare for possible disorder under intense international scrutiny. The FBI case study later treated that preparation as a lesson in avoiding panic while still planning for risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-Second, spectacle changes the evidence trail. The moment reporters arrive, they can influence behaviour: believers perform for outsiders, leaders answer hostile questions, pranksters intervene, authorities prepare for worst cases, and later writers inherit a record shaped by that pressure. This is why the contested Martin case remains so important. It is not only a story about a saucer that failed to arrive; it is also a warning that public observation can contaminate the very behaviour observers later explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Second, spectacle changes the evidence trail. The moment reporters arrive, they can influence behaviour: believers perform for outsiders, leaders answer hostile questions, pranksters intervene, authorities prepare for worst cases, and later writers inherit a record shaped by that pressure. This is why the contested Martin case remains so important. It is not only a story about a saucer that failed to arrive; it is also a warning that public observation can contaminate the very behaviour observers later explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Third, spectacle produces cultural shorthand. “The UFO cult that waited for God in Texas” or “the comet cult on the internet” may be memorable, but such labels flatten the details that matter: who made the prediction, what exactly was expected, how authorities responded, whether followers were endangered, and what happened after the cameras left. Prather’s account of Chen Tao is a useful corrective because it notes that media attention subsided after the failed date while the church continued with little notice, a quieter aftermath that does not fit the usual sensational arc. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Third, spectacle produces cultural shorthand. “The UFO cult that waited for God in Texas” or “the comet cult on the internet” may be memorable, but such labels flatten the details that matter: who made the prediction, what exactly was expected, how authorities responded, whether followers were endangered, and what happened after the cameras left. Prather’s account of Chen Tao is a useful corrective because it notes that media attention subsided after the failed date while the church continued with little notice, a quieter aftermath that does not fit the usual sensational arc.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
 The lasting lesson is not that reporters should ignore failed UFO predictions. Public claims with dates, crowds, children, possible self-harm concerns or community disruption can deserve coverage. The lesson is that coverage is itself a force. It can amplify fear, reward theatrical claims, pressure believers, help authorities communicate, and fix a simplified version of events in public memory. In failed UFO predictions, the saucer may never land, but the cameras can still make the non-arrival historically important.
 
@@ -520,194 +520,194 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5-Illustration-3-dark.svg" | relative_url }}" alt="Media illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Reporters Wait for the Saucer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Reporters Wait for the Saucer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Foundational study of a failed UFO prophecy and public reaction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational study of a failed UFO prophecy and public reaction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Thaler Singer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
+</h4>
+<p class="fr-book-author">By Margaret Thaler Singer</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fc3a7eeca08aeec6e9da.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/fc3a7eeca08aeec6e9da.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Blue"><img src="{{ '/assets/images/marketplace-covers/cb8b7360ffc1a617dd73.jpg' | relative_url }}" alt="Listing image for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Blue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Blue"><img src="{{ '/assets/images/marketplace-covers/cb8b7360ffc1a617dd73.jpg' | relative_url }}" alt="Listing image for I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe T Shirt X Files UFO TV Flying Saucer Poster Mulder Blue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="media-when-reporters-wait-for-the-saucer-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -723,7 +723,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -743,7 +743,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -775,7 +775,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -827,7 +827,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -872,7 +872,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -913,191 +913,191 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cesnur.org  
    Title: Chen Tao in Texas (CESNUR)  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in Texas (CESNUR)...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in Texas (CESNUR)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: leb.fbi.gov  
    Title: Law Enforcement Bulletin  
-   Link: <a href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/sep00leb.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Bulletin...</p></details>
+   Link:<a href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/sep00leb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Bulletin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciety.org  
    Title: 9j7qc v2  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; | Sciety...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; | Sciety...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academic.oup.com  
    Title: Academic Heaven's Gate: the End  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — This paper looks at online material produced by...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — This paper looks at online material produced by...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/1997/03/shipwrecked-in-voyage-to-salvation" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1997/03/shipwrecked-in-voyage-to-salvation</a>  
+   Link:<a href="https://www.wired.com/1997/03/shipwrecked-in-voyage-to-salvation" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1997/03/shipwrecked-in-voyage-to-salvation</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eso.org  
    Title: Hale-Bopp companions?!?  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Chen tao (secta)  
-   Link: <a href="https://es.wikipedia.org/wiki/Chen_tao_%28secta%29" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Chen_tao_%28secta%29</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Chen_tao_%28secta%29" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Chen_tao_%28secta%29</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.com  
    Title: Heaven's Gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: USA: TAIWANESE CULT DISAPPOINTED AT GOD'S FAILURE TO APPEAR ON TV  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: The suicide cult that shocked the world | How to watch on CBS8+...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: The suicide cult that shocked the world | How to watch on CBS8+...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Heaven's Gate: The suicide cult that shocked the world | How to watch on CBS8+  
-   Link: <a href="https://www.youtube.com/watch?v=6Up1WH943xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6Up1WH943xs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=6Up1WH943xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6Up1WH943xs</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: heavensgate.com  
-   Link: <a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether Hale-Bopp has a &quot;companion&quot; or... ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo space alien space alien...Read more...</p></details>
+   Link:<a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whether Hale-Bopp has a &quot;companion&quot; or... ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo ufo space alien space alien...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iE68xtZj99M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iE68xtZj99M</a>  
+   Link:<a href="https://www.youtube.com/watch?v=iE68xtZj99M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iE68xtZj99M</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: books.google.com  
    Title: [Heaven s Gate](&#123;&#123; 'heaven-s-gate/' | relative_url &#125;&#125;)  
-   Link: <a href="https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dokumen.pub  
    Title: heavens gate americas ufo religion 9781479825394  
-   Link: <a href="https://dokumen.pub/heavens-gate-americas-ufo-religion-9781479825394.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/heavens-gate-americas-ufo-religion-9781479825394.html</a>  
+   Link:<a href="https://dokumen.pub/heavens-gate-americas-ufo-religion-9781479825394.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/heavens-gate-americas-ufo-religion-9781479825394.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: idosr.org  
-   Link: <a href="https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf</a>  
+   Link:<a href="https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: huggingface.co  
    Title: wikipedia 20230501/en.sp.vocab  
-   Link: <a href="https://huggingface.co/api/resolve-cache/models/uonlp/kenlm/5267144885813e5f36542d51c496b0b9e218c9f2/wikipedia_20230501%2Fen.sp.vocab?%2Fuonlp%2Fkenlm%2Fresolve%2Fmain%2Fwikipedia_20230501%2Fen.sp.vocab=&amp;etag=%22466564a026a1ea68c1bd80be775275bd8fc0ffc5%22" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/api/resolve-cache/models/uonlp/kenlm/5267144885813e5f36542d51c496b0b9e218c9f2/wikipedia_20230501%2Fen.sp.vocab?%2Fuonlp%2Fkenlm%2Fresolve%2Fmain%2Fwikipedia_20230501%2Fen.sp.vocab=&amp;etag=%22466564a026a1ea68c1bd80be775275bd8fc0ffc5%22</a>  
+   Link:<a href="https://huggingface.co/api/resolve-cache/models/uonlp/kenlm/5267144885813e5f36542d51c496b0b9e218c9f2/wikipedia_20230501%2Fen.sp.vocab?%2Fuonlp%2Fkenlm%2Fresolve%2Fmain%2Fwikipedia_20230501%2Fen.sp.vocab=&amp;etag=%22466564a026a1ea68c1bd80be775275bd8fc0ffc5%22" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/api/resolve-cache/models/uonlp/kenlm/5267144885813e5f36542d51c496b0b9e218c9f2/wikipedia_20230501%2Fen.sp.vocab?%2Fuonlp%2Fkenlm%2Fresolve%2Fmain%2Fwikipedia_20230501%2Fen.sp.vocab=&amp;etag=%22466564a026a1ea68c1bd80be775275bd8fc0ffc5%22</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/3/</a>  
+   Link:<a href="https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/3/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: crimeandinvestigation.co.uk  
    Title: heavens gate ufo cult largest mass suicide us history  
-   Link: <a href="https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history</a>  
+   Link:<a href="https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
+   Link:<a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sdsheriff.gov  
-   Link: <a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case</a>  
+   Link:<a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsInteracting with &quot;Cults&quot;: A Policing ModelThis article guides law enforcement officials in assessing the possib...</p></details>
+   Link:<a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsInteracting with &quot;Cults&quot;: A Policing ModelThis article guides law enforcement officials in assessing the possib...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: oprfmuseum.org  
-   Link: <a href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow">https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oak Park River Forest MuseumThe Seekers of Cuyler AvenueA group of 20 gathered with 54-year-old Oak Park housewife Dorothy Martin in anti...</p></details>
+   Link:<a href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow">https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oak Park River Forest MuseumThe Seekers of Cuyler AvenueA group of 20 gathered with 54-year-old Oak Park housewife Dorothy Martin in anti...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE  
-   Link: <a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/4881331/The_Gods_of_Outer_Space_The_UFO_Cult_Culture_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4881331/The_Gods_of_Outer_Space_The_UFO_Cult_Culture_Phenomenon</a>  
+   Link:<a href="https://www.academia.edu/4881331/The_Gods_of_Outer_Space_The_UFO_Cult_Culture_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4881331/The_Gods_of_Outer_Space_The_UFO_Cult_Culture_Phenomenon</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
+   Link:<a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
+   Link:<a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/309550012_God%27s_Salvation_Church_Past_Present_and_Future" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309550012_God%27s_Salvation_Church_Past_Present_and_Future</a>  
+   Link:<a href="https://www.researchgate.net/publication/309550012_God%27s_Salvation_Church_Past_Present_and_Future" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309550012_God%27s_Salvation_Church_Past_Present_and_Future</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7673087/_Introduction_The_Interacting_Dynamics_of_Millennial_Beliefs_Persecution_and_Violence_In_Millennialism_Persecution_and_Violence_Historical_Cases_ed_Catherine_Wessinger_3_39_Syracuse_Syracuse_University_Press_2000" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7673087/_Introduction_The_Interacting_Dynamics_of_Millennial_Beliefs_Persecution_and_Violence_In_Millennialism_Persecution_and_Violence_Historical_Cases_ed_Catherine_Wessinger_3_39_Syracuse_Syracuse_University_Press_2000</a>  
+   Link:<a href="https://www.academia.edu/7673087/_Introduction_The_Interacting_Dynamics_of_Millennial_Beliefs_Persecution_and_Violence_In_Millennialism_Persecution_and_Violence_Historical_Cases_ed_Catherine_Wessinger_3_39_Syracuse_Syracuse_University_Press_2000" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7673087/_Introduction_The_Interacting_Dynamics_of_Millennial_Beliefs_Persecution_and_Violence_In_Millennialism_Persecution_and_Violence_Historical_Cases_ed_Catherine_Wessinger_3_39_Syracuse_Syracuse_University_Press_2000</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e</a>  

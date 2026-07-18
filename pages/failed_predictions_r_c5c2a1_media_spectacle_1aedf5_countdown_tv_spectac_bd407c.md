@@ -274,7 +274,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_countdo
 
 ## Introduction
 
-Some failed UFO predictions become television events for a simple reason: they offer something most beliefs do not. A prophecy tied to a specific date, time and place creates a countdown. Reporters know exactly when to arrive, audiences know exactly what to watch for, and the outcome appears easy to judge. Either the spacecraft lands, the rescue occurs, or it does not. That built-in structure turns a religious claim into a public spectacle with a beginning, a climax and an [aftermath]({{ 'aftermath/' | relative_url }}). In the history of failed UFO prophecies, [media]({{ 'media/' | relative_url }}) attention has often been driven less by the details of belief than by the unusual news value of a visible deadline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Some failed UFO predictions become television events for a simple reason: they offer something most beliefs do not. A prophecy tied to a specific date, time and place creates a countdown. Reporters know exactly when to arrive, audiences know exactly what to watch for, and the outcome appears easy to judge. Either the spacecraft lands, the rescue occurs, or it does not. That built-in structure turns a religious claim into a public spectacle with a beginning, a climax and an [aftermath]({{ 'aftermath/' | relative_url }}). In the history of failed UFO prophecies, [media]({{ 'media/' | relative_url }}) attention has often been driven less by the details of belief than by the unusual news value of a visible deadline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_countdown_tv_spectac_bd407c-Illustration-1-dark.svg" | relative_url }}" alt="Countdowns illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_countdown_tv_spectac_bd407c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_countdown_tv_spectac_bd407c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ Most religious or paranormal claims are difficult for television to cover becaus
 
 </div>
 
-This structure was present in the 1954 flying-saucer rescue prophecy associated with [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s group and again in the Chen Tao movement's 1998 predictions in Texas. In both cases, reporters did not need to explain an entire belief system to viewers. The story could be reduced to a straightforward question: will the predicted event happen when the clock reaches zero? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+This structure was present in the 1954 flying-saucer rescue prophecy associated with [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s group and again in the Chen Tao movement's 1998 predictions in Texas. In both cases, reporters did not need to explain an entire belief system to viewers. The story could be reduced to a straightforward question: will the predicted event happen when the clock reaches zero?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 For editors, that question is attractive because it creates certainty in an industry built around [uncertainty]({{ 'uncertainty/' | relative_url }}). Newsrooms often struggle to predict when a story will develop. A prophecy with a deadline arrives already scheduled.
 
@@ -307,13 +307,13 @@ Television storytelling works especially well when events unfold in stages. UFO 
 
 The anticipation phase supplies interviews, live shots and human-interest material. Journalists can film believers preparing, [neighbours]({{ 'neighbours/' | relative_url }}) reacting and authorities monitoring the situation. The approaching date itself becomes a story.
 
-In [Garland]({{ 'garland/' | relative_url }}), Texas, the Chen Tao movement attracted sustained international attention before the predicted appearance of God in March 1998. Researchers studying the group noted that reporters, camera crews and photographers repeatedly visited the neighbourhood during the run-up to the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</span><span class="citation-popover-meta">Published: January 1, 1999</span></span></span>
+In [Garland]({{ 'garland/' | relative_url }}), Texas, the Chen Tao movement attracted sustained international attention before the predicted appearance of God in March 1998. Researchers studying the group noted that reporters, camera crews and photographers repeatedly visited the neighbourhood during the run-up to the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</span><span class="citation-popover-meta">Published: January 1, 1999</span></span></span>
 
 ### The Moment of Truth
 
 Television rarely gets a cleaner dramatic climax than a prophecy with a specific appointment. Cameras can simply wait.
 
-When Chen Tao announced that God would appear on television and later in person in Garland, journalists knew exactly when the crucial moment would occur. The prediction effectively created a media countdown clock. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+When Chen Tao announced that God would appear on television and later in person in Garland, journalists knew exactly when the crucial moment would occur. The prediction effectively created a media countdown clock.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 The irony is that even nothing happening can produce compelling television. The empty sky, the silent crowd and the passing deadline become visual evidence of failure.
 
@@ -323,7 +323,7 @@ The irony is that even nothing happening can produce compelling television. The 
 
 A failed prediction often generates a second story. Reporters return to ask what believers now think.
 
-The classic account of the 1954 UFO prophecy became famous partly because observers were interested in reactions after the expected rescue failed to occur. The aftermath was treated as news in its own right. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The classic account of the 1954 UFO prophecy became famous partly because observers were interested in reactions after the expected rescue failed to occur. The aftermath was treated as news in its own right.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This third act extends the life of the story. The event does not end when the deadline passes; it shifts into a public examination of belief, disappointment and reinterpretation.
 
@@ -333,7 +333,7 @@ Television is a visual medium. Complex theological arguments are difficult to fi
 
 This helps explain why some UFO prophecies receive far more attention than equally significant religious claims. The camera can point at a house, a field, a gathering crowd or an empty patch of sky. Viewers immediately understand what they are supposed to be looking for.
 
-Researchers examining Chen Tao's relationship with the media argued that the movement's predictions were unusually media-friendly because they translated abstract religious expectations into observable events. The prophecy itself became compatible with television's preference for images, schedules and dramatic moments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</span><span class="citation-popover-meta">Published: January 1, 1999</span></span></span>
+Researchers examining Chen Tao's relationship with the media argued that the movement's predictions were unusually media-friendly because they translated abstract religious expectations into observable events. The prophecy itself became compatible with television's preference for images, schedules and dramatic moments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</span><span class="citation-popover-meta">Published: January 1, 1999</span></span></span>
 
 Theological systems often require lengthy explanation. A countdown does not. The visual claim travels farther because it can be summarised in a single sentence and illustrated in a few seconds of footage.
 
@@ -344,9 +344,9 @@ Theological systems often require lengthy explanation. A countdown does not. The
 
 Countdown prophecies are not merely covered by the media; sometimes they are shaped around media attention itself.
 
-The Chen Tao case is especially revealing. Its leader predicted that God would appear on television before appearing physically in Texas. Scholars studying the movement argued that the news media became part of the prophetic strategy rather than a neutral observer. Press conferences, interviews and television coverage functioned as channels through which the prophecy reached a mass audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+The Chen Tao case is especially revealing. Its leader predicted that God would appear on television before appearing physically in Texas. Scholars studying the movement argued that the news media became part of the prophetic strategy rather than a neutral observer. Press conferences, interviews and television coverage functioned as channels through which the prophecy reached a mass audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
-One analysis described the relationship as a form of mutual exchange. The movement gained access to millions of potential listeners, while journalists gained a dramatic and highly marketable story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Media coverage of Chen Tao predominantly framed it...Read more...</span></span></span>
+One analysis described the relationship as a form of mutual exchange. The movement gained access to millions of potential listeners, while journalists gained a dramatic and highly marketable story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Media coverage of Chen Tao predominantly framed it...Read more...</span></span></span>
 
 This interaction helps explain why some UFO predictions become spectacles even before the deadline arrives. Coverage is not always a response to public interest; it can also help create that interest.
 
@@ -357,7 +357,7 @@ This interaction helps explain why some UFO predictions become spectacles even b
 
 A common misconception is that media organisations cover UFO prophecies because they think the prediction might come true. In practice, the possibility of failure is often just as newsworthy.
 
-Researchers studying media coverage of Chen Tao found that many journalists approached the story expecting either public embarrassment or some form of crisis after the prophecy failed. The anticipated failure was itself part of the attraction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Media coverage of Chen Tao predominantly framed it...Read more...</span></span></span>
+Researchers studying media coverage of Chen Tao found that many journalists approached the story expecting either public embarrassment or some form of crisis after the prophecy failed. The anticipated failure was itself part of the attraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Media coverage of Chen Tao predominantly framed it...Read more...</span></span></span>
 
 This creates a distinctive feature of UFO countdown stories: both possible outcomes are dramatic. If the event occurs, it is historic. If it does not, viewers still receive a clear ending and an opportunity to watch reactions unfold.
 
@@ -369,197 +369,197 @@ For television, that is unusually efficient storytelling. The countdown guarante
 
 The mechanism is ultimately straightforward. A dated UFO prophecy transforms belief into an event. It supplies a clock, a location, a visible claim and a moment of [verification]({{ 'verification/' | relative_url }}). Those elements align closely with the needs of television news, which seeks clear narratives, visual material and predictable deadlines.
 
-That is why certain failed UFO predictions become public spectacles while countless other unusual beliefs remain obscure. The countdown itself does much of the work. Long before anyone knows whether the prophecy is true, the structure of the prediction has already created a story that cameras can follow from anticipation to resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Academia+3Wikipedia+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+That is why certain failed UFO predictions become public spectacles while countless other unusual beliefs remain obscure. The countdown itself does much of the work. Long before anyone knows whether the prophecy is true, the structure of the prediction has already created a story that cameras can follow from anticipation to resolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Academia+3Wikipedia+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Deadlines Pull in Cameras. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Deadlines Pull in Cameras. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Explains why deadline predictions attract attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why deadline predictions attract attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Millennialism, persecution, and violence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4712338-M.jpg" alt="Cover for Millennialism, persecution, and violence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Millennialism, persecution, and violence">Millennialism, persecution, and violence</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Lowman Wessinger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Millennialism, persecution, and violence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4712338-M.jpg" alt="Cover for Millennialism, persecution, and violence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Millennialism, persecution, and violence">Millennialism, persecution, and violence</a>
+</h4>
+<p class="fr-book-author">By Catherine Lowman Wessinger</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Millennialism, History of doctrines, Millénarisme, Histoire des doctrines, RELIGION.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Millennialism, History of doctrines, Millénarisme, Histoire des doctrines, RELIGION.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence+Catherine+Lowman+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Millennialism, persecution, and violence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Millennialism%2C+persecution%2C+and+violence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Millennialism, persecution, and violence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="countdowns-why-ufo-deadlines-pull-in-cameras-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ That is why certain failed UFO predictions become public spectacles while countl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ That is why certain failed UFO predictions become public spectacles while countl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ That is why certain failed UFO predictions become public spectacles while countl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ That is why certain failed UFO predictions become public spectacles while countl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ That is why certain failed UFO predictions become public spectacles while countl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,93 +765,93 @@ That is why certain failed UFO predictions become public spectacles while countl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate Reporters in God-land, Texas: The Role of the Mass Media  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</p></details>
    Published: January 1, 1999  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media coverage of Chen Tao predominantly framed it...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media coverage of Chen Tao predominantly framed it...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: viewmagazine.medium.com  
    Title: attention the final countdown for broadcast news 4a901858c7b9  
-   Link: <a href="https://viewmagazine.medium.com/attention-the-final-countdown-for-broadcast-news-4a901858c7b9" target="_blank" rel="noopener noreferrer nofollow">https://viewmagazine.medium.com/attention-the-final-countdown-for-broadcast-news-4a901858c7b9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comAttention! The Final Countdown for Broadcast NewsBy 2040, at current rates of decline, broadcast news is done. This revelation...</p></details>
+   Link:<a href="https://viewmagazine.medium.com/attention-the-final-countdown-for-broadcast-news-4a901858c7b9" target="_blank" rel="noopener noreferrer nofollow">https://viewmagazine.medium.com/attention-the-final-countdown-for-broadcast-news-4a901858c7b9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comAttention! The Final Countdown for Broadcast NewsBy 2040, at current rates of decline, broadcast news is done. This revelation...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SXSamDlocHs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SXSamDlocHs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy Update | April 2026 | The World in Jeopardy - Brett...When it comes to Bible prophecy, we&#x27;re in a unique position: we already k...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SXSamDlocHs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SXSamDlocHs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy Update | April 2026 | The World in Jeopardy - Brett...When it comes to Bible prophecy, we&#x27;re in a unique position: we already k...</p></details>
    Published: April 2026  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers r...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wrasse.plymouth.ac.uk  
    Title: plymouth.ac.uk Prophecy On TV: What's The Buzz?  
-   Link: <a href="https://wrasse.plymouth.ac.uk/ac-news/prophecy-on-tv-whats-the-buzz-1764801418" target="_blank" rel="noopener noreferrer nofollow">https://wrasse.plymouth.ac.uk/ac-news/prophecy-on-tv-whats-the-buzz-1764801418</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Field Report3 Dec 2025 — Sometimes, religious or cultural prophecies can become intertwined with current events, leading to heightened...</p></details>
+   Link:<a href="https://wrasse.plymouth.ac.uk/ac-news/prophecy-on-tv-whats-the-buzz-1764801418" target="_blank" rel="noopener noreferrer nofollow">https://wrasse.plymouth.ac.uk/ac-news/prophecy-on-tv-whats-the-buzz-1764801418</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Field Report3 Dec 2025 — Sometimes, religious or cultural prophecies can become intertwined with current events, leading to heightened...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DPgClJJD8XO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPgClJJD8XO/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>until a supposed alien invasion predicted for November 2025.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DPgClJJD8XO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DPgClJJD8XO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>until a supposed alien invasion predicted for November 2025.Read more...</p></details>
    Published: November 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2254218764714763/posts/3159538834182747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2254218764714763/posts/3159538834182747/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e beginning of The Prophecy she does a countdown! 1-2, 1-2-3-4. 😆...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2254218764714763/posts/3159538834182747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2254218764714763/posts/3159538834182747/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e beginning of The Prophecy she does a countdown! 1-2, 1-2-3-4. 😆...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: amazingfacts.org  
    Title: coming soon prophecy countdown whats next  
-   Link: <a href="https://www.amazingfacts.org/news-events/news/coming-soon-prophecy-countdown-whats-next/" target="_blank" rel="noopener noreferrer nofollow">https://www.amazingfacts.org/news-events/news/coming-soon-prophecy-countdown-whats-next/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coming Soon! Prophecy Countdown: What&#x27;s Next?9 Sept 2025 — Prophecy Countdown will take viewers on a careful, step-by-step study of Scrip...</p></details>
+   Link:<a href="https://www.amazingfacts.org/news-events/news/coming-soon-prophecy-countdown-whats-next/" target="_blank" rel="noopener noreferrer nofollow">https://www.amazingfacts.org/news-events/news/coming-soon-prophecy-countdown-whats-next/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coming Soon! Prophecy Countdown: What&#x27;s Next?9 Sept 2025 — Prophecy Countdown will take viewers on a careful, step-by-step study of Scrip...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s draws on the events surrounding a 1954 study that outlined...</p></details>
+   Link:<a href="https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdintFest/videos/the-story-of-the-first-ever-ufo-doomsday-cult-reimagined-when-prophecy-fails-dra/1002716302099561/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s draws on the events surrounding a 1954 study that outlined...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2020). Their efforts to promote their beliefs...Read more...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2020). Their efforts to promote their beliefs...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: app.thestorygraph.com  
-   Link: <a href="https://app.thestorygraph.com/book_reviews/67971505-069c-4136-99fd-bf14bddeca21?page=4" target="_blank" rel="noopener noreferrer nofollow">https://app.thestorygraph.com/book_reviews/67971505-069c-4136-99fd-bf14bddeca21?page=4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy FailsA guide to the crazies. This study of The Seekers --a UFO cult back in the 50s--illustrates the issue of how fringe gr...</p></details>
+   Link:<a href="https://app.thestorygraph.com/book_reviews/67971505-069c-4136-99fd-bf14bddeca21?page=4" target="_blank" rel="noopener noreferrer nofollow">https://app.thestorygraph.com/book_reviews/67971505-069c-4136-99fd-bf14bddeca21?page=4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy FailsA guide to the crazies. This study of The Seekers --a UFO cult back in the 50s--illustrates the issue of how fringe gr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ko0giwoGm8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ko0giwoGm8Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Revelation 14 proclaims a judgment that occurs before...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ko0giwoGm8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ko0giwoGm8Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Revelation 14 proclaims a judgment that occurs before...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Prophecy Countdown | EP13  
-   Link: <a href="https://www.youtube.com/watch?v=2hy9w406n74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2hy9w406n74</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Longest ProphecyThis judgment begins at the end of the longest time prophecy in Scripture—the 2,300 days of Daniel 8:14. Pro...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2hy9w406n74" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2hy9w406n74</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Longest ProphecyThis judgment begins at the end of the longest time prophecy in Scripture—the 2,300 days of Daniel 8:14. Pro...</p></details>

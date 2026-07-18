@@ -280,244 +280,244 @@ image: /assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_co
 
 ## Introduction
 
-The University of Colorado’s *Scientific Study of Unidentified Flying Objects*, usually called the Condon Report, became one of the most influential scientific reviews in UFO history because it asked a specific question: did the available evidence justify the conclusion that UFOs were extraterrestrial spacecraft? Its answer was no. The report did not claim that every sighting had been explained. Instead, it judged that unexplained cases did not provide the positive evidence needed to support extraordinary claims about alien visitation. That distinction is central to understanding why the report remains important in discussions of failed UFO predictions. Predictions of imminent [disclosure]({{ 'disclosure/' | relative_url }}), confirmed alien contact, or hidden extraterrestrial technology depend on evidence that goes beyond mystery alone. The Colorado study concluded that such evidence had not been found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
+The University of Colorado’s *Scientific Study of Unidentified Flying Objects*, usually called the Condon Report, became one of the most influential scientific reviews in UFO history because it asked a specific question: did the available evidence justify the conclusion that UFOs were extraterrestrial spacecraft? Its answer was no. The report did not claim that every sighting had been explained. Instead, it judged that unexplained cases did not provide the positive evidence needed to support extraordinary claims about alien visitation. That distinction is central to understanding why the report remains important in discussions of failed UFO predictions. Predictions of imminent [disclosure]({{ 'disclosure/' | relative_url }}), confirmed alien contact, or hidden extraterrestrial technology depend on evidence that goes beyond mystery alone. The Colorado study concluded that such evidence had not been found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-1-dark.svg" | relative_url }}" alt="Condon Report illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Colorado Study Was Asked to Decide
 
-The Colorado project was launched after concerns about whether existing Air Force investigations had adequately addressed the UFO issue. Its task was not merely to catalogue strange reports but to determine whether UFO investigations were likely to advance scientific knowledge. The emphasis was therefore on evidential value rather than on producing explanations for every individual sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Section II</span><span class="citation-popover-snippet">Summary of the StudyThe decision to establish this project for the Scientific Study of Unidentified Flying Objects stems from recommendat...</span></span></span>
+The Colorado project was launched after concerns about whether existing Air Force investigations had adequately addressed the UFO issue. Its task was not merely to catalogue strange reports but to determine whether UFO investigations were likely to advance scientific knowledge. The emphasis was therefore on evidential value rather than on producing explanations for every individual sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Section II</span><span class="citation-popover-snippet">Summary of the StudyThe decision to establish this project for the Scientific Study of Unidentified Flying Objects stems from recommendat...</span></span></span>
 
-This framing shaped how the committee judged extraordinary claims. In science, the more remarkable a claim is, the stronger the supporting evidence must be. A claim that unknown lights were observed in the sky requires one level of evidence. A claim that those lights were spacecraft from another civilisation requires much more. The report evaluated whether witness testimony, radar records, photographs and other case materials crossed that threshold. Its conclusion was that they did not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
+This framing shaped how the committee judged extraordinary claims. In science, the more remarkable a claim is, the stronger the supporting evidence must be. A claim that unknown lights were observed in the sky requires one level of evidence. A claim that those lights were spacecraft from another civilisation requires much more. The report evaluated whether witness testimony, radar records, photographs and other case materials crossed that threshold. Its conclusion was that they did not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
 
-The report's most quoted finding reflected this standard directly: after reviewing decades of reports, the investigators found nothing that had added to scientific knowledge in a way that justified expecting major advances from continued large-scale UFO studies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
+The report's most quoted finding reflected this standard directly: after reviewing decades of reports, the investigators found nothing that had added to scientific knowledge in a way that justified expecting major advances from continued large-scale UFO studies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yPG7fQeEhAA" title="Ep. 9: Blue Book: The Trick | The trick was the word. The leak. The letter. The missing pages." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yPG7fQeEhAA" target="_blank" rel="noopener noreferrer">Ep. 9: Blue Book: The Trick | The trick was the word. The leak. The letter. The missing pages.</a></p><p class="youtube-embed-meta">Channel: UnresolvedSignals</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yPG7fQeEhAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yPG7fQeEhAA">Open on YouTube</a></p></div></div></div>
 
 ## Why Unexplained Cases Were Not Treated as Alien Evidence
 
-A common misunderstanding of the Condon Report is that it attempted to explain every UFO report and failed. In reality, the report accepted that some cases remained [unresolved]({{ 'unresolved/' | relative_url }}). The crucial issue was what could legitimately be inferred from that fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+A common misunderstanding of the Condon Report is that it attempted to explain every UFO report and failed. In reality, the report accepted that some cases remained [unresolved]({{ 'unresolved/' | relative_url }}). The crucial issue was what could legitimately be inferred from that fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
 The investigators distinguished between:
 
 * **An unidentified event**, where available information was insufficient for a confident explanation.
 * **An extraterrestrial event**, where evidence positively demonstrated a non-human spacecraft or technology.
 
-The first category did not automatically become the second. A report could remain puzzling because observations were incomplete, contradictory, or impossible to verify after the fact. From the committee's perspective, [uncertainty]({{ 'uncertainty/' | relative_url }}) was not proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
+The first category did not automatically become the second. A report could remain puzzling because observations were incomplete, contradictory, or impossible to verify after the fact. From the committee's perspective, [uncertainty]({{ 'uncertainty/' | relative_url }}) was not proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
 
-This was the report's central test of extraordinary claims. Rather than asking whether every case could be solved, it asked whether any case established the spacecraft hypothesis strongly enough to overcome more ordinary possibilities. The committee concluded that none did. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
+This was the report's central test of extraordinary claims. Rather than asking whether every case could be solved, it asked whether any case established the spacecraft hypothesis strongly enough to overcome more ordinary possibilities. The committee concluded that none did.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
 
-For the broader history of UFO predictions, this mattered because many predictions assumed that a residue of unexplained sightings would eventually force acceptance of an extraterrestrial explanation. The Colorado study explicitly rejected that reasoning. An unresolved case was treated as a gap in knowledge, not as evidence of alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
+For the broader history of UFO predictions, this mattered because many predictions assumed that a residue of unexplained sightings would eventually force acceptance of an extraterrestrial explanation. The Colorado study explicitly rejected that reasoning. An unresolved case was treated as a gap in knowledge, not as evidence of alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-2-dark.svg" | relative_url }}" alt="Condon Report illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Critics Disputed Its Conclusions
 
-The controversy surrounding the report did not centre on whether extraordinary claims require strong evidence. Most critics accepted that principle. The dispute was over whether the report had applied it fairly and whether its published conclusions accurately reflected the underlying case studies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+The controversy surrounding the report did not centre on whether extraordinary claims require strong evidence. Most critics accepted that principle. The dispute was over whether the report had applied it fairly and whether its published conclusions accurately reflected the underlying case studies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-Several prominent UFO researchers argued that some investigated incidents were more difficult to explain than the report's summary suggested. Astronomer J. Allen Hynek maintained that unresolved cases deserved greater scientific attention and criticised what he viewed as a dismissive tone. Physicist James McDonald argued that the study examined too small a fraction of the strongest reports and that its reasoning was inadequate in important places. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+Several prominent UFO researchers argued that some investigated incidents were more difficult to explain than the report's summary suggested. Astronomer J. Allen Hynek maintained that unresolved cases deserved greater scientific attention and criticised what he viewed as a dismissive tone. Physicist James McDonald argued that the study examined too small a fraction of the strongest reports and that its reasoning was inadequate in important places.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-Another source of controversy was the so-called Low memorandum, an internal document that critics interpreted as evidence that the project was predisposed towards sceptical conclusions before the work was complete. The issue fuelled long-running accusations that the study's outcome had effectively been decided in advance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government7.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">ufo government7</span><span class="citation-popover-snippet">The Condon Report on UFOs1 Feb 2008 — The Condon Report on UFOs - Edward Condon wrote the Condon Report to review Air Force...</span></span></span>
+Another source of controversy was the so-called Low memorandum, an internal document that critics interpreted as evidence that the project was predisposed towards sceptical conclusions before the work was complete. The issue fuelled long-running accusations that the study's outcome had effectively been decided in advance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government7.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">ufo government7</span><span class="citation-popover-snippet">The Condon Report on UFOs1 Feb 2008 — The Condon Report on UFOs - Edward Condon wrote the Condon Report to review Air Force...</span></span></span>
 
-These criticisms helped ensure that the Condon Report never achieved universal acceptance among UFO researchers. Yet even many critics focused on methodological concerns rather than claiming that the report had overlooked definitive proof of extraterrestrial craft. The argument was often that the evidence justified more investigation, not that alien visitation had already been demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+These criticisms helped ensure that the Condon Report never achieved universal acceptance among UFO researchers. Yet even many critics focused on methodological concerns rather than claiming that the report had overlooked definitive proof of extraterrestrial craft. The argument was often that the evidence justified more investigation, not that alien visitation had already been demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/enbYYKumpfs" title="Tread of Pioneers Museum’s History Happy Hour series: “Colorado’s Role in the 1966-68 Study of UFOs”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=enbYYKumpfs" target="_blank" rel="noopener noreferrer">Tread of Pioneers Museum’s History Happy Hour series: “Colorado’s Role in the 1966-68 Study of UFOs”</a></p><p class="youtube-embed-meta">Channel: Tread of Pioneers Museum</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=enbYYKumpfs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=enbYYKumpfs">Open on YouTube</a></p></div></div></div>
 
 ## Why the Controversy Still Did Not Create Proof
 
-The enduring significance of the Condon Report lies in a point that survived the controversy. Critics challenged its judgement, selection of cases, tone and recommendations. They did not produce physical evidence that conclusively established extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+The enduring significance of the Condon Report lies in a point that survived the controversy. Critics challenged its judgement, selection of cases, tone and recommendations. They did not produce physical evidence that conclusively established extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-This is why the report remains a turning point in official scientific scepticism. The debate after publication did not transform unresolved sightings into verified alien spacecraft. It demonstrated that reasonable people could disagree about how much weight should be given to difficult cases, but disagreement alone did not satisfy the evidential burden required for extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+This is why the report remains a turning point in official scientific scepticism. The debate after publication did not transform unresolved sightings into verified alien spacecraft. It demonstrated that reasonable people could disagree about how much weight should be given to difficult cases, but disagreement alone did not satisfy the evidential burden required for extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-The practical consequence was substantial. The report's conclusions, together with the subsequent review by the National Academy of Sciences, helped support the decision to end Project Blue Book. Official investigators accepted the view that the available record did not justify continued expectations of discovering extraterrestrial technology through UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe decision to discontinue UFO investigations was based on an evaluation...</span></span></span>
+The practical consequence was substantial. The report's conclusions, together with the subsequent review by the National Academy of Sciences, helped support the decision to end Project Blue Book. Official investigators accepted the view that the available record did not justify continued expectations of discovering extraterrestrial technology through UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe decision to discontinue UFO investigations was based on an evaluation...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-3-dark.svg" | relative_url }}" alt="Condon Report illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_condon_report_claims_a55b8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did the Condon Report Close the Case?
 
-The report did not end public interest in UFOs, nor did it eliminate unexplained sightings. What it attempted to close was a specific evidential argument: that decades of UFO reports had already produced convincing proof of extraterrestrial visitors. On that question, the report's answer was negative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
+The report did not end public interest in UFOs, nor did it eliminate unexplained sightings. What it attempted to close was a specific evidential argument: that decades of UFO reports had already produced convincing proof of extraterrestrial visitors. On that question, the report's answer was negative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
 
-Whether one believes the committee judged the evidence correctly remains a matter of debate. What is less disputed is the standard it applied. The Colorado study treated the extraterrestrial hypothesis as an extraordinary claim requiring positive, verifiable evidence. Unexplained observations, however intriguing, were not considered sufficient. That reasoning became one of the most influential scientific responses to UFO claims and remains directly relevant whenever predictions of imminent alien disclosure are built primarily on the existence of unresolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
+Whether one believes the committee judged the evidence correctly remains a matter of debate. What is less disputed is the standard it applied. The Colorado study treated the extraterrestrial hypothesis as an extraordinary claim requiring positive, verifiable evidence. Unexplained observations, however intriguing, were not considered sufficient. That reasoning became one of the most influential scientific responses to UFO claims and remains directly relevant whenever predictions of imminent alien disclosure are built primarily on the existence of unresolved cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S4vvZ4uyIyI" title="J. Allen Hynek: the Man behind UFO &quot;Project Blue Book&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S4vvZ4uyIyI" target="_blank" rel="noopener noreferrer">J. Allen Hynek: the Man behind UFO &quot;Project Blue Book&quot;</a></p><p class="youtube-embed-meta">Channel: Think Anomalous</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S4vvZ4uyIyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S4vvZ4uyIyI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the Condon Report Close the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the Condon Report Close the Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for official investigations and evidentiary standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official investigations and evidentiary standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses scientific evaluation of UFO evidence and the limits of unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses scientific evaluation of UFO evidence and the limits of unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how extraordinary claims should be evaluated using evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how extraordinary claims should be evaluated using evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Helps readers understand the official investigation framework that preceded the Condon Report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the official investigation framework that preceded the Condon Report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="condon-report-did-the-condon-report-close-the-case-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ Whether one believes the committee judged the evidence correctly remains a matte
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ Whether one believes the committee judged the evidence correctly remains a matte
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ Whether one believes the committee judged the evidence correctly remains a matte
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ Whether one believes the committee judged the evidence correctly remains a matte
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ Whether one believes the committee judged the evidence correctly remains a matte
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,129 +723,129 @@ Whether one believes the committee judged the evidence correctly remains a matte
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: <a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Section I: Conclusions &amp; RecommendationsOur general conclusion is that nothing has come from the study of UFOs in the past...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: colorado.edu  
    Title: cu site one last government commissioned reports ufos what does it say  
-   Link: <a href="https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Colorado BoulderCU the site of one of the last government-commissioned...9 Jun 2021 — In the first section, Condon reporte...</p></details>
+   Link:<a href="https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Colorado BoulderCU the site of one of the last government-commissioned...9 Jun 2021 — In the first section, Condon reporte...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.ncas.org  
    Title: Condon Report, Section II  
-   Link: <a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the StudyThe decision to establish this project for the Scientific Study of Unidentified Flying Objects stems from recommendat...</p></details>
+   Link:<a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary of the StudyThe decision to establish this project for the Scientific Study of Unidentified Flying Objects stems from recommendat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.howstuffworks.com  
    Title: ufo government7  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government7.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government7.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report on UFOs1 Feb 2008 — The Condon Report on UFOs - Edward Condon wrote the Condon Report to review Air Force...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government7.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government7.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report on UFOs1 Feb 2008 — The Condon Report on UFOs - Edward Condon wrote the Condon Report to review Air Force...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe decision to discontinue UFO investigations was based on an evaluation...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe decision to discontinue UFO investigations was based on an evaluation...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Extraterrestrial UFO hypothesis  
-   Link: <a href="https://en.wikipedia.org/wiki/Extraterrestrial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraterrestrial_UFO_hypothesis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial UFO hypothesisThe extraterrestrial UFO hypothesis or extraterrestrial hypothesis (ETH), synonymous with interplanetar...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Extraterrestrial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraterrestrial_UFO_hypothesis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial UFO hypothesisThe extraterrestrial UFO hypothesis or extraterrestrial hypothesis (ETH), synonymous with interplanetar...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scientific investigation into the possibility that UFOs may be of extraterrestrial origin. The “Condon Report” officially concluded UFOs...</p></details>
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scientific investigation into the possibility that UFOs may be of extraterrestrial origin. The “Condon Report” officially concluded UFOs...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: utias.utoronto.ca  
    Title: UFO files from NICAP when it folded shortly after the Condon report. Hynek  
-   Link: <a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History - University of Toronto Institute for Aerospace StudiesIn the end, his conclusions essentially laid to rest the reality of alien...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History - University of Toronto Institute for Aerospace StudiesIn the end, his conclusions essentially laid to rest the reality of alien...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe decision to discontinue UFO investigations was based on an evalua...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe decision to discontinue UFO investigations was based on an evalua...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
    Title: Condon Report  
-   Link: <a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO studyIn 1966 the Air Force Office of Scientific Research appointed him director of a project to investigate flying saucers, from whic...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO studyIn 1966 the Air Force Office of Scientific Research appointed him director of a project to investigate flying saucers, from whic...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CONSENSUSUFO&#x27;s which might be extraterrestrial. (An unreliable witness is anyone who reports a UFO that isn&#x27;t an obvious natural or a...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CONSENSUSUFO&#x27;s which might be extraterrestrial. (An unreliable witness is anyone who reports a UFO that isn&#x27;t an obvious natural or a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon ReportThe tone and conclusions of the report flatly repudiated earlier rumors that the U.S. government accepted the reality of fly...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon ReportThe tone and conclusions of the report flatly repudiated earlier rumors that the U.S. government accepted the reality of fly...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Final Report of the. Scienti fj c Study of Un;,dentified Flying... Flying Objects. As fOU know, the University undertook this study at t...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Final Report of the. Scienti fj c Study of Un;,dentified Flying... Flying Objects. As fOU know, the University undertook this study at t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=yPG7fQeEhAA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yPG7fQeEhAA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report UFO Scientific Study Unidentified Flying Objects CU Boulder helped the government with UFO research Next 9NEWS...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=yPG7fQeEhAA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yPG7fQeEhAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report UFO Scientific Study Unidentified Flying Objects CU Boulder helped the government with UFO research Next 9NEWS...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
    Title: Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>extensive publicity campaign to try to get more complete reporting from the public.... Conclusions: There is no way to establish the alt...</p></details>
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>extensive publicity campaign to try to get more complete reporting from the public.... Conclusions: There is no way to establish the alt...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
    Title: The first widely publicized UFO sighting occurred  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object (UFO) | History, Sightings, &amp; Facts4 days ago — Some believed that UFOs were evidence of intelligent extraterr...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object (UFO) | History, Sightings, &amp; Facts4 days ago — Some believed that UFOs were evidence of intelligent extraterr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerHow the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — Condon, who announced long before the study was complete tha...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerHow the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — Condon, who announced long before the study was complete tha...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: isuspecialcollections.wordpress.com  
    Title: isu ufos two alumni who shaped 1960s ufo study  
-   Link: <a href="https://isuspecialcollections.wordpress.com/2021/09/02/isu-ufos-two-alumni-who-shaped-1960s-ufo-study/" target="_blank" rel="noopener noreferrer nofollow">https://isuspecialcollections.wordpress.com/2021/09/02/isu-ufos-two-alumni-who-shaped-1960s-ufo-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; UFOs: Two Alumni Who Shaped 1960s UFO StudySep 2, 2021 — In 1969, he and his fellow investigators released the Condon Report, concludin...</p></details>
+   Link:<a href="https://isuspecialcollections.wordpress.com/2021/09/02/isu-ufos-two-alumni-who-shaped-1960s-ufo-study/" target="_blank" rel="noopener noreferrer nofollow">https://isuspecialcollections.wordpress.com/2021/09/02/isu-ufos-two-alumni-who-shaped-1960s-ufo-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; UFOs: Two Alumni Who Shaped 1960s UFO StudySep 2, 2021 — In 1969, he and his fellow investigators released the Condon Report, concludin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: phys.org  
    Title: 2021 06 pentagon ufos admission big  
-   Link: <a href="https://phys.org/news/2021-06-pentagon-ufos-admission-big.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2021-06-pentagon-ufos-admission-big.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon report says UFOs can&#x27;t be explained, and this...28 Jun 2021 — Condon concluded nothing had come from the study of UFOs in the p...</p></details>
+   Link:<a href="https://phys.org/news/2021-06-pentagon-ufos-admission-big.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2021-06-pentagon-ufos-admission-big.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon report says UFOs can&#x27;t be explained, and this...28 Jun 2021 — Condon concluded nothing had come from the study of UFOs in the p...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: historyhit.com  
    Title: facts about edward condon  
-   Link: <a href="https://www.historyhit.com/facts-about-edward-condon/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/facts-about-edward-condon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Condon: Pioneer in Nuclear Physics and Quantum...Mar 9, 2023 — Known as the Condon Committee, it produced The Condon Report in 19...</p></details>
+   Link:<a href="https://www.historyhit.com/facts-about-edward-condon/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/facts-about-edward-condon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Condon: Pioneer in Nuclear Physics and Quantum...Mar 9, 2023 — Known as the Condon Committee, it produced The Condon Report in 19...</p></details>

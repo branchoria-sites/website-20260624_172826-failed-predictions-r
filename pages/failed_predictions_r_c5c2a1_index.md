@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-index/
 description: Focused pages that expand on Failed Predictions.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1
 parent_title: Failed Predictions
@@ -16,7 +16,7 @@ parent_permalink: /failed-predictions/
 
 # Explore Topics in Failed Predictions
 
-The following pages expand on the main **[Failed Predictions]({{ '/failed-predictions/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Failed Predictions]({{ '/failed-predictions/' | relative_url }})** page and cover its key branches in.
 
 - [Apocalypse]({{ '/apocalypse/' | relative_url }})
 - [Ashtar]({{ '/ashtar/' | relative_url }})

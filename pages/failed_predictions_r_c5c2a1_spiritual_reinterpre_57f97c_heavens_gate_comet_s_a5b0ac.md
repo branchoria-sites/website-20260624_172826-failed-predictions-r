@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_he
 
 ## Introduction
 
-The Hale–Bopp episode is one of the clearest examples of how a failed or unverified UFO claim can be transformed into a private spiritual certainty. For members of Heaven's Gate, the bright comet Hale–Bopp was not simply an astronomical event. It became a sign that their long-expected departure from Earth was imminent. What made the case distinctive was that the comet itself did not need to perform any observable miracle. Instead, it was reinterpreted as a marker, signal, or cover for a higher reality that believers thought could not be fully verified by ordinary observation. In the broader history of failed UFO predictions, the episode shows how a visible object in the sky can acquire a meaning that remains insulated from contradictory evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+The Hale–Bopp episode is one of the clearest examples of how a failed or unverified UFO claim can be transformed into a private spiritual certainty. For members of Heaven's Gate, the bright comet Hale–Bopp was not simply an astronomical event. It became a sign that their long-expected departure from Earth was imminent. What made the case distinctive was that the comet itself did not need to perform any observable miracle. Instead, it was reinterpreted as a marker, signal, or cover for a higher reality that believers thought could not be fully verified by ordinary observation. In the broader history of failed UFO predictions, the episode shows how a visible object in the sky can acquire a meaning that remains insulated from contradictory evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-1-dark.svg" | relative_url }}" alt="Hale Bopp illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ The Hale–Bopp episode is one of the clearest examples of how a failed or unver
 
 ### Hale–Bopp as astronomical event
 
-Comet Hale–Bopp was one of the most spectacular comets of the twentieth century. Discovered in 1995 and highly visible to the naked eye in 1996 and 1997, it attracted enormous public attention. Its brightness and long visibility made it a natural focal point for speculation, including claims that an unusual object was accompanying it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+Comet Hale–Bopp was one of the most spectacular comets of the twentieth century. Discovered in 1995 and highly visible to the naked eye in 1996 and 1997, it attracted enormous public attention. Its brightness and long visibility made it a natural focal point for speculation, including claims that an unusual object was accompanying it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
-One influential claim emerged after amateur astronomer Chuck Shramek photographed the comet and reported an unidentified object nearby. UFO enthusiasts and commentators quickly suggested that the object might be a spacecraft travelling behind Hale–Bopp. Astronomers responded that the object was an ordinary star, later identified as SAO 141894, and further alleged “companion” photographs were exposed as altered or fraudulent. Researchers at the University of Hawaii and the European Southern Observatory publicly demonstrated that some widely circulated images had been manipulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+One influential claim emerged after amateur astronomer Chuck Shramek photographed the comet and reported an unidentified object nearby. UFO enthusiasts and commentators quickly suggested that the object might be a spacecraft travelling behind Hale–Bopp. Astronomers responded that the object was an ordinary star, later identified as SAO 141894, and further alleged “companion” photographs were exposed as altered or fraudulent. Researchers at the University of Hawaii and the European Southern Observatory publicly demonstrated that some widely circulated images had been manipulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
 From an astronomical standpoint, the controversy was largely settled. From a spiritual standpoint, however, it was only beginning.
 
@@ -299,21 +299,21 @@ From an astronomical standpoint, the controversy was largely settled. From a spi
 
 ### The Next Level reading
 
-By 1997, Heaven's Gate had already undergone major doctrinal adjustments. Earlier teachings had emphasised physical transformation and transport by extraterrestrial beings. After the death of co-founder Bonnie Nettles in 1985, the group increasingly interpreted the body as a temporary “vehicle” and placed greater emphasis on consciousness leaving the human level for the “Next Level”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+By 1997, Heaven's Gate had already undergone major doctrinal adjustments. Earlier teachings had emphasised physical transformation and transport by extraterrestrial beings. After the death of co-founder Bonnie Nettles in 1985, the group increasingly interpreted the body as a temporary “vehicle” and placed greater emphasis on consciousness leaving the human level for the “Next Level”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-Within that framework, Hale–Bopp became less important as a physical object than as a timetable marker. Marshall Applewhite taught that the comet signalled the moment when members could leave Earth and join the Next Level. Shortly before the group's deaths, the Heaven's Gate website described Hale–Bopp as bringing “closure” to their mission and as the culmination of more than two decades of preparation. The comet functioned as a departure sign rather than a scientific proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+Within that framework, Hale–Bopp became less important as a physical object than as a timetable marker. Marshall Applewhite taught that the comet signalled the moment when members could leave Earth and join the Next Level. Shortly before the group's deaths, the Heaven's Gate website described Hale–Bopp as bringing “closure” to their mission and as the culmination of more than two decades of preparation. The comet functioned as a departure sign rather than a scientific proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-This reinterpretation is important in the history of failed UFO predictions because the central claim shifted away from something that outsiders could directly verify. The visible comet remained real, but its meaning became entirely dependent on the group's religious framework. The astronomical event was absorbed into a salvation narrative in which departure from Earth mattered more than demonstrating the existence of a spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</span></span></span>
+This reinterpretation is important in the history of failed UFO predictions because the central claim shifted away from something that outsiders could directly verify. The visible comet remained real, but its meaning became entirely dependent on the group's religious framework. The astronomical event was absorbed into a salvation narrative in which departure from Earth mattered more than demonstrating the existence of a spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-2-dark.svg" | relative_url }}" alt="Hale Bopp illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Telescopes Could Not Settle the Belief
 
-The Hale–Bopp controversy is sometimes presented as a simple conflict between science and error. In practice, the situation was more complicated. Astronomers could identify stars, analyse images, and expose manipulated photographs. What they could not do was disprove a spiritual interpretation that no longer depended on those photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</span></span></span>
+The Hale–Bopp controversy is sometimes presented as a simple conflict between science and error. In practice, the situation was more complicated. Astronomers could identify stars, analyse images, and expose manipulated photographs. What they could not do was disprove a spiritual interpretation that no longer depended on those photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</span></span></span>
 
-Even after public debunking of the alleged companion object, the core expectation within Heaven's Gate remained intact. Reports from the period noted that members believed a spacecraft was associated with the comet and that the comet marked access to a higher existence. The group's confidence did not rest solely on one image or one astronomical claim; it rested on a broader worldview developed over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Johns Hopkins University Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</span></span></span>
+Even after public debunking of the alleged companion object, the core expectation within Heaven's Gate remained intact. Reports from the period noted that members believed a spacecraft was associated with the comet and that the comet marked access to a higher existence. The group's confidence did not rest solely on one image or one astronomical claim; it rested on a broader worldview developed over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Johns Hopkins University Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</span></span></span>
 
-This illustrates a recurring pattern in UFO-related prophecy. Evidence that appears decisive to outsiders may be interpreted differently inside a committed belief system. Once a prediction is reframed as a spiritual event, contradictory observations lose much of their force. The debate is no longer about whether a particular object exists behind a comet. It becomes a question of whether believers accept a special meaning that others cannot observe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the man who spread the myth</span><span class="citation-popover-snippet">THE MAN WHO SPREAD THE MYTH13 Apr 1997 — The only person who ever said there was a spacecraft following Hale-Bopp was Courtney Brown...</span></span></span>
+This illustrates a recurring pattern in UFO-related prophecy. Evidence that appears decisive to outsiders may be interpreted differently inside a committed belief system. Once a prediction is reframed as a spiritual event, contradictory observations lose much of their force. The debate is no longer about whether a particular object exists behind a comet. It becomes a question of whether believers accept a special meaning that others cannot observe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the man who spread the myth</span><span class="citation-popover-snippet">THE MAN WHO SPREAD THE MYTH13 Apr 1997 — The only person who ever said there was a spacecraft following Hale-Bopp was Courtney Brown...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dRSf1EWWNg0" title="Heaven&#x27;s Gate: The Cult That Believed a UFO Would Take Them | Crimes Of..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dRSf1EWWNg0" target="_blank" rel="noopener noreferrer">Heaven&#x27;s Gate: The Cult That Believed a UFO Would Take Them | Crimes Of...</a></p><p class="youtube-embed-meta">Channel: Crime House</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dRSf1EWWNg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dRSf1EWWNg0">Open on YouTube</a></p></div></div></div>
@@ -323,202 +323,202 @@ This illustrates a recurring pattern in UFO-related prophecy. Evidence that appe
 
 ## The Reinterpretation in Historical Perspective
 
-The lasting significance of the Hale–Bopp episode lies in how it transformed a public astronomical phenomenon into a private religious sign. Unlike classic UFO predictions that depended on a visible landing or contact event, Heaven's Gate attached salvific meaning to an object that everyone could see but interpreted in radically different ways. The comet became evidence not because of what it objectively demonstrated, but because it could be woven into an existing narrative about transcendence, extraterrestrial guidance, and departure from the human condition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+The lasting significance of the Hale–Bopp episode lies in how it transformed a public astronomical phenomenon into a private religious sign. Unlike classic UFO predictions that depended on a visible landing or contact event, Heaven's Gate attached salvific meaning to an object that everyone could see but interpreted in radically different ways. The comet became evidence not because of what it objectively demonstrated, but because it could be woven into an existing narrative about transcendence, extraterrestrial guidance, and departure from the human condition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-As a case within the history of failed UFO predictions, Hale–Bopp shows how beliefs can survive the [collapse]({{ 'collapse/' | relative_url }}) of specific evidential claims. The alleged companion spacecraft was challenged and widely debunked, yet the comet retained its role as a spiritual marker. The episode therefore stands as a powerful example of reinterpretation after failed contact expectations: a celestial object remained visible to all, while its decisive meaning existed only within the worldview of those who believed they were about to leave with the Next Level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+As a case within the history of failed UFO predictions, Hale–Bopp shows how beliefs can survive the [collapse]({{ 'collapse/' | relative_url }}) of specific evidential claims. The alleged companion spacecraft was challenged and widely debunked, yet the comet retained its role as a spiritual marker. The episode therefore stands as a powerful example of reinterpretation after failed contact expectations: a celestial object remained visible to all, while its decisive meaning existed only within the worldview of those who believed they were about to leave with the Next Level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-3-dark.svg" | relative_url }}" alt="Hale Bopp illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c_heavens_gate_comet_s_a5b0ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Comet Became a Departure Sign. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Comet Became a Departure Sign. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s Gate">Heaven&#x27;s Gate</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s Gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s Gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s Gate">Heaven&#x27;s Gate</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly explains Heaven&#x27;s Gate theology, UFO beliefs, and the Hale-Bopp era that frames the article.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+Gate&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains Heaven&#x27;s Gate theology, UFO beliefs, and the Hale-Bopp era that frames the article.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+Gate&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Explains how believers reinterpret disconfirming evidence, a core theme of the Hale-Bopp and Heaven&#x27;s Gate story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how believers reinterpret disconfirming evidence, a core theme of the Hale-Bopp and Heaven&#x27;s Gate story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+UFO+Religions+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14392891-M.jpg" alt="Cover for Handbook of UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Handbook+of+UFO+Religions+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of UFO Religions">Handbook of UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Handbook+of+UFO+Religions+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Handbook of UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14392891-M.jpg" alt="Cover for Handbook of UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Handbook+of+UFO+Religions+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of UFO Religions">Handbook of UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Religion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Handbook+of+UFO+Religions+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Religion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Handbook+of+UFO+Religions+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults Inside Out on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7317919-M.jpg" alt="Cover for Cults Inside Out" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults Inside Out">Cults Inside Out</a>
-        </h4>
-        <p class="fr-book-author">By Rick Ross</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults Inside Out on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7317919-M.jpg" alt="Cover for Cults Inside Out" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults Inside Out">Cults Inside Out</a>
+</h4>
+<p class="fr-book-author">By Rick Ross</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Cults.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Cults.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s Gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=of+UFO+Religions+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of UFO Religions books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+Gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s Gate</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=of+UFO+Religions+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">of UFO Religions books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/e856ffede5fe0a823e97.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/e856ffede5fe0a823e97.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Greeting Cards - 4 Artwork Choices"><img src="{{ '/assets/images/marketplace-covers/dcf281792b6c68f8ce08.jpg' | relative_url }}" alt="Listing image for Comet Art Print Greeting Cards - 4 Artwork Choices" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Greeting Cards - 4 Artwork Choices</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Greeting Cards - 4 Artwork Choices"><img src="{{ '/assets/images/marketplace-covers/dcf281792b6c68f8ce08.jpg' | relative_url }}" alt="Listing image for Comet Art Print Greeting Cards - 4 Artwork Choices" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Greeting Cards - 4 Artwork Choices</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/b571a83e53d8fb058c9c.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/b571a83e53d8fb058c9c.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for de Havilland DH.88 Comet Fine Art A3 Print &quot;Somewhere Over Old Warden&quot;"><img src="{{ '/assets/images/marketplace-covers/c06901fc71f5ff972e09.jpg' | relative_url }}" alt="Listing image for de Havilland DH.88 Comet Fine Art A3 Print &quot;Somewhere Over Old Warden&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">de Havilland DH.88 Comet Fine Art A3 Print &quot;Somewhere Over Old Warden&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for de Havilland DH.88 Comet Fine Art A3 Print &quot;Somewhere Over Old Warden&quot;"><img src="{{ '/assets/images/marketplace-covers/c06901fc71f5ff972e09.jpg' | relative_url }}" alt="Listing image for de Havilland DH.88 Comet Fine Art A3 Print &quot;Somewhere Over Old Warden&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">de Havilland DH.88 Comet Fine Art A3 Print &quot;Somewhere Over Old Warden&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="hale-bopp-c37bba-when-a-comet-became-a-departure-sign-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,145 +724,145 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Applewhite believed that Hale-Bopp was a sign t...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Applewhite believed that Hale-Bopp was a sign t...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Comet Hale–Bopp  
-   Link: <a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eso.org  
    Title: hb ufo tholen  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent use of a IfA/UH picture15 Jan 1997 — These images are fraudulent. The mysterious companion object is not real, having been...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eso.org  
    Title: Hale-Bopp companions?!?  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identified that image as being a...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 15, 1997: a new &quot;UFO&quot; picture was posted on Art Bell&#x27;s and Whitley Strieber&#x27;s web sites. We have identified that image as being a...</p></details>
    Published: January 15, 1997  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MAN WHO SPREAD THE MYTH13 Apr 1997 — The only person who ever said there was a spacecraft following Hale-Bopp was Courtney Brown...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE MAN WHO SPREAD THE MYTH13 Apr 1997 — The only person who ever said there was a spacecraft following Hale-Bopp was Courtney Brown...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: heavens gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
    Title: heavens gate mass suicide  
-   Link: <a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?Mar 7, 2023 — Inside a San Diego mansion, authorities discovered the remains of 39 mem...</p></details>
+   Link:<a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?Mar 7, 2023 — Inside a San Diego mansion, authorities discovered the remains of 39 mem...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: time.com  
    Title: exclusive cults suicide notes  
-   Link: <a href="https://time.com/archive/6929959/exclusive-cults-suicide-notes/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6929959/exclusive-cults-suicide-notes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXCLUSIVE: Cult&#x27;s Suicide Notes29 Mar 1997 — The notes, called “Earth Exit Statements,” were recorded on two computer disks and sent to f...</p></details>
+   Link:<a href="https://time.com/archive/6929959/exclusive-cults-suicide-notes/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6929959/exclusive-cults-suicide-notes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXCLUSIVE: Cult&#x27;s Suicide Notes29 Mar 1997 — The notes, called “Earth Exit Statements,” were recorded on two computer disks and sent to f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: time.com  
    Title: recipe for death  
-   Link: <a href="https://time.com/archive/6929942/recipe-for-death/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6929942/recipe-for-death/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 27, 1997 — RANCHO SANTA FE, California: Perfection, as any website designer will tell you, is absolutely essential in HTML coding...</p></details>
+   Link:<a href="https://time.com/archive/6929942/recipe-for-death/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6929942/recipe-for-death/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 27, 1997 — RANCHO SANTA FE, California: Perfection, as any website designer will tell you, is absolutely essential in HTML coding...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pages.jh.edu  
-   Link: <a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins University PagesJohns Hopkins Gazette: April 7, 1997The people, members of a group called Heaven&#x27;s Gate, apparently believe...</p></details>
+   Link:<a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins University PagesJohns Hopkins Gazette: April 7, 1997The people, members of a group called Heaven&#x27;s Gate, apparently believe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: heavensgate.com  
-   Link: <a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human, May Be Ente...</p></details>
+   Link:<a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human, May Be Ente...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: Heaven's Gate  
-   Link: <a href="https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cult that committed mass suicide on...They believed the arrival of the Hale-Bopp comet was a sign that an extraterrestrial spacecraft wo...</p></details>
+   Link:<a href="https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cult that committed mass suicide on...They believed the arrival of the Hale-Bopp comet was a sign that an extraterrestrial spacecraft wo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/heaven%27s" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/heaven%27s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er, etc. See the full definition. heaven&#x27;s above.Read more...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/heaven%27s" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/heaven%27s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er, etc. See the full definition. heaven&#x27;s above.Read more...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: astropix.com  
-   Link: <a href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/html/comet_images/comet_hale-bopp.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comet Hale-BoppA photo of Comet Hale-Bopp led them to believe that the Earth was about to be recycled and that the only way to survive wa...</p></details>
+   Link:<a href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/html/comet_images/comet_hale-bopp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comet Hale-BoppA photo of Comet Hale-Bopp led them to believe that the Earth was about to be recycled and that the only way to survive wa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: heavensgate.com  
-   Link: <a href="https://www.heavensgate.com/exitsrr.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/exitsrr.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Exit Statement by SrrodyNot that long ago, banking institutions were suspect, individual privacy was expected, government was a too...</p></details>
+   Link:<a href="https://www.heavensgate.com/exitsrr.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/exitsrr.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earth Exit Statement by SrrodyNot that long ago, banking institutions were suspect, individual privacy was expected, government was a too...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellWhitley claimed his sources verified the Hale Bopp ufo existed before Art discovered it was a...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellWhitley claimed his sources verified the Hale Bopp ufo existed before Art discovered it was a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANOMALY. The story of a photo from space that…In less than 24 hours, the comet photo is debunked. A real astronomer at the real obser...</p></details>
+   Link:<a href="https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/itsfullofstars/the-anomaly-fc7861e73a07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANOMALY. The story of a photo from space that…In less than 24 hours, the comet photo is debunked. A real astronomer at the real obser...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: caitlinrother.com  
    Title: lessons learned from covering the [heaven s gate](&#123;&#123; 'heaven-s-gate/' | relative_url &#125;&#125;) mass suicide 25 years ago  
-   Link: <a href="https://www.caitlinrother.com/post/lessons-learned-from-covering-the-heaven-s-gate-mass-suicide-25-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.caitlinrother.com/post/lessons-learned-from-covering-the-heaven-s-gate-mass-suicide-25-years-ago</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons Learned From Covering the Heaven&#x27;s Gate Mass...18 Mar 2022 — By Caitlin Rother · The night in 1997 before 39 members of the Heav...</p></details>
+   Link:<a href="https://www.caitlinrother.com/post/lessons-learned-from-covering-the-heaven-s-gate-mass-suicide-25-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.caitlinrother.com/post/lessons-learned-from-covering-the-heaven-s-gate-mass-suicide-25-years-ago</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons Learned From Covering the Heaven&#x27;s Gate Mass...18 Mar 2022 — By Caitlin Rother · The night in 1997 before 39 members of the Heav...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members record farewell messagesHeaven&#x27;s Gate members were urged by Marshall Herff Applewhite to record goodbye messag...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members record farewell messagesHeaven&#x27;s Gate members were urged by Marshall Herff Applewhite to record goodbye messag...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: epicmagazine.com  
-   Link: <a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sole survivor of Heaven&#x27;s Gate has a message for you.ON MARCH 22, 1997, HALE-BOPP MADE ITS CLOSEST APPROACH TO EARTH, AT 122 MILLION...</p></details>
+   Link:<a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sole survivor of Heaven&#x27;s Gate has a message for you.ON MARCH 22, 1997, HALE-BOPP MADE ITS CLOSEST APPROACH TO EARTH, AT 122 MILLION...</p></details>
    Published: March 22, 1997  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: yorku.ca  
-   Link: <a href="https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early yesterday morning the bodies of 15 members of York University&#x27;s Board...</p></details>
+   Link:<a href="https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early yesterday morning the bodies of 15 members of York University&#x27;s Board...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HolyShitHistory/comments/1pedpsv/in_march_1997_the_heavens_gate_cult_prepared_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HolyShitHistory/comments/1pedpsv/in_march_1997_the_heavens_gate_cult_prepared_for/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In March 1997, the Heaven&#x27;s Gate cult prepared for what...Led by Marshall Applewhite, the group was convinced the Hale–Bopp comet hid a...</p></details>
+   Link:<a href="https://www.reddit.com/r/HolyShitHistory/comments/1pedpsv/in_march_1997_the_heavens_gate_cult_prepared_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HolyShitHistory/comments/1pedpsv/in_march_1997_the_heavens_gate_cult_prepared_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In March 1997, the Heaven&#x27;s Gate cult prepared for what...Led by Marshall Applewhite, the group was convinced the Hale–Bopp comet hid a...</p></details>
    Published: march 1997  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: the heavens gate cult website is still up after  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult website is still up after their suicide...Fast forward to March 1997. The Heaven&#x27;s Gate cult mass un-alived thems...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult website is still up after their suicide...Fast forward to March 1997. The Heaven&#x27;s Gate cult mass un-alived thems...</p></details>
    Published: March 1997  

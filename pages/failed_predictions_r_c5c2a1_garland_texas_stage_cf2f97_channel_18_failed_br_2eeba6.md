@@ -280,13 +280,13 @@ image: /assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_cha
 
 ## Introduction
 
-Before the widely publicised countdown at a house in [Garland]({{ 'garland/' | relative_url }}), Texas, Chen Tao (God’s Salvation Church) attached its prophecy to a much more immediate test. The group announced that God would first appear on American television, specifically on Channel 18, before the predicted physical manifestation in Garland. When the promised broadcast failed to occur, the prophecy suffered its first major public [collapse]({{ 'collapse/' | relative_url }}). The significance of the Channel 18 episode was not merely that a prediction failed. It showed how Chen Tao attempted to make mass media part of the prophetic mechanism itself. Television was not expected to report the miracle after it happened; television was supposed to be the miracle. The failure of that broadcast became the first visible crack in a prophecy that would face an even larger test a few days later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+Before the widely publicised countdown at a house in [Garland]({{ 'garland/' | relative_url }}), Texas, Chen Tao (God’s Salvation Church) attached its prophecy to a much more immediate test. The group announced that God would first appear on American television, specifically on Channel 18, before the predicted physical manifestation in Garland. When the promised broadcast failed to occur, the prophecy suffered its first major public [collapse]({{ 'collapse/' | relative_url }}). The significance of the Channel 18 episode was not merely that a prediction failed. It showed how Chen Tao attempted to make mass media part of the prophetic mechanism itself. Television was not expected to report the miracle after it happened; television was supposed to be the miracle. The failure of that broadcast became the first visible crack in a prophecy that would face an even larger test a few days later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-1-dark.svg" | relative_url }}" alt="Channel 18 illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Promised Television Appearance
 
-Chen Tao’s prophecy developed in stages. According to contemporary accounts and later scholarly studies, Hon-Ming Chen taught that God would appear on Channel 18 shortly before the scheduled physical appearance in Garland. The television manifestation was expected to occur around midnight on 25 March 1998 and would be visible nationwide. God was said to appear in a form identical to Chen himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+Chen Tao’s prophecy developed in stages. According to contemporary accounts and later scholarly studies, Hon-Ming Chen taught that God would appear on Channel 18 shortly before the scheduled physical appearance in Garland. The television manifestation was expected to occur around midnight on 25 March 1998 and would be visible nationwide. God was said to appear in a form identical to Chen himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 The prediction was unusually specific. Rather than describing a private vision, a hidden revelation, or a symbolic sign, it identified:
 
@@ -300,7 +300,7 @@ The prediction was unusually specific. Rather than describing a private vision, 
 
 </div>
 
-Later descriptions of the prophecy reported additional details. Group representatives claimed that God would not merely speak but would provide programming suitable for television audiences, including entertainment content. The idea was that a divine broadcast would capture public attention while preparing humanity for the larger revelation scheduled for Garland several days later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
+Later descriptions of the prophecy reported additional details. Group representatives claimed that God would not merely speak but would provide programming suitable for television audiences, including entertainment content. The idea was that a divine broadcast would capture public attention while preparing humanity for the larger revelation scheduled for Garland several days later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
 
 This specificity mattered. Failed prophecies often leave room for reinterpretation because the predicted event is vague. A scheduled television appearance offered little room for ambiguity. Either viewers would see it or they would not.
 
@@ -309,7 +309,7 @@ This specificity mattered. Failed prophecies often leave room for reinterpretati
 
 ## Why the Claim Fit Late-1990s Media
 
-The Channel 18 prophecy reflected a broader feature of Chen Tao’s approach: the movement treated modern [media]({{ 'media/' | relative_url }}) as part of divine communication. Researchers studying the group have argued that Chen deliberately crafted predictions that were highly compatible with news coverage and public attention. The movement held press conferences, interacted with reporters and openly discussed precise dates and locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+The Channel 18 prophecy reflected a broader feature of Chen Tao’s approach: the movement treated modern [media]({{ 'media/' | relative_url }}) as part of divine communication. Researchers studying the group have argued that Chen deliberately crafted predictions that were highly compatible with news coverage and public attention. The movement held press conferences, interacted with reporters and openly discussed precise dates and locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 In the late 1990s, television still occupied a dominant place in public life. A nationwide television appearance represented a powerful symbol of authority and reach. If a supernatural figure could interrupt ordinary broadcasting and appear simultaneously across America, the event would seem both public and undeniable.
 
@@ -325,17 +325,17 @@ The Channel 18 prediction therefore served several functions at once:
 
 </div>
 
-Scholars examining the movement have noted that Chen increasingly integrated mass communication into his prophetic framework. In this sense, television was not simply a tool for spreading the message; it became part of the message itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+Scholars examining the movement have noted that Chen increasingly integrated mass communication into his prophetic framework. In this sense, television was not simply a tool for spreading the message; it became part of the message itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-2-dark.svg" | relative_url }}" alt="Channel 18 illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Happened on the Night of the Broadcast
 
-When the appointed time arrived, nothing extraordinary appeared on Channel 18. No nationwide divine transmission interrupted programming. No image identical to Chen materialised on television screens across the United States. The predicted sign simply failed to occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
+When the appointed time arrived, nothing extraordinary appeared on Channel 18. No nationwide divine transmission interrupted programming. No image identical to Chen materialised on television screens across the United States. The predicted sign simply failed to occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
 
 The importance of this failure is easy to overlook because later coverage concentrated on the Garland lawn event. Yet the television prediction was actually the first major test of the prophecy.
 
-Reports from the period indicate that Chen responded quickly after the failure. According to accounts cited by observers and researchers, he acknowledged that the prediction had not occurred and began revising expectations. The movement did not disappear immediately, but the certainty surrounding the prophecy was visibly weakened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
+Reports from the period indicate that Chen responded quickly after the failure. According to accounts cited by observers and researchers, he acknowledged that the prediction had not occurred and began revising expectations. The movement did not disappear immediately, but the certainty surrounding the prophecy was visibly weakened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
 
 Unlike a private spiritual experience, the absence of a television appearance was difficult to explain away. Millions of potential viewers could theoretically have verified the claim for themselves. The very feature that made the prophecy dramatic also made it vulnerable.
 
@@ -344,7 +344,7 @@ Unlike a private spiritual experience, the absence of a television appearance wa
 
 ## How the First Failure Shaped the Final Countdown
 
-The failed Channel 18 broadcast changed the atmosphere surrounding the final days before 31 March 1998. By the time reporters gathered in Garland to watch the promised appearance of God at 3513 [Ridgedale]({{ 'ridgedale/' | relative_url }}) Drive, the prophecy had already suffered one public defeat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+The failed Channel 18 broadcast changed the atmosphere surrounding the final days before 31 March 1998. By the time reporters gathered in Garland to watch the promised appearance of God at 3513 [Ridgedale]({{ 'ridgedale/' | relative_url }}) Drive, the prophecy had already suffered one public defeat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 This earlier failure influenced how journalists, [neighbours]({{ 'neighbours/' | relative_url }}) and observers interpreted the remaining prediction. Instead of approaching the Garland event as an untested claim, many now viewed it through the lens of a prophecy that had already missed one deadline.
 
@@ -359,7 +359,7 @@ The sequence is important:
 1. A divine television appearance was predicted.
 2. The television appearance failed.
 3. Attention shifted to the Garland manifestation.
-4. The Garland manifestation also failed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[watchman.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
+4. The Garland manifestation also failed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[watchman.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
 
 </div>
 
@@ -369,199 +369,199 @@ Because the prophecy unfolded in stages, each failed prediction increased scruti
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-3-dark.svg" | relative_url }}" alt="Channel 18 illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_channel_18_failed_br_2eeba6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Channel 18 Remains a Revealing Detail
 
-The Channel 18 prediction remains one of the most revealing aspects of the Garland case because it demonstrates how Chen Tao attempted to merge UFO-related expectations, religious prophecy and modern broadcasting into a single public narrative. Rather than waiting for journalists to document a miracle, the movement placed the miracle directly inside the communications system itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+The Channel 18 prediction remains one of the most revealing aspects of the Garland case because it demonstrates how Chen Tao attempted to merge UFO-related expectations, religious prophecy and modern broadcasting into a single public narrative. Rather than waiting for journalists to document a miracle, the movement placed the miracle directly inside the communications system itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
-The result was a prophecy unusually easy to test. A television channel, a specific time and a visible appearance created a straightforward yes-or-no outcome. When nothing appeared, the failure became immediately observable. The missed broadcast therefore stands as the first public collapse in the sequence of predictions that turned Garland, Texas into one of the most widely discussed failed UFO-related prophecy sites of the late 1990s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
+The result was a prophecy unusually easy to test. A television channel, a specific time and a visible appearance created a straightforward yes-or-no outcome. When nothing appeared, the failure became immediately observable. The missed broadcast therefore stands as the first public collapse in the sequence of predictions that turned Garland, Texas into one of the most widely discussed failed UFO-related prophecy sites of the late 1990s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchman.org">[Watchman Fellowship+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchman.org</span><span class="citation-popover-snippet">Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When God Did Not Appear on TV. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When God Did Not Appear on TV. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly examines how religious groups respond when specific predictions fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how religious groups respond when specific predictions fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/549161-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/549161-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explores recruitment, belief maintenance, and group responses to disconfirming events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recruitment, belief maintenance, and group responses to disconfirming events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford handbook of new religious movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/125689-M.jpg" alt="Cover for The Oxford handbook of new religious movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
-        </h4>
-        <p class="fr-book-author">By James R Lewis, James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford handbook of new religious movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/125689-M.jpg" alt="Cover for The Oxford handbook of new religious movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
+</h4>
+<p class="fr-book-author">By James R Lewis, James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Cults, Sectes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Cults, Sectes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+new+religious+movements+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of new religious movements books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+new+religious+movements+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of new religious movements books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extraterrestrial Mind Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4d9f05b46606a001ecbb.jpg' | relative_url }}" alt="Listing image for Extraterrestrial Mind Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">Extraterrestrial Mind Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: extraterrestrial wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extraterrestrial Mind Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4d9f05b46606a001ecbb.jpg' | relative_url }}" alt="Listing image for Extraterrestrial Mind Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">Extraterrestrial Mind Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: extraterrestrial wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extraterrestrial humanoid Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/87a4645d07816dfef073.jpg' | relative_url }}" alt="Listing image for Extraterrestrial humanoid Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">Extraterrestrial humanoid Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: extraterrestrial wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extraterrestrial humanoid Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/87a4645d07816dfef073.jpg' | relative_url }}" alt="Listing image for Extraterrestrial humanoid Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">Extraterrestrial humanoid Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: extraterrestrial wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic 80s Movie Posters, Framed Film Print Options, A3 A4 Size Poster Wall Art"><img src="{{ '/assets/images/marketplace-covers/6b2632bc415948724ff1.jpg' | relative_url }}" alt="Listing image for Classic 80s Movie Posters, Framed Film Print Options, A3 A4 Size Poster Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">Classic 80s Movie Posters, Framed Film Print Options, A3 A4 Size Poster Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: extraterrestrial wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic 80s Movie Posters, Framed Film Print Options, A3 A4 Size Poster Wall Art"><img src="{{ '/assets/images/marketplace-covers/6b2632bc415948724ff1.jpg' | relative_url }}" alt="Listing image for Classic 80s Movie Posters, Framed Film Print Options, A3 A4 Size Poster Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">Classic 80s Movie Posters, Framed Film Print Options, A3 A4 Size Poster Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: extraterrestrial wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CLASSIC MOVIE FILM POSTERS POSTER PRINTS WALL ART A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/9868b66113e083cf330e.jpg' | relative_url }}" alt="Listing image for CLASSIC MOVIE FILM POSTERS POSTER PRINTS WALL ART A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">CLASSIC MOVIE FILM POSTERS POSTER PRINTS WALL ART A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: extraterrestrial wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CLASSIC MOVIE FILM POSTERS POSTER PRINTS WALL ART A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/9868b66113e083cf330e.jpg' | relative_url }}" alt="Listing image for CLASSIC MOVIE FILM POSTERS POSTER PRINTS WALL ART A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">CLASSIC MOVIE FILM POSTERS POSTER PRINTS WALL ART A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for extraterrestrial wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: extraterrestrial wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=extraterrestrial+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="extraterrestrial wall art" data-ebay-reference="channel-18-9b2309-when-god-did-not-appear-on-tv-failed-predictions-extraterrestrial-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ The result was a prophecy unusually easy to test. A television channel, a specif
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ The result was a prophecy unusually easy to test. A television channel, a specif
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ The result was a prophecy unusually easy to test. A television channel, a specif
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ The result was a prophecy unusually easy to test. A television channel, a specif
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ The result was a prophecy unusually easy to test. A television channel, a specif
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,105 +767,105 @@ The result was a prophecy unusually easy to test. A television channel, a specif
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>appear visibly in Garland, first on Channel 18 at midnight of 25 March, then at 3513 Ridgedale. 10 A.M. 31 March to...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>appear visibly in Garland, first on Channel 18 at midnight of 25 March, then at 3513 Ridgedale. 10 A.M. 31 March to...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 —... God would announce his formal Second Coming on channel 18 on...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 —... God would announce his formal Second Coming on channel 18 on...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: watchman.org  
-   Link: <a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</p></details>
+   Link:<a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), failed. O...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: god.tv  
-   Link: <a href="https://www.god.tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.god.tv/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home Of Christian Content: What Will You Watch?Watch your favourite ministries on GOD TV. With regular broadcasts &amp; fresh Christian conte...</p></details>
+   Link:<a href="https://www.god.tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.god.tv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home Of Christian Content: What Will You Watch?Watch your favourite ministries on GOD TV. With regular broadcasts &amp; fresh Christian conte...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: god.tv  
-   Link: <a href="https://www.god.tv/schedules/" target="_blank" rel="noopener noreferrer nofollow">https://www.god.tv/schedules/</a>  
+   Link:<a href="https://www.god.tv/schedules/" target="_blank" rel="noopener noreferrer nofollow">https://www.god.tv/schedules/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Chen Tao  
-   Link: <a href="https://de.wikipedia.org/wiki/Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Chen_Tao</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Chen_Tao</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nnUIrSTecR4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nnUIrSTecR4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(LIVE) Power Of The Word Of God (18 July 2025) Divine UK(LIVE) Power Of The Word Of God (18 July 2025) Divine UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nnUIrSTecR4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nnUIrSTecR4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(LIVE) Power Of The Word Of God (18 July 2025) Divine UK(LIVE) Power Of The Word Of God (18 July 2025) Divine UK...</p></details>
    Published: July 2025  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xZBD4Pe7okc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZBD4Pe7okc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Now | GOD TV Today | Interviews to encourage you to...Join Jen and Fergus on GodTV Today, a weekly program bringing stories of fai...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xZBD4Pe7okc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZBD4Pe7okc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Now | GOD TV Today | Interviews to encourage you to...Join Jen and Fergus on GodTV Today, a weekly program bringing stories of fai...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/GodTV/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/GodTV/videos</a>  
+   Link:<a href="https://www.youtube.com/user/GodTV/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/GodTV/videos</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tcsidewalks.blogspot.com  
    Title: texan cult of week gods salvation  
-   Link: <a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin City SidewalksTexan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — Garland was where God&#x27;s spaceship would land on March 31, 1...</p></details>
+   Link:<a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twin City SidewalksTexan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — Garland was where God&#x27;s spaceship would land on March 31, 1...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: caymancompass.com  
    Title: waiting for god in garland texas  
-   Link: <a href="https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Waiting for God in Garland, Texas26 Mar 1998 — The good news, according to Chen, is that God will land in Garland on March 31 to prepare...</p></details>
+   Link:<a href="https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Waiting for God in Garland, Texas26 Mar 1998 — The good news, according to Chen, is that God will land in Garland on March 31 to prepare...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;)) on  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (UFO religion)on March 31, 1998, God would manifest in physical form on his front lawn. God would manifest nationwide on Chan...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (UFO religion)on March 31, 1998, God would manifest in physical form on his front lawn. God would manifest nationwide on Chan...</p></details>
    Published: March 31, 1998  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOooFUoVeov9BepiLJzu4RGQNTcC4RiOXxQyMQUkqzImYtj5cKxB7" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOooFUoVeov9BepiLJzu4RGQNTcC4RiOXxQyMQUkqzImYtj5cKxB7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Master Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 ac...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOooFUoVeov9BepiLJzu4RGQNTcC4RiOXxQyMQUkqzImYtj5cKxB7" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOooFUoVeov9BepiLJzu4RGQNTcC4RiOXxQyMQUkqzImYtj5cKxB7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Master Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 ac...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqukEGsd6JpyUz70I11dXTSMsn-UxTgpAFwR6u-oSmBKRftsqxm" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqukEGsd6JpyUz70I11dXTSMsn-UxTgpAFwR6u-oSmBKRftsqxm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In the summer of 1997, approximately 140 emigrant members of a little- known Taiwanese UFO group, Chen Tao, ap...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqukEGsd6JpyUz70I11dXTSMsn-UxTgpAFwR6u-oSmBKRftsqxm" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoqukEGsd6JpyUz70I11dXTSMsn-UxTgpAFwR6u-oSmBKRftsqxm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — In the summer of 1997, approximately 140 emigrant members of a little- known Taiwanese UFO group, Chen Tao, ap...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoquv8vOt4CeSe_iolRdBHDjf6djfVz9ONZaaYE-CnGU984hzXUn" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoquv8vOt4CeSe_iolRdBHDjf6djfVz9ONZaaYE-CnGU984hzXUn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Master Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 ac...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoquv8vOt4CeSe_iolRdBHDjf6djfVz9ONZaaYE-CnGU984hzXUn" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoquv8vOt4CeSe_iolRdBHDjf6djfVz9ONZaaYE-CnGU984hzXUn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Master Chen&#x27;s prophecy contained two parts: 1) an appearance by. Christ on March 25 televised on Channel 18 ac...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: USA: TAIWANESE CULT DISAPPOINTED AT GOD'S FAILURE TO APPEAR ON TV  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE  
-   Link: <a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>

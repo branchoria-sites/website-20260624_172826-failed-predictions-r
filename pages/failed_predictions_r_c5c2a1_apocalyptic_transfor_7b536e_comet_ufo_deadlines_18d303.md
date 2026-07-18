@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_co
 
 ## Introduction
 
-In UFO prophecy, a comet can do something that [private revelations]({{ 'private-claims/' | relative_url }}) cannot: it puts a date in the sky. A visible celestial event gives believers a public countdown that everyone can watch. If a leader claims that a spacecraft, rescue mission, evacuation, or cosmic transformation is linked to a comet, the prediction becomes unusually testable because the timing is tied to an observable astronomical event rather than an indefinite future. The history of failed UFO predictions shows that comets have often served as powerful deadline markers precisely because they are real, widely visible, and difficult to reinterpret once the expected event fails to occur. The best-known example is Comet Hale–Bopp in 1997, when claims about a hidden spacecraft transformed an astronomical spectacle into a countdown for salvation that never materialised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
+In UFO prophecy, a comet can do something that [private revelations]({{ 'private-claims/' | relative_url }}) cannot: it puts a date in the sky. A visible celestial event gives believers a public countdown that everyone can watch. If a leader claims that a spacecraft, rescue mission, evacuation, or cosmic transformation is linked to a comet, the prediction becomes unusually testable because the timing is tied to an observable astronomical event rather than an indefinite future. The history of failed UFO predictions shows that comets have often served as powerful deadline markers precisely because they are real, widely visible, and difficult to reinterpret once the expected event fails to occur. The best-known example is Comet Hale–Bopp in 1997, when claims about a hidden spacecraft transformed an astronomical spectacle into a countdown for salvation that never materialised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-1-dark.svg" | relative_url }}" alt="Comet Signs illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ Most UFO prophecies struggle with timing. Predictions about future contact, [dis
 
 Historically, comets have often attracted symbolic interpretations because they are rare, dramatic, and highly visible. In UFO-related belief systems, this visibility creates a bridge between private conviction and [public evidence]({{ 'public-evidence/' | relative_url }}). A prophecy tied to a comet effectively says that a cosmic event is already underway and that the heavens themselves are confirming the message.
 
-That feature makes comet-based claims unusually vulnerable to failure. If a leader predicts that a spacecraft will arrive during a comet's passage, or that a comet signals an imminent departure from Earth, the claim is anchored to a specific observational window. Once the comet comes and goes without the promised outcome, the prediction can be evaluated against a shared reality rather than an unseen spiritual timetable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 1997by WG Robinson · 1997 · Cited by 46 — Like many UFO cults, Heaven&#x27;s Gate ferv...</span></span></span>
+That feature makes comet-based claims unusually vulnerable to failure. If a leader predicts that a spacecraft will arrive during a comet's passage, or that a comet signals an imminent departure from Earth, the claim is anchored to a specific observational window. Once the comet comes and goes without the promised outcome, the prediction can be evaluated against a shared reality rather than an unseen spiritual timetable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 1997by WG Robinson · 1997 · Cited by 46 — Like many UFO cults, Heaven&#x27;s Gate ferv...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5NVW6HCTOVY" title="Former followers, family members recall Heaven&#x27;s Gate tragedy: 20/20 ‘The Cult Next Door’ Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5NVW6HCTOVY" target="_blank" rel="noopener noreferrer">Former followers, family members recall Heaven&#x27;s Gate tragedy: 20/20 ‘The Cult Next Door’ Preview</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5NVW6HCTOVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5NVW6HCTOVY">Open on YouTube</a></p></div></div></div>
@@ -299,11 +299,11 @@ That feature makes comet-based claims unusually vulnerable to failure. If a lead
 
 The Hale–Bopp comet became one of the most famous examples of a sky event being converted into a UFO deadline.
 
-Early in 1997, rumours circulated within UFO and New Age circles that an artificial object or spacecraft was travelling behind the comet. The claim gained attention through radio broadcasts, internet discussions, and alleged telescope images. Astronomers and observatories repeatedly challenged these assertions, identifying supposed companion objects as stars, image artefacts, or misinterpretations rather than evidence of alien craft. Public debunking efforts emerged from professional astronomers and research institutions as the [rumour spread]({{ 'rumour-spread/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[European Southern Observatory+2pages.jh.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-snippet">European Southern ObservatoryFraudulent use of a IfA/UH pictureOn January 15, 1997, a new &quot;secret UFO picture&quot; was posted on Art Bell&#x27;s a...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
+Early in 1997, rumours circulated within UFO and New Age circles that an artificial object or spacecraft was travelling behind the comet. The claim gained attention through radio broadcasts, internet discussions, and alleged telescope images. Astronomers and observatories repeatedly challenged these assertions, identifying supposed companion objects as stars, image artefacts, or misinterpretations rather than evidence of alien craft. Public debunking efforts emerged from professional astronomers and research institutions as the [rumour spread]({{ 'rumour-spread/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[European Southern Observatory+2pages.jh.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-snippet">European Southern ObservatoryFraudulent use of a IfA/UH pictureOn January 15, 1997, a new &quot;secret UFO picture&quot; was posted on Art Bell&#x27;s a...</span><span class="citation-popover-meta">Published: January 15, 1997</span></span></span>
 
-For the Heaven's Gate movement, led by Marshall Applewhite, Hale–Bopp became more than an astronomical object. According to contemporary accounts and later historical summaries, Applewhite interpreted the comet as a sign that a spacecraft was approaching to transport believers to a higher level of existence. The comet therefore functioned as a visible confirmation of a long-standing narrative about extraterrestrial salvation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
+For the Heaven's Gate movement, led by Marshall Applewhite, Hale–Bopp became more than an astronomical object. According to contemporary accounts and later historical summaries, Applewhite interpreted the comet as a sign that a spacecraft was approaching to transport believers to a higher level of existence. The comet therefore functioned as a visible confirmation of a long-standing narrative about extraterrestrial salvation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
 
-The importance of Hale–Bopp was not that it created the belief system. Rather, it supplied a public clock. Followers no longer had to wait for an undefined future event. The comet's appearance established a finite time window in which the expected rescue was supposed to occur. That transformed a private prophecy into a prediction linked to a real-world astronomical schedule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
+The importance of Hale–Bopp was not that it created the belief system. Rather, it supplied a public clock. Followers no longer had to wait for an undefined future event. The comet's appearance established a finite time window in which the expected rescue was supposed to occur. That transformed a private prophecy into a prediction linked to a real-world astronomical schedule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-2-dark.svg" | relative_url }}" alt="Comet Signs illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,7 +311,7 @@ The importance of Hale–Bopp was not that it created the belief system. Rather,
 
 A key mechanism in the Hale–Bopp story was the idea that a spacecraft was hidden behind the comet and therefore not easily visible.
 
-This claim appeared persuasive to believers because it explained why ordinary observers could see the comet but not the alleged craft. Yet the claim also depended on assertions that astronomers, observatories, and space agencies were either mistaken or concealing information. Contemporary reports documented extensive efforts by astronomers to address the rumour and explain the images being circulated online. Researchers associated with observatories and astronomy departments publicly examined the supposed evidence and found no support for an alien spacecraft accompanying the comet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.jh.edu">[pages.jh.edu+2European Southern Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.jh.edu</span><span class="citation-popover-snippet">Johns Hopkins Gazette: April 7, 1997Messages from people who think a UFO is flying alongside comet Hale-Bopp and... hale-bopp that debun...</span></span></span>
+This claim appeared persuasive to believers because it explained why ordinary observers could see the comet but not the alleged craft. Yet the claim also depended on assertions that astronomers, observatories, and space agencies were either mistaken or concealing information. Contemporary reports documented extensive efforts by astronomers to address the rumour and explain the images being circulated online. Researchers associated with observatories and astronomy departments publicly examined the supposed evidence and found no support for an alien spacecraft accompanying the comet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.jh.edu">[pages.jh.edu+2European Southern Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.jh.edu</span><span class="citation-popover-snippet">Johns Hopkins Gazette: April 7, 1997Messages from people who think a UFO is flying alongside comet Hale-Bopp and... hale-bopp that debun...</span></span></span>
 
 The episode illustrates a recurring pattern in failed UFO predictions: an observable event is real, but the extraordinary interpretation attached to it lacks independent evidence.
 
@@ -322,11 +322,11 @@ The episode illustrates a recurring pattern in failed UFO predictions: an observ
 
 The most important evidential feature of comet-based UFO prophecy is that the comet itself continues to behave like a comet.
 
-Hale–Bopp followed a predictable astronomical path and became one of the most extensively observed comets of the twentieth century. Astronomical studies examined its brightness, composition, activity, and orbital behaviour in great detail. None of this observational work produced evidence for the hidden spacecraft claimed in UFO prophecy narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2409.13005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Extreme Activity in Comet Hale-Bopp (C/1995 O1): Investigations of Extensive, Narrowband Photoelectric PhotometrySeptember 19, 2024...</span><span class="citation-popover-meta">Published: September 19, 2024</span></span></span>
+Hale–Bopp followed a predictable astronomical path and became one of the most extensively observed comets of the twentieth century. Astronomical studies examined its brightness, composition, activity, and orbital behaviour in great detail. None of this observational work produced evidence for the hidden spacecraft claimed in UFO prophecy narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2409.13005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Extreme Activity in Comet Hale-Bopp (C/1995 O1): Investigations of Extensive, Narrowband Photoelectric PhotometrySeptember 19, 2024...</span><span class="citation-popover-meta">Published: September 19, 2024</span></span></span>
 
-When the comet passed through the expected time window without a public extraterrestrial arrival, evacuation, or transformation of Earth, the prophecy failed in the ordinary evidential sense. The sky event occurred. The predicted consequence did not. This distinction is important because believers were not mistaken about the comet's existence; they were mistaken about what it supposedly signified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
+When the comet passed through the expected time window without a public extraterrestrial arrival, evacuation, or transformation of Earth, the prophecy failed in the ordinary evidential sense. The sky event occurred. The predicted consequence did not. This distinction is important because believers were not mistaken about the comet's existence; they were mistaken about what it supposedly signified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
 
-The Heaven's Gate case remains the clearest illustration of the consequences. Members believed that a spacecraft associated with Hale–Bopp would carry them to a higher existence. The comet's passage became the decisive deadline around which expectations were organised. Yet no independently verifiable rescue occurred, and the expected public confirmation never materialised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Heaven&#x27;s Gate cult members found dead</span><span class="citation-popover-snippet">alien spacecraft hidden behind the Hale-Bopp comet. The cult was led by Marshall Applewhite, a music professor who, after surviving a nea...</span></span></span>
+The Heaven's Gate case remains the clearest illustration of the consequences. Members believed that a spacecraft associated with Hale–Bopp would carry them to a higher existence. The comet's passage became the decisive deadline around which expectations were organised. Yet no independently verifiable rescue occurred, and the expected public confirmation never materialised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Heaven&#x27;s Gate cult members found dead</span><span class="citation-popover-snippet">alien spacecraft hidden behind the Hale-Bopp comet. The cult was led by Marshall Applewhite, a music professor who, after surviving a nea...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-3-dark.svg" | relative_url }}" alt="Comet Signs illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,201 +336,201 @@ Comet-centred predictions occupy a distinctive place in the history of failed UF
 
 A hidden revelation can always be deferred. A comet cannot. Its appearance is public, its timing is measurable, and its departure is observable. That makes comet signs attractive to prophecy movements seeking a dramatic confirmation, but it also makes their associated predictions easier to test.
 
-The Hale–Bopp episode demonstrates how a genuine astronomical event can be transformed into what appears to believers to be a cosmic countdown. The comet itself was real and spectacular. The spacecraft, rescue mission, and promised transition were not confirmed by astronomical observation or by subsequent events. As a result, Hale–Bopp stands as one of the clearest examples of a sky event being used as a UFO deadline that failed when the visible sign passed without producing the promised outcome. Wiley Online Library+3Encyclopedia Britannica+3pages.jh.edu <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
+The Hale–Bopp episode demonstrates how a genuine astronomical event can be transformed into what appears to believers to be a cosmic countdown. The comet itself was real and spectacular. The spacecraft, rescue mission, and promised transition were not confirmed by astronomical observation or by subsequent events. As a result, Hale–Bopp stands as one of the clearest examples of a sky event being used as a UFO deadline that failed when the visible sign passed without producing the promised outcome. Wiley Online Library+3Encyclopedia Britannica+3pages.jh.edu<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">What was the significance of Comet Hale Bopp to Heavens Gate</span><span class="citation-popover-snippet">objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=x5EW86pmYc0" target="_blank" rel="noopener noreferrer">3 Arizona connections to the Heaven&#x27;s Gate cult you didn&#x27;t know</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x5EW86pmYc0" target="_blank" rel="noopener noreferrer">3 Arizona connections to the Heaven&#x27;s Gate cult you didn&#x27;t know</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x5EW86pmYc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x5EW86pmYc0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Comet Becomes a UFO Deadline. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Comet Becomes a UFO Deadline. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explores extraordinary claims, pseudoscience, UFO beliefs, and public interpretation of astronomical events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores extraordinary claims, pseudoscience, UFO beliefs, and public interpretation of astronomical events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Provides context for UFO prophecy, salvation narratives, and failed expectations tied to cosmic signs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for UFO prophecy, salvation narratives, and failed expectations tied to cosmic signs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Foundational study of what happens when dramatic predictions fail to occur.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational study of what happens when dramatic predictions fail to occur.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7203347639f8e84b10b6.jpg' | relative_url }}" alt="Listing image for Comet Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7203347639f8e84b10b6.jpg' | relative_url }}" alt="Listing image for Comet Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/40c65abf82b7d1a81d66.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/40c65abf82b7d1a81d66.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Greeting Cards - 4 Artwork Choices"><img src="{{ '/assets/images/marketplace-covers/dcf281792b6c68f8ce08.jpg' | relative_url }}" alt="Listing image for Comet Art Print Greeting Cards - 4 Artwork Choices" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Greeting Cards - 4 Artwork Choices</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Greeting Cards - 4 Artwork Choices"><img src="{{ '/assets/images/marketplace-covers/dcf281792b6c68f8ce08.jpg' | relative_url }}" alt="Listing image for Comet Art Print Greeting Cards - 4 Artwork Choices" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Greeting Cards - 4 Artwork Choices</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/e856ffede5fe0a823e97.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/e856ffede5fe0a823e97.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="comet-signs-when-a-comet-becomes-a-ufo-deadline-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,142 +736,142 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: What was the significance of Comet Hale Bopp to Heavens Gate  
-   Link: <a href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/question/What-was-the-significance-of-Comet-Hale-Bopp-to-Heavens-Gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>objects (UFOs). Members held that founders Marshall Applewhite and...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: Heaven's Gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>alien spacecraft hidden behind the Hale-Bopp comet. The cult was led by Marshall Applewhite, a music professor who, after surviving a nea...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien spacecraft hidden behind the Hale-Bopp comet. The cult was led by Marshall Applewhite, a music professor who, after surviving a nea...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.1997.tb00077.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 1997by WG Robinson · 1997 · Cited by 46 — Like many UFO cults, Heaven&#x27;s Gate ferv...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/j.1083-6101.1997.tb00077.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 1997by WG Robinson · 1997 · Cited by 46 — Like many UFO cults, Heaven&#x27;s Gate ferv...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pages.jh.edu  
-   Link: <a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Gazette: April 7, 1997Messages from people who think a UFO is flying alongside comet Hale-Bopp and... hale-bopp that debun...</p></details>
+   Link:<a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Gazette: April 7, 1997Messages from people who think a UFO is flying alongside comet Hale-Bopp and... hale-bopp that debun...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: 19931 hale bopp  
-   Link: <a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — They also thought that an alien spacecraft was following Hale-Bopp...</p></details>
+   Link:<a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — They also thought that an alien spacecraft was following Hale-Bopp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2409.13005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.13005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Extreme Activity in Comet Hale-Bopp (C/1995 O1): Investigations of Extensive, Narrowband Photoelectric PhotometrySeptember 19, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2409.13005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.13005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Extreme Activity in Comet Hale-Bopp (C/1995 O1): Investigations of Extensive, Narrowband Photoelectric PhotometrySeptember 19, 2024...</p></details>
    Published: September 19, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06761</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999...</p></details>
+   Link:<a href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that combined Christian-inf...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that combined Christian-inf...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 1997 — Alien abductions, poltergeists, UFO encounters, [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing/&#x27; | relative_url &amp;#125;&amp;#125;), ESP and other unlikely phenomena are common fare.... &#x27; It&#x27;...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 1997 — Alien abductions, poltergeists, UFO encounters, [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing/&#x27; | relative_url &amp;#125;&amp;#125;), ESP and other unlikely phenomena are common fare.... &#x27; It&#x27;...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Southern ObservatoryFraudulent use of a IfA/UH pictureOn January 15, 1997, a new &quot;secret UFO picture&quot; was posted on Art Bell&#x27;s a...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Southern ObservatoryFraudulent use of a IfA/UH pictureOn January 15, 1997, a new &quot;secret UFO picture&quot; was posted on Art Bell&#x27;s a...</p></details>
    Published: January 15, 1997  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?Below is a table of &quot;UFOs&quot; obtained from the net, and a short description of what actually is the feature describe...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?Below is a table of &quot;UFOs&quot; obtained from the net, and a short description of what actually is the feature describe...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cambridge.org  
    Title: Heaven's Gate  
-   Link: <a href="https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/heavens-gate-postmodernity-and-popular-culture-in-a-suicide-group-edited-by-george-d-chryssides-ashgate-new-religions-pp-xi2152-colour-frontispieces-farnhamburlington-vt-ashgate-2011-50-978-0-7546-6374-4/CFBEA5F961EF0C884198CDBFC0BB889D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/heavens-gate-postmodernity-and-popular-culture-in-a-suicide-group-edited-by-george-d-chryssides-ashgate-new-religions-pp-xi2152-colour-frontispieces-farnhamburlington-vt-ashgate-2011-50-978-0-7546-6374-4/CFBEA5F961EF0C884198CDBFC0BB889D</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Postmodernity and popular culture in a...by AH Anderson · 2012 — As the first single collection of its kind, this comprehensive study of...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/heavens-gate-postmodernity-and-popular-culture-in-a-suicide-group-edited-by-george-d-chryssides-ashgate-new-religions-pp-xi2152-colour-frontispieces-farnhamburlington-vt-ashgate-2011-50-978-0-7546-6374-4/CFBEA5F961EF0C884198CDBFC0BB889D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/heavens-gate-postmodernity-and-popular-culture-in-a-suicide-group-edited-by-george-d-chryssides-ashgate-new-religions-pp-xi2152-colour-frontispieces-farnhamburlington-vt-ashgate-2011-50-978-0-7546-6374-4/CFBEA5F961EF0C884198CDBFC0BB889D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Postmodernity and popular culture in a...by AH Anderson · 2012 — As the first single collection of its kind, this comprehensive study of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: Heaven's Gate  
-   Link: <a href="https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cult that committed mass suicide on...On March 27, 1997, 39 members of the Heaven&#x27;s Gate cult died in a mansion in Rancho Santa Fe, Cali...</p></details>
+   Link:<a href="https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cults/comments/1jllqpj/heavens_gate_cult_that_committed_mass_suicide_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cult that committed mass suicide on...On March 27, 1997, 39 members of the Heaven&#x27;s Gate cult died in a mansion in Rancho Santa Fe, Cali...</p></details>
    Published: March 27, 1997  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sinisterfilmfest.com  
    Title: heavens gate the cult that awaited the spaceship  
-   Link: <a href="https://sinisterfilmfest.com/2025/08/22/heavens-gate-the-cult-that-awaited-the-spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://sinisterfilmfest.com/2025/08/22/heavens-gate-the-cult-that-awaited-the-spaceship/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spaceship trailing the Hale-Bopp comet. The group&#x27;s origins trace back to the early 1970s, when Marshall Applewhite and Bonnie Nettles me...</p></details>
+   Link:<a href="https://sinisterfilmfest.com/2025/08/22/heavens-gate-the-cult-that-awaited-the-spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://sinisterfilmfest.com/2025/08/22/heavens-gate-the-cult-that-awaited-the-spaceship/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spaceship trailing the Hale-Bopp comet. The group&#x27;s origins trace back to the early 1970s, when Marshall Applewhite and Bonnie Nettles me...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellMy memory may be foggy, but I seem to recall that Whitley claimed his sources verified the Ha...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellMy memory may be foggy, but I seem to recall that Whitley claimed his sources verified the Ha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateA charismatic leader convinces his devoted followers that salvation awaits aboard an alien spacecraft trailing a comet—leadi...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateA charismatic leader convinces his devoted followers that salvation awaits aboard an alien spacecraft trailing a comet—leadi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/yvb6wi/til_about_marshall_applewhite_the_leader_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/yvb6wi/til_about_marshall_applewhite_the_leader_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Marshall Applewhite, the leader of the Heaven&#x27;s...Marshall Applewhite, the leader of the Heaven&#x27;s Gate cult, who falsely belie...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/yvb6wi/til_about_marshall_applewhite_the_leader_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/yvb6wi/til_about_marshall_applewhite_the_leader_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Marshall Applewhite, the leader of the Heaven&#x27;s...Marshall Applewhite, the leader of the Heaven&#x27;s Gate cult, who falsely belie...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: the heavens gate cult was founded in the 1970s and became obsessed with the hale  
-   Link: <a href="https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult was founded in the 1970s and...The Heaven&#x27;s Gate cult was founded in the 1970s and became obsessed with the Hale...</p></details>
+   Link:<a href="https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult was founded in the 1970s and...The Heaven&#x27;s Gate cult was founded in the 1970s and became obsessed with the Hale...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — Applewhite told his acolytes that he was the second coming of Jesus...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — Applewhite told his acolytes that he was the second coming of Jesus...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: crimeandinvestigation.co.uk  
    Title: heavens gate ufo cult largest mass suicide us history  
-   Link: <a href="https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate UFO Cult: The largest mass suicide in US...39 members of Heaven&#x27;s Gate took their lives in 1997 believing it would help th...</p></details>
+   Link:<a href="https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate UFO Cult: The largest mass suicide in US...39 members of Heaven&#x27;s Gate took their lives in 1997 believing it would help th...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: people.com  
    Title: heavens gate cult suicide anniversary 11914222  
-   Link: <a href="https://people.com/heavens-gate-cult-suicide-anniversary-11914222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/heavens-gate-cult-suicide-anniversary-11914222</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mass suicide was carried out over three days in Rancho Santa Fe, California, with members ingesting barbiturates mixed with applesauc...</p></details>
+   Link:<a href="https://people.com/heavens-gate-cult-suicide-anniversary-11914222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/heavens-gate-cult-suicide-anniversary-11914222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mass suicide was carried out over three days in Rancho Santa Fe, California, with members ingesting barbiturates mixed with applesauc...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newyorker.com  
    Title: de programming heavens gate the wrong stuff  
-   Link: <a href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Wrong Stuff7 Apr 1997 —... alien spacecraft that would, as they put it on their Web site, “take us home to... the l...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Wrong Stuff7 Apr 1997 —... alien spacecraft that would, as they put it on their Web site, “take us home to... the l...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)As technically advanced humanoids, these aliens have spacecraft, space-time travel, telepathy, and incr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)As technically advanced humanoids, these aliens have spacecraft, space-time travel, telepathy, and incr...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5NVW6HCTOVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5NVW6HCTOVY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Arizona connections to the Heaven&#x27;s Gate cult you didn&#x27;t know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5NVW6HCTOVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5NVW6HCTOVY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Arizona connections to the Heaven&#x27;s Gate cult you didn&#x27;t know...</p></details>

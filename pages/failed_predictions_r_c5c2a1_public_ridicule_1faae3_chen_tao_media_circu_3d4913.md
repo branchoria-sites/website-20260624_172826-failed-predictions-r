@@ -274,24 +274,24 @@ image: /assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_ta
 
 ## Introduction
 
-The [ridicule]({{ 'ridicule/' | relative_url }}) that followed Chen Tao’s failed UFO-related prophecies in [Garland]({{ 'garland/' | relative_url }}), Texas, was not driven solely by the predictions themselves. It was amplified by the way the predictions were staged as public events. By announcing that God would appear on television on 25 March 1998 and then physically appear in Garland on 31 March, leader Hon-Ming Chen transformed prophecy into a countdown that journalists could cover in real time. Cameras, press conferences, neighbourhood curiosity, and a fixed deadline created a spectacle in which failure would be immediately visible. When nothing happened, the same publicity that had drawn attention to the prophecy became a powerful engine of mockery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
+The [ridicule]({{ 'ridicule/' | relative_url }}) that followed Chen Tao’s failed UFO-related prophecies in [Garland]({{ 'garland/' | relative_url }}), Texas, was not driven solely by the predictions themselves. It was amplified by the way the predictions were staged as public events. By announcing that God would appear on television on 25 March 1998 and then physically appear in Garland on 31 March, leader Hon-Ming Chen transformed prophecy into a countdown that journalists could cover in real time. Cameras, press conferences, neighbourhood curiosity, and a fixed deadline created a spectacle in which failure would be immediately visible. When nothing happened, the same publicity that had drawn attention to the prophecy became a powerful engine of mockery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-1-dark.svg" | relative_url }}" alt="Media Circus illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Television Prophecy Became a Staged Event
 
-Chen Tao’s Garland prophecy was unusually suited to [media]({{ 'media/' | relative_url }}) coverage because it was built around media itself. Chen announced that God would first reveal himself on American television, specifically on Channel 18, before appearing in person days later. The prediction was not hidden within private religious teachings; it was designed to be publicly observable and easily verified. If fulfilled, millions could theoretically witness it. If unfulfilled, millions could recognise its failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
+Chen Tao’s Garland prophecy was unusually suited to [media]({{ 'media/' | relative_url }}) coverage because it was built around media itself. Chen announced that God would first reveal himself on American television, specifically on Channel 18, before appearing in person days later. The prediction was not hidden within private religious teachings; it was designed to be publicly observable and easily verified. If fulfilled, millions could theoretically witness it. If unfulfilled, millions could recognise its failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
 
-Religious-studies researchers later argued that Chen deliberately made the news media part of the prophetic process. According to analyses of the movement’s time in Garland, the prophecies were crafted in a highly media-friendly manner, and Chen attempted to use journalists as instruments for spreading and validating his message. The result was a relationship in which reporters were not merely observers but became participants in a public countdown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
+Religious-studies researchers later argued that Chen deliberately made the news media part of the prophetic process. According to analyses of the movement’s time in Garland, the prophecies were crafted in a highly media-friendly manner, and Chen attempted to use journalists as instruments for spreading and validating his message. The result was a relationship in which reporters were not merely observers but became participants in a public countdown.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
 
-This distinguished Chen Tao from many earlier UFO and apocalyptic movements. Rather than waiting for believers to spread the message, the group actively engaged the press through interviews, announcements, and press conferences. By March 1998, international news organisations were covering developments in a suburban Texas neighbourhood because the prophecy had been packaged as a news event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention of...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+This distinguished Chen Tao from many earlier UFO and apocalyptic movements. Rather than waiting for believers to spread the message, the group actively engaged the press through interviews, announcements, and press conferences. By March 1998, international news organisations were covering developments in a suburban Texas neighbourhood because the prophecy had been packaged as a news event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention of...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8nGLzE-vA18" title="God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer">God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8nGLzE-vA18">Open on YouTube</a></p></div></div></div>
 
 ## Reporters, Front Lawns, and Public Countdowns
 
-The approach of 31 March created a carnival-like atmosphere around Garland. Journalists arrived to watch a prediction that had a precise time, precise location, and dramatic promised outcome. The focus narrowed to Chen’s residence and surrounding streets, turning an ordinary suburban setting into a temporary global media stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</span></span></span>
+The approach of 31 March created a carnival-like atmosphere around Garland. Journalists arrived to watch a prediction that had a precise time, precise location, and dramatic promised outcome. The focus narrowed to Chen’s residence and surrounding streets, turning an ordinary suburban setting into a temporary global media stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</span></span></span>
 
 Several elements made the story especially attractive to reporters:
 
@@ -299,11 +299,11 @@ Several elements made the story especially attractive to reporters:
 * A suburban front lawn rather than a remote religious compound.
 * Visually distinctive followers dressed in white and wearing Texas-style cowboy hats.
 * Predictions involving television broadcasts, UFOs, divine appearances, and [apocalypse]({{ 'apocalypse/' | relative_url }}).
-* Recent public memories of the Heaven’s Gate tragedy, which led journalists and authorities to watch developments closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+* Recent public memories of the Heaven’s Gate tragedy, which led journalists and authorities to watch developments closely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-Local television stations covered the approaching deadline, while national and international outlets sent crews to Garland. Archival television news records from March 1998 show the extent to which the event had become a broadcast story before the prediction date even arrived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital.library.unt.edu/ark%3A/67531/metadc2216334/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.library.unt.edu">[UNT Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.library.unt.edu</span><span class="citation-popover-title">Garland, Texas], video,</span><span class="citation-popover-snippet">UNT Digital Library[News Clip: Religious Cult in Garland, Texas] - UNT Digital...10 Jun 2026 — Religious Cult in Garland, Texas] Chen, H...</span></span></span>
+Local television stations covered the approaching deadline, while national and international outlets sent crews to Garland. Archival television news records from March 1998 show the extent to which the event had become a broadcast story before the prediction date even arrived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital.library.unt.edu/ark%3A/67531/metadc2216334/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital.library.unt.edu">[UNT Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital.library.unt.edu</span><span class="citation-popover-title">Garland, Texas], video,</span><span class="citation-popover-snippet">UNT Digital Library[News Clip: Religious Cult in Garland, Texas] - UNT Digital...10 Jun 2026 — Religious Cult in Garland, Texas] Chen, H...</span></span></span>
 
-The visibility produced a countdown dynamic familiar from major news events. Reporters did not simply describe the belief system; they waited for a publicly measurable outcome. Every hour that passed without a divine television appearance increased the tension between the prediction and observable reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The visibility produced a countdown dynamic familiar from major news events. Reporters did not simply describe the belief system; they waited for a publicly measurable outcome. Every hour that passed without a divine television appearance increased the tension between the prediction and observable reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-2-dark.svg" | relative_url }}" alt="Media Circus illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,11 +311,11 @@ The visibility produced a countdown dynamic familiar from major news events. Rep
 
 Many failed prophecies fade quietly because few outsiders know about them. Chen Tao’s prophecy failed in front of cameras.
 
-When the predicted television manifestation did not occur on 25 March, journalists immediately had evidence that a major claim had failed. The later deadline in Garland then became the second act of a story already framed around disappointment. Rather than asking whether the prophecy might be fulfilled, much of the coverage shifted toward what would happen when it was not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+When the predicted television manifestation did not occur on 25 March, journalists immediately had evidence that a major claim had failed. The later deadline in Garland then became the second act of a story already framed around disappointment. Rather than asking whether the prophecy might be fulfilled, much of the coverage shifted toward what would happen when it was not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-The spectacle also encouraged a contrast that journalists and audiences found irresistible: cosmic certainty against ordinary suburban reality. The more extraordinary the claims became—God appearing on television, looking like Chen, speaking all languages, walking through walls, and multiplying himself—the easier it became for observers to treat the story as absurd once those events failed to occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+The spectacle also encouraged a contrast that journalists and audiences found irresistible: cosmic certainty against ordinary suburban reality. The more extraordinary the claims became—God appearing on television, looking like Chen, speaking all languages, walking through walls, and multiplying himself—the easier it became for observers to treat the story as absurd once those events failed to occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-Scholars examining the case later noted that Chen Tao’s relationship with the media accelerated both attention and backlash. Media exposure helped the movement gain visibility, but it also ensured that any prophetic failure would be public, memorable, and difficult to reinterpret. A prophecy witnessed by only believers can be rationalised internally; a prophecy witnessed by international news crews becomes part of the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
+Scholars examining the case later noted that Chen Tao’s relationship with the media accelerated both attention and backlash. Media exposure helped the movement gain visibility, but it also ensured that any prophetic failure would be public, memorable, and difficult to reinterpret. A prophecy witnessed by only believers can be rationalised internally; a prophecy witnessed by international news crews becomes part of the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fy06VDrnh7A" title="235-Leon Festinger and the Alien Apocalypse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fy06VDrnh7A" target="_blank" rel="noopener noreferrer">235-Leon Festinger and the Alien Apocalypse</a></p><p class="youtube-embed-meta">Channel: Futility Closet</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fy06VDrnh7A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fy06VDrnh7A">Open on YouTube</a></p></div></div></div>
@@ -325,204 +325,204 @@ Scholars examining the case later noted that Chen Tao’s relationship with the 
 
 ## The Moment Failure Became a Public Performance
 
-When 31 March arrived and no divine appearance occurred, reporters were already assembled. The event did not end with silent disappointment. Instead, Chen faced the media directly and acknowledged that the prediction had failed. Accounts from the period describe him expressing regret and even offering himself for punishment because the prophecy had not come true. The exchange itself became news. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+When 31 March arrived and no divine appearance occurred, reporters were already assembled. The event did not end with silent disappointment. Instead, Chen faced the media directly and acknowledged that the prediction had failed. Accounts from the period describe him expressing regret and even offering himself for punishment because the prophecy had not come true. The exchange itself became news.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-This final scene crystallised the ridicule. Journalists had spent days documenting expectations and now had a clear narrative ending: a highly public prophecy, a visible deadline, and a non-event. News coverage rapidly shifted from anticipation to irony. The story was no longer “Will God appear?” but “What happens when God does not appear?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economist.com">[The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economist.com</span><span class="citation-popover-title">waiting for god oh</span><span class="citation-popover-snippet">The EconomistWaiting for God. Oh2 Apr 1998 — Garland, Texas, on March. Mr Chen appeared before reporters looking contrite,, because he w...</span></span></span>
+This final scene crystallised the ridicule. Journalists had spent days documenting expectations and now had a clear narrative ending: a highly public prophecy, a visible deadline, and a non-event. News coverage rapidly shifted from anticipation to irony. The story was no longer “Will God appear?” but “What happens when God does not appear?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economist.com">[The Economist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economist.com</span><span class="citation-popover-title">waiting for god oh</span><span class="citation-popover-snippet">The EconomistWaiting for God. Oh2 Apr 1998 — Garland, Texas, on March. Mr Chen appeared before reporters looking contrite,, because he w...</span></span></span>
 
-The public nature of the failure mattered as much as the failure itself. Had the prediction remained private, it might have become an obscure episode in a small religious movement. Because it unfolded before television cameras, newspaper reporters, [neighbours]({{ 'neighbours/' | relative_url }}), and police observers, it became a textbook example of how a failed UFO-related prophecy can turn into a media spectacle and, ultimately, an object of widespread ridicule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
+The public nature of the failure mattered as much as the failure itself. Had the prediction remained private, it might have become an obscure episode in a small religious movement. Because it unfolded before television cameras, newspaper reporters, [neighbours]({{ 'neighbours/' | relative_url }}), and police observers, it became a textbook example of how a failed UFO-related prophecy can turn into a media spectacle and, ultimately, an object of widespread ridicule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-3-dark.svg" | relative_url }}" alt="Media Circus illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_chen_tao_media_circu_3d4913-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Garland Turned Prophecy Into Spectacle. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Garland Turned Prophecy Into Spectacle. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Provides the framework for understanding public countdowns and failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the framework for understanding public countdowns and failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
-        </h4>
-        <p class="fr-book-author">By Neil Postman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
+</h4>
+<p class="fr-book-author">By Neil Postman</p>
         
-        <p class="fr-book-desc">Useful for understanding prophecy staged through television and media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding prophecy staged through television and media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Places Chen Tao within broader UFO religious movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Chen Tao within broader UFO religious movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains audience reception of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains audience reception of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/40c65abf82b7d1a81d66.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/40c65abf82b7d1a81d66.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4"><img src="{{ '/assets/images/marketplace-covers/2b3855a0ce4042580f77.jpg' | relative_url }}" alt="Listing image for Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4"><img src="{{ '/assets/images/marketplace-covers/2b3855a0ce4042580f77.jpg' | relative_url }}" alt="Listing image for Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a07aeee05c40763ce8f8.jpg' | relative_url }}" alt="Listing image for The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a07aeee05c40763ce8f8.jpg' | relative_url }}" alt="Listing image for The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGHT OF THE COMET 1984 POSTER PRINT 24X36&quot; Kelli Maroney Catherine Mary Stewart"><img src="{{ '/assets/images/marketplace-covers/c8e933da19f1068672f4.jpg' | relative_url }}" alt="Listing image for NIGHT OF THE COMET 1984 POSTER PRINT 24X36&quot; Kelli Maroney Catherine Mary Stewart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">NIGHT OF THE COMET 1984 POSTER PRINT 24X36&quot; Kelli Maroney Catherine Mary Stewart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGHT OF THE COMET 1984 POSTER PRINT 24X36&quot; Kelli Maroney Catherine Mary Stewart"><img src="{{ '/assets/images/marketplace-covers/c8e933da19f1068672f4.jpg' | relative_url }}" alt="Listing image for NIGHT OF THE COMET 1984 POSTER PRINT 24X36&quot; Kelli Maroney Catherine Mary Stewart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">NIGHT OF THE COMET 1984 POSTER PRINT 24X36&quot; Kelli Maroney Catherine Mary Stewart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="media-circus-how-garland-turned-prophecy-into-spectacle-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,108 +728,108 @@ The public nature of the failure mattered as much as the failure itself. Had the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th of March, 1998, an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...Before and during the 31 March event, we interviewed Chen Tao mem...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: d-nb.info  
    Title: DNBGod's Salvation Church: Past, Present and Future  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2004 — by CH Prather · 1999 · Cited by 10 — March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention of...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2004 — by CH Prather · 1999 · Cited by 10 — March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention of...</p></details>
    Published: April 11, 2004  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: economist.com  
    Title: waiting for god oh  
-   Link: <a href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWaiting for God. Oh2 Apr 1998 — Garland, Texas, on March. Mr Chen appeared before reporters looking contrite,, because he w...</p></details>
+   Link:<a href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWaiting for God. Oh2 Apr 1998 — Garland, Texas, on March. Mr Chen appeared before reporters looking contrite,, because he w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: digital.library.unt.edu  
    Title: Garland, Texas], video,  
-   Link: <a href="https://digital.library.unt.edu/ark%3A/67531/metadc2216334/" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc2216334/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNT Digital Library[News Clip: Religious Cult in Garland, Texas] - UNT Digital...10 Jun 2026 — Religious Cult in Garland, Texas] Chen, H...</p></details>
+   Link:<a href="https://digital.library.unt.edu/ark%3A/67531/metadc2216334/" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc2216334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNT Digital Library[News Clip: Religious Cult in Garland, Texas] - UNT Digital...10 Jun 2026 — Religious Cult in Garland, Texas] Chen, H...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ixtheo.de  
-   Link: <a href="https://ixtheo.de/Record/1553216601" target="_blank" rel="noopener noreferrer nofollow">https://ixtheo.de/Record/1553216601</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Description: God&#x27;s Salvation Church:: IxTheoby CH Prather · Cited by 10 — In March of 1998 God&quot;s Salvation Church, also known as Chen Ta...</p></details>
+   Link:<a href="https://ixtheo.de/Record/1553216601" target="_blank" rel="noopener noreferrer nofollow">https://ixtheo.de/Record/1553216601</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Description: God&#x27;s Salvation Church:: IxTheoby CH Prather · Cited by 10 — In March of 1998 God&quot;s Salvation Church, also known as Chen Ta...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archiv.ub.uni-marburg.de  
-   Link: <a href="https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761/3577" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761/3577</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2R. Liu, personal communication, 28 March 1998. Hon-Ming Chen, The Practical Evidence and Study...Read more...</p></details>
+   Link:<a href="https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761/3577" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/view/3761/3577</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2R. Liu, personal communication, 28 March 1998. Hon-Ming Chen, The Practical Evidence and Study...Read more...</p></details>
    Published: March 1998  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: michaelshermer.com  
    Title: Michael Shermer Spin Doctoring the End of the World  
-   Link: <a href="https://michaelshermer.com/articles/the-end-of-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/articles/the-end-of-the-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spin Doctoring the End of the World - Michael Shermer1 Jul 1999 — This time around it was the prophecy of one Heng-ming Chen, leader of G...</p></details>
+   Link:<a href="https://michaelshermer.com/articles/the-end-of-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/articles/the-end-of-the-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spin Doctoring the End of the World - Michael Shermer1 Jul 1999 — This time around it was the prophecy of one Heng-ming Chen, leader of G...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: 10 Doomsday Cults That Got It Wrong | When Prophecy Fails  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails Leon Festinger UFO cult [cognitive dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;) End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Co...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails Leon Festinger UFO cult [cognitive dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;) End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Co...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tcsidewalks.blogspot.com  
    Title: texan cult of week gods salvation  
-   Link: <a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — He soon declared to his hundreds. Garland was where God&#x27;s spaceship would land...</p></details>
+   Link:<a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Texan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — He soon declared to his hundreds. Garland was where God&#x27;s spaceship would land...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: caymancompass.com  
    Title: waiting for god in garland texas  
-   Link: <a href="https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Waiting for God in Garland, Texas26 Mar 1998 — The good news, according to Chen, is that God will land in Garland on March 31 to prepare...</p></details>
+   Link:<a href="https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Waiting for God in Garland, Texas26 Mar 1998 — The good news, according to Chen, is that God will land in Garland on March 31 to prepare...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)  
-   Link: <a href="https://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5yVuauQjkDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>235-Leon Festinger and the Alien Apocalypse...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5yVuauQjkDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>235-Leon Festinger and the Alien Apocalypse...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Why Religions Survive When Prophecies Fail  
-   Link: <a href="https://www.youtube.com/watch?v=nH-pwULIGzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nH-pwULIGzs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nH-pwULIGzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nH-pwULIGzs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s doing it on a spaceship...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s doing it on a spaceship...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6d6SJd5sxnM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy Fails...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6d6SJd5sxnM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy Fails...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: 235-Leon Festinger and the Alien Apocalypse  
-   Link: <a href="https://www.youtube.com/watch?v=fy06VDrnh7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fy06VDrnh7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InPresence 0211: When Prophecy Fails...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fy06VDrnh7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fy06VDrnh7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InPresence 0211: When Prophecy Fails...</p></details>

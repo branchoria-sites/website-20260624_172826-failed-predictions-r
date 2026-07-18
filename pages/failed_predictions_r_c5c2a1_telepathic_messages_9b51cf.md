@@ -455,11 +455,11 @@ This matters for failed UFO predictions because telepathic sourcing makes a prop
 
 ## How channelled UFO prophecies work
 
-In UFO prophecy, “channeling” usually means that a human intermediary claims to receive information from extraterrestrial, angelic, ascended or cosmic beings. The claimed method varies. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), the Chicago-area figure behind the 1954 flying-saucer rescue prophecy, used automatic writing, a practice in which writing is produced while the writer’s conscious attention is said to be elsewhere. Britannica describes automatic writing as writing produced involuntarily, sometimes in trance-like or séance settings, and notes that the output may range from fragments to organised fantasies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/automatic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Automatic writing &#124; Mediumship, Divination, Occultism</span><span class="citation-popover-snippet">Encyclopedia BritannicaAutomatic writing &#124; Mediumship, Divination, OccultismJuly 20, 1998 — Automatic writing, in spiritualism, writing p...</span><span class="citation-popover-meta">Published: July 20, 1998</span></span></span>
+In UFO prophecy, “channeling” usually means that a human intermediary claims to receive information from extraterrestrial, angelic, ascended or cosmic beings. The claimed method varies. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), the Chicago-area figure behind the 1954 flying-saucer rescue prophecy, used automatic writing, a practice in which writing is produced while the writer’s conscious attention is said to be elsewhere. Britannica describes automatic writing as writing produced involuntarily, sometimes in trance-like or séance settings, and notes that the output may range from fragments to organised fantasies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/automatic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Automatic writing &#124; Mediumship, Divination, Occultism</span><span class="citation-popover-snippet">Encyclopedia BritannicaAutomatic writing &#124; Mediumship, Divination, OccultismJuly 20, 1998 — Automatic writing, in spiritualism, writing p...</span><span class="citation-popover-meta">Published: July 20, 1998</span></span></span>
 
-This method is powerful inside a prophecy movement because it supplies both content and status. The channel is not merely giving an opinion; believers are invited to treat the message as coming from a superior intelligence. In Martin’s case, the messages were attributed to beings associated with planets such as Clarion and to spiritual figures such as Sananda. The Critical Dictionary of Apocalyptic and Millenarian Movements identifies Martin, also known as [Sister Thedra]({{ 'sister-thedra/' | relative_url }}), as channelling Sananda within the broader history of extraterrestrial and [UFO religion]({{ 'ufo-religion/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Dorothy Martin (1900–92), known as Sister Thedra (described as &#x27;Mrs Keech&#x27; by Fes...</span></span></span>
+This method is powerful inside a prophecy movement because it supplies both content and status. The channel is not merely giving an opinion; believers are invited to treat the message as coming from a superior intelligence. In Martin’s case, the messages were attributed to beings associated with planets such as Clarion and to spiritual figures such as Sananda. The Critical Dictionary of Apocalyptic and Millenarian Movements identifies Martin, also known as [Sister Thedra]({{ 'sister-thedra/' | relative_url }}), as channelling Sananda within the broader history of extraterrestrial and [UFO religion]({{ 'ufo-religion/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Dorothy Martin (1900–92), known as Sister Thedra (described as &#x27;Mrs Keech&#x27; by Fes...</span></span></span>
 
-The channelled form also lets UFO prophecy borrow from older religious and occult models while appearing modern. Instead of angels descending from heaven, the rescuers may be “space people”; instead of a prophet hearing a divine voice, a contactee receives a telepathic beam; instead of scripture, there are typed transcripts, circulars, taped talks or self-published booklets. Scholars of UFO religion have repeatedly noted that post-war UFO movements drew on older esoteric and Theosophical currents while recasting salvation, apocalypse and cosmic hierarchy in extraterrestrial language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
+The channelled form also lets UFO prophecy borrow from older religious and occult models while appearing modern. Instead of angels descending from heaven, the rescuers may be “space people”; instead of a prophet hearing a divine voice, a contactee receives a telepathic beam; instead of scripture, there are typed transcripts, circulars, taped talks or self-published booklets. Scholars of UFO religion have repeatedly noted that post-war UFO movements drew on older esoteric and Theosophical currents while recasting salvation, apocalypse and cosmic hierarchy in extraterrestrial language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
 
 That blend helps explain why telepathic UFO messages often sound both futuristic and familiar. They may mention spacecraft, planets, radiation, nuclear danger or interplanetary councils, yet their narrative structure is close to older prophecy: humanity is in crisis; higher beings are watching; a small group has special knowledge; a decisive event is near; believers must prepare.
 
@@ -467,11 +467,11 @@ That blend helps explain why telepathic UFO messages often sound both futuristic
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf-Illustration-1-dark.svg" | relative_url }}" alt="Channeling illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1954 Seekers case shows the mechanism clearly
 
-The best-known example is Dorothy Martin’s 1954 prophecy, made famous by Leon Festinger, Henry Riecken and Stanley Schachter’s study *When Prophecy Fails*. Martin’s group expected a catastrophic flood before dawn on 21 December 1954 and believed faithful followers would be rescued by flying saucer. The prophecy was not based on an observed spacecraft schedule or an independently verifiable signal. It came through Martin’s claimed messages, produced by automatic writing and attributed to higher beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The best-known example is Dorothy Martin’s 1954 prophecy, made famous by Leon Festinger, Henry Riecken and Stanley Schachter’s study *When Prophecy Fails*. Martin’s group expected a catastrophic flood before dawn on 21 December 1954 and believed faithful followers would be rescued by flying saucer. The prophecy was not based on an observed spacecraft schedule or an independently verifiable signal. It came through Martin’s claimed messages, produced by automatic writing and attributed to higher beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 That distinction is crucial. A failed sighting prediction can be checked against the sky. A failed rescue prophecy sourced to telepathy is harder for believers to evaluate because the “source” remains accessible only through the channel. When no flood and no saucer rescue occurred, the group could not inspect the alien sender, the transmission pathway or the supposed cosmic decision-making process. They had only the channel’s later explanations, the group’s expectations and the visible fact that the event had not happened.
 
-The famous interpretation of the case is that disconfirmation can increase commitment when believers have made costly sacrifices. That lesson helped popularise cognitive dissonance theory: the idea that people may reduce the discomfort of failed belief by reinterpreting evidence rather than abandoning the belief. Yet the case itself is now more contested than older summaries suggest. A 2026 article by Thomas Kelly argues from archival materials that Martin recanted, the group dissolved and the original book overstated the extent to which believers intensified their proselytising after the failed prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Notes by Riecken] (Leon Festinger papers). Ann Arbor, Michigan...Read more...</span></span></span>
+The famous interpretation of the case is that disconfirmation can increase commitment when believers have made costly sacrifices. That lesson helped popularise cognitive dissonance theory: the idea that people may reduce the discomfort of failed belief by reinterpreting evidence rather than abandoning the belief. Yet the case itself is now more contested than older summaries suggest. A 2026 article by Thomas Kelly argues from archival materials that Martin recanted, the group dissolved and the original book overstated the extent to which believers intensified their proselytising after the failed prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Notes by Riecken] (Leon Festinger papers). Ann Arbor, Michigan...Read more...</span></span></span>
 
 For this page’s narrower purpose, the most durable lesson is not that every failed prophecy makes a group stronger. It is that telepathic sourcing gives the prophecy a built-in repair route. Even if some followers leave, the leader or later interpreters can claim that the message was conditional, symbolic, spiritually fulfilled or superseded by a newer transmission. The failed outer event does not automatically close the inner channel.
 
@@ -479,7 +479,7 @@ For this page’s narrower purpose, the most durable lesson is not that every fa
 
 Telepathic UFO prophecy makes authority personal in three linked ways. First, access is unequal. The channel can receive the message; ordinary members usually cannot verify it directly. Secondly, the content often arrives in a style that looks immediate and urgent: a warning, command, rescue instruction or dated announcement. Thirdly, the channel can continue receiving updates after doubt appears.
 
-This differs from ordinary UFO evidence. A photograph, radar track or official file may be ambiguous, but in principle it can be inspected by others. A telepathic message is not inspectable in the same way. Outsiders can analyse the text, the social setting and the failed prediction, but they cannot test the alleged mental transmission itself. NASA’s 2023 UAP report makes a useful contrast here: it says there is no conclusive evidence in peer-reviewed scientific literature for an extraterrestrial origin of UAP, and it frames progress as a matter of better data, calibrated sensors and transparent analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This differs from ordinary UFO evidence. A photograph, radar track or official file may be ambiguous, but in principle it can be inspected by others. A telepathic message is not inspectable in the same way. Outsiders can analyse the text, the social setting and the failed prediction, but they cannot test the alleged mental transmission itself. NASA’s 2023 UAP report makes a useful contrast here: it says there is no conclusive evidence in peer-reviewed scientific literature for an extraterrestrial origin of UAP, and it frames progress as a matter of better data, calibrated sensors and transparent analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 Channelled UFO prophecy moves in the opposite evidential direction. Its strongest claim is often least available to shared checking. That can make it persuasive to insiders, because the message feels intimate, sacred or specially entrusted. It can also make it weak to outsiders, because the prediction depends on accepting the channel’s status before any public event has occurred.
 
@@ -490,13 +490,13 @@ The personal authority of the channel also changes how disagreement works. If a 
 
 ## Ashtar messages show how one channel can become many
 
-The Ashtar tradition is a useful example because it shows how telepathic UFO authority can spread beyond one contactee. George Van Tassel, a major early contactee figure associated with Giant Rock in California, claimed in the early 1950s to receive messages from extraterrestrial intelligences, including Ashtar. Reference works on UFO folklore identify Ashtar as an alleged extraterrestrial being or group of beings channelled by multiple people, with Van Tassel usually credited as the first to introduce the figure in 1952. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The Ashtar tradition is a useful example because it shows how telepathic UFO authority can spread beyond one contactee. George Van Tassel, a major early contactee figure associated with Giant Rock in California, claimed in the early 1950s to receive messages from extraterrestrial intelligences, including Ashtar. Reference works on UFO folklore identify Ashtar as an alleged extraterrestrial being or group of beings channelled by multiple people, with Van Tassel usually credited as the first to introduce the figure in 1952.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 Once a figure such as Ashtar exists as a channelled authority, later claimants can receive their own messages from the same source. That creates a distinctive failure problem. If one channel predicts a landing and it fails, the tradition as a whole need not collapse. Another channel may reinterpret the message, correct the date, spiritualise the landing, or accuse rival channels of distortion. The authority migrates from a single failed claim into a wider mythology.
 
-Accounts of Van Tassel’s circle show how this worked in early contactee culture. He hosted the Giant Rock Interplanetary Spacecraft Convention and promoted ideas received from “organised intelligences” or space beings. One archived account of the desert contactee scene describes Van Tassel claiming telepathic “omnibeam” contact and receiving “mental contact” from Ashtar, while also building the [Integratron]({{ 'integratron/' | relative_url }}) according to supposed extraterrestrial specifications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Dreamland djvu.txt</span><span class="citation-popover-snippet">Dreamland djvu.txt</span></span></span>
+Accounts of Van Tassel’s circle show how this worked in early contactee culture. He hosted the Giant Rock Interplanetary Spacecraft Convention and promoted ideas received from “organised intelligences” or space beings. One archived account of the desert contactee scene describes Van Tassel claiming telepathic “omnibeam” contact and receiving “mental contact” from Ashtar, while also building the [Integratron]({{ 'integratron/' | relative_url }}) according to supposed extraterrestrial specifications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Dreamland djvu.txt</span><span class="citation-popover-snippet">Dreamland djvu.txt</span></span></span>
 
-The Ashtar stream also illustrates why failed UFO predictions often fragment rather than simply end. Later Ashtar-related prophecies included predictions of dramatic landings, global contact or civilisation-changing intervention. When such events did not occur, disappointment could weaken particular groups while leaving the broader channelled figure available for new messages. The failure attaches to a date, a channel or an interpretation; the invisible source remains reusable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The Ashtar stream also illustrates why failed UFO predictions often fragment rather than simply end. Later Ashtar-related prophecies included predictions of dramatic landings, global contact or civilisation-changing intervention. When such events did not occur, disappointment could weaken particular groups while leaving the broader channelled figure available for new messages. The failure attaches to a date, a channel or an interpretation; the invisible source remains reusable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 ## Why telepathic prophecy is hard to falsify before it fails
 
@@ -523,11 +523,11 @@ This does not mean every channelled UFO claim is organised in the same way. Some
 
 After a failed telepathic UFO prediction, explanations often preserve the authority of the source by changing the meaning of the event. The most common move is postponement: the event will still happen, but not yet. Another is conditionality: disaster was avoided because believers prayed, meditated or raised humanity’s spiritual state. A third is symbolic fulfilment: the landing happened inwardly, on another plane, or in a way not visible to ordinary perception.
 
-The 1954 Seekers case contains the classic pattern. After the predicted catastrophe and saucer rescue failed to occur, the story shifted toward the idea that disaster had been stayed by higher intervention. Contemporary reports and later summaries note that Martin spoke of the catastrophe being averted rather than simply admitting that the message had been false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secularhumanism.org">[secularhumanism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secularhumanism.org</span><span class="citation-popover-title">When We Become the Seekers</span><span class="citation-popover-snippet">When We Become the Seekers</span></span></span>
+The 1954 Seekers case contains the classic pattern. After the predicted catastrophe and saucer rescue failed to occur, the story shifted toward the idea that disaster had been stayed by higher intervention. Contemporary reports and later summaries note that Martin spoke of the catastrophe being averted rather than simply admitting that the message had been false.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secularhumanism.org">[secularhumanism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secularhumanism.org</span><span class="citation-popover-title">When We Become the Seekers</span><span class="citation-popover-snippet">When We Become the Seekers</span></span></span>
 
-Ashtar-related failures show a wider version of the same process. Because many channels could claim contact with Ashtar, failed predictions did not necessarily destroy the tradition. They could instead produce disputes over which channel was genuine, whether humanity had been “sensitised” enough for contact, or whether the event had been delayed for spiritual reasons. Reference summaries of the Ashtar tradition describe repeated conflicting messages from different mediums and note that publicised predictions of landings or flourishing civilisations elsewhere in the solar system were met with failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Ashtar-related failures show a wider version of the same process. Because many channels could claim contact with Ashtar, failed predictions did not necessarily destroy the tradition. They could instead produce disputes over which channel was genuine, whether humanity had been “sensitised” enough for contact, or whether the event had been delayed for spiritual reasons. Reference summaries of the Ashtar tradition describe repeated conflicting messages from different mediums and note that publicised predictions of landings or flourishing civilisations elsewhere in the solar system were met with failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-The Aetherius Society shows a more structured version of extraterrestrial channeling, with claimed “transmissions” from cosmic masters rather than one-off saucer-rescue dates. Its official material still presents extraterrestrial messages as spiritually significant and includes sections on “Cosmic Masters” and “Transmissions”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aetherius.org/ufos-and-extraterrestrial-life/?srsltid=AfmBOorbdP0rfl1yZ7J6xHOqkAo4hDzdrUqAVyvisSlCQFoCM34Htzft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aetherius.org">[The Aetherius Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aetherius.org</span><span class="citation-popover-snippet">Open source on aetherius.org.</span></span></span> Scholarly discussions of the movement place its eschatology and millennial expectations inside a ufological and extraterrestrial framework, but not every such movement is best understood as a simple failed-date cult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/9789004435537/BP000034.xml?srsltid=AfmBOooCuNcueLA54G0BJuvSvtuTt3sH1kXxok0QENlnyaIgKBPNAvnT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Open source on brill.com.</span></span></span> The key point is narrower: where channelled messages generate expectations, those expectations can be protected by further channelled interpretation.
+The Aetherius Society shows a more structured version of extraterrestrial channeling, with claimed “transmissions” from cosmic masters rather than one-off saucer-rescue dates. Its official material still presents extraterrestrial messages as spiritually significant and includes sections on “Cosmic Masters” and “Transmissions”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aetherius.org/ufos-and-extraterrestrial-life/?srsltid=AfmBOorbdP0rfl1yZ7J6xHOqkAo4hDzdrUqAVyvisSlCQFoCM34Htzft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aetherius.org">[The Aetherius Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aetherius.org</span><span class="citation-popover-snippet">Open source on aetherius.org.</span></span></span> Scholarly discussions of the movement place its eschatology and millennial expectations inside a ufological and extraterrestrial framework, but not every such movement is best understood as a simple failed-date cult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/9789004435537/BP000034.xml?srsltid=AfmBOooCuNcueLA54G0BJuvSvtuTt3sH1kXxok0QENlnyaIgKBPNAvnT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Open source on brill.com.</span></span></span> The key point is narrower: where channelled messages generate expectations, those expectations can be protected by further channelled interpretation.
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf-Illustration-3-dark.svg" | relative_url }}" alt="Channeling illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -537,7 +537,7 @@ Outsiders usually ask whether the predicted event occurred. Did the flood happen
 
 Insiders may ask a different question: what did the message mean? That shift is central to telepathic prophecy. If a message is treated as sacred, symbolic or multi-layered, a literal failure may not end interpretation. The event can be moved from the physical world into a hidden spiritual register. For believers, that may feel like deeper understanding; for sceptics, it looks like changing the terms after the test.
 
-This is why telepathic UFO prophecies often sit uneasily between religion, folklore, psychology and ufology. They are not merely claims about lights in the sky. They are social systems for receiving, interpreting and defending messages from unseen authorities. Academic and reference treatments of UFO religions often stress this hybrid character: extraterrestrial beings are treated not only as visitors but as saviours, teachers, judges or cosmic administrators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
+This is why telepathic UFO prophecies often sit uneasily between religion, folklore, psychology and ufology. They are not merely claims about lights in the sky. They are social systems for receiving, interpreting and defending messages from unseen authorities. Academic and reference treatments of UFO religions often stress this hybrid character: extraterrestrial beings are treated not only as visitors but as saviours, teachers, judges or cosmic administrators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion</span></span></span>
 
 The evidential gap is therefore not incidental. It is part of the mechanism. A claim that begins in private revelation can become publicly testable only when it predicts an outward event. If the outward event fails, the claim can retreat back into private revelation.
 
@@ -548,7 +548,7 @@ The evidential gap is therefore not incidental. It is part of the mechanism. A c
 
 Telepathic messages are not just colourful details in UFO prophecy history. They explain why failed predictions can be so definite before the deadline and so evasive afterwards. A channelled message can name dates, disasters, rescuers and cosmic authorities with confidence, yet the same system can absorb failure by producing new messages about delay, mercy, symbolism or misunderstanding.
 
-That mechanism helps separate UFO prophecy from ordinary UFO [uncertainty]({{ 'uncertainty/' | relative_url }}). Many UAP reports remain unresolved because evidence is incomplete, not because a specific alien promise failed. NASA’s public UAP material stresses limited data and the absence of evidence that UAP are alien technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> Failed telepathic UFO prophecies are different: they usually involve a clear claim that a meaningful event is about to happen, followed by a visible non-event.
+That mechanism helps separate UFO prophecy from ordinary UFO [uncertainty]({{ 'uncertainty/' | relative_url }}). Many UAP reports remain unresolved because evidence is incomplete, not because a specific alien promise failed. NASA’s public UAP material stresses limited data and the absence of evidence that UAP are alien technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> Failed telepathic UFO prophecies are different: they usually involve a clear claim that a meaningful event is about to happen, followed by a visible non-event.
 
 The central lesson is therefore modest but important. Telepathy and channeling do not merely supply the content of some UFO prophecies; they supply the authority structure that lets those prophecies survive disappointment. The channel produces the prediction, guards access to the source, and often supplies the post-failure explanation. In the history of failed UFO predictions, that makes telepathic messaging one of the clearest mechanisms by which a falsified expectation can remain meaningful to believers.
 
@@ -557,194 +557,194 @@ The central lesson is therefore modest but important. Telepathy and channeling d
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Messages Come by Telepathy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Messages Come by Telepathy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Uses the Dorothy Martin case central to telepathic UFO communications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Uses the Dorothy Martin case central to telepathic UFO communications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects UFO narratives with older visionary and paranormal traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects UFO narratives with older visionary and paranormal traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains belief formation around extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains belief formation around extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="channeling-when-ufo-messages-come-by-telepathy-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -760,7 +760,7 @@ The central lesson is therefore modest but important. Telepathy and channeling d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -780,7 +780,7 @@ The central lesson is therefore modest but important. Telepathy and channeling d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -812,7 +812,7 @@ The central lesson is therefore modest but important. Telepathy and channeling d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -864,7 +864,7 @@ The central lesson is therefore modest but important. Telepathy and channeling d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -909,7 +909,7 @@ The central lesson is therefore modest but important. Telepathy and channeling d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -950,290 +950,290 @@ The central lesson is therefore modest but important. Telepathy and channeling d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Automatic writing | Mediumship, Divination, Occultism  
-   Link: <a href="https://www.britannica.com/topic/automatic-writing" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/automatic-writing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAutomatic writing | Mediumship, Divination, OccultismJuly 20, 1998 — Automatic writing, in spiritualism, writing p...</p></details>
+   Link:<a href="https://www.britannica.com/topic/automatic-writing" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/automatic-writing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAutomatic writing | Mediumship, Divination, OccultismJuly 20, 1998 — Automatic writing, in spiritualism, writing p...</p></details>
    Published: July 20, 1998  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Dorothy Martin (1900–92), known as Sister Thedra (described as &#x27;Mrs Keech&#x27; by Fes...</p></details>
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Dorothy Martin (1900–92), known as Sister Thedra (described as &#x27;Mrs Keech&#x27; by Fes...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ia802901.us.archive.org  
-   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveExtraordinary Encounters... Ashtar, 27. Asmitor, 29. Athena, 30. Atlantis, 31. Aura Rhanes, 34. Aurora... Van Tassel, Ge...</p></details>
+   Link:<a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveExtraordinary Encounters... Ashtar, 27. Asmitor, 29. Athena, 30. Atlantis, 31. Aura Rhanes, 34. Aurora... Van Tassel, Ge...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Debunking “When Prophecy Fails”  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Notes by Riecken] (Leon Festinger papers). Ann Arbor, Michigan...Read more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Notes by Riecken] (Leon Festinger papers). Ann Arbor, Michigan...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
    Published: September 13, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
    Title: Dreamland djvu.txt  
-   Link: <a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: secularhumanism.org  
    Title: When We Become the Seekers  
-   Link: <a href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow">https://secularhumanism.org/2024/11/when-we-become-the-seekers/</a>  
+   Link:<a href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow">https://secularhumanism.org/2024/11/when-we-become-the-seekers/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aetherius.org  
-   Link: <a href="https://www.aetherius.org/ufos-and-extraterrestrial-life/?srsltid=AfmBOorbdP0rfl1yZ7J6xHOqkAo4hDzdrUqAVyvisSlCQFoCM34Htzft" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/ufos-and-extraterrestrial-life/?srsltid=AfmBOorbdP0rfl1yZ7J6xHOqkAo4hDzdrUqAVyvisSlCQFoCM34Htzft</a>  
+   Link:<a href="https://www.aetherius.org/ufos-and-extraterrestrial-life/?srsltid=AfmBOorbdP0rfl1yZ7J6xHOqkAo4hDzdrUqAVyvisSlCQFoCM34Htzft" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/ufos-and-extraterrestrial-life/?srsltid=AfmBOorbdP0rfl1yZ7J6xHOqkAo4hDzdrUqAVyvisSlCQFoCM34Htzft</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/9789004435537/BP000034.xml?srsltid=AfmBOooCuNcueLA54G0BJuvSvtuTt3sH1kXxok0QENlnyaIgKBPNAvnT" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004435537/BP000034.xml?srsltid=AfmBOooCuNcueLA54G0BJuvSvtuTt3sH1kXxok0QENlnyaIgKBPNAvnT</a>  
+   Link:<a href="https://brill.com/display/book/9789004435537/BP000034.xml?srsltid=AfmBOooCuNcueLA54G0BJuvSvtuTt3sH1kXxok0QENlnyaIgKBPNAvnT" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004435537/BP000034.xml?srsltid=AfmBOooCuNcueLA54G0BJuvSvtuTt3sH1kXxok0QENlnyaIgKBPNAvnT</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: <a href="https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf</a>  
+   Link:<a href="https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/assets/articlePDFs/1753-extraterrestrial-ufo-religion.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ia800808.us.archive.org  
    Title: Psychic and UFO Revelations in the Last Days  
-   Link: <a href="https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf</a>  
+   Link:<a href="https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
    Title: Extraordinary Encounters djvu.txt  
-   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/encyclopedia-of-occultism-and-parapsychology.-vol.-1-by-l.-shepard/Encyclopedia%20of%20Occultism%20and%20Parapsychology.%20VOL.1%20by%20L.%20Shepard_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/encyclopedia-of-occultism-and-parapsychology.-vol.-1-by-l.-shepard/Encyclopedia%20of%20Occultism%20and%20Parapsychology.%20VOL.1%20by%20L.%20Shepard_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/encyclopedia-of-occultism-and-parapsychology.-vol.-1-by-l.-shepard/Encyclopedia%20of%20Occultism%20and%20Parapsychology.%20VOL.1%20by%20L.%20Shepard_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/encyclopedia-of-occultism-and-parapsychology.-vol.-1-by-l.-shepard/Encyclopedia%20of%20Occultism%20and%20Parapsychology.%20VOL.1%20by%20L.%20Shepard_djvu.txt</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Branton%20-%20The%20Secrets%20of%20the%20Mojave_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Branton%20-%20The%20Secrets%20of%20the%20Mojave_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Branton%20-%20The%20Secrets%20of%20the%20Mojave_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Branton%20-%20The%20Secrets%20of%20the%20Mojave_djvu.txt</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: UFO religion  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_religion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_religion</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_religion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_religion</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Aetherius Society  
-   Link: <a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aetherius_Society</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aetherius_Society</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Automatic writing  
-   Link: <a href="https://en.wikipedia.org/wiki/Automatic_writing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_writing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Automatic_writing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_writing</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
+   Link:<a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
    Title: (PDF) How to develop telepathy and visitations of aliens  
-   Link: <a href="https://www.researchgate.net/publication/343654929_How_to_develop_telepathy_and_visitations_of_aliens_chapter_2_from_a_book_on_Telepathy_UPDATED_WORK_IN_PROGRESS_WITH_A_RECIPE_NOW_Update_052021" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343654929_How_to_develop_telepathy_and_visitations_of_aliens_chapter_2_from_a_book_on_Telepathy_UPDATED_WORK_IN_PROGRESS_WITH_A_RECIPE_NOW_Update_052021</a>  
+   Link:<a href="https://www.researchgate.net/publication/343654929_How_to_develop_telepathy_and_visitations_of_aliens_chapter_2_from_a_book_on_Telepathy_UPDATED_WORK_IN_PROGRESS_WITH_A_RECIPE_NOW_Update_052021" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343654929_How_to_develop_telepathy_and_visitations_of_aliens_chapter_2_from_a_book_on_Telepathy_UPDATED_WORK_IN_PROGRESS_WITH_A_RECIPE_NOW_Update_052021</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+   Link:<a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
    Title: 397254906 Debunking When Prophecy Fails  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397098479_BOUDON_AND_THE_EXTRATERRESTRIALS_A_GENERATIVE_MODEL_OF_THE_EMERGENCE_OF_A_RELIGION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397098479_BOUDON_AND_THE_EXTRATERRESTRIALS_A_GENERATIVE_MODEL_OF_THE_EMERGENCE_OF_A_RELIGION</a>  
+   Link:<a href="https://www.researchgate.net/publication/397098479_BOUDON_AND_THE_EXTRATERRESTRIALS_A_GENERATIVE_MODEL_OF_THE_EMERGENCE_OF_A_RELIGION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397098479_BOUDON_AND_THE_EXTRATERRESTRIALS_A_GENERATIVE_MODEL_OF_THE_EMERGENCE_OF_A_RELIGION</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/352807269_A_Contemporary_Scientific_Study_of_Andre_Breton%27s_Automatic_Writing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352807269_A_Contemporary_Scientific_Study_of_Andre_Breton%27s_Automatic_Writing</a>  
+   Link:<a href="https://www.researchgate.net/publication/352807269_A_Contemporary_Scientific_Study_of_Andre_Breton%27s_Automatic_Writing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352807269_A_Contemporary_Scientific_Study_of_Andre_Breton%27s_Automatic_Writing</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: encyclopedia.com  
    Title: automatic writing  
-   Link: <a href="https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/religion-general/automatic-writing" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/religion-general/automatic-writing</a>  
+   Link:<a href="https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/religion-general/automatic-writing" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/religion-general/automatic-writing</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/automatism-spiritualism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/automatism-spiritualism</a>  
+   Link:<a href="https://www.britannica.com/topic/automatism-spiritualism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/automatism-spiritualism</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: compass.onlinelibrary.wiley.com  
    Title: j.1749 8171.2011.00313.x  
-   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x</a>  
+   Link:<a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reasons.org  
    Title: alien encounters fail the test  
-   Link: <a href="https://reasons.org/explore/publications/facts-for-faith/alien-encounters-fail-the-test" target="_blank" rel="noopener noreferrer nofollow">https://reasons.org/explore/publications/facts-for-faith/alien-encounters-fail-the-test</a>  
+   Link:<a href="https://reasons.org/explore/publications/facts-for-faith/alien-encounters-fail-the-test" target="_blank" rel="noopener noreferrer nofollow">https://reasons.org/explore/publications/facts-for-faith/alien-encounters-fail-the-test</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Psychologist Infiltrated UFO Cult When Prophecy Failed  
-   Link: <a href="http://www.youtube.com/watch?v=mcj8M6KuAmc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mcj8M6KuAmc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leon Festinger...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mcj8M6KuAmc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mcj8M6KuAmc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leon Festinger...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Leon Festinger  
-   Link: <a href="http://www.youtube.com/watch?v=lPM17X4CXzc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lPM17X4CXzc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy Fails...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lPM17X4CXzc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lPM17X4CXzc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy Fails...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: 10 Doomsday Cults That Got It Wrong | When Prophecy Fails  
-   Link: <a href="http://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: When Prophecy Fails  
-   Link: <a href="http://www.youtube.com/watch?v=i97Lbb41quE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=i97Lbb41quE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychic medium explains what happens when we pass. #medium #crossingover #souls DEAD Talks Podcast · 779K views...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=i97Lbb41quE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=i97Lbb41quE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychic medium explains what happens when we pass. #medium #crossingover #souls DEAD Talks Podcast · 779K views...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1660866237657971/posts/2094681670943090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2094681670943090/</a>  
+   Link:<a href="https://www.facebook.com/groups/1660866237657971/posts/2094681670943090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1660866237657971/posts/2094681670943090/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Cosmiccore.us/photos/nasas-uap-study-concludes-there-is-no-evidence-that-unidentified-aerial-phenomen/1482015020601386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Cosmiccore.us/photos/nasas-uap-study-concludes-there-is-no-evidence-that-unidentified-aerial-phenomen/1482015020601386/</a>  
+   Link:<a href="https://www.facebook.com/Cosmiccore.us/photos/nasas-uap-study-concludes-there-is-no-evidence-that-unidentified-aerial-phenomen/1482015020601386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Cosmiccore.us/photos/nasas-uap-study-concludes-there-is-no-evidence-that-unidentified-aerial-phenomen/1482015020601386/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: en.wikisource.org  
    Title: Automatic Writing  
-   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Automatic_Writing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Automatic_Writing</a>  
+   Link:<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Automatic_Writing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Automatic_Writing</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: boneandsickle.com  
    Title: george van tassel  
-   Link: <a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
+   Link:<a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: x.com  
-   Link: <a href="https://x.com/robsica/status/1986207432981479724" target="_blank" rel="noopener noreferrer nofollow">https://x.com/robsica/status/1986207432981479724</a>  
+   Link:<a href="https://x.com/robsica/status/1986207432981479724" target="_blank" rel="noopener noreferrer nofollow">https://x.com/robsica/status/1986207432981479724</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: End of Days Cults, the Day After | Cognitive Dissonance (Video Essay)  
-   Link: <a href="http://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5yVuauQjkDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist Infiltrated UFO Cult When Prophecy Failed...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5yVuauQjkDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist Infiltrated UFO Cult When Prophecy Failed...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt30727086/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt30727086/</a>  
+   Link:<a href="https://www.imdb.com/title/tt30727086/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt30727086/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+   Link:<a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/1jckqqf/a_simple_scientific_explanation_to_telepathic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/1jckqqf/a_simple_scientific_explanation_to_telepathic/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/1jckqqf/a_simple_scientific_explanation_to_telepathic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/1jckqqf/a_simple_scientific_explanation_to_telepathic/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/226240180/When-Prophecy-Fails-Festinger" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/226240180/When-Prophecy-Fails-Festinger</a>  
+   Link:<a href="https://www.scribd.com/document/226240180/When-Prophecy-Fails-Festinger" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/226240180/When-Prophecy-Fails-Festinger</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: healthmanifested.com  
-   Link: <a href="https://healthmanifested.com/differences-between-mediumship-channeling-and-automatic-writing/" target="_blank" rel="noopener noreferrer nofollow">https://healthmanifested.com/differences-between-mediumship-channeling-and-automatic-writing/</a>  
+   Link:<a href="https://healthmanifested.com/differences-between-mediumship-channeling-and-automatic-writing/" target="_blank" rel="noopener noreferrer nofollow">https://healthmanifested.com/differences-between-mediumship-channeling-and-automatic-writing/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: bigthink.com  
-   Link: <a href="https://bigthink.com/videos/fail-constructively-with-tim-harford/" target="_blank" rel="noopener noreferrer nofollow">https://bigthink.com/videos/fail-constructively-with-tim-harford/</a>  
+   Link:<a href="https://bigthink.com/videos/fail-constructively-with-tim-harford/" target="_blank" rel="noopener noreferrer nofollow">https://bigthink.com/videos/fail-constructively-with-tim-harford/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/</a>  
+   Link:<a href="https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/</a>  

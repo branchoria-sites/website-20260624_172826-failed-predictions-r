@@ -274,11 +274,11 @@ image: /assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_di
 
 ## Introduction
 
-The best-known lesson drawn from the UFO-prophecy study *When Prophecy Fails* is that believers sometimes react to [failed predictions]({{ 'failed-predictions/' | relative_url }}) by believing even more strongly. That lesson is memorable, but it is incomplete. [Cognitive dissonance]({{ 'dissonance/' | relative_url }}) theory describes a form of psychological pressure created when a cherished belief collides with reality. It does not specify one inevitable response. In the context of failed UFO predictions, the same disconfirmation can lead some people to intensify commitment, others to reinterpret events, and still others to abandon the movement altogether. Later research on failed prophecies has increasingly emphasised that dissonance is a mechanism that creates tension, not a law that guarantees a particular outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">When Prophecy Fails and Faith Persists</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — In the end, it is argued, the discussi...</span><span class="citation-popover-meta">Published: October 23, 1999</span></span></span>
+The best-known lesson drawn from the UFO-prophecy study *When Prophecy Fails* is that believers sometimes react to [failed predictions]({{ 'failed-predictions/' | relative_url }}) by believing even more strongly. That lesson is memorable, but it is incomplete. [Cognitive dissonance]({{ 'dissonance/' | relative_url }}) theory describes a form of psychological pressure created when a cherished belief collides with reality. It does not specify one inevitable response. In the context of failed UFO predictions, the same disconfirmation can lead some people to intensify commitment, others to reinterpret events, and still others to abandon the movement altogether. Later research on failed prophecies has increasingly emphasised that dissonance is a mechanism that creates tension, not a law that guarantees a particular outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">When Prophecy Fails and Faith Persists</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — In the end, it is argued, the discussi...</span><span class="citation-popover-meta">Published: October 23, 1999</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-1-dark.svg" | relative_url }}" alt="Many Outcomes illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because the famous UFO case involving [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s Seekers has often been treated as a universal model. Yet both broader scholarship on failed prophecy and recent archival re-evaluations suggest that reactions to prophetic failure are far more varied than the classic textbook story implies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Heidelberg University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</span></span></span>
+This distinction matters because the famous UFO case involving [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s Seekers has often been treated as a universal model. Yet both broader scholarship on failed prophecy and recent archival re-evaluations suggest that reactions to prophetic failure are far more varied than the classic textbook story implies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Heidelberg University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G1-vaIe2FGM" title="Cognitive Dissonance (Definition + 3 Examples)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G1-vaIe2FGM" target="_blank" rel="noopener noreferrer">Cognitive Dissonance (Definition + 3 Examples)</a></p><p class="youtube-embed-meta">Channel: Practical Psychology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G1-vaIe2FGM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G1-vaIe2FGM">Open on YouTube</a></p></div></div></div>
@@ -297,9 +297,9 @@ Cognitive dissonance theory originally highlighted a pathway by which failed pre
 
 </div>
 
-These kinds of reinterpretations reduce the contradiction between expectation and reality while preserving the underlying worldview. The original *When Prophecy Fails* account made this response famous because it portrayed believers as resolving dissonance through renewed commitment and public advocacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar[PDF] When Prophecy FailsFestinger&#x27;s theory of cognitive dissonance has been the standard paradigm for understanding reac...</span></span></span>
+These kinds of reinterpretations reduce the contradiction between expectation and reality while preserving the underlying worldview. The original *When Prophecy Fails* account made this response famous because it portrayed believers as resolving dissonance through renewed commitment and public advocacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar+2Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar[PDF] When Prophecy FailsFestinger&#x27;s theory of cognitive dissonance has been the standard paradigm for understanding reac...</span></span></span>
 
-However, even within the original formulation, this outcome was never supposed to occur automatically. Festinger and his colleagues proposed several conditions that increased the likelihood of intensified commitment, including deep prior investment and continuing [social support]({{ 'social-support/' | relative_url }}). The theory itself therefore implied that different circumstances could produce different results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+However, even within the original formulation, this outcome was never supposed to occur automatically. Festinger and his colleagues proposed several conditions that increased the likelihood of intensified commitment, including deep prior investment and continuing [social support]({{ 'social-support/' | relative_url }}). The theory itself therefore implied that different circumstances could produce different results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GxAu7BTZQRY" title="Cognitive Dissonance: Your Response to Conflicting Beliefs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GxAu7BTZQRY" target="_blank" rel="noopener noreferrer">Cognitive Dissonance: Your Response to Conflicting Beliefs</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 237.2K &middot; Uploaded: October 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GxAu7BTZQRY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GxAu7BTZQRY">Open on YouTube</a></p></div></div></div>
@@ -322,9 +322,9 @@ Examples of these responses include:
 
 </div>
 
-Sociologists studying failed prophecy have argued that scholarly attention often focuses on the groups that survive because they remain visible, while groups that [collapse]({{ 'collapse/' | relative_url }}) leave less evidence behind. This creates a distorted impression that prophetic failure usually strengthens belief. Some researchers have argued that group decline or dissolution may actually be a very common outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/394577458_Failed_Prophecies_Are_Fatal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Failed Prophecies Are FatalI argue that the literature on religious groups which experience failed prophesy suffers from surv...</span></span></span>
+Sociologists studying failed prophecy have argued that scholarly attention often focuses on the groups that survive because they remain visible, while groups that [collapse]({{ 'collapse/' | relative_url }}) leave less evidence behind. This creates a distorted impression that prophetic failure usually strengthens belief. Some researchers have argued that group decline or dissolution may actually be a very common outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/394577458_Failed_Prophecies_Are_Fatal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Failed Prophecies Are FatalI argue that the literature on religious groups which experience failed prophesy suffers from surv...</span></span></span>
 
-Recent archival reassessments of the Seekers case have reinforced this point. According to newly examined documents, the group appears to have abandoned key beliefs relatively quickly after the failed prediction, contradicting the traditional image of a movement transformed into a permanently energised missionary force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</span></span></span>
+Recent archival reassessments of the Seekers case have reinforced this point. According to newly examined documents, the group appears to have abandoned key beliefs relatively quickly after the failed prediction, contradicting the traditional image of a movement transformed into a permanently energised missionary force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-2-dark.svg" | relative_url }}" alt="Many Outcomes illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,7 +346,7 @@ A contradiction between belief and reality creates a problem that demands some r
 
 </div>
 
-The theory identifies the existence of psychological tension but does not uniquely predict which route a person will choose. Even defenders of cognitive dissonance theory have acknowledged that multiple pathways can reduce dissonance. The presence of discomfort does not determine the form of resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+The theory identifies the existence of psychological tension but does not uniquely predict which route a person will choose. Even defenders of cognitive dissonance theory have acknowledged that multiple pathways can reduce dissonance. The presence of discomfort does not determine the form of resolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
 This helps explain why apparently similar UFO-prophecy failures can produce very different outcomes. Two groups may experience the same failed prediction but possess different leadership structures, social networks, levels of commitment, or alternative sources of meaning. Those differences shape how dissonance is managed.
 
@@ -357,202 +357,202 @@ This helps explain why apparently similar UFO-prophecy failures can produce very
 
 Within the study of failed UFO predictions, the strongest modern conclusion is not that failure makes believers believe harder. It is that prophetic failure opens a period of instability in which several outcomes become possible.
 
-Some believers reinterpret events and remain committed. Some adopt hidden-fulfilment explanations. Some revise only part of the belief system. Others leave quietly. Entire groups may fragment or disappear. The specific outcome depends on social circumstances, leadership, prior investment, available explanations and the willingness of members to continue identifying with the movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Heidelberg University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">When Prophecy Fails and Faith Persists</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — In the end, it is argued, the discussi...</span><span class="citation-popover-meta">Published: October 23, 1999</span></span></span>
+Some believers reinterpret events and remain committed. Some adopt hidden-fulfilment explanations. Some revise only part of the belief system. Others leave quietly. Entire groups may fragment or disappear. The specific outcome depends on social circumstances, leadership, prior investment, available explanations and the willingness of members to continue identifying with the movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Heidelberg University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">When Prophecy Fails and Faith Persists</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — In the end, it is argued, the discussi...</span><span class="citation-popover-meta">Published: October 23, 1999</span></span></span>
 
-For that reason, the famous UFO case behind *When Prophecy Fails* is best understood as one possible pattern rather than a universal rule. Cognitive dissonance remains useful for explaining why failed predictions create pressure, but it does not provide a single script for what happens next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">When Prophecy Fails and Faith Persists</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — In the end, it is argued, the discussi...</span><span class="citation-popover-meta">Published: October 23, 1999</span></span></span>
+For that reason, the famous UFO case behind *When Prophecy Fails* is best understood as one possible pattern rather than a universal rule. Cognitive dissonance remains useful for explaining why failed predictions create pressure, but it does not provide a single script for what happens next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">When Prophecy Fails and Faith Persists</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — In the end, it is argued, the discussi...</span><span class="citation-popover-meta">Published: October 23, 1999</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-3-dark.svg" | relative_url }}" alt="Many Outcomes illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_dissonance_many_outc_f6d9f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Failure Does Not Make Everyone Believe Harder. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Failure Does Not Make Everyone Believe Harder. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains cognitive dissonance, self-justification, belief revision, and why people respond differently to being wrong.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive dissonance, self-justification, belief revision, and why people respond differently to being wrong.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">The landmark study of failed prophecy and varied believer reactions that the page directly discusses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The landmark study of failed prophecy and varied believer reactions that the page directly discusses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Offers a broad framework for biases, judgment, and belief maintenance that complements discussions of cognitive dissonance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a broad framework for biases, judgment, and belief maintenance that complements discussions of cognitive dissonance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Covers commitment, consistency pressures, and social factors that can shape responses to disconfirming evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers commitment, consistency pressures, and social factors that can shape responses to disconfirming evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/2f6977ce9c3a24a0a22d.jpg' | relative_url }}" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/2f6977ce9c3a24a0a22d.jpg' | relative_url }}" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/57566fa8b3425dd211dc.jpg' | relative_url }}" alt="Listing image for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/57566fa8b3425dd211dc.jpg' | relative_url }}" alt="Listing image for Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Iron/Sew On Patch 8.5cm x 8.5cm Werewolf UFO UAP FREE P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/f9f1edc22056df8c40fe.jpg' | relative_url }}" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/f9f1edc22056df8c40fe.jpg' | relative_url }}" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/0f27da51925b1ad78203.jpg' | relative_url }}" alt="Listing image for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/0f27da51925b1ad78203.jpg' | relative_url }}" alt="Listing image for Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">Moai Statues Ancient Aliens Iron/Sew On Patch 11cm x 10.5cm UAP FREE P&amp;P</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP patch" data-ebay-reference="many-outcomes-failure-does-not-make-everyone-believe-harder-failed-predictions-uap-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ For that reason, the famous UFO case behind *When Prophecy Fails* is best unders
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ For that reason, the famous UFO case behind *When Prophecy Fails* is best unders
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ For that reason, the famous UFO case behind *When Prophecy Fails* is best unders
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ For that reason, the famous UFO case behind *When Prophecy Fails* is best unders
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ For that reason, the famous UFO case behind *When Prophecy Fails* is best unders
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,117 +758,117 @@ For that reason, the famous UFO case behind *When Prophecy Fails* is best unders
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jstor.org  
    Title: When Prophecy Fails and Faith Persists  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — In the end, it is argued, the discussi...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith PersistsOctober 23, 1999 — by LL Dawson · 1999 · Cited by 187 — In the end, it is argued, the discussi...</p></details>
    Published: October 23, 1999  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394577458_Failed_Prophecies_Are_Fatal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394577458_Failed_Prophecies_Are_Fatal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecies Are FatalI argue that the literature on religious groups which experience failed prophesy suffers from surv...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394577458_Failed_Prophecies_Are_Fatal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394577458_Failed_Prophecies_Are_Fatal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecies Are FatalI argue that the literature on religious groups which experience failed prophesy suffers from surv...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: books.google.com  
    Title: Books When Prophecy Fails  
-   Link: <a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=pknuAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=pknuAAAAMAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>would these people feel when their prophecy remained unfulfilled? Would they admit the error of their prediction, or woul...</p></details>
+   Link:<a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=pknuAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=pknuAAAAMAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>would these people feel when their prophecy remained unfulfilled? Would they admit the error of their prediction, or woul...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e origins of major religions. The book was influential...Read more...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e origins of major religions. The book was influential...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-and-Faith-Persists%3A-A-Overview-Dawson/b420c201f43c37a8c77e87d8c0abfd1d7d47f694" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-and-Faith-Persists%3A-A-Overview-Dawson/b420c201f43c37a8c77e87d8c0abfd1d7d47f694</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith Persists: A Theoretical...1 Oct 1999 — Until fairly recently Festinger&#x27;s theory of cognitive dissonance ha...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-and-Faith-Persists%3A-A-Overview-Dawson/b420c201f43c37a8c77e87d8c0abfd1d7d47f694" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-and-Faith-Persists%3A-A-Overview-Dawson/b420c201f43c37a8c77e87d8c0abfd1d7d47f694</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith Persists: A Theoretical...1 Oct 1999 — Until fairly recently Festinger&#x27;s theory of cognitive dissonance ha...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uni-heidelberg.de  
-   Link: <a href="https://www.uni-heidelberg.de/imperia/md/content/fakultaeten/chemgeo/geographie/knowledgeandspace/abstracts/symposium1/abstract_dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-heidelberg.de/imperia/md/content/fakultaeten/chemgeo/geographie/knowledgeandspace/abstracts/symposium1/abstract_dawson.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When prophecy fails and faith persistsOverwhelmingly, these prophecies fail to come true, empirically. Yet the record shows that these fa...</p></details>
+   Link:<a href="https://www.uni-heidelberg.de/imperia/md/content/fakultaeten/chemgeo/geographie/knowledgeandspace/abstracts/symposium1/abstract_dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-heidelberg.de/imperia/md/content/fakultaeten/chemgeo/geographie/knowledgeandspace/abstracts/symposium1/abstract_dawson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When prophecy fails and faith persistsOverwhelmingly, these prophecies fail to come true, empirically. Yet the record shows that these fa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar[PDF] When Prophecy FailsFestinger&#x27;s theory of cognitive dissonance has been the standard paradigm for understanding reac...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar[PDF] When Prophecy FailsFestinger&#x27;s theory of cognitive dissonance has been the standard paradigm for understanding reac...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: biblicalscholarship.wordpress.com  
    Title: debunking when prophecy fails  
-   Link: <a href="https://biblicalscholarship.wordpress.com/2025/11/17/debunking-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://biblicalscholarship.wordpress.com/2025/11/17/debunking-when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails - Biblical Scholarship17 Nov 2025 — Drawing on newly unsealed archival material, this article demonstrates that the b...</p></details>
+   Link:<a href="https://biblicalscholarship.wordpress.com/2025/11/17/debunking-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://biblicalscholarship.wordpress.com/2025/11/17/debunking-when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails - Biblical Scholarship17 Nov 2025 — Drawing on newly unsealed archival material, this article demonstrates that the b...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...13 Nov 2025 — New research questions When Prophecy Fails, the classic study of a...</p></details>
+   Link:<a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...13 Nov 2025 — New research questions When Prophecy Fails, the classic study of a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOoqIIM_luwxPWUltLxkEFhvL1Jk4D429Rnh4z5k_nAAtEXVX6pDn" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOoqIIM_luwxPWUltLxkEFhvL1Jk4D429Rnh4z5k_nAAtEXVX6pDn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter fourStark, for instance, rejects the valid- ity of cognitive dissonance theory in explaining the response to failed prophecy beca...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOoqIIM_luwxPWUltLxkEFhvL1Jk4D429Rnh4z5k_nAAtEXVX6pDn" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOoqIIM_luwxPWUltLxkEFhvL1Jk4D429Rnh4z5k_nAAtEXVX6pDn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter fourStark, for instance, rejects the valid- ity of cognitive dissonance theory in explaining the response to failed prophecy beca...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/226240180/When-Prophecy-Fails-Festinger" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/226240180/When-Prophecy-Fails-Festinger</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger and his researchers studied a doomsday cult led by Dorothy Martin who believed that the world would end...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/226240180/When-Prophecy-Fails-Festinger" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/226240180/When-Prophecy-Fails-Festinger</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger and his researchers studied a doomsday cult led by Dorothy Martin who believed that the world would end...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: voices.uchicago.edu  
    Title: encountering when prophecy fails encountering cognitive dissonance  
-   Link: <a href="https://voices.uchicago.edu/religionculture/2015/09/01/encountering-when-prophecy-fails-encountering-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://voices.uchicago.edu/religionculture/2015/09/01/encountering-when-prophecy-fails-encountering-cognitive-dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails...1 Sept 2015 — Here we encounter some of the newspaper coverage of the woman whose prophecy set in motion the stud...</p></details>
+   Link:<a href="https://voices.uchicago.edu/religionculture/2015/09/01/encountering-when-prophecy-fails-encountering-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://voices.uchicago.edu/religionculture/2015/09/01/encountering-when-prophecy-fails-encountering-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails...1 Sept 2015 — Here we encounter some of the newspaper coverage of the woman whose prophecy set in motion the stud...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: a foundational 1956 study of cognitive dissonance  
-   Link: <a href="https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch cognitive dissonance theory, was misrepresented. The cult did not persist, prosely...</p></details>
+   Link:<a href="https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch cognitive dissonance theory, was misrepresented. The cult did not persist, prosely...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/When-Prophecy-Fails-Dissonance-Disconfirmation/dp/1515430790?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/When-Prophecy-Fails-Dissonance-Disconfirmation/dp/1515430790?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>which bore specifically on the behavior of individuals in social movements...</p></details>
+   Link:<a href="https://www.amazon.nl/When-Prophecy-Fails-Dissonance-Disconfirmation/dp/1515430790?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/When-Prophecy-Fails-Dissonance-Disconfirmation/dp/1515430790?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>which bore specifically on the behavior of individuals in social movements...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Cognitive Dissonance (Definition + 3 Examples)  
-   Link: <a href="https://www.youtube.com/watch?v=G1-vaIe2FGM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G1-vaIe2FGM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails cognitive dissonance outcome When Prophecy Fails: Cognitive Dissonance &amp; the &quot;Trump Re-Election&quot; Prophecies The Disma...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G1-vaIe2FGM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G1-vaIe2FGM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails cognitive dissonance outcome When Prophecy Fails: Cognitive Dissonance &amp; the &quot;Trump Re-Election&quot; Prophecies The Disma...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...When Prophecy Fails, the case study that helped launch cognitive dissonance the...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails, the case study that helped launch...When Prophecy Fails, the case study that helped launch cognitive dissonance the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Festinger's When Prophecy Fails: What Happens After the World Doesn't End  
-   Link: <a href="https://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bkRjQ5juZXk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Cognitive Dissonance &amp; the &quot;Trump Re-Election&quot; Prophecies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bkRjQ5juZXk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Cognitive Dissonance &amp; the &quot;Trump Re-Election&quot; Prophecies...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — You may not have heard of When Prophecy Fails, but you likely hav...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — You may not have heard of When Prophecy Fails, but you likely hav...</p></details>

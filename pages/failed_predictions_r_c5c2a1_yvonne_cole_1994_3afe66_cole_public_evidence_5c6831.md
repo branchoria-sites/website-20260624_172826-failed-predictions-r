@@ -274,13 +274,13 @@ image: /assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_p
 
 ## Introduction
 
-Yvonne Cole’s [1994 Ashtar]({{ '1994-ashtar/' | relative_url }}) landing prophecy depended on a very specific claim: that extraterrestrial beings would arrive publicly, that governments already knew about them, and that the event would be visible through global media. When evaluating a prediction of that kind, two official reference points become important: NASA’s standards for evidence concerning extraterrestrial life, and the historical record of the U.S. Air Force’s Project Blue Book investigations into UFO reports. Neither institution addressed [Ashtar]({{ 'ashtar/' | relative_url }}) beliefs directly. However, both help explain why Cole’s prediction lacked the kind of public evidence that would have been expected if a large-scale alien landing had actually occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
+Yvonne Cole’s [1994 Ashtar]({{ '1994-ashtar/' | relative_url }}) landing prophecy depended on a very specific claim: that extraterrestrial beings would arrive publicly, that governments already knew about them, and that the event would be visible through global media. When evaluating a prediction of that kind, two official reference points become important: NASA’s standards for evidence concerning extraterrestrial life, and the historical record of the U.S. Air Force’s Project Blue Book investigations into UFO reports. Neither institution addressed [Ashtar]({{ 'ashtar/' | relative_url }}) beliefs directly. However, both help explain why Cole’s prediction lacked the kind of public evidence that would have been expected if a large-scale alien landing had actually occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-1-dark.svg" | relative_url }}" alt="Public Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Public Evidence Was Missing in 1994
 
-Cole’s prediction was not merely about private spiritual experiences or personal revelations. It described a public, world-changing event involving the arrival of alien cultures, government [disclosure]({{ 'disclosure/' | relative_url }}), and widespread [media]({{ 'media/' | relative_url }}) coverage. Such a prediction created clear expectations for observable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Cole’s prediction was not merely about private spiritual experiences or personal revelations. It described a public, world-changing event involving the arrival of alien cultures, government [disclosure]({{ 'disclosure/' | relative_url }}), and widespread [media]({{ 'media/' | relative_url }}) coverage. Such a prediction created clear expectations for observable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 By the end of 1994, none of the expected indicators had appeared:
 
@@ -290,7 +290,7 @@ By the end of 1994, none of the expected indicators had appeared:
 * No verified extraterrestrial craft landed publicly.
 * No government announced prior cooperation with alien visitors.
 * No global broadcast delivered the anticipated Ashtar message.
-* No scientific organisation confirmed the arrival of extraterrestrial beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+* No scientific organisation confirmed the arrival of extraterrestrial beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 </div>
 
@@ -303,19 +303,19 @@ Because the prediction centred on a public event rather than a private vision, t
 
 One common misunderstanding in UFO discussions is the assumption that an unidentified object automatically implies extraterrestrial visitation. Official investigations have consistently treated those as separate questions.
 
-Project Blue Book, the U.S. Air Force programme that investigated UFO reports between 1952 and 1969, collected more than 12,000 reports. While some cases remained unexplained, the programme concluded that there was no evidence that the unidentified cases represented extraterrestrial vehicles. Most reports were eventually attributed to ordinary aircraft, astronomical objects, atmospheric phenomena, or other conventional causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2United States Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Project Blue Book, the U.S. Air Force programme that investigated UFO reports between 1952 and 1969, collected more than 12,000 reports. While some cases remained unexplained, the programme concluded that there was no evidence that the unidentified cases represented extraterrestrial vehicles. Most reports were eventually attributed to ordinary aircraft, astronomical objects, atmospheric phenomena, or other conventional causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2United States Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 This distinction matters for Cole’s prediction. Even if unexplained sightings existed before or during 1994, unexplained sightings are not the same thing as evidence for a publicly announced alien landing. A prediction of open contact required far stronger evidence than merely pointing to [unresolved]({{ 'unresolved/' | relative_url }}) UFO reports.
 
-Recent UAP (Unidentified Anomalous Phenomena) investigations have largely followed the same logic. Government reviews have acknowledged that some reports remain unresolved while also stating that no official investigation has confirmed extraterrestrial technology or activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us ufo pentagon report extraterrestrial review</span><span class="citation-popover-snippet">investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+Recent UAP (Unidentified Anomalous Phenomena) investigations have largely followed the same logic. Government reviews have acknowledged that some reports remain unresolved while also stating that no official investigation has confirmed extraterrestrial technology or activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us ufo pentagon report extraterrestrial review</span><span class="citation-popover-snippet">investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-2-dark.svg" | relative_url }}" alt="Public Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## NASA's Caution About Extraterrestrial Evidence
 
-NASA's approach provides another useful benchmark. The agency actively searches for signs of life beyond Earth through astrobiology, planetary exploration, and the study of exoplanets. Yet NASA consistently distinguishes between the possibility of extraterrestrial life and proof that such life has been found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
+NASA's approach provides another useful benchmark. The agency actively searches for signs of life beyond Earth through astrobiology, planetary exploration, and the study of exoplanets. Yet NASA consistently distinguishes between the possibility of extraterrestrial life and proof that such life has been found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
 
-NASA has repeatedly stated that extraterrestrial life has not been discovered. Scientists may regard life elsewhere in the universe as plausible or even likely, but that belief is not treated as evidence that aliens have visited Earth or are preparing a public landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
+NASA has repeatedly stated that extraterrestrial life has not been discovered. Scientists may regard life elsewhere in the universe as plausible or even likely, but that belief is not treated as evidence that aliens have visited Earth or are preparing a public landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
 
 This caution is relevant to Cole's claim because her prediction assumed much more than the existence of extraterrestrial life. It assumed:
 
@@ -328,7 +328,7 @@ This caution is relevant to Cole's claim because her prediction assumed much mor
 
 </div>
 
-NASA's standards require observable, verifiable data before extraordinary claims are accepted. In 1994, no such evidence emerged to support the predicted Ashtar arrival. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
+NASA's standards require observable, verifiable data before extraordinary claims are accepted. In 1994, no such evidence emerged to support the predicted Ashtar arrival.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1r_p_ZE2Gxo" title="NASA Scientist Answers Alien Questions | Tech Support | WIRED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1r_p_ZE2Gxo" target="_blank" rel="noopener noreferrer">NASA Scientist Answers Alien Questions | Tech Support | WIRED</a></p><p class="youtube-embed-meta">Channel: WIRED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1r_p_ZE2Gxo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1r_p_ZE2Gxo">Open on YouTube</a></p></div></div></div>
@@ -337,220 +337,220 @@ NASA's standards require observable, verifiable data before extraordinary claims
 
 The significance of NASA's approach is not that it disproves Ashtar theology. Scientific institutions generally do not evaluate spiritual or religious claims. Instead, NASA illustrates the level of evidence expected for claims about physical extraterrestrial visitors.
 
-A public alien landing would likely produce multiple forms of evidence simultaneously: direct observation, physical data, independent confirmation, media documentation, and scientific investigation. None appeared in connection with Cole's prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
+A public alien landing would likely produce multiple forms of evidence simultaneously: direct observation, physical data, independent confirmation, media documentation, and scientific investigation. None appeared in connection with Cole's prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qxjtFg5jvcI" title="Weird In the News // A Breakthrough In Sound Or A Message From The Ashtar Galactic Command?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qxjtFg5jvcI" target="_blank" rel="noopener noreferrer">Weird In the News // A Breakthrough In Sound Or A Message From The Ashtar Galactic Command?</a></p><p class="youtube-embed-meta">Channel: Sarah Mayes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qxjtFg5jvcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qxjtFg5jvcI">Open on YouTube</a></p></div></div></div>
 
 ## Project Blue Book and the Limits of Unidentified Sightings
 
-Project Blue Book remains relevant because it established a long-running official framework for assessing UFO reports. Its findings showed that unidentified sightings and confirmed alien visitation are not equivalent categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[United States Air Force+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...</span></span></span>
+Project Blue Book remains relevant because it established a long-running official framework for assessing UFO reports. Its findings showed that unidentified sightings and confirmed alien visitation are not equivalent categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[United States Air Force+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...</span></span></span>
 
-Even after thousands of investigations, the Air Force concluded that there was no evidence that reported UFOs represented extraterrestrial spacecraft. Some reports remained unexplained, but unexplained did not mean proven alien. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[United States Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...</span></span></span>
+Even after thousands of investigations, the Air Force concluded that there was no evidence that reported UFOs represented extraterrestrial spacecraft. Some reports remained unexplained, but unexplained did not mean proven alien.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[United States Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...</span></span></span>
 
 For evaluating Cole's failed prediction, this distinction is crucial. Her forecast was not that a few puzzling aerial events would occur. It was that an organised extraterrestrial fleet would arrive openly on Earth and transform civilisation. A claim of that scale required evidence far beyond the level of [uncertainty]({{ 'uncertainty/' | relative_url }}) represented by unresolved UFO cases.
 
-Blue Book therefore provides a useful historical lesson: unidentified reports may generate debate, but they do not by themselves validate predictions of imminent alien contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[United States Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...</span></span></span>
+Blue Book therefore provides a useful historical lesson: unidentified reports may generate debate, but they do not by themselves validate predictions of imminent alien contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[United States Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-3-dark.svg" | relative_url }}" alt="Public Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66_cole_public_evidence_5c6831-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why NASA and Blue Book Matter to the Failure of the Prediction
 
-NASA and Project Blue Book matter because they offer public standards for evaluating extraordinary claims about extraterrestrials. Both bodies approached the subject from different directions—one through space science and the other through investigation of UFO reports—but both emphasised the need for verifiable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
+NASA and Project Blue Book matter because they offer public standards for evaluating extraordinary claims about extraterrestrials. Both bodies approached the subject from different directions—one through space science and the other through investigation of UFO reports—but both emphasised the need for verifiable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
 
-Cole's 1994 prophecy predicted a visible, global event. If such an event had occurred, it would have generated overwhelming public evidence and attracted immediate scientific and governmental attention. Instead, the year ended without the promised landing, without official confirmation, and without the kind of observable proof that NASA, Project Blue Book, or later UAP investigations would require. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Cole's 1994 prophecy predicted a visible, global event. If such an event had occurred, it would have generated overwhelming public evidence and attracted immediate scientific and governmental attention. Instead, the year ended without the promised landing, without official confirmation, and without the kind of observable proof that NASA, Project Blue Book, or later UAP investigations would require.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-Viewed through that evidence-based lens, the significance of NASA and Blue Book is straightforward: they highlight the gap between claims of imminent extraterrestrial arrival and the absence of publicly verifiable facts needed to support such a prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2United States Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
+Viewed through that evidence-based lens, the significance of NASA and Blue Book is straightforward: they highlight the gap between claims of imminent extraterrestrial arrival and the absence of publicly verifiable facts needed to support such a prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA+2United States Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">do aliens exist we asked a nasa scientist episode 5</span><span class="citation-popover-snippet">Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Public Evidence Was Missing in 1994. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Public Evidence Was Missing in 1994. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines documented UFO cases while distinguishing reports from confirmed extraterrestrial visitation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented UFO cases while distinguishing reports from confirmed extraterrestrial visitation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains standards of evidence and why extraordinary claims require strong public proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains standards of evidence and why extraordinary claims require strong public proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for evaluating unidentified sightings and their evidential limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for evaluating unidentified sightings and their evidential limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Explores what scientists consider potential evidence of extraterrestrial technology and how such claims are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores what scientists consider potential evidence of extraterrestrial technology and how such claims are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New"><img src="{{ '/assets/images/marketplace-covers/8eb41688fee7f67681a7.jpg' | relative_url }}" alt="Listing image for Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New"><img src="{{ '/assets/images/marketplace-covers/8eb41688fee7f67681a7.jpg' | relative_url }}" alt="Listing image for Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Mars Attacks Alien Movie Metal Enamel Pin Badge Retro Film Movie Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item"><img src="{{ '/assets/images/marketplace-covers/90958b2316dfc40bcfe5.jpg' | relative_url }}" alt="Listing image for Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item"><img src="{{ '/assets/images/marketplace-covers/90958b2316dfc40bcfe5.jpg' | relative_url }}" alt="Listing image for Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="public-evidence-what-public-evidence-was-missing-in-1994-failed-predictions-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ Viewed through that evidence-based lens, the significance of NASA and Blue Book 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ Viewed through that evidence-based lens, the significance of NASA and Blue Book 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ Viewed through that evidence-based lens, the significance of NASA and Blue Book 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ Viewed through that evidence-based lens, the significance of NASA and Blue Book 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ Viewed through that evidence-based lens, the significance of NASA and Blue Book 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,174 +756,174 @@ Viewed through that evidence-based lens, the significance of NASA and Blue Book 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: do aliens exist we asked a nasa scientist episode 5  
-   Link: <a href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</p></details>
+   Link:<a href="https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/planets/mars/do-aliens-exist-we-asked-a-nasa-scientist-episode-5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Aliens Exist? We Asked a NASA Scientist: Episode 58 Sept 2021 — Do aliens exist? Extraterrestrial life has never been discovered...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
    Title: [UFO Religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;) Inside Flying Saucer Cults and Culture PDFDrive  
-   Link: <a href="https://www.scribd.com/document/501944064/UFO-Religion-Inside-Flying-Saucer-Cults-and-Culture-PDFDrive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/501944064/UFO-Religion-Inside-Flying-Saucer-Cults-and-Culture-PDFDrive</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Religion - Inside Flying Saucer Cults and Culture...In his 1994 book Abduction: Human Encounter with Aliens, his experiences as a...</p></details>
+   Link:<a href="https://www.scribd.com/document/501944064/UFO-Religion-Inside-Flying-Saucer-Cults-and-Culture-PDFDrive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/501944064/UFO-Religion-Inside-Flying-Saucer-Cults-and-Culture-PDFDrive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Religion - Inside Flying Saucer Cults and Culture...In his 1994 book Abduction: Human Encounter with Aliens, his experiences as a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: axios.com  
    Title: us ufo pentagon report extraterrestrial review  
-   Link: <a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</p></details>
+   Link:<a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</p></details>
    Published: March 8, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tific discovery and...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tific discovery and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects - National ArchivesPro-UFO researchers claim that an extraterrestrial sp...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects - National ArchivesPro-UFO researchers claim that an extraterrestrial sp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — However, the results were inconclusive, as stated in the Feb...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — However, the results were inconclusive, as stated in the Feb...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: astrobiology.nasa.gov  
-   Link: <a href="https://astrobiology.nasa.gov/about/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/about/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No life beyond Earth has ever been found; there is no evidence that alien life has ever visited our planet. It&#x27;s all a story...</p></details>
+   Link:<a href="https://astrobiology.nasa.gov/about/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.nasa.gov/about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No life beyond Earth has ever been found; there is no evidence that alien life has ever visited our planet. It&#x27;s all a story...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
    Title: nasa marches toward artemis iii mission in 2027 names crew members  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: can we find life  
-   Link: <a href="https://science.nasa.gov/exoplanets/can-we-find-life/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanets/can-we-find-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Find Life?9 Mar 2026 — Life might turn up in our own neighborhood: beneath the Martian surface, perhaps, or in the dark, subsurface oc...</p></details>
+   Link:<a href="https://science.nasa.gov/exoplanets/can-we-find-life/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanets/can-we-find-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Find Life?9 Mar 2026 — Life might turn up in our own neighborhood: beneath the Martian surface, perhaps, or in the dark, subsurface oc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Yvonne Strahovski  
-   Link: <a href="https://en.wikipedia.org/wiki/Yvonne_Strahovski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yvonne_Strahovski</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yvonne StrahovskiYvonne Strahovski is an Australian actress. She is known for her roles as Sarah Walker in the spy comedy drama series...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Yvonne_Strahovski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yvonne_Strahovski</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yvonne StrahovskiYvonne Strahovski is an Australian actress. She is known for her roles as Sarah Walker in the spy comedy drama series...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Extraterrestrial life  
-   Link: <a href="https://en.wikipedia.org/wiki/Extraterrestrial_life" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraterrestrial_life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial lifeNo extraterrestrial life has yet been detected. Such life might range from simple forms such as microbes to intel...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Extraterrestrial_life" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraterrestrial_life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial lifeNo extraterrestrial life has yet been detected. Such life might range from simple forms such as microbes to intel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: astrobiology.com  
    Title: missed opportunities in the search for extraterrestrial life  
-   Link: <a href="https://astrobiology.com/2026/05/missed-opportunities-in-the-search-for-extraterrestrial-life.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2026/05/missed-opportunities-in-the-search-for-extraterrestrial-life.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>22 May 2026 — Suppose there are signs of extraterrestrial life and we have not yet been able to detect them.Read more...</p></details>
+   Link:<a href="https://astrobiology.com/2026/05/missed-opportunities-in-the-search-for-extraterrestrial-life.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2026/05/missed-opportunities-in-the-search-for-extraterrestrial-life.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>22 May 2026 — Suppose there are signs of extraterrestrial life and we have not yet been able to detect them.Read more...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: space.com  
    Title: is the bar higher for scientific claims of alien life  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/is-the-bar-higher-for-scientific-claims-of-alien-life" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/is-the-bar-higher-for-scientific-claims-of-alien-life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Jun 2025 — The search for extraterrestrial life is not held to a higher standard of scientific rigor but it is constrained by an inab...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/is-the-bar-higher-for-scientific-claims-of-alien-life" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/is-the-bar-higher-for-scientific-claims-of-alien-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Jun 2025 — The search for extraterrestrial life is not held to a higher standard of scientific rigor but it is constrained by an inab...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
    Title: alien life evidence scale proposed  
-   Link: <a href="https://www.space.com/alien-life-evidence-scale-proposed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/alien-life-evidence-scale-proposed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA scientists propose new &#x27;alien life evidence&#x27; scale1 Nov 2021 — Researchers should report evidence for alien life on a scale similar...</p></details>
+   Link:<a href="https://www.space.com/alien-life-evidence-scale-proposed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/alien-life-evidence-scale-proposed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA scientists propose new &#x27;alien life evidence&#x27; scale1 Nov 2021 — Researchers should report evidence for alien life on a scale similar...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thetimes.com  
    Title: The Times Aliens exist  
-   Link: <a href="https://www.thetimes.com/uk/science/article/aliens-exist-but-no-earth-visits-nasa-veteran-qd7zfckwh" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/aliens-exist-but-no-earth-visits-nasa-veteran-qd7zfckwh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speaking at a major science conference in Phoenix, Lee emphasized that public belief in UFOs and alien visitors is a result of misinforma...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/science/article/aliens-exist-but-no-earth-visits-nasa-veteran-qd7zfckwh" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/aliens-exist-but-no-earth-visits-nasa-veteran-qd7zfckwh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speaking at a major science conference in Phoenix, Lee emphasized that public belief in UFOs and alien visitors is a result of misinforma...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Alien, Definition &amp; Files22 Feb 2010 — The panel concluded that there was no basis for the so-called extraterrestrial...</p></details>
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - Alien, Definition &amp; Files22 Feb 2010 — The panel concluded that there was no basis for the so-called extraterrestrial...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/1999/02/cole/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1999/02/cole/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;) Soon1 Feb 1999 — Back in May 1997, Cole was nabbed by the FBI for possession of illegally converted automatic weapons and vari...</p></details>
+   Link:<a href="https://www.wired.com/1999/02/cole/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1999/02/cole/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;) Soon1 Feb 1999 — Back in May 1997, Cole was nabbed by the FBI for possession of illegally converted automatic weapons and vari...</p></details>
    Published: May 1997  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
+   Link:<a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whs.mil[PDF] Project Blue BookTo date, the firm conclusions of Project BlueBook are: (1) no unidentified flying object reported... evid...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whs.mil[PDF] Project Blue BookTo date, the firm conclusions of Project BlueBook are: (1) no unidentified flying object reported... evid...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nsa.gov  
    Title: [PDF] Unidentified Flying Objects and Air Force Project Blue Book  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports since. 1948, the conclusions of Project Blue Book were: (1) no UFO reported, investigated and evaluated by the Air Force was...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports since. 1948, the conclusions of Project Blue Book were: (1) no UFO reported, investigated and evaluated by the Air Force was...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1r_p_ZE2Gxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1r_p_ZE2Gxo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientist Answers Alien Questions | Tech Support...Senior Scientist for Astrobiology Strategy at NASA David Dr. Grinspoon joins WIR...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1r_p_ZE2Gxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1r_p_ZE2Gxo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientist Answers Alien Questions | Tech Support...Senior Scientist for Astrobiology Strategy at NASA David Dr. Grinspoon joins WIR...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ncse.ngo  
-   Link: <a href="https://ncse.ngo/astrobiology-and-search-alien-life" target="_blank" rel="noopener noreferrer nofollow">https://ncse.ngo/astrobiology-and-search-alien-life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrobiology and the Search for Alien LifeIn this paper, I touch on other aspects of astrobiology: studying life in extreme conditions on...</p></details>
+   Link:<a href="https://ncse.ngo/astrobiology-and-search-alien-life" target="_blank" rel="noopener noreferrer nofollow">https://ncse.ngo/astrobiology-and-search-alien-life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astrobiology and the Search for Alien LifeIn this paper, I touch on other aspects of astrobiology: studying life in extreme conditions on...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: Scanning Project Blue Book (and a cool case we found): r/UFOs  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ah3hat/scanning_project_blue_book_and_a_cool_case_we/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ah3hat/scanning_project_blue_book_and_a_cool_case_we/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report, and the Report On Unidentified Flying Objects by Edward Ruppelt.... Thoughts on Project blue book, undeniable alien proof? 2...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ah3hat/scanning_project_blue_book_and_a_cool_case_we/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ah3hat/scanning_project_blue_book_and_a_cool_case_we/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report, and the Report On Unidentified Flying Objects by Edward Ruppelt.... Thoughts on Project blue book, undeniable alien proof? 2...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scitechdaily.com  
    Title: researchers say nasa could be overlooking signs of alien life  
-   Link: <a href="https://scitechdaily.com/researchers-say-nasa-could-be-overlooking-signs-of-alien-life/" target="_blank" rel="noopener noreferrer nofollow">https://scitechdaily.com/researchers-say-nasa-could-be-overlooking-signs-of-alien-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers Say NASA Could Be Overlooking Signs of...27 May 2026 — Scientists are now warning that evidence of extraterrestrial organism...</p></details>
+   Link:<a href="https://scitechdaily.com/researchers-say-nasa-could-be-overlooking-signs-of-alien-life/" target="_blank" rel="noopener noreferrer nofollow">https://scitechdaily.com/researchers-say-nasa-could-be-overlooking-signs-of-alien-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers Say NASA Could Be Overlooking Signs of...27 May 2026 — Scientists are now warning that evidence of extraterrestrial organism...</p></details>
    Published: May 2026  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366218470_PROPHECY_ESCHATOLOGY_GLOBAL_NETWORKS_AND_THE_CRUSADES_FROM_HATTIN_TO_FREDERICK_II" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366218470_PROPHECY_ESCHATOLOGY_GLOBAL_NETWORKS_AND_THE_CRUSADES_FROM_HATTIN_TO_FREDERICK_II</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>prophecy, eschatology, global networks, and the crusades...Toledan prophecy failed to materialize, Christian interpreters were faced wi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/366218470_PROPHECY_ESCHATOLOGY_GLOBAL_NETWORKS_AND_THE_CRUSADES_FROM_HATTIN_TO_FREDERICK_II" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366218470_PROPHECY_ESCHATOLOGY_GLOBAL_NETWORKS_AND_THE_CRUSADES_FROM_HATTIN_TO_FREDERICK_II</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prophecy, eschatology, global networks, and the crusades...Toledan prophecy failed to materialize, Christian interpreters were faced wi...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vice.com  
-   Link: <a href="https://www.vice.com/en/article/the-truth-about-whether-weve-actually-discovered-alien-life-according-to-astrobiologists/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-truth-about-whether-weve-actually-discovered-alien-life-according-to-astrobiologists/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For K2-18b, only 6.6% of astrobiologists agreed that extraterrestrial life...Read more...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-truth-about-whether-weve-actually-discovered-alien-life-according-to-astrobiologists/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-truth-about-whether-weve-actually-discovered-alien-life-according-to-astrobiologists/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For K2-18b, only 6.6% of astrobiologists agreed that extraterrestrial life...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>

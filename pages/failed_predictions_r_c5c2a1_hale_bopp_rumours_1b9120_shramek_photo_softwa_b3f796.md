@@ -280,28 +280,28 @@ image: /assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shram
 
 ## Introduction
 
-Chuck Shramek’s Hale–Bopp photograph mattered because it turned a routine astronomical identification problem into the seed of a UFO prediction. On 14 November 1996, Shramek imaged Comet Hale–Bopp and noticed a nearby point of light that looked odd in his CCD photograph. His sky-atlas software did not show the object, so he reported a “Saturn-like object” near the comet on Art Bell’s *Coast to Coast AM*. Astronomers soon identified it as the ordinary background star SAO 141894, not a companion craft. The crucial error was not that software “proved” the object was unknown, but that its display settings could hide or misclassify catalogue entries. That gap gave the image a false mystery and helped UFO circles treat a background star as evidence of an approaching spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2MIRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
+Chuck Shramek’s Hale–Bopp photograph mattered because it turned a routine astronomical identification problem into the seed of a UFO prediction. On 14 November 1996, Shramek imaged Comet Hale–Bopp and noticed a nearby point of light that looked odd in his CCD photograph. His sky-atlas software did not show the object, so he reported a “Saturn-like object” near the comet on Art Bell’s *Coast to Coast AM*. Astronomers soon identified it as the ordinary background star SAO 141894, not a companion craft. The crucial error was not that software “proved” the object was unknown, but that its display settings could hide or misclassify catalogue entries. That gap gave the image a false mystery and helped UFO circles treat a background star as evidence of an approaching spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2MIRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shramek_photo_softwa_b3f796-Illustration-1-dark.svg" | relative_url }}" alt="Shramek Photo illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shramek_photo_softwa_b3f796-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shramek_photo_softwa_b3f796-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Shramek Photographed
 
-Shramek’s image was a CCD photograph of Hale–Bopp taken while the comet was still approaching its bright 1997 apparition. The contentious feature was a light near the comet, later nicknamed the “Saturn-like object” because diffraction spikes and image artefacts made it look more structured than a normal point of light. Olivier Hainaut’s Hale–Bopp companion page compared Shramek’s image with the Digital Sky Survey and identified the supposed anomaly as SAO 141894, also catalogued as PPM 180171 and GSC 5086 361. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
+Shramek’s image was a CCD photograph of Hale–Bopp taken while the comet was still approaching its bright 1997 apparition. The contentious feature was a light near the comet, later nicknamed the “Saturn-like object” because diffraction spikes and image artefacts made it look more structured than a normal point of light. Olivier Hainaut’s Hale–Bopp companion page compared Shramek’s image with the Digital Sky Survey and identified the supposed anomaly as SAO 141894, also catalogued as PPM 180171 and GSC 5086 361.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
 
-That identification matters because the object was not moving with Hale–Bopp. It was a background star that happened to lie near the comet’s apparent path from Earth. Hainaut also noted that the close approach between the comet and this star had been predictable from ordinary star-position data, rather than being a surprise detection of a new body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
+That identification matters because the object was not moving with Hale–Bopp. It was a background star that happened to lie near the comet’s apparent path from Earth. Hainaut also noted that the close approach between the comet and this star had been predictable from ordinary star-position data, rather than being a surprise detection of a new body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
 
-The star’s appearance in the photograph added to the confusion. Hainaut explained that SAO 141894 is a cool M-type star, which emits strongly in red and infrared light. A CCD camera can be more sensitive to that light than older photographic survey plates, so the star could look brighter in Shramek’s image than it did in the Palomar comparison image. This helped make an ordinary star look more impressive than expected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
+The star’s appearance in the photograph added to the confusion. Hainaut explained that SAO 141894 is a cool M-type star, which emits strongly in red and infrared light. A CCD camera can be more sensitive to that light than older photographic survey plates, so the star could look brighter in Shramek’s image than it did in the Palomar comparison image. This helped make an ordinary star look more impressive than expected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kPDzK_z9m78" title="Comet Hale-Bopp - Deep Sky Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kPDzK_z9m78" target="_blank" rel="noopener noreferrer">Comet Hale-Bopp - Deep Sky Videos</a></p><p class="youtube-embed-meta">Channel: DeepSkyVideos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kPDzK_z9m78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kPDzK_z9m78">Open on YouTube</a></p></div></div></div>
 
 ## Why the Software Missed It
 
-The key software problem was a display or configuration issue, not the absence of the star from astronomical data. A review of MegaStar, the sky-atlas program associated with the episode, explained that the star was not missing from the underlying catalogue. The likely issue was that the software had been configured so that objects of SAO 141894’s catalogue type were not displayed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mira.org/newsletr/nlfall97/megastar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mira.org">[MIRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mira.org</span><span class="citation-popover-title">Mega Star Review</span><span class="citation-popover-snippet">MegaStar Review - MIRA Quarterly Newsletter - Summer 97...</span></span></span>
+The key software problem was a display or configuration issue, not the absence of the star from astronomical data. A review of MegaStar, the sky-atlas program associated with the episode, explained that the star was not missing from the underlying catalogue. The likely issue was that the software had been configured so that objects of SAO 141894’s catalogue type were not displayed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mira.org/newsletr/nlfall97/megastar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mira.org">[MIRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mira.org</span><span class="citation-popover-title">Mega Star Review</span><span class="citation-popover-snippet">MegaStar Review - MIRA Quarterly Newsletter - Summer 97...</span></span></span>
 
-The technical wrinkle was the Hubble Guide Star Catalog’s classification. MegaStar could use catalogue data in which SAO 141894 was labelled as a “nonstar” for guide-star purposes. That did not mean it was not physically a star; it meant the catalogue regarded it as unsuitable for Hubble’s precise pointing needs. MegaStar allowed users to show, specially mark, or hide such entries. If those entries were turned off, the CCD image would show a real star while the software chart appeared blank at the same position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mira.org/newsletr/nlfall97/megastar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mira.org">[MIRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mira.org</span><span class="citation-popover-title">Mega Star Review</span><span class="citation-popover-snippet">MegaStar Review - MIRA Quarterly Newsletter - Summer 97...</span></span></span>
+The technical wrinkle was the Hubble Guide Star Catalog’s classification. MegaStar could use catalogue data in which SAO 141894 was labelled as a “nonstar” for guide-star purposes. That did not mean it was not physically a star; it meant the catalogue regarded it as unsuitable for Hubble’s precise pointing needs. MegaStar allowed users to show, specially mark, or hide such entries. If those entries were turned off, the CCD image would show a real star while the software chart appeared blank at the same position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mira.org/newsletr/nlfall97/megastar.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mira.org">[MIRA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mira.org</span><span class="citation-popover-title">Mega Star Review</span><span class="citation-popover-snippet">MegaStar Review - MIRA Quarterly Newsletter - Summer 97...</span></span></span>
 
-This is the central lesson of the Shramek case: a planetarium program is not an oracle. It is a tool built from catalogues, filters, magnitude limits and user choices. A mismatch between an image and a software chart can mean “check the settings”, not “new object discovered”. In this case, other observers using catalogue comparisons and sky-survey images could identify the light as SAO 141894. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
+This is the central lesson of the Shramek case: a planetarium program is not an oracle. It is a tool built from catalogues, filters, magnitude limits and user choices. A mismatch between an image and a software chart can mean “check the settings”, not “new object discovered”. In this case, other observers using catalogue comparisons and sky-survey images could identify the light as SAO 141894.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C9I2INT3wSs" title="Optical Astronomy by Perry Vlahos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C9I2INT3wSs" target="_blank" rel="noopener noreferrer">Optical Astronomy by Perry Vlahos</a></p><p class="youtube-embed-meta">Channel: vermontcreekbed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C9I2INT3wSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C9I2INT3wSs">Open on YouTube</a></p></div></div></div>
@@ -312,7 +312,7 @@ This is the central lesson of the Shramek case: a planetarium program is not an 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shramek_photo_softwa_b3f796-Illustration-2-dark.svg" | relative_url }}" alt="Shramek Photo illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shramek_photo_softwa_b3f796-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hale_bopp_rumours_1b9120_shramek_photo_softwa_b3f796-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Image Changed Meaning in UFO Circles
 
-Once the image moved from an amateur observing problem into talk radio and early internet discussion, its meaning changed. On *Coast to Coast AM*, Shramek’s “Saturn-like object” became a dramatic anomaly attached to one of the decade’s most visible comets. TIME reported that the programme reached a very large late-night audience and that Shramek’s call was followed by stronger claims from Courtney Brown, who framed the object as a spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">tollbit.time.com...</span></span></span>
+Once the image moved from an amateur observing problem into talk radio and early internet discussion, its meaning changed. On *Coast to Coast AM*, Shramek’s “Saturn-like object” became a dramatic anomaly attached to one of the decade’s most visible comets. TIME reported that the programme reached a very large late-night audience and that Shramek’s call was followed by stronger claims from Courtney Brown, who framed the object as a spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">tollbit.time.com...</span></span></span>
 
 The image worked especially well as UFO evidence because it seemed to offer three things at once: a photograph, a named astronomical event, and a software failure. For believers, the missing software entry could be read as confirmation that the object was outside ordinary knowledge. For astronomers, it was a warning sign that the claim had not yet passed basic catalogue checking.
 
@@ -323,194 +323,194 @@ The failed prediction followed from that shift in interpretation. A light near H
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Photo That Started the Rumour. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Photo That Started the Rumour. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304459-M.jpg" alt="Cover for Bad astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad astronomy">Bad astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304459-M.jpg" alt="Cover for Bad astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad astronomy">Bad astronomy</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains common errors in interpreting astronomical observations, images, and supposed anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains common errors in interpreting astronomical observations, images, and supposed anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how misinterpretation, flawed reasoning, and extraordinary claims can spread from ordinary observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how misinterpretation, flawed reasoning, and extraordinary claims can spread from ordinary observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how photographic evidence and unidentified objects are debated in UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how photographic evidence and unidentified objects are debated in UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+people+believe+weird+things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why people believe weird things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580952-M.jpg" alt="Cover for Why people believe weird things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+people+believe+weird+things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why people believe weird things">Why people believe weird things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+people+believe+weird+things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why people believe weird things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580952-M.jpg" alt="Cover for Why people believe weird things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+people+believe+weird+things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why people believe weird things">Why people believe weird things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Pseudowissenschaft, Surnaturel, Pseudowetenschap, Parapsychologie, Gewissheit.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+people+believe+weird+things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Pseudowissenschaft, Surnaturel, Pseudowetenschap, Parapsychologie, Gewissheit.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+people+believe+weird+things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/e856ffede5fe0a823e97.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/e856ffede5fe0a823e97.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Framed Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7203347639f8e84b10b6.jpg' | relative_url }}" alt="Listing image for Comet Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7203347639f8e84b10b6.jpg' | relative_url }}" alt="Listing image for Comet Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Greeting Cards - 4 Artwork Choices"><img src="{{ '/assets/images/marketplace-covers/dcf281792b6c68f8ce08.jpg' | relative_url }}" alt="Listing image for Comet Art Print Greeting Cards - 4 Artwork Choices" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Greeting Cards - 4 Artwork Choices</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Art Print Greeting Cards - 4 Artwork Choices"><img src="{{ '/assets/images/marketplace-covers/dcf281792b6c68f8ce08.jpg' | relative_url }}" alt="Listing image for Comet Art Print Greeting Cards - 4 Artwork Choices" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Art Print Greeting Cards - 4 Artwork Choices</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/b571a83e53d8fb058c9c.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/b571a83e53d8fb058c9c.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet art print" data-ebay-reference="shramek-photo-the-photo-that-started-the-rumour-failed-predictions-comet-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ The failed prediction followed from that shift in interpretation. A light near H
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ The failed prediction followed from that shift in interpretation. A light near H
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ The failed prediction followed from that shift in interpretation. A light near H
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ The failed prediction followed from that shift in interpretation. A light near H
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ The failed prediction followed from that shift in interpretation. A light near H
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,99 +716,99 @@ The failed prediction followed from that shift in interpretation. A light near H
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eso.org  
    Title: Hale-Bopp companions?!?  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_shramek.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mira.org  
    Title: Mega Star Review  
-   Link: <a href="https://www.mira.org/newsletr/nlfall97/megastar.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mira.org/newsletr/nlfall97/megastar.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MegaStar Review - MIRA Quarterly Newsletter - Summer 97...</p></details>
+   Link:<a href="https://www.mira.org/newsletr/nlfall97/megastar.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mira.org/newsletr/nlfall97/megastar.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MegaStar Review - MIRA Quarterly Newsletter - Summer 97...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tollbit.time.com...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tollbit.time.com...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eso.org  
    Title: hb ufo  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?The original image is compared to the Palomar Sky Survey, and the SLO is identified as star SAO 141894.... Januar...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?The original image is compared to the Palomar Sky Survey, and the SLO is identified as star SAO 141894.... Januar...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html</a>  
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eso.org  
    Title: hb ufo tholen  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mira.org  
-   Link: <a href="https://www.mira.org/newsletr/web/NL_1997_3_Fal_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mira.org/newsletr/web/NL_1997_3_Fal_Web.pdf</a>  
+   Link:<a href="https://www.mira.org/newsletr/web/NL_1997_3_Fal_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mira.org/newsletr/web/NL_1997_3_Fal_Web.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/2/</a>  
+   Link:<a href="https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/2/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/3/</a>  
+   Link:<a href="https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/3/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Comet Hale–Bopp  
-   Link: <a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pages.jh.edu  
-   Link: <a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
+   Link:<a href="https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.jh.edu/gazette/aprjun97/apr0797/comet.html</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Optical Astronomy by Perry Vlahos  
-   Link: <a href="https://www.youtube.com/watch?v=C9I2INT3wSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9I2INT3wSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This analysis of the Hale-Bopp anomaly details how Chuck Shramek&#x27;s photo misidentification fueled widespread UFO companion theories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C9I2INT3wSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9I2INT3wSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This analysis of the Hale-Bopp anomaly details how Chuck Shramek&#x27;s photo misidentification fueled widespread UFO companion theories...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: astropix.com  
-   Link: <a href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/html/comet_images/comet_hale-bopp.html</a>  
+   Link:<a href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/html/comet_images/comet_hale-bopp.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/halbopp2.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/halbopp2.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/halbopp2.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/halbopp2.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/halbopp3.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/halbopp3.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/halbopp3.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/halbopp3.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/106tp8g/hale_bopp_saga_super_cut/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/106tp8g/hale_bopp_saga_super_cut/</a>  
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/106tp8g/hale_bopp_saga_super_cut/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/106tp8g/hale_bopp_saga_super_cut/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ASIAIR/posts/3538942962935568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ASIAIR/posts/3538942962935568/</a>  
+   Link:<a href="https://www.facebook.com/groups/ASIAIR/posts/3538942962935568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ASIAIR/posts/3538942962935568/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: castfvg.it  
-   Link: <a href="https://www.castfvg.it/zzzz/software/skymap8.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.castfvg.it/zzzz/software/skymap8.htm</a>  
+   Link:<a href="https://www.castfvg.it/zzzz/software/skymap8.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.castfvg.it/zzzz/software/skymap8.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1ogwe8a/the_3iatlas_may_be_our_generations_halebopp_event/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ogwe8a/the_3iatlas_may_be_our_generations_halebopp_event/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1ogwe8a/the_3iatlas_may_be_our_generations_halebopp_event/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ogwe8a/the_3iatlas_may_be_our_generations_halebopp_event/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bibliotecapleyades.net  
-   Link: <a href="https://www.bibliotecapleyades.net/valdamar_valerian/esp_valdamar_valerian_9c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/valdamar_valerian/esp_valdamar_valerian_9c.htm</a>  
+   Link:<a href="https://www.bibliotecapleyades.net/valdamar_valerian/esp_valdamar_valerian_9c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/valdamar_valerian/esp_valdamar_valerian_9c.htm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: issp.ac.ru  
-   Link: <a href="https://www.issp.ac.ru/univer/astro/comets/hbguide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.issp.ac.ru/univer/astro/comets/hbguide.html</a>  
+   Link:<a href="https://www.issp.ac.ru/univer/astro/comets/hbguide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.issp.ac.ru/univer/astro/comets/hbguide.html</a>  

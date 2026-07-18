@@ -274,21 +274,21 @@ image: /assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_co
 
 ## Introduction
 
-The alleged “companion object” behind Comet Hale–Bopp became one of the most famous UFO claims of the 1990s, largely because it was later linked to the Heaven’s Gate tragedy. Yet the claim collapsed when astronomers examined the evidence. The supposed spacecraft was never confirmed by independent observations, the most widely circulated image was shown to be a manipulated version of an existing astronomical photograph, and the original observation that sparked the rumour was explained as a background star misidentified by an observer and his software. By the standards normally used in astronomy—repeatable observations, independent confirmation and consistency with known celestial mechanics—the companion-object hypothesis failed every major test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
+The alleged “companion object” behind Comet Hale–Bopp became one of the most famous UFO claims of the 1990s, largely because it was later linked to the Heaven’s Gate tragedy. Yet the claim collapsed when astronomers examined the evidence. The supposed spacecraft was never confirmed by independent observations, the most widely circulated image was shown to be a manipulated version of an existing astronomical photograph, and the original observation that sparked the rumour was explained as a background star misidentified by an observer and his software. By the standards normally used in astronomy—repeatable observations, independent confirmation and consistency with known celestial mechanics—the companion-object hypothesis failed every major test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-1-dark.svg" | relative_url }}" alt="Failed Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Manipulated University of Hawaii Image Dispute
 
-The strongest visual “evidence” for a spacecraft emerged after images circulated on UFO-oriented websites and radio programmes claiming to show a large object accompanying Hale–Bopp. The image was presented as if it came from a professional astronomer who had discovered something extraordinary but was being prevented from revealing it publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
+The strongest visual “evidence” for a spacecraft emerged after images circulated on UFO-oriented websites and radio programmes claiming to show a large object accompanying Hale–Bopp. The image was presented as if it came from a professional astronomer who had discovered something extraordinary but was being prevented from revealing it publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
 
-Astronomers Olivier Hainaut and David Tholen investigated the photograph and traced it back to a genuine image taken by Tholen at the University of Hawaii's Institute for Astronomy. Their analysis concluded that the widely circulated UFO version was not an original astronomical observation at all. Instead, it was a modified copy of Tholen’s image in which an additional object had been inserted through digital manipulation. Tholen publicly stated that the alleged companion “was not real” and had most likely been added using image-processing techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
+Astronomers Olivier Hainaut and David Tholen investigated the photograph and traced it back to a genuine image taken by Tholen at the University of Hawaii's Institute for Astronomy. Their analysis concluded that the widely circulated UFO version was not an original astronomical observation at all. Instead, it was a modified copy of Tholen’s image in which an additional object had been inserted through digital manipulation. Tholen publicly stated that the alleged companion “was not real” and had most likely been added using image-processing techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
 
 Several details weakened the UFO interpretation:
 
 * The original image had been publicly available long before the controversy, making it possible to compare the authentic and altered versions directly.
 * The inserted object did not appear in the archived original data.
-* Claims that the image had been suppressed by astronomers were contradicted by the fact that the original photograph had already been openly published. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
+* Claims that the image had been suppressed by astronomers were contradicted by the fact that the original photograph had already been openly published.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
 
 This mattered because the companion-object story depended heavily on the credibility of that image. Once the photograph was shown to be altered, one of the central pieces of visual evidence disappeared.
 
@@ -297,9 +297,9 @@ This mattered because the companion-object story depended heavily on the credibi
 
 ## Why the “Companion” Was Identified as a Background Star
 
-The rumour did not begin with the altered University of Hawaii image. It originated months earlier when amateur astronomer Chuck Shramek photographed Hale–Bopp and reported seeing a nearby object that looked unusual enough for him to describe it as “Saturn-like”. The claim spread rapidly through paranormal [media]({{ 'media/' | relative_url }}) and UFO communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+The rumour did not begin with the altered University of Hawaii image. It originated months earlier when amateur astronomer Chuck Shramek photographed Hale–Bopp and reported seeing a nearby object that looked unusual enough for him to describe it as “Saturn-like”. The claim spread rapidly through paranormal [media]({{ 'media/' | relative_url }}) and UFO communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
-Professional astronomers examined the observation and reached a much more mundane conclusion. The object was identified as the star SAO 141894, a background star located in the same region of sky as the comet. According to astronomers who reviewed the case, the star failed to appear in Shramek’s computer-generated sky display because of software settings rather than because it was an unknown celestial body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+Professional astronomers examined the observation and reached a much more mundane conclusion. The object was identified as the star SAO 141894, a background star located in the same region of sky as the comet. According to astronomers who reviewed the case, the star failed to appear in Shramek’s computer-generated sky display because of software settings rather than because it was an unknown celestial body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
 This explanation fit the available evidence far better than the spacecraft hypothesis:
 
@@ -309,11 +309,11 @@ This explanation fit the available evidence far better than the spacecraft hypot
 * The object's position matched that of a known catalogue star.
 * Other observers could locate the star independently.
 * The object did not move with the comet in the way a genuine companion would be expected to.
-* No observational programme at any major observatory reported an unknown body accompanying Hale–Bopp. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+* No observational programme at any major observatory reported an unknown body accompanying Hale–Bopp.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
 </div>
 
-Astronomy routinely encounters situations where stars appear projected against comet tails or comae. Because observers see a three-dimensional universe compressed into a two-dimensional image, background stars can easily appear to be physically associated with a foreground object when they are actually unrelated. Hale–Bopp was especially vulnerable to such confusion because it was bright, highly photographed and visible against changing star fields for an unusually long period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[AstroPix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-snippet">Comet Hale-BoppYou can see a couple of background stars shining through the coma and the forming dust tail. This is not unlike an...</span></span></span>
+Astronomy routinely encounters situations where stars appear projected against comet tails or comae. Because observers see a three-dimensional universe compressed into a two-dimensional image, background stars can easily appear to be physically associated with a foreground object when they are actually unrelated. Hale–Bopp was especially vulnerable to such confusion because it was bright, highly photographed and visible against changing star fields for an unusually long period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astropix.com">[AstroPix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astropix.com</span><span class="citation-popover-snippet">Comet Hale-BoppYou can see a couple of background stars shining through the coma and the forming dust tail. This is not unlike an...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-2-dark.svg" | relative_url }}" alt="Failed Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,7 +321,7 @@ Astronomy routinely encounters situations where stars appear projected against c
 
 Even if the image controversy and star identification had never occurred, the spacecraft hypothesis still faced a deeper problem: Hale–Bopp behaved exactly like a comet.
 
-During its approach to the Sun, astronomers around the world monitored its orbit, brightness, gas production, dust emissions and tail structure. The comet's behaviour was extensively documented and matched expectations for a large, active long-period comet. Researchers measured enormous quantities of dust and gas being released from the nucleus and tracked physical processes that are well understood within comet science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999August 15, 2020...</span><span class="citation-popover-meta">Published: August 15, 2020</span></span></span>
+During its approach to the Sun, astronomers around the world monitored its orbit, brightness, gas production, dust emissions and tail structure. The comet's behaviour was extensively documented and matched expectations for a large, active long-period comet. Researchers measured enormous quantities of dust and gas being released from the nucleus and tracked physical processes that are well understood within comet science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999August 15, 2020...</span><span class="citation-popover-meta">Published: August 15, 2020</span></span></span>
 
 A spacecraft large enough to accompany the comet would have been expected to leave detectable signatures:
 
@@ -329,15 +329,15 @@ A spacecraft large enough to accompany the comet would have been expected to lea
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Independent telescopic detections from multiple observatories.
-* Motion distinct from background stars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[eso.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-snippet">Hale-Bopp companions?!?However, the background stars do not seem match with that date.... This image is a hoax: it is an image from Maun...</span></span></span>
+* Motion distinct from background stars.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[eso.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-snippet">Hale-Bopp companions?!?However, the background stars do not seem match with that date.... This image is a hoax: it is an image from Maun...</span></span></span>
 * Observable changes in relative position over time.
-* Physical characteristics inconsistent with ordinary cometary activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+* Physical characteristics inconsistent with ordinary cometary activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
 
 </div>
 
-None of these appeared. Instead, astronomers repeatedly observed phenomena entirely consistent with a natural comet. Hale–Bopp became famous because it was unusually large and bright, not because it exhibited unexplained behaviour. Modern studies of the comet continue to analyse its nucleus, dust production and long-term evolution without requiring any artificial companion to explain the observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999August 15, 2020...</span><span class="citation-popover-meta">Published: August 15, 2020</span></span></span>
+None of these appeared. Instead, astronomers repeatedly observed phenomena entirely consistent with a natural comet. Hale–Bopp became famous because it was unusually large and bright, not because it exhibited unexplained behaviour. Modern studies of the comet continue to analyse its nucleus, dust production and long-term evolution without requiring any artificial companion to explain the observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999August 15, 2020...</span><span class="citation-popover-meta">Published: August 15, 2020</span></span></span>
 
-It is worth noting that later scientific discussions of Hale–Bopp sometimes use the word “companions” in a completely different sense: possible small natural fragments associated with the cometary nucleus. These are not spacecraft and have no connection to the 1997 UFO claim. They refer to ordinary cometary fragmentation processes studied within planetary science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1708.08478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Orbital Evolution, Activity, and Mass Loss of Comet C/1995 O1 (Hale-Bopp): II. Nucleus and Companions as Compact Clusters of Massive...</span></span></span>
+It is worth noting that later scientific discussions of Hale–Bopp sometimes use the word “companions” in a completely different sense: possible small natural fragments associated with the cometary nucleus. These are not spacecraft and have no connection to the 1997 UFO claim. They refer to ordinary cometary fragmentation processes studied within planetary science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1708.08478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Orbital Evolution, Activity, and Mass Loss of Comet C/1995 O1 (Hale-Bopp): II. Nucleus and Companions as Compact Clusters of Massive...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1aYCaio6ffs" title="What Is The Reason For Gravity??" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1aYCaio6ffs" target="_blank" rel="noopener noreferrer">What Is The Reason For Gravity??</a></p><p class="youtube-embed-meta">Channel: Astriom</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1aYCaio6ffs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1aYCaio6ffs">Open on YouTube</a></p></div></div></div>
@@ -354,207 +354,207 @@ The case against the claim accumulated from several independent directions:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The most influential photograph was shown to be digitally altered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
-* The original reported object matched a known background star. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
-* Independent observers failed to detect a spacecraft-sized companion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://groups.google.com/g/sci.astro.amateur/c/hkTTRdiJwgk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Go to hale-bopp.com and see for yourself.Read more...</span></span></span>
-* Hale–Bopp itself displayed ordinary, extensively studied cometary behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999August 15, 2020...</span><span class="citation-popover-meta">Published: August 15, 2020</span></span></span>
+* The most influential photograph was shown to be digitally altered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
+* The original reported object matched a known background star.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comet Hale–Bopp</span><span class="citation-popover-snippet">Comet Hale–Bopp</span></span></span>
+* Independent observers failed to detect a spacecraft-sized companion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://groups.google.com/g/sci.astro.amateur/c/hkTTRdiJwgk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Go to hale-bopp.com and see for yourself.Read more...</span></span></span>
+* Hale–Bopp itself displayed ordinary, extensively studied cometary behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999August 15, 2020...</span><span class="citation-popover-meta">Published: August 15, 2020</span></span></span>
 
 </div>
 
-As a result, the companion-object story became an example of how image manipulation, observational error and media amplification can combine to create a UFO narrative that collapses once the underlying evidence is examined. Within the broader history of failed UFO predictions, the [Hale–Bopp spacecraft]({{ 'hale-bopp-9e98fa/' | relative_url }}) claim stands out because the central evidence was not merely unconfirmed—it was directly contradicted by astronomical analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
+As a result, the companion-object story became an example of how image manipulation, observational error and media amplification can combine to create a UFO narrative that collapses once the underlying evidence is examined. Within the broader history of failed UFO predictions, the [Hale–Bopp spacecraft]({{ 'hale-bopp-9e98fa/' | relative_url }}) claim stands out because the central evidence was not merely unconfirmed—it was directly contradicted by astronomical analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO+2ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">hb ufo tholen</span><span class="citation-popover-snippet">Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-3-dark.svg" | relative_url }}" alt="Failed Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_heavens_gate_hale_bo_35e49e_companion_object_evi_56782b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Astronomers Rejected the Companion Object. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Astronomers Rejected the Companion Object. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304459-M.jpg" alt="Cover for Bad astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad astronomy">Bad astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/304459-M.jpg" alt="Cover for Bad astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad astronomy">Bad astronomy</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how astronomical misunderstandings and false claims spread and how astronomers evaluate evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how astronomical misunderstandings and false claims spread and how astronomers evaluate evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how evidence, observation, and critical thinking are used to assess claims like the Hale–Bopp companion-object story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how evidence, observation, and critical thinking are used to assess claims like the Hale–Bopp companion-object story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps explain why unsupported claims such as hidden spacecraft theories can gain traction despite weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why unsupported claims such as hidden spacecraft theories can gain traction despite weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for UFO claims and the distinction between anecdote, observation, and scientific investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for UFO claims and the distinction between anecdote, observation, and scientific investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97"><img src="{{ '/assets/images/marketplace-covers/c1fff52cf88ccad024e2.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97"><img src="{{ '/assets/images/marketplace-covers/c1fff52cf88ccad024e2.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 NOS ‘97</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047"><img src="{{ '/assets/images/marketplace-covers/677660f3a16a491b2990.jpg' | relative_url }}" alt="Listing image for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047"><img src="{{ '/assets/images/marketplace-covers/677660f3a16a491b2990.jpg' | relative_url }}" alt="Listing image for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”"><img src="{{ '/assets/images/marketplace-covers/88093169552128d6a9e5.jpg' | relative_url }}" alt="Listing image for Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”"><img src="{{ '/assets/images/marketplace-covers/88093169552128d6a9e5.jpg' | relative_url }}" alt="Listing image for Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus"><img src="{{ '/assets/images/marketplace-covers/169c37771b64fdcdb6b1.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus"><img src="{{ '/assets/images/marketplace-covers/169c37771b64fdcdb6b1.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="failed-evidence-why-astronomers-rejected-the-companion-object-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ As a result, the companion-object story became an example of how image manipulat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ As a result, the companion-object story became an example of how image manipulat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ As a result, the companion-object story became an example of how image manipulat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ As a result, the companion-object story became an example of how image manipulat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ As a result, the companion-object story became an example of how image manipulat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,123 +760,123 @@ As a result, the companion-object story became an example of how image manipulat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eso.org  
    Title: hb ufo tholen  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraudulent use of a IfA/UH picture15 Jan 1997 — Below is a statement by Dave Tholen, explaining the why there is absolutely no doubt t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?We have identified that image as being a fake based on an image obtained by an astronomer at the University of...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?We have identified that image as being a fake based on an image obtained by an astronomer at the University of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Comet Hale–Bopp  
-   Link: <a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 1997 — Chuck Shramek called in to report he had spotted and photographed “a Saturn-like object” trailing the approaching Hale-Bopp...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 1997 — Chuck Shramek called in to report he had spotted and photographed “a Saturn-like object” trailing the approaching Hale-Bopp...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: David J. Tholen  
-   Link: <a href="https://en.wikipedia.org/wiki/David_J._Tholen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_J._Tholen</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_J._Tholen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_J._Tholen</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?However, the background stars do not seem match with that date.... This image is a hoax: it is an image from Maun...</p></details>
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_list.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp companions?!?However, the background stars do not seem match with that date.... This image is a hoax: it is an image from Maun...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: groups.google.com  
-   Link: <a href="https://groups.google.com/g/sci.astro.amateur/c/hkTTRdiJwgk" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/sci.astro.amateur/c/hkTTRdiJwgk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Go to hale-bopp.com and see for yourself.Read more...</p></details>
+   Link:<a href="https://groups.google.com/g/sci.astro.amateur/c/hkTTRdiJwgk" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/sci.astro.amateur/c/hkTTRdiJwgk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Go to hale-bopp.com and see for yourself.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: astropix.com  
-   Link: <a href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/html/comet_images/comet_hale-bopp.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comet Hale-BoppYou can see a couple of background stars shining through the coma and the forming dust tail. This is not unlike an...</p></details>
+   Link:<a href="https://www.astropix.com/html/comet_images/comet_hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astropix.com/html/comet_images/comet_hale-bopp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comet Hale-BoppYou can see a couple of background stars shining through the coma and the forming dust tail. This is not unlike an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06761</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999August 15, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2008.06761" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2008.06761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The visual lightcurve of comet C/1995 O1 (Hale-Bopp) from 1995-1999August 15, 2020...</p></details>
    Published: August 15, 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2103.16875" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.16875</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modification of icy planetesimals by early thermal evolution and collisions: Constraints for formation time and initial size of come...</p></details>
+   Link:<a href="https://arxiv.org/abs/2103.16875" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.16875</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modification of icy planetesimals by early thermal evolution and collisions: Constraints for formation time and initial size of come...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1708.08478" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.08478</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Evolution, Activity, and Mass Loss of Comet C/1995 O1 (Hale-Bopp): II. Nucleus and Companions as Compact Clusters of Massive...</p></details>
+   Link:<a href="https://arxiv.org/abs/1708.08478" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.08478</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Evolution, Activity, and Mass Loss of Comet C/1995 O1 (Hale-Bopp): II. Nucleus and Companions as Compact Clusters of Massive...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/halbopp3.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/halbopp3.htm</a>  
+   Link:<a href="https://sacred-texts.com/ufo/halbopp3.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/halbopp3.htm</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/32112/1/John%20Davies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/32112/1/John%20Davies.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comet Hale–Bopp... later when David Tholen of the University of Hawaii, amongst others, showed...Read more...</p></details>
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/32112/1/John%20Davies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/32112/1/John%20Davies.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comet Hale–Bopp... later when David Tholen of the University of Hawaii, amongst others, showed...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sfgate.com  
    Title: Belief in Hale Bopp companion may have been 3128469  
-   Link: <a href="https://www.sfgate.com/news/article/Belief-in-Hale-Bopp-companion-may-have-been-3128469.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Belief-in-Hale-Bopp-companion-may-have-been-3128469.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in Hale-Bopp &quot;companion&#x27; may have been influence...27 Mar 1997 — A report that an unknown object or &quot;companion&quot; - possibly a spac...</p></details>
+   Link:<a href="https://www.sfgate.com/news/article/Belief-in-Hale-Bopp-companion-may-have-been-3128469.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Belief-in-Hale-Bopp-companion-may-have-been-3128469.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in Hale-Bopp &quot;companion&#x27; may have been influence...27 Mar 1997 — A report that an unknown object or &quot;companion&quot; - possibly a spac...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lasvegassun.com  
    Title: cult ufo belief may stem from nevada radio show  
-   Link: <a href="https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/" target="_blank" rel="noopener noreferrer nofollow">https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Mar 1997 —... Nov. 14 showed a mysterious &quot;Saturn-like object&quot; behind Hale-Bopp. He speculated that it was up to four times the size...</p></details>
+   Link:<a href="https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/" target="_blank" rel="noopener noreferrer nofollow">https://lasvegassun.com/news/1997/mar/28/cult-ufo-belief-may-stem-from-nevada-radio-show/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Mar 1997 —... Nov. 14 showed a mysterious &quot;Saturn-like object&quot; behind Hale-Bopp. He speculated that it was up to four times the size...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/1b39vfd/hate_to_bring_up_hale_bopp_again_but_we_all_agree/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1b39vfd/hate_to_bring_up_hale_bopp_again_but_we_all_agree/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>brown refuses to say who sent him the hoax photos, are we basically...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/1b39vfd/hate_to_bring_up_hale_bopp_again_but_we_all_agree/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1b39vfd/hate_to_bring_up_hale_bopp_again_but_we_all_agree/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brown refuses to say who sent him the hoax photos, are we basically...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: ART BELL COURTNEY BROWN  
-   Link: <a href="https://www.youtube.com/watch?v=78ZwolCgX1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=78ZwolCgX1k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp anomaly Courtney Brown Art Bell Hale-Bopp Anomaly Saga 1996-1997: Art Bell Interviews Dr Courtney Brown, Farsight Institute Rob...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=78ZwolCgX1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=78ZwolCgX1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp anomaly Courtney Brown Art Bell Hale-Bopp Anomaly Saga 1996-1997: Art Bell Interviews Dr Courtney Brown, Farsight Institute Rob...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dlab.epfl.ch  
    Title: Comet Hale Bopp  
-   Link: <a href="https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm" target="_blank" rel="noopener noreferrer nofollow">https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-BoppIn November 1996, amateur astronomer Chuck Shramek of Houston, Texas took a CCD image of the comet, which showed a fuzzy, slight...</p></details>
+   Link:<a href="https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm" target="_blank" rel="noopener noreferrer nofollow">https://dlab.epfl.ch/wikispeedia/wpcd/wp/c/Comet_Hale-Bopp.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-BoppIn November 1996, amateur astronomer Chuck Shramek of Houston, Texas took a CCD image of the comet, which showed a fuzzy, slight...</p></details>
    Published: November 1996  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qnL2EvRqYzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qnL2EvRqYzk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BRUTALITY Of The Heaven&#x27;s Gate Cult...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qnL2EvRqYzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qnL2EvRqYzk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BRUTALITY Of The Heaven&#x27;s Gate Cult...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cloudynights.com  
-   Link: <a href="https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1996 Hale Bopp comet - Page 2 - Solar System Observing25 Sept 2021 — Yup, I remember the &quot;companion object&quot; fiasco for Comet Hale-Bopp, m...</p></details>
+   Link:<a href="https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/790865-1996-hale-bopp-comet/page/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1996 Hale Bopp comet - Page 2 - Solar System Observing25 Sept 2021 — Yup, I remember the &quot;companion object&quot; fiasco for Comet Hale-Bopp, m...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The BRUTALITY Of The Heaven's Gate Cult  
-   Link: <a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comets: Crash Course Astronomy #21...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comets: Crash Course Astronomy #21...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Comets: Crash Course Astronomy #21  
-   Link: <a href="https://www.youtube.com/watch?v=yB9HHyPpKds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yB9HHyPpKds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cult Next Door | Heaven&#x27;s Gate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yB9HHyPpKds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yB9HHyPpKds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cult Next Door | Heaven&#x27;s Gate...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_sp
 
 ## Introduction
 
-One of the most persistent patterns in failed UFO rescue prophecies is that the promised rescue does not disappear when the spacecraft fails to arrive. Instead, the meaning of rescue changes. A prophecy that originally involved boarding a visible craft, escaping a catastrophe, or being physically transported to safety is reinterpreted as an invisible process: a change in consciousness, a rise in spiritual vibration, an inner transformation, or a transfer of the soul rather than the body. Scholars of failed prophecy have long noted this process of “spiritualisation”, in which a failed physical prediction is reframed as a spiritual success. In UFO-centred movements, this mechanism allows believers to preserve the core promise of salvation even when the expected spacecraft never appears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
+One of the most persistent patterns in failed UFO rescue prophecies is that the promised rescue does not disappear when the spacecraft fails to arrive. Instead, the meaning of rescue changes. A prophecy that originally involved boarding a visible craft, escaping a catastrophe, or being physically transported to safety is reinterpreted as an invisible process: a change in consciousness, a rise in spiritual vibration, an inner transformation, or a transfer of the soul rather than the body. Scholars of failed prophecy have long noted this process of “spiritualisation”, in which a failed physical prediction is reframed as a spiritual success. In UFO-centred movements, this mechanism allows believers to preserve the core promise of salvation even when the expected spacecraft never appears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_spiritualised_ufo_re_fb6497-Illustration-1-dark.svg" | relative_url }}" alt="Spiritual Rescue illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_spiritualised_ufo_re_fb6497-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_spiritualised_ufo_re_fb6497-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,11 +284,11 @@ This shift is important because it reveals how rescue beliefs can survive direct
 
 Many UFO rescue prophecies begin with a concrete expectation. Believers expect a craft to arrive at a particular time, a catastrophe to occur, and a chosen group to be physically removed from danger. Such predictions are vulnerable because they can be plainly tested.
 
-When the anticipated rescue fails, believers face a dilemma. The prophecy appears false, yet abandoning it may require admitting that years of commitment, sacrifice, and social identity were misplaced. One common solution is to move the fulfilment from the physical world into the spiritual realm. The rescue occurred, but not in the way outsiders expected. The spacecraft may have arrived on a higher plane, the transfer may have been energetic rather than material, or the catastrophe may have been averted through spiritual intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource+2SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
+When the anticipated rescue fails, believers face a dilemma. The prophecy appears false, yet abandoning it may require admitting that years of commitment, sacrifice, and social identity were misplaced. One common solution is to move the fulfilment from the physical world into the spiritual realm. The rescue occurred, but not in the way outsiders expected. The spacecraft may have arrived on a higher plane, the transfer may have been energetic rather than material, or the catastrophe may have been averted through spiritual intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource+2SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
 
-The classic example is the 1954 Seekers group studied in *When Prophecy Fails*. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s followers expected rescue by flying saucer before a catastrophic flood. After neither the flood nor the rescue occurred, some remaining believers accepted a revised explanation that divine action had spared the world because of the group's faith and efforts. The physical prediction failed, but the underlying belief in a cosmic mission was preserved through reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The classic example is the 1954 Seekers group studied in *When Prophecy Fails*. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s followers expected rescue by flying saucer before a catastrophic flood. After neither the flood nor the rescue occurred, some remaining believers accepted a revised explanation that divine action had spared the world because of the group's faith and efforts. The physical prediction failed, but the underlying belief in a cosmic mission was preserved through reinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Although recent archival research has challenged some traditional accounts of how extensively the group maintained its beliefs, the broader pattern of spiritualisation after failed prophecy remains well documented across religious movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — The cult did not persist, proselytize, or reinterpret its failure as a spir...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
+Although recent archival research has challenged some traditional accounts of how extensively the group maintained its beliefs, the broader pattern of spiritualisation after failed prophecy remains well documented across religious movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — The cult did not persist, proselytize, or reinterpret its failure as a spir...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nH-pwULIGzs" title="Why Religions Survive When Prophecies Fail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nH-pwULIGzs" target="_blank" rel="noopener noreferrer">Why Religions Survive When Prophecies Fail</a></p><p class="youtube-embed-meta">Channel: ReligionForBreakfast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nH-pwULIGzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nH-pwULIGzs">Open on YouTube</a></p></div></div></div>
@@ -301,9 +301,9 @@ First, it protects the authority of the original revelation. If the message was 
 
 Second, it converts a falsifiable claim into a difficult-to-test one. A spaceship either arrives or it does not. A rise in consciousness, spiritual protection, or vibrational transformation is much harder to disprove.
 
-Third, it preserves personal meaning. Members who invested emotionally, socially, or financially in the prophecy do not have to conclude that everything was mistaken. Instead, they can view the apparent failure as evidence that the message was misunderstood at too literal a level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource+2SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
+Third, it preserves personal meaning. Members who invested emotionally, socially, or financially in the prophecy do not have to conclude that everything was mistaken. Instead, they can view the apparent failure as evidence that the message was misunderstood at too literal a level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource+2SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
 
-This process also fits comfortably with broader New Age and contactee traditions, where physical reality is often treated as secondary to higher dimensions, consciousness, energy, or spiritual evolution. Once those concepts are accepted, the transition from physical rescue to spiritual rescue becomes relatively easy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2010.14.2.34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Theosophical doctrines with belief in UFOs, extraterrestrials, and space aliens.”74 Extraterrestrial biblical hermeneutics...Read more...</span></span></span>
+This process also fits comfortably with broader New Age and contactee traditions, where physical reality is often treated as secondary to higher dimensions, consciousness, energy, or spiritual evolution. Once those concepts are accepted, the transition from physical rescue to spiritual rescue becomes relatively easy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2010.14.2.34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Theosophical doctrines with belief in UFOs, extraterrestrials, and space aliens.”74 Extraterrestrial biblical hermeneutics...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhblbZDXfZU" title="When “When Prophecy Fails” Fails (E350)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer">When “When Prophecy Fails” Fails (E350)</a></p><p class="youtube-embed-meta">Channel: QAA Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhblbZDXfZU">Open on YouTube</a></p></div></div></div>
@@ -321,7 +321,7 @@ In these reinterpretations, rescue no longer requires boarding a vehicle. Instea
 * The faithful will be protected through consciousness rather than geography.
 * Advanced extraterrestrials are assisting spiritual evolution rather than conducting physical evacuation.
 * The true rescue concerns the soul, not the body.
-* Catastrophic events are symbolic, psychological, or energetic rather than literal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2010.14.2.34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Theosophical doctrines with belief in UFOs, extraterrestrials, and space aliens.”74 Extraterrestrial biblical hermeneutics...Read more...</span></span></span>
+* Catastrophic events are symbolic, psychological, or energetic rather than literal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2010.14.2.34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Theosophical doctrines with belief in UFOs, extraterrestrials, and space aliens.”74 Extraterrestrial biblical hermeneutics...Read more...</span></span></span>
 
 </div>
 
@@ -337,9 +337,9 @@ The history of Heaven's Gate illustrates a particularly dramatic form of spiritu
 
 Early teachings expected a bodily transition to the “Next Level” associated with extraterrestrial beings and spacecraft. However, the death of co-founder Bonnie Nettles in 1985 created a theological crisis. If ascension required a living physical body, why had a leader died?
 
-The movement responded by redefining the body as a temporary “vehicle” or container for consciousness. Salvation became less dependent on physical transport and more focused on the transfer of identity and awareness into a higher form of existence. By the 1990s, the group taught that consciousness could move into “Next Level” bodies after death, a major departure from earlier expectations of bodily ascent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+The movement responded by redefining the body as a temporary “vehicle” or container for consciousness. Salvation became less dependent on physical transport and more focused on the transfer of identity and awareness into a higher form of existence. By the 1990s, the group taught that consciousness could move into “Next Level” bodies after death, a major departure from earlier expectations of bodily ascent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-The case is significant because it shows how a movement can adapt when literal expectations become impossible. The underlying promise of extraterrestrial salvation remained, but the mechanism shifted from physical transportation to spiritual transformation. Scholars have noted that followers increasingly treated earthly bodies as temporary vessels rather than the objects of rescue themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+The case is significant because it shows how a movement can adapt when literal expectations become impossible. The underlying promise of extraterrestrial salvation remained, but the mechanism shifted from physical transportation to spiritual transformation. Scholars have noted that followers increasingly treated earthly bodies as temporary vessels rather than the objects of rescue themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
 ## What Spiritualisation Solves
 
@@ -351,7 +351,7 @@ From the perspective of maintaining belief, spiritualisation offers several adva
 
 **It protects sacred authority.** Messages from extraterrestrials, ascended beings, or cosmic intelligences can be treated as fundamentally true even if human interpretations were mistaken.
 
-**It transforms defeat into validation.** A failed rescue can be reinterpreted as proof that believers were focusing on superficial details while missing a deeper lesson. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource+2SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
+**It transforms defeat into validation.** A failed rescue can be reinterpreted as proof that believers were focusing on superficial details while missing a deeper lesson.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource+2SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
 
 For these reasons, spiritualisation has appeared repeatedly not only in UFO-related groups but in studies of failed prophecy more generally.
 
@@ -362,206 +362,206 @@ For these reasons, spiritualisation has appeared repeatedly not only in UFO-rela
 
 The same mechanism that preserves belief also carries costs.
 
-Most importantly, it weakens the original claim. If a prophecy originally promised physical spacecraft, literal evacuation, or observable rescue, replacing those promises with invisible spiritual outcomes changes the meaning of the prediction. Critics argue that this allows almost any failed prophecy to be reinterpreted as successful after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://scispace.com/pdf/spiritualization-and-reaffirmation-what-really-happens-when-3jq2kwo9ff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Spiritualization and reaffirmationBy doing so the group saves the prophecy from failure, retains its close connection with cosmic...</span></span></span>
+Most importantly, it weakens the original claim. If a prophecy originally promised physical spacecraft, literal evacuation, or observable rescue, replacing those promises with invisible spiritual outcomes changes the meaning of the prediction. Critics argue that this allows almost any failed prophecy to be reinterpreted as successful after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://scispace.com/pdf/spiritualization-and-reaffirmation-what-really-happens-when-3jq2kwo9ff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Spiritualization and reaffirmationBy doing so the group saves the prophecy from failure, retains its close connection with cosmic...</span></span></span>
 
 Spiritualisation can also make evaluation difficult. Once rescue is defined as an internal event, outsiders have little ability to verify whether the prophecy was fulfilled. The belief becomes less vulnerable to disconfirmation but also less testable.
 
-Finally, reinterpretation can create tensions within movements themselves. Some members may accept a spiritual explanation, while others view it as an abandonment of the original promise. Historical studies of failed prophecies repeatedly show that not all believers respond in the same way; some adapt, some leave, and some remain uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Finally, reinterpretation can create tensions within movements themselves. Some members may accept a spiritual explanation, while others view it as an abandonment of the original promise. Historical studies of failed prophecies repeatedly show that not all believers respond in the same way; some adapt, some leave, and some remain uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-In failed UFO rescue predictions, spiritualised salvation is therefore best understood as a survival mechanism. When the spacecraft does not arrive, the promise of rescue can remain alive by becoming invisible. The expected destination shifts from a physical location in the sky to an inner state, a higher dimension, or a transformed consciousness. What changes is not the hope of salvation, but the definition of what being saved means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource+2SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
+In failed UFO rescue predictions, spiritualised salvation is therefore best understood as a survival mechanism. When the spacecraft does not arrive, the promise of rescue can remain alive by becoming invisible. The expected destination shifts from a physical location in the sky to an inner state, a higher dimension, or a transformed consciousness. What changes is not the hope of salvation, but the definition of what being saved means.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource+2SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-title">The Journalist&#x27;s Resource When prophecy fails: How religious groups cope</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</span><span class="citation-popover-meta">Published: July 6, 2011</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_spiritualised_ufo_re_fb6497-Illustration-3-dark.svg" | relative_url }}" alt="Spiritual Rescue illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_spiritualised_ufo_re_fb6497-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_spiritualised_ufo_re_fb6497-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Failed Rescue Often Turns Invisible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Failed Rescue Often Turns Invisible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Foundational study of how groups reinterpret failed predictions, including spiritualisation of unmet expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational study of how groups reinterpret failed predictions, including spiritualisation of unmet expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Provides context for spiritualised UFO rescue narratives and evolving salvation beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for spiritualised UFO rescue narratives and evolving salvation beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn</p>
         
-        <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/25c33379bf4f27794534.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/25c33379bf4f27794534.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/65478f36ac9eb65d6e9f.jpg' | relative_url }}" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/65478f36ac9eb65d6e9f.jpg' | relative_url }}" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture"><img src="{{ '/assets/images/marketplace-covers/359939611f2a9033a7c2.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture"><img src="{{ '/assets/images/marketplace-covers/359939611f2a9033a7c2.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/19ff43a9535a1efae504.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/19ff43a9535a1efae504.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="spiritual-rescue-why-failed-rescue-often-turns-invisible-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ In failed UFO rescue predictions, spiritualised salvation is therefore best unde
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ In failed UFO rescue predictions, spiritualised salvation is therefore best unde
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ In failed UFO rescue predictions, spiritualised salvation is therefore best unde
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ In failed UFO rescue predictions, spiritualised salvation is therefore best unde
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ In failed UFO rescue predictions, spiritualised salvation is therefore best unde
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,115 +767,115 @@ In failed UFO rescue predictions, spiritualised salvation is therefore best unde
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/spiritualization-and-reaffirmation-what-really-happens-when-3jq2kwo9ff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/spiritualization-and-reaffirmation-what-really-happens-when-3jq2kwo9ff.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spiritualization and reaffirmationBy doing so the group saves the prophecy from failure, retains its close connection with cosmic...</p></details>
+   Link:<a href="https://scispace.com/pdf/spiritualization-and-reaffirmation-what-really-happens-when-3jq2kwo9ff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/spiritualization-and-reaffirmation-what-really-happens-when-3jq2kwo9ff.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spiritualization and reaffirmationBy doing so the group saves the prophecy from failure, retains its close connection with cosmic...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2009.12.4.72</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — First, dissonance seeking consonance might account for why people join pro...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2009.12.4.72</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — First, dissonance seeking consonance might account for why people join pro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Debunking “When Prophecy Fails”  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”November 4, 2025 — The cult did not persist, proselytize, or reinterpret its failure as a spir...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”November 4, 2025 — The cult did not persist, proselytize, or reinterpret its failure as a spir...</p></details>
    Published: November 4, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2010.14.2.34" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2010.14.2.34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Theosophical doctrines with belief in UFOs, extraterrestrials, and space aliens.”74 Extraterrestrial biblical hermeneutics...Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2010.14.2.34" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2010.14.2.34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theosophical doctrines with belief in UFOs, extraterrestrials, and space aliens.”74 Extraterrestrial biblical hermeneutics...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happens When Prophecy Fails: The Case of...Lubavitchers held that the Rebbe was more powerful in the spiritual realm without...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happens When Prophecy Fails: The Case of...Lubavitchers held that the Rebbe was more powerful in the spiritual realm without...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 406493215 Abandoned bodies  
-   Link: <a href="https://www.researchgate.net/publication/406493215_Abandoned_bodies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/406493215_Abandoned_bodies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Abandoned bodies10 Jun 2026 — 11 &quot;Earth to earthlings: No next level,&quot; Rob Morse, San Francisco Examiner, Sunday, March 30, 1997, P...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/406493215_Abandoned_bodies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/406493215_Abandoned_bodies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Abandoned bodies10 Jun 2026 — 11 &quot;Earth to earthlings: No next level,&quot; Rob Morse, San Francisco Examiner, Sunday, March 30, 1997, P...</p></details>
    Published: March 30, 1997  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?7 Mar 2023 — “When the Bible referred to Jesus ascending to heaven in a &#x27;cloud,&#x27; Nettl...</p></details>
+   Link:<a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Drove Heaven&#x27;s Gate Followers to Mass Suicide?7 Mar 2023 — “When the Bible referred to Jesus ascending to heaven in a &#x27;cloud,&#x27; Nettl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journalistsresource.org  
    Title: The Journalist's Resource When prophecy fails: How religious groups cope  
-   Link: <a href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/prophecy-religion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</p></details>
+   Link:<a href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/prophecy-religion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeJuly 6, 2011 — This article concluded that prophetic failures in t...</p></details>
    Published: July 6, 2011  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dialoguejournal.com  
-   Link: <a href="https://www.dialoguejournal.com/articles/when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://www.dialoguejournal.com/articles/when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy FailsFailed prophecy is not a death knell for faith. Individuals and movements can move on. prophets are not God and the Ch...</p></details>
+   Link:<a href="https://www.dialoguejournal.com/articles/when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://www.dialoguejournal.com/articles/when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy FailsFailed prophecy is not a death knell for faith. Individuals and movements can move on. prophets are not God and the Ch...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: you.stonybrook.edu  
    Title: chocolate pudding and space aliens how the heavens gate cult propagated  
-   Link: <a href="https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/" target="_blank" rel="noopener noreferrer nofollow">https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Heaven&#x27;s Gate Cult Propagated9 Oct 2022 — Chocolate Pudding and Space Aliens: How the Heaven&#x27;s Gate Cult Propagated. An image depicti...</p></details>
+   Link:<a href="https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/" target="_blank" rel="noopener noreferrer nofollow">https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Heaven&#x27;s Gate Cult Propagated9 Oct 2022 — Chocolate Pudding and Space Aliens: How the Heaven&#x27;s Gate Cult Propagated. An image depicti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academic.oup.com  
    Title: The Heaven's Gate cult members were not people who liked their bodies.Read more  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Like many UFO cults, Heaven&#x27;s Gate fervently po...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Like many UFO cults, Heaven&#x27;s Gate fervently po...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l triumph. Its leader recanted, the group disbanded, and belief...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l triumph. Its leader recanted, the group disbanded, and belief...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — The documents reveal that the group actively proselytized well before the prop...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — The documents reveal that the group actively proselytized well before the prop...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gwern.net  
    Title: Debunking “When Prophecy Fails”  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrive...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT. In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrive...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britannica Quiz. Don&#x27;t Drink the Punch Quiz. A shift in the community&#x27;s beliefs occurred in 1985 when...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britannica Quiz. Don&#x27;t Drink the Punch Quiz. A shift in the community&#x27;s beliefs occurred in 1985 when...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhblbZDXfZU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>quences of invalidating Festinger&#x27;s study...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhblbZDXfZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>quences of invalidating Festinger&#x27;s study...</p></details>

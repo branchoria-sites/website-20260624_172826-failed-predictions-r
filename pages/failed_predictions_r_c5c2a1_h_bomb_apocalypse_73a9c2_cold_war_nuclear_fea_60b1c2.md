@@ -280,20 +280,20 @@ image: /assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_
 
 ## Introduction
 
-The failed UFO prophecies that warned of hydrogen-bomb catastrophe did not emerge in a vacuum. Their appeal rested on a wider climate of Cold War anxiety in which nuclear technology seemed to be advancing faster than anyone could fully understand or control. By the early 1950s, many people already feared that scientists and governments had unleashed forces capable of ending civilisation. Against that backdrop, contactee claims that benevolent space beings were warning humanity about the hydrogen bomb sounded less like fantasy to some listeners and more like an alternative source of expertise about a terrifying new reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Hydrogen Bomb</span><span class="citation-popover-snippet">Nuclear MuseumHydrogen Bomb - 1950 - Nuclear MuseumIn January 1950, President Truman made the controversial decision to continue and inte...</span><span class="citation-popover-meta">Published: January 1950</span></span></span>
+The failed UFO prophecies that warned of hydrogen-bomb catastrophe did not emerge in a vacuum. Their appeal rested on a wider climate of Cold War anxiety in which nuclear technology seemed to be advancing faster than anyone could fully understand or control. By the early 1950s, many people already feared that scientists and governments had unleashed forces capable of ending civilisation. Against that backdrop, contactee claims that benevolent space beings were warning humanity about the hydrogen bomb sounded less like fantasy to some listeners and more like an alternative source of expertise about a terrifying new reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Hydrogen Bomb</span><span class="citation-popover-snippet">Nuclear MuseumHydrogen Bomb - 1950 - Nuclear MuseumIn January 1950, President Truman made the controversial decision to continue and inte...</span><span class="citation-popover-meta">Published: January 1950</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_war_nuclear_fea_60b1c2-Illustration-1-dark.svg" | relative_url }}" alt="Nuclear fear illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_war_nuclear_fea_60b1c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_war_nuclear_fea_60b1c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This helps explain why [H-bomb apocalypse]({{ 'h-bomb-claims/' | relative_url }}) messages gained attention even though their specific predictions failed. The attraction was not primarily the accuracy of the prophecy. It was the fact that the prophecy gave voice to fears that already existed throughout society: fear of nuclear war, fear of government secrecy, and fear that human moral judgement had not kept pace with technological power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2646491/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by G Moore · 2009 · Cited by 5 — The political and military tension between the US and the Soviet Union fostered a profound anxiety in...</span></span></span>
+This helps explain why [H-bomb apocalypse]({{ 'h-bomb-claims/' | relative_url }}) messages gained attention even though their specific predictions failed. The attraction was not primarily the accuracy of the prophecy. It was the fact that the prophecy gave voice to fears that already existed throughout society: fear of nuclear war, fear of government secrecy, and fear that human moral judgement had not kept pace with technological power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2646491/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by G Moore · 2009 · Cited by 5 — The political and military tension between the US and the Soviet Union fostered a profound anxiety in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IKqXu-5jw60" title="Duck And Cover (1951) Bert The Turtle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IKqXu-5jw60" target="_blank" rel="noopener noreferrer">Duck And Cover (1951) Bert The Turtle</a></p><p class="youtube-embed-meta">Channel: Nuclear Vault</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IKqXu-5jw60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IKqXu-5jw60">Open on YouTube</a></p></div></div></div>
 
 ## Thermonuclear Weapons as Public Dread
 
-The hydrogen bomb represented a psychological turning point. Atomic bombs had already demonstrated unprecedented destructive power in 1945, but thermonuclear weapons appeared to raise the stakes to an entirely different level. In January 1950, President Harry Truman authorised intensified work on thermonuclear weapons, beginning a highly controversial phase of the nuclear arms race. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Hydrogen Bomb</span><span class="citation-popover-snippet">Nuclear MuseumHydrogen Bomb - 1950 - Nuclear MuseumIn January 1950, President Truman made the controversial decision to continue and inte...</span><span class="citation-popover-meta">Published: January 1950</span></span></span>
+The hydrogen bomb represented a psychological turning point. Atomic bombs had already demonstrated unprecedented destructive power in 1945, but thermonuclear weapons appeared to raise the stakes to an entirely different level. In January 1950, President Harry Truman authorised intensified work on thermonuclear weapons, beginning a highly controversial phase of the nuclear arms race.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahf.nuclearmuseum.org">[Nuclear Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahf.nuclearmuseum.org</span><span class="citation-popover-title">Nuclear Museum Hydrogen Bomb</span><span class="citation-popover-snippet">Nuclear MuseumHydrogen Bomb - 1950 - Nuclear MuseumIn January 1950, President Truman made the controversial decision to continue and inte...</span><span class="citation-popover-meta">Published: January 1950</span></span></span>
 
-When the first full-scale thermonuclear device was tested in 1952, public understanding of the science was limited, but awareness of its immense power was widespread. Contemporary discussions often described the hydrogen bomb as vastly more destructive than the weapons used against Hiroshima and Nagasaki. Governments tightly controlled information about nuclear technology, which contributed to a sense that ordinary citizens were being asked to trust authorities regarding dangers they could not independently evaluate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://livingwithdying.leeds.ac.uk/2022/11/15/the-cold-war-nuclear-technology-and-the-threat-of-mass-death-the-hydrogen-bomb-government-control-of-knowledge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livingwithdying.leeds.ac.uk">[livingwithdying.leeds.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livingwithdying.leeds.ac.uk</span><span class="citation-popover-snippet">The Hydrogen Bomb &amp; Government Control of Knowledge15 Nov 2022 — The hydrogen bomb was capable of death on a mass scale, and consequently...</span></span></span>
+When the first full-scale thermonuclear device was tested in 1952, public understanding of the science was limited, but awareness of its immense power was widespread. Contemporary discussions often described the hydrogen bomb as vastly more destructive than the weapons used against Hiroshima and Nagasaki. Governments tightly controlled information about nuclear technology, which contributed to a sense that ordinary citizens were being asked to trust authorities regarding dangers they could not independently evaluate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://livingwithdying.leeds.ac.uk/2022/11/15/the-cold-war-nuclear-technology-and-the-threat-of-mass-death-the-hydrogen-bomb-government-control-of-knowledge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livingwithdying.leeds.ac.uk">[livingwithdying.leeds.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livingwithdying.leeds.ac.uk</span><span class="citation-popover-snippet">The Hydrogen Bomb &amp; Government Control of Knowledge15 Nov 2022 — The hydrogen bomb was capable of death on a mass scale, and consequently...</span></span></span>
 
 This environment made exaggerated claims easier to believe. If newspapers and officials were announcing weapons of unprecedented power, and if much of the underlying science remained classified, some people found it plausible that even experts might not fully understand the consequences of detonating such devices. Contactee warnings exploited that [uncertainty]({{ 'uncertainty/' | relative_url }}). They transformed legitimate concern about thermonuclear weapons into dramatic claims that a single test could threaten the entire planet.
 
@@ -306,11 +306,11 @@ The language used in some early UFO messages reflected this atmosphere directly.
 
 The appeal of nuclear warnings was not confined to UFO enthusiasts. Fear of atomic war had become a mainstream social and political reality.
 
-After the Soviet Union tested its own atomic bomb in 1949, many Americans and Europeans came to view nuclear conflict as a genuine possibility rather than a remote scenario. Surveys from the period recorded widespread concern about personal safety in the event of atomic war. Gallup polling in 1951 found that roughly half of Americans said they would feel unsafe in their community during an atomic conflict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.gallup.com/vault/226046/gallup-vault-atomic-anxiety-1951.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">gallup vault atomic anxiety 1951.aspx</span><span class="citation-popover-snippet">Vault: Atomic Anxiety in 195119 Jan 2018 — In 1951, Gallup asked Americans how safe they would feel in their city or community in the cas...</span></span></span>
+After the Soviet Union tested its own atomic bomb in 1949, many Americans and Europeans came to view nuclear conflict as a genuine possibility rather than a remote scenario. Surveys from the period recorded widespread concern about personal safety in the event of atomic war. Gallup polling in 1951 found that roughly half of Americans said they would feel unsafe in their community during an atomic conflict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.gallup.com/vault/226046/gallup-vault-atomic-anxiety-1951.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">gallup vault atomic anxiety 1951.aspx</span><span class="citation-popover-snippet">Vault: Atomic Anxiety in 195119 Jan 2018 — In 1951, Gallup asked Americans how safe they would feel in their city or community in the cas...</span></span></span>
 
-Governments responded with civil-defence programmes intended both to educate and reassure the public. The famous *Duck and Cover* campaign taught schoolchildren how to react to a nuclear attack and became one of the defining cultural symbols of the early Cold War. Millions encountered drills, instructional films and preparedness literature focused on surviving nuclear warfare. Diefenbunker: Canada’s Cold War Museum+2Virginia Museum of History &amp; Culture <span class="citation-link-wrap"><a class="citation-inline-link" href="https://diefenbunker.ca/blog/duck-and-cover/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diefenbunker.ca">[diefenbunker.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diefenbunker.ca</span><span class="citation-popover-title">and Canada how to stay safe during nuclear threats with Bert the Turtle</span><span class="citation-popover-snippet">Canada’s Cold War MuseumDuck and Cover: An Iconic Cold War Short FilmSep 1, 2019 — Duck and Cover: Cold War film teaching c...</span></span></span>
+Governments responded with civil-defence programmes intended both to educate and reassure the public. The famous *Duck and Cover* campaign taught schoolchildren how to react to a nuclear attack and became one of the defining cultural symbols of the early Cold War. Millions encountered drills, instructional films and preparedness literature focused on surviving nuclear warfare. Diefenbunker: Canada’s Cold War Museum+2Virginia Museum of History &amp; Culture<span class="citation-link-wrap"><a class="citation-inline-link" href="https://diefenbunker.ca/blog/duck-and-cover/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diefenbunker.ca">[diefenbunker.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diefenbunker.ca</span><span class="citation-popover-title">and Canada how to stay safe during nuclear threats with Bert the Turtle</span><span class="citation-popover-snippet">Canada’s Cold War MuseumDuck and Cover: An Iconic Cold War Short FilmSep 1, 2019 — Duck and Cover: Cold War film teaching c...</span></span></span>
 
-These campaigns had an unintended side effect. Even when officials sought to reduce panic, they constantly reminded citizens that nuclear annihilation was conceivable. The result was a culture in which discussions of atomic destruction were no longer unusual. UFO contactee messages entered a public conversation that was already saturated with warnings about humanity's future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/series.htm?id=E2139F6E-F8A5-F0FF-6251141CDC2FDC83" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">National Park ServiceCold War Civil Defense: From &quot;Duck and Cover&quot; to “Gun...a cynical, low-cost ploy to calm the fears of and elicit co...</span></span></span>
+These campaigns had an unintended side effect. Even when officials sought to reduce panic, they constantly reminded citizens that nuclear annihilation was conceivable. The result was a culture in which discussions of atomic destruction were no longer unusual. UFO contactee messages entered a public conversation that was already saturated with warnings about humanity's future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/articles/series.htm?id=E2139F6E-F8A5-F0FF-6251141CDC2FDC83" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-snippet">National Park ServiceCold War Civil Defense: From &quot;Duck and Cover&quot; to “Gun...a cynical, low-cost ploy to calm the fears of and elicit co...</span></span></span>
 
 For many listeners, therefore, the striking feature of the prophecy was not that it predicted disaster. Governments, scientists, journalists and civil-defence officials were all discussing catastrophic possibilities. What distinguished the UFO version was its claim that the warning came from an apparently wiser, external authority.
 
@@ -320,7 +320,7 @@ For many listeners, therefore, the striking feature of the prophecy was not that
 
 Many contactee messages resembled moral lectures as much as predictions. Alleged extraterrestrial communicators frequently portrayed themselves as guardians concerned about humanity's spiritual and ethical development. Nuclear weapons became the clearest example of technology outrunning wisdom.
 
-This framing echoed concerns that were already common among scientists, religious [leaders]({{ 'leaders/' | relative_url }}) and peace activists. The central question of the early nuclear age was not merely whether humanity possessed powerful weapons, but whether humanity possessed the maturity to wield them responsibly. Public debates repeatedly contrasted scientific achievement with moral responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ehne.fr/en/encyclopedia/themes/material-civilization/risks-and-security/nuclear-fear-in-europe-weapons-power-stations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehne.fr">[ehne.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehne.fr</span><span class="citation-popover-snippet">Nuclear fear in Europe: from weapons to power stationsThe Cold War context led to the emergence of new fears in Europe, including those r...</span></span></span>
+This framing echoed concerns that were already common among scientists, religious [leaders]({{ 'leaders/' | relative_url }}) and peace activists. The central question of the early nuclear age was not merely whether humanity possessed powerful weapons, but whether humanity possessed the maturity to wield them responsibly. Public debates repeatedly contrasted scientific achievement with moral responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ehne.fr/en/encyclopedia/themes/material-civilization/risks-and-security/nuclear-fear-in-europe-weapons-power-stations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehne.fr">[ehne.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehne.fr</span><span class="citation-popover-snippet">Nuclear fear in Europe: from weapons to power stationsThe Cold War context led to the emergence of new fears in Europe, including those r...</span></span></span>
 
 In that context, flying-saucer warnings often sounded less like conventional prophecies and more like disarmament appeals wrapped in [cosmic language]({{ 'cosmic-language/' | relative_url }}). The messages typically argued that:
 
@@ -343,202 +343,202 @@ Those themes overlapped with broader peace-oriented arguments circulating throug
 
 The enduring significance of these failed UFO predictions lies less in their factual claims than in what they reveal about public psychology during the early Cold War.
 
-The hydrogen-[bomb warning]({{ 'bomb-warning/' | relative_url }}) appeared credible to some people because it addressed a genuine historical fear. Nuclear technology had become a symbol of human beings acquiring powers they might not be able to control. Government secrecy, accelerating weapons development and constant discussion of atomic war created fertile ground for messages that promised both explanation and moral guidance. livingwithdying.leeds.ac.uk+2National Security Archive <span class="citation-link-wrap"><a class="citation-inline-link" href="https://livingwithdying.leeds.ac.uk/2022/11/15/the-cold-war-nuclear-technology-and-the-threat-of-mass-death-the-hydrogen-bomb-government-control-of-knowledge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livingwithdying.leeds.ac.uk">[livingwithdying.leeds.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livingwithdying.leeds.ac.uk</span><span class="citation-popover-snippet">The Hydrogen Bomb &amp; Government Control of Knowledge15 Nov 2022 — The hydrogen bomb was capable of death on a mass scale, and consequently...</span></span></span>
+The hydrogen-[bomb warning]({{ 'bomb-warning/' | relative_url }}) appeared credible to some people because it addressed a genuine historical fear. Nuclear technology had become a symbol of human beings acquiring powers they might not be able to control. Government secrecy, accelerating weapons development and constant discussion of atomic war created fertile ground for messages that promised both explanation and moral guidance. livingwithdying.leeds.ac.uk+2National Security Archive<span class="citation-link-wrap"><a class="citation-inline-link" href="https://livingwithdying.leeds.ac.uk/2022/11/15/the-cold-war-nuclear-technology-and-the-threat-of-mass-death-the-hydrogen-bomb-government-control-of-knowledge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livingwithdying.leeds.ac.uk">[livingwithdying.leeds.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livingwithdying.leeds.ac.uk</span><span class="citation-popover-snippet">The Hydrogen Bomb &amp; Government Control of Knowledge15 Nov 2022 — The hydrogen bomb was capable of death on a mass scale, and consequently...</span></span></span>
 
-When the predicted [apocalypse]({{ 'apocalypse/' | relative_url }}) failed to occur, the prophecy itself was disconfirmed. Yet the anxieties that had made it attractive remained. The episode illustrates a recurring pattern in failed UFO predictions: a specific forecast collapses, but the underlying social fear that gave it credibility survives. In the case of the H-bomb warnings, that fear was the widespread Cold War belief that humanity might be approaching a technological threshold beyond its ability to govern wisely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/15874/1/Burgess%20nuclear%20nightmares.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[shura.shu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">representations of nuclear anxiety in American Cold War...June 12, 2017 — by RJ Burgess · 2017 · Cited by 2 — With their atomic monopoly...</span><span class="citation-popover-meta">Published: June 12, 2017</span></span></span>
+When the predicted [apocalypse]({{ 'apocalypse/' | relative_url }}) failed to occur, the prophecy itself was disconfirmed. Yet the anxieties that had made it attractive remained. The episode illustrates a recurring pattern in failed UFO predictions: a specific forecast collapses, but the underlying social fear that gave it credibility survives. In the case of the H-bomb warnings, that fear was the widespread Cold War belief that humanity might be approaching a technological threshold beyond its ability to govern wisely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/15874/1/Burgess%20nuclear%20nightmares.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[shura.shu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-snippet">representations of nuclear anxiety in American Cold War...June 12, 2017 — by RJ Burgess · 2017 · Cited by 2 — With their atomic monopoly...</span><span class="citation-popover-meta">Published: June 12, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_war_nuclear_fea_60b1c2-Illustration-3-dark.svg" | relative_url }}" alt="Nuclear fear illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_war_nuclear_fea_60b1c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_h_bomb_apocalypse_73a9c2_cold_war_nuclear_fea_60b1c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the H Bomb Warning Felt Believable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the H Bomb Warning Felt Believable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Shows how nuclear weapons generated widespread anxiety about catastrophe, secrecy, and human error.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how nuclear weapons generated widespread anxiety about catastrophe, secrecy, and human error.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The making of the atomic bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12678742-M.jpg" alt="Cover for The making of the atomic bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The making of the atomic bomb">The making of the atomic bomb</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The making of the atomic bomb on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12678742-M.jpg" alt="Cover for The making of the atomic bomb" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The making of the atomic bomb">The making of the atomic bomb</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides background on the scientific and moral issues that fueled fears about ever more powerful weapons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on the scientific and moral issues that fueled fears about ever more powerful weapons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Helps place contactee-era anti-nuclear messages within the wider UFO and Cold War environment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps place contactee-era anti-nuclear messages within the wider UFO and Cold War environment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
-        </h4>
-        <p class="fr-book-author">By John Lewis Gaddis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cold War on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold War">The Cold War</a>
+</h4>
+<p class="fr-book-author">By John Lewis Gaddis</p>
         
-        <p class="fr-book-desc">Explains the political tensions, arms race, and public fears that made H-bomb warnings believable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the political tensions, arms race, and public fears that made H-bomb warnings believable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cold+War+John+Lewis+Gaddis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The making of the atomic bomb</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The making of the atomic bomb</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="nuclear-fear-why-the-h-bomb-warning-felt-believable-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ When the predicted [apocalypse]({{ 'apocalypse/' | relative_url }}) failed to oc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ When the predicted [apocalypse]({{ 'apocalypse/' | relative_url }}) failed to oc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ When the predicted [apocalypse]({{ 'apocalypse/' | relative_url }}) failed to oc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ When the predicted [apocalypse]({{ 'apocalypse/' | relative_url }}) failed to oc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ When the predicted [apocalypse]({{ 'apocalypse/' | relative_url }}) failed to oc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,158 +744,158 @@ When the predicted [apocalypse]({{ 'apocalypse/' | relative_url }}) failed to oc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: livingwithdying.leeds.ac.uk  
-   Link: <a href="https://livingwithdying.leeds.ac.uk/2022/11/15/the-cold-war-nuclear-technology-and-the-threat-of-mass-death-the-hydrogen-bomb-government-control-of-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://livingwithdying.leeds.ac.uk/2022/11/15/the-cold-war-nuclear-technology-and-the-threat-of-mass-death-the-hydrogen-bomb-government-control-of-knowledge/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hydrogen Bomb &amp; Government Control of Knowledge15 Nov 2022 — The hydrogen bomb was capable of death on a mass scale, and consequently...</p></details>
+   Link:<a href="https://livingwithdying.leeds.ac.uk/2022/11/15/the-cold-war-nuclear-technology-and-the-threat-of-mass-death-the-hydrogen-bomb-government-control-of-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://livingwithdying.leeds.ac.uk/2022/11/15/the-cold-war-nuclear-technology-and-the-threat-of-mass-death-the-hydrogen-bomb-government-control-of-knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hydrogen Bomb &amp; Government Control of Knowledge15 Nov 2022 — The hydrogen bomb was capable of death on a mass scale, and consequently...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2646491/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2646491/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Moore · 2009 · Cited by 5 — The political and military tension between the US and the Soviet Union fostered a profound anxiety in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2646491/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2646491/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Moore · 2009 · Cited by 5 — The political and military tension between the US and the Soviet Union fostered a profound anxiety in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ehne.fr  
-   Link: <a href="https://ehne.fr/en/encyclopedia/themes/material-civilization/risks-and-security/nuclear-fear-in-europe-weapons-power-stations" target="_blank" rel="noopener noreferrer nofollow">https://ehne.fr/en/encyclopedia/themes/material-civilization/risks-and-security/nuclear-fear-in-europe-weapons-power-stations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear fear in Europe: from weapons to power stationsThe Cold War context led to the emergence of new fears in Europe, including those r...</p></details>
+   Link:<a href="https://ehne.fr/en/encyclopedia/themes/material-civilization/risks-and-security/nuclear-fear-in-europe-weapons-power-stations" target="_blank" rel="noopener noreferrer nofollow">https://ehne.fr/en/encyclopedia/themes/material-civilization/risks-and-security/nuclear-fear-in-europe-weapons-power-stations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear fear in Europe: from weapons to power stationsThe Cold War context led to the emergence of new fears in Europe, including those r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.gallup.com  
    Title: gallup vault atomic anxiety 1951.aspx  
-   Link: <a href="https://news.gallup.com/vault/226046/gallup-vault-atomic-anxiety-1951.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/vault/226046/gallup-vault-atomic-anxiety-1951.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vault: Atomic Anxiety in 195119 Jan 2018 — In 1951, Gallup asked Americans how safe they would feel in their city or community in the cas...</p></details>
+   Link:<a href="https://news.gallup.com/vault/226046/gallup-vault-atomic-anxiety-1951.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/vault/226046/gallup-vault-atomic-anxiety-1951.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vault: Atomic Anxiety in 195119 Jan 2018 — In 1951, Gallup asked Americans how safe they would feel in their city or community in the cas...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: diefenbunker.ca  
    Title: and Canada how to stay safe during nuclear threats with Bert the Turtle  
-   Link: <a href="https://diefenbunker.ca/blog/duck-and-cover/" target="_blank" rel="noopener noreferrer nofollow">https://diefenbunker.ca/blog/duck-and-cover/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada’s Cold War MuseumDuck and Cover: An Iconic Cold War Short FilmSep 1, 2019 — Duck and Cover: Cold War film teaching c...</p></details>
+   Link:<a href="https://diefenbunker.ca/blog/duck-and-cover/" target="_blank" rel="noopener noreferrer nofollow">https://diefenbunker.ca/blog/duck-and-cover/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada’s Cold War MuseumDuck and Cover: An Iconic Cold War Short FilmSep 1, 2019 — Duck and Cover: Cold War film teaching c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/15874/1/Burgess%20nuclear%20nightmares.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/15874/1/Burgess%20nuclear%20nightmares.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>representations of nuclear anxiety in American Cold War...June 12, 2017 — by RJ Burgess · 2017 · Cited by 2 — With their atomic monopoly...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/15874/1/Burgess%20nuclear%20nightmares.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/15874/1/Burgess%20nuclear%20nightmares.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>representations of nuclear anxiety in American Cold War...June 12, 2017 — by RJ Burgess · 2017 · Cited by 2 — With their atomic monopoly...</p></details>
    Published: June 12, 2017  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: public.com  
    Title: Stocks, Bonds, Crypto & Options AI Investing App  
-   Link: <a href="https://public.com/" target="_blank" rel="noopener noreferrer nofollow">https://public.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build AI trading agents. Access IRAs, direct indexing, high-yield cash, margin, and API trading...</p></details>
+   Link:<a href="https://public.com/" target="_blank" rel="noopener noreferrer nofollow">https://public.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build AI trading agents. Access IRAs, direct indexing, high-yield cash, margin, and API trading...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: duck cover drills cold war arms race  
-   Link: <a href="https://www.history.com/articles/duck-cover-drills-cold-war-arms-race" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/duck-cover-drills-cold-war-arms-race</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Duck-and-Cover&#x27; Drills Channeled America&#x27;s Cold...Mar 26, 2019 — The now-infamous duck-and-cover drills simulated what should be do...</p></details>
+   Link:<a href="https://www.history.com/articles/duck-cover-drills-cold-war-arms-race" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/duck-cover-drills-cold-war-arms-race</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Duck-and-Cover&#x27; Drills Channeled America&#x27;s Cold...Mar 26, 2019 — The now-infamous duck-and-cover drills simulated what should be do...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ahf.nuclearmuseum.org  
    Title: Nuclear Museum Hydrogen Bomb  
-   Link: <a href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear MuseumHydrogen Bomb - 1950 - Nuclear MuseumIn January 1950, President Truman made the controversial decision to continue and inte...</p></details>
+   Link:<a href="https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/" target="_blank" rel="noopener noreferrer nofollow">https://ahf.nuclearmuseum.org/ahf/history/hydrogen-bomb-1950/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear MuseumHydrogen Bomb - 1950 - Nuclear MuseumIn January 1950, President Truman made the controversial decision to continue and inte...</p></details>
    Published: January 1950  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: virginiahistory.org  
    Title: duck and cover  
-   Link: <a href="https://virginiahistory.org/learn/duck-and-cover" target="_blank" rel="noopener noreferrer nofollow">https://virginiahistory.org/learn/duck-and-cover</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Virginia Museum of History &amp; CultureDuck and Cover: Civil Defense in Virginia in the 1950sPresident Harry Truman established the Federal...</p></details>
+   Link:<a href="https://virginiahistory.org/learn/duck-and-cover" target="_blank" rel="noopener noreferrer nofollow">https://virginiahistory.org/learn/duck-and-cover</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Virginia Museum of History &amp; CultureDuck and Cover: Civil Defense in Virginia in the 1950sPresident Harry Truman established the Federal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/articles/series.htm?id=E2139F6E-F8A5-F0FF-6251141CDC2FDC83" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/series.htm?id=E2139F6E-F8A5-F0FF-6251141CDC2FDC83</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceCold War Civil Defense: From &quot;Duck and Cover&quot; to “Gun...a cynical, low-cost ploy to calm the fears of and elicit co...</p></details>
+   Link:<a href="https://www.nps.gov/articles/series.htm?id=E2139F6E-F8A5-F0FF-6251141CDC2FDC83" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/series.htm?id=E2139F6E-F8A5-F0FF-6251141CDC2FDC83</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceCold War Civil Defense: From &quot;Duck and Cover&quot; to “Gun...a cynical, low-cost ploy to calm the fears of and elicit co...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nsarchive.gwu.edu  
    Title: National Security Archive U.S  
-   Link: <a href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-05-22/us-nuclear-weapons-posture-during-cold-war-compilation-core-primary-sources" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-05-22/us-nuclear-weapons-posture-during-cold-war-compilation-core-primary-sources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gwu.eduU.S. Nuclear Forces During the Cold War22 May 2020 — A selection of primary sources that could be considered key to understanding...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-05-22/us-nuclear-weapons-posture-during-cold-war-compilation-core-primary-sources" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-05-22/us-nuclear-weapons-posture-during-cold-war-compilation-core-primary-sources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gwu.eduU.S. Nuclear Forces During the Cold War22 May 2020 — A selection of primary sources that could be considered key to understanding...</p></details>
    Published: May 2020  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Hydrogen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hydrogen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HydrogenHydrogen is a chemical element; it has the symbol H and atomic number 1. It is the lightest and most abundant chemical element...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Hydrogen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hydrogen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HydrogenHydrogen is a chemical element; it has the symbol H and atomic number 1. It is the lightest and most abundant chemical element...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Duck and cover  
-   Link: <a href="https://en.wikipedia.org/wiki/Duck_and_cover" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Duck_and_cover</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duck and coverCC In the 1952 United States civil defense film, Duck and Cover, &quot;Bert the Turtle&quot; teaches schoolchildren how to protect...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Duck_and_cover" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Duck_and_cover</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duck and coverCC In the 1952 United States civil defense film, Duck and Cover, &quot;Bert the Turtle&quot; teaches schoolchildren how to protect...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/when" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/when</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning23 Jan 2026 — 1. at what time; when will you return. 2. a: at or during which time; b: and then; 3. at a former and...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/when" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/when</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning23 Jan 2026 — 1. at what time; when will you return. 2. a: at or during which time; b: and then; 3. at a former and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: periodic-table.rsc.org  
-   Link: <a href="https://periodic-table.rsc.org/element/1/hydrogen" target="_blank" rel="noopener noreferrer nofollow">https://periodic-table.rsc.org/element/1/hydrogen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Life, in fact, is multiply dependent on it. Without hydrogen we wouldn&#x27;t have the...Read more...</p></details>
+   Link:<a href="https://periodic-table.rsc.org/element/1/hydrogen" target="_blank" rel="noopener noreferrer nofollow">https://periodic-table.rsc.org/element/1/hydrogen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life, in fact, is multiply dependent on it. Without hydrogen we wouldn&#x27;t have the...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/milestones/1945-1952/atomic" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/milestones/1945-1952/atomic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diplomacy... public opinion would never accept the use of the bomb. In spite of the many threats made over the course of the Cold War, at...</p></details>
+   Link:<a href="https://history.state.gov/milestones/1945-1952/atomic" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/milestones/1945-1952/atomic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diplomacy... public opinion would never accept the use of the bomb. In spite of the many threats made over the course of the Cold War, at...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: latahcountyhistoricalsociety.org  
    Title: duck and cover  
-   Link: <a href="https://www.latahcountyhistoricalsociety.org/post/duck-and-cover" target="_blank" rel="noopener noreferrer nofollow">https://www.latahcountyhistoricalsociety.org/post/duck-and-cover</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 May 2022 — Many communities during this time considered the chief threat to be nuclear fallout from Soviet attacks. Throughout the 194...</p></details>
+   Link:<a href="https://www.latahcountyhistoricalsociety.org/post/duck-and-cover" target="_blank" rel="noopener noreferrer nofollow">https://www.latahcountyhistoricalsociety.org/post/duck-and-cover</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 May 2022 — Many communities during this time considered the chief threat to be nuclear fallout from Soviet attacks. Throughout the 194...</p></details>
    Published: May 2022  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/cmei/fuels/hydrogen-fuel-basics" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/cmei/fuels/hydrogen-fuel-basics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hydrogen Fuel BasicsHydrogen is a clean fuel that, when consumed in a fuel cell, produces only water. Hydrogen can be produced from a var...</p></details>
+   Link:<a href="https://www.energy.gov/cmei/fuels/hydrogen-fuel-basics" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/cmei/fuels/hydrogen-fuel-basics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hydrogen Fuel BasicsHydrogen is a clean fuel that, when consumed in a fuel cell, produces only water. Hydrogen can be produced from a var...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: chathamhouse.org  
-   Link: <a href="https://www.chathamhouse.org/2016/07/12-times-we-came-close-using-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/2016/07/12-times-we-came-close-using-nuclear-weapons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Times We Came Close to Using Nuclear WeaponsIncidents from the Cold War, the Middle East and the Asian subcontinent reveal the world h...</p></details>
+   Link:<a href="https://www.chathamhouse.org/2016/07/12-times-we-came-close-using-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.chathamhouse.org/2016/07/12-times-we-came-close-using-nuclear-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Times We Came Close to Using Nuclear WeaponsIncidents from the Cold War, the Middle East and the Asian subcontinent reveal the world h...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236749496_Atomic_Kids_Duck_and_Cover_and_Atomic_Alert_Teach_American_[Children" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236749496_Atomic_Kids_Duck_and_Cover_and_Atomic_Alert_Teach_American_[Children</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic Kids: Duck and Cover and Atomic Alert Teach...Aug 8, 2015 — You could survive an atomic attack if you learned the preparatory ste...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/236749496_Atomic_Kids_Duck_and_Cover_and_Atomic_Alert_Teach_American_[Children" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236749496_Atomic_Kids_Duck_and_Cover_and_Atomic_Alert_Teach_American_[Children</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atomic Kids: Duck and Cover and Atomic Alert Teach...Aug 8, 2015 — You could survive an atomic attack if you learned the preparatory ste...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalww2museum.org  
-   Link: <a href="https://www.nationalww2museum.org/war/articles/cold-conflict" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/cold-conflict</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold ConflictAfter the Soviets tested their first nuclear bomb, the US Federal Bureau of Investigation (FBI) identified Fuchs as the Sovi...</p></details>
+   Link:<a href="https://www.nationalww2museum.org/war/articles/cold-conflict" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/cold-conflict</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold ConflictAfter the Soviets tested their first nuclear bomb, the US Federal Bureau of Investigation (FBI) identified Fuchs as the Sovi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/duck-and-cover" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/duck-and-cover</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDuck and cover | Definition, Drills, History, &amp; FactsDuck and cover, preparedness measure in the United States des...</p></details>
+   Link:<a href="https://www.britannica.com/topic/duck-and-cover" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/duck-and-cover</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDuck and cover | Definition, Drills, History, &amp; FactsDuck and cover, preparedness measure in the United States des...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: h2fcp.org  
-   Link: <a href="https://h2fcp.org/hydrogen-trucks/science-hydrogen" target="_blank" rel="noopener noreferrer nofollow">https://h2fcp.org/hydrogen-trucks/science-hydrogen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of HydrogenHydrogen is valued because of its versatility. It can be used directly as a truck fuel, or it can be used as a bui...</p></details>
+   Link:<a href="https://h2fcp.org/hydrogen-trucks/science-hydrogen" target="_blank" rel="noopener noreferrer nofollow">https://h2fcp.org/hydrogen-trucks/science-hydrogen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of HydrogenHydrogen is valued because of its versatility. It can be used directly as a truck fuel, or it can be used as a bui...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/richard-garwin-obituary-creator-of-the-hydrogen-bomb-zxtjjzkb2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/richard-garwin-obituary-creator-of-the-hydrogen-bomb-zxtjjzkb2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A prodigy mentored by physicist Enrico Fermi, Garwin was just 23 when he designed the first thermonuclear weapon tested in 1952 in the Pa...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/richard-garwin-obituary-creator-of-the-hydrogen-bomb-zxtjjzkb2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/richard-garwin-obituary-creator-of-the-hydrogen-bomb-zxtjjzkb2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A prodigy mentored by physicist Enrico Fermi, Garwin was just 23 when he designed the first thermonuclear weapon tested in 1952 in the Pa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: coloradonuclearatlas.org  
-   Link: <a href="https://www.coloradonuclearatlas.org/brief/cold-war-culture-and-the-fallout-shelter/legacies" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradonuclearatlas.org/brief/cold-war-culture-and-the-fallout-shelter/legacies</a>  
+   Link:<a href="https://www.coloradonuclearatlas.org/brief/cold-war-culture-and-the-fallout-shelter/legacies" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradonuclearatlas.org/brief/cold-war-culture-and-the-fallout-shelter/legacies</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ir101.co.uk  
    Title: Conze et al 2017 Nuclear Threats Nuclear Fear and the Cold War of the 1980s  
-   Link: <a href="https://ir101.co.uk/wp-content/uploads/2018/11/Conze-et-al-2017-Nuclear-Threats-Nuclear-Fear-and-the-Cold-War-of-the-1980s.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ir101.co.uk/wp-content/uploads/2018/11/Conze-et-al-2017-Nuclear-Threats-Nuclear-Fear-and-the-Cold-War-of-the-1980s.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Threats, Nuclear Fear, and the Cold War of the 1980sby E CONZE · 2017 · Cited by 65 — This book brings together cutting-edge scho...</p></details>
+   Link:<a href="https://ir101.co.uk/wp-content/uploads/2018/11/Conze-et-al-2017-Nuclear-Threats-Nuclear-Fear-and-the-Cold-War-of-the-1980s.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ir101.co.uk/wp-content/uploads/2018/11/Conze-et-al-2017-Nuclear-Threats-Nuclear-Fear-and-the-Cold-War-of-the-1980s.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Threats, Nuclear Fear, and the Cold War of the 1980sby E CONZE · 2017 · Cited by 65 — This book brings together cutting-edge scho...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theelders.org  
    Title: oppenheimer s nuclear warnings more relevant ever elders warn  
-   Link: <a href="https://theelders.org/news/oppenheimer-s-nuclear-warnings-more-relevant-ever-elders-warn" target="_blank" rel="noopener noreferrer nofollow">https://theelders.org/news/oppenheimer-s-nuclear-warnings-more-relevant-ever-elders-warn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oppenheimer&#x27;s nuclear warnings more relevant than ever...21 Jul 2023 — The Elders today call for increased urgency in the global debate...</p></details>
+   Link:<a href="https://theelders.org/news/oppenheimer-s-nuclear-warnings-more-relevant-ever-elders-warn" target="_blank" rel="noopener noreferrer nofollow">https://theelders.org/news/oppenheimer-s-nuclear-warnings-more-relevant-ever-elders-warn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oppenheimer&#x27;s nuclear warnings more relevant than ever...21 Jul 2023 — The Elders today call for increased urgency in the global debate...</p></details>

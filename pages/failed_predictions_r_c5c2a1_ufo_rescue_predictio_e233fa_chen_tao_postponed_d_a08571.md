@@ -280,20 +280,20 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_ch
 
 ## Introduction
 
-One of the most revealing features of failed UFO rescue prophecies is what happens after the predicted disaster does not occur. In the case of Chen Tao, also known as God's Salvation Church, the failure of expected end-time events did not immediately lead to a simple admission of error. Instead, leader Hon-Ming Chen developed explanations that reframed the absence of catastrophe as evidence that divine intervention had succeeded. The mechanism was straightforward but powerful: if believers had performed the correct spiritual actions, then a disaster that was expected to happen might no longer be visible because it had already been prevented or postponed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+One of the most revealing features of failed UFO rescue prophecies is what happens after the predicted disaster does not occur. In the case of Chen Tao, also known as God's Salvation Church, the failure of expected end-time events did not immediately lead to a simple admission of error. Instead, leader Hon-Ming Chen developed explanations that reframed the absence of catastrophe as evidence that divine intervention had succeeded. The mechanism was straightforward but powerful: if believers had performed the correct spiritual actions, then a disaster that was expected to happen might no longer be visible because it had already been prevented or postponed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_postponed_d_a08571-Illustration-1-dark.svg" | relative_url }}" alt="Saved World illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_postponed_d_a08571-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_postponed_d_a08571-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This response became especially important as Chen's movement continued to predict war between China and Taiwan, wider tribulation, and eventual nuclear destruction. Rather than treating a non-event as disproof, the movement could reinterpret it as proof that higher forces had altered the timetable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+This response became especially important as Chen's movement continued to predict war between China and Taiwan, wider tribulation, and eventual nuclear destruction. Rather than treating a non-event as disproof, the movement could reinterpret it as proof that higher forces had altered the timetable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eLrGM26pmM0" title="God&#x27;s Name Has Changed?! (Learn Its Interesting Biblical History)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eLrGM26pmM0" target="_blank" rel="noopener noreferrer">God&#x27;s Name Has Changed?! (Learn Its Interesting Biblical History)</a></p><p class="youtube-embed-meta">Channel: BibleProject</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eLrGM26pmM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eLrGM26pmM0">Open on YouTube</a></p></div></div></div>
 
 ## The Taiwan Attack Prediction
 
-After the highly publicised failure of Chen's March 1998 predictions in [Garland]({{ 'garland/' | relative_url }}), Texas, the movement did not abandon its apocalyptic framework. Reports from researchers who followed the group after the Garland episode found that Chen continued to teach that conflict involving China and Taiwan would trigger a devastating nuclear crisis and broader end-time events. Dates and expectations shifted, but the underlying scenario remained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+After the highly publicised failure of Chen's March 1998 predictions in [Garland]({{ 'garland/' | relative_url }}), Texas, the movement did not abandon its apocalyptic framework. Reports from researchers who followed the group after the Garland episode found that Chen continued to teach that conflict involving China and Taiwan would trigger a devastating nuclear crisis and broader end-time events. Dates and expectations shifted, but the underlying scenario remained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-This posed a familiar problem for prophecy-based movements. If a specific sequence of disasters is announced and the world continues normally, followers need an explanation that preserves both the leader's authority and the overall worldview. Chen's answer increasingly relied on delay rather than cancellation. According to scholarly analyses of failed prophecy movements, Chen argued that expected divine decisions and catastrophic events had been postponed rather than disproved. In one account, he explained that the predicted outcomes had been delayed by God's choice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+This posed a familiar problem for prophecy-based movements. If a specific sequence of disasters is announced and the world continues normally, followers need an explanation that preserves both the leader's authority and the overall worldview. Chen's answer increasingly relied on delay rather than cancellation. According to scholarly analyses of failed prophecy movements, Chen argued that expected divine decisions and catastrophic events had been postponed rather than disproved. In one account, he explained that the predicted outcomes had been delayed by God's choice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
 The significance of this shift is that it moved the movement away from a strict deadline model. Instead of asking whether a prophecy happened exactly when predicted, believers were encouraged to see the timetable itself as flexible and subject to divine adjustment.
 
@@ -304,9 +304,9 @@ The significance of this shift is that it moved the movement away from a strict 
 
 The most distinctive aspect of Chen's response was the idea that spiritual action could change reality before a catastrophe became visible. This transformed prophecy from a forecast into a conditional process.
 
-Research on the movement noted the possibility that Chen would emphasise preventative rituals and spiritual work as a way of explaining why expected destruction had not occurred. One contemporary study observed that such a strategy would allow him to claim that the world had been spared nuclear devastation because of actions taken by the movement itself. In that interpretation, the absence of disaster was not evidence against the prophecy but evidence that intervention had succeeded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Chen may claim to have saved the world from the Great Tribulation of nuclear destruction. This theological...</span></span></span>
+Research on the movement noted the possibility that Chen would emphasise preventative rituals and spiritual work as a way of explaining why expected destruction had not occurred. One contemporary study observed that such a strategy would allow him to claim that the world had been spared nuclear devastation because of actions taken by the movement itself. In that interpretation, the absence of disaster was not evidence against the prophecy but evidence that intervention had succeeded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Chen may claim to have saved the world from the Great Tribulation of nuclear destruction. This theological...</span></span></span>
 
-This logic resembles a broader pattern sometimes called avertive apocalypticism: believers expect disaster but also believe that prayer, ritual practice, moral reform, or divine mercy can avert it. Under this framework, a prophecy is not necessarily falsified when the predicted event fails to appear. Instead, the prophecy becomes a warning that motivated the very actions that prevented the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Chen may claim to have saved the world from the Great Tribulation of nuclear destruction. This theological...</span></span></span>
+This logic resembles a broader pattern sometimes called avertive apocalypticism: believers expect disaster but also believe that prayer, ritual practice, moral reform, or divine mercy can avert it. Under this framework, a prophecy is not necessarily falsified when the predicted event fails to appear. Instead, the prophecy becomes a warning that motivated the very actions that prevented the outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Chen may claim to have saved the world from the Great Tribulation of nuclear destruction. This theological...</span></span></span>
 
 For Chen Tao, that mechanism offered a way to preserve the core narrative. Nuclear destruction remained a real threat. The prophecy remained meaningful. What changed was the interpretation of the missing catastrophe.
 
@@ -321,9 +321,9 @@ A non-event creates two competing explanations:
 * The prediction was wrong.
 * The prediction was correct, but successful intervention prevented the outcome.
 
-The second explanation is particularly resilient because it turns contradictory evidence into supporting evidence. If no nuclear war occurs, followers can conclude that their rituals worked. If the disaster is delayed, they can conclude that divine forces granted additional time. If events unfold differently than expected, the prophecy can be reinterpreted as symbolic, partial, or postponed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+The second explanation is particularly resilient because it turns contradictory evidence into supporting evidence. If no nuclear war occurs, followers can conclude that their rituals worked. If the disaster is delayed, they can conclude that divine forces granted additional time. If events unfold differently than expected, the prophecy can be reinterpreted as symbolic, partial, or postponed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
-In Chen Tao's case, this logic helped bridge the gap between dramatic expectations and ordinary reality. Scholars studying the movement observed that failed prophecies did not automatically destroy commitment. Instead, the movement faced a process in which less committed members often departed while remaining followers evaluated and sometimes accepted new explanations for the failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Chen may claim to have saved the world from the Great Tribulation of nuclear destruction. This theological...</span></span></span>
+In Chen Tao's case, this logic helped bridge the gap between dramatic expectations and ordinary reality. Scholars studying the movement observed that failed prophecies did not automatically destroy commitment. Instead, the movement faced a process in which less committed members often departed while remaining followers evaluated and sometimes accepted new explanations for the failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Chen may claim to have saved the world from the Great Tribulation of nuclear destruction. This theological...</span></span></span>
 
 The mechanism mattered because it converted a potentially fatal challenge into a reaffirmation of purpose. Rather than asking why the predicted nuclear catastrophe never arrived, believers could ask how much worse the world might have been without their intervention.
 
@@ -334,202 +334,202 @@ The mechanism mattered because it converted a potentially fatal challenge into a
 
 The Chen Tao case illustrates a recurring pattern within UFO-linked salvation prophecies. Rescue does not always mean boarding a spacecraft or surviving an openly visible [apocalypse]({{ 'apocalypse/' | relative_url }}). Sometimes rescue is redefined as the prevention of a catastrophe that never occurs.
 
-After the movement's predictions failed, Chen increasingly relied on explanations centred on postponement and divine adjustment. The expected war, tribulation, or nuclear destruction had not disappeared; according to the revised interpretation, they had been delayed, mitigated, or prevented through spiritual action and divine choice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+After the movement's predictions failed, Chen increasingly relied on explanations centred on postponement and divine adjustment. The expected war, tribulation, or nuclear destruction had not disappeared; according to the revised interpretation, they had been delayed, mitigated, or prevented through spiritual action and divine choice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
-That reinterpretation allowed a missing disaster to function as evidence of success. In the logic of the movement, the world continuing as normal could itself become proof that it had been saved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
+That reinterpretation allowed a missing disaster to function as evidence of success. In the logic of the movement, the world continuing as normal could itself become proof that it had been saved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_postponed_d_a08571-Illustration-3-dark.svg" | relative_url }}" alt="Saved World illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_postponed_d_a08571-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_rescue_predictio_e233fa_chen_tao_postponed_d_a08571-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When No Disaster Became Proof of Rescue. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When No Disaster Became Proof of Rescue. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how groups reinterpret failed predictions as confirmation rather than disconfirmation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how groups reinterpret failed predictions as confirmation rather than disconfirmation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
-        </h4>
-        <p class="fr-book-author">By Steven Hassan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
+</h4>
+<p class="fr-book-author">By Steven Hassan</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Thaler Singer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
+</h4>
+<p class="fr-book-author">By Margaret Thaler Singer</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="saved-world-when-no-disaster-became-proof-of-rescue-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ That reinterpretation allowed a missing disaster to function as evidence of succ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ That reinterpretation allowed a missing disaster to function as evidence of succ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ That reinterpretation allowed a missing disaster to function as evidence of succ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ That reinterpretation allowed a missing disaster to function as evidence of succ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ That reinterpretation allowed a missing disaster to function as evidence of succ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,90 +735,90 @@ That reinterpretation allowed a missing disaster to function as evidence of succ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoofWOtPF1mhnyqRYx12ZW5DQ8X9cSBC7TdyPhOYzp7HCaxRUhub</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter seven25 Mar 2026 — Chen&#x27;s response to the failed prophecies was to claim that “these choices were delayed.” He explained tha...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen may claim to have saved the world from the Great Tribulation of nuclear destruction. This theological...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen may claim to have saved the world from the Great Tribulation of nuclear destruction. This theological...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/God" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/God</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GodAs such, it is seen as the creator, sustainer, and ruler of the universe. God is often thought of as incorporeal and independent of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/God" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/God</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GodAs such, it is seen as the creator, sustainer, and ruler of the universe. God is often thought of as incorporeal and independent of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Lists of deities  
-   Link: <a href="https://en.wikipedia.org/wiki/Lists_of_deities" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lists_of_deities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lists of deitiesThis is an index of lists of deities of the different cultures, religions, and mythologies of the world. List of deiti...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Lists_of_deities" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lists_of_deities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lists of deitiesThis is an index of lists of deities of the different cultures, religions, and mythologies of the world. List of deiti...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: god.tv  
-   Link: <a href="https://www.god.tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.god.tv/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home Of Christian Content: What Will You Watch?Watch your favourite ministries on GOD TV. With regular broadcasts &amp; fresh Christian conte...</p></details>
+   Link:<a href="https://www.god.tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.god.tv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home Of Christian Content: What Will You Watch?Watch your favourite ministries on GOD TV. With regular broadcasts &amp; fresh Christian conte...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jenniferleclaire.org  
-   Link: <a href="https://jenniferleclaire.org/a-disturbing-prophetic-vision-of-taiwan/?srsltid=AfmBOorvy8_hPkhBlIAWvHx7C8q1PbSI-TtuSvZppkGO-pGQQYFJG9-x" target="_blank" rel="noopener noreferrer nofollow">https://jenniferleclaire.org/a-disturbing-prophetic-vision-of-taiwan/?srsltid=AfmBOorvy8_hPkhBlIAWvHx7C8q1PbSI-TtuSvZppkGO-pGQQYFJG9-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Disturbing Prophetic Vision of TaiwanAccording to Reuters, Chiu said China already has the ability to invade Taiwan and it will be capa...</p></details>
+   Link:<a href="https://jenniferleclaire.org/a-disturbing-prophetic-vision-of-taiwan/?srsltid=AfmBOorvy8_hPkhBlIAWvHx7C8q1PbSI-TtuSvZppkGO-pGQQYFJG9-x" target="_blank" rel="noopener noreferrer nofollow">https://jenniferleclaire.org/a-disturbing-prophetic-vision-of-taiwan/?srsltid=AfmBOorvy8_hPkhBlIAWvHx7C8q1PbSI-TtuSvZppkGO-pGQQYFJG9-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Disturbing Prophetic Vision of TaiwanAccording to Reuters, Chiu said China already has the ability to invade Taiwan and it will be capa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/51298429787/posts/10164117550639788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/51298429787/posts/10164117550639788/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed end times predictions in ChristianityHistory of Failure: Counting the “End” Throughout history, apocalyptic predictions have consi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/51298429787/posts/10164117550639788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/51298429787/posts/10164117550639788/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed end times predictions in ChristianityHistory of Failure: Counting the “End” Throughout history, apocalyptic predictions have consi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: japan-forward.com  
-   Link: <a href="https://japan-forward.com/xi-jinping-ancient-chinese-prophecies-superstitions-and-the-real-reason-for-the-rocket-force-purges/" target="_blank" rel="noopener noreferrer nofollow">https://japan-forward.com/xi-jinping-ancient-chinese-prophecies-superstitions-and-the-real-reason-for-the-rocket-force-purges/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Xi Jinping, Ancient Chinese Prophecies, Superstitions, and...20 Sept 2023 — Other reports suggested that there had been plots against Xi...</p></details>
+   Link:<a href="https://japan-forward.com/xi-jinping-ancient-chinese-prophecies-superstitions-and-the-real-reason-for-the-rocket-force-purges/" target="_blank" rel="noopener noreferrer nofollow">https://japan-forward.com/xi-jinping-ancient-chinese-prophecies-superstitions-and-the-real-reason-for-the-rocket-force-purges/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Xi Jinping, Ancient Chinese Prophecies, Superstitions, and...20 Sept 2023 — Other reports suggested that there had been plots against Xi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: whatculture.com  
    Title: 8 insane doomsday predictions that unsurprisingly didn 39 t happen  
-   Link: <a href="https://whatculture.com/offbeat/8-insane-doomsday-predictions-that-unsurprisingly-didn-39-t-happen?page=10" target="_blank" rel="noopener noreferrer nofollow">https://whatculture.com/offbeat/8-insane-doomsday-predictions-that-unsurprisingly-didn-39-t-happen?page=10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Insane Doomsday Predictions That (Unsurprisingly) Didn&#x27;...16 Sept 2016 — When God failed to appear, Chen then predicted that the follo...</p></details>
+   Link:<a href="https://whatculture.com/offbeat/8-insane-doomsday-predictions-that-unsurprisingly-didn-39-t-happen?page=10" target="_blank" rel="noopener noreferrer nofollow">https://whatculture.com/offbeat/8-insane-doomsday-predictions-that-unsurprisingly-didn-39-t-happen?page=10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Insane Doomsday Predictions That (Unsurprisingly) Didn&#x27;...16 Sept 2016 — When God failed to appear, Chen then predicted that the follo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW6oPa5EQAI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW6oPa5EQAI/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>attack from the devil. You know the devil&#x27;s using my...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DW6oPa5EQAI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW6oPa5EQAI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attack from the devil. You know the devil&#x27;s using my...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
    Title: 10 failed doomsday predictions  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the 1843 prediction failed to materialize, Miller recalculated and... attacks. Others maintain that because his prophecies tend to...</p></details>
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the 1843 prediction failed to materialize, Miller recalculated and... attacks. Others maintain that because his prophecies tend to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: earthandaltarmag.com  
-   Link: <a href="https://earthandaltarmag.com/posts/hwwgcwb57twjqvhak0afgt3ukj8dmg" target="_blank" rel="noopener noreferrer nofollow">https://earthandaltarmag.com/posts/hwwgcwb57twjqvhak0afgt3ukj8dmg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO IS GOD?12 Apr 2021 — God is Knowledge, Wisdom, Understanding, and Truth. God, having created the universe himself, knows it from the...</p></details>
+   Link:<a href="https://earthandaltarmag.com/posts/hwwgcwb57twjqvhak0afgt3ukj8dmg" target="_blank" rel="noopener noreferrer nofollow">https://earthandaltarmag.com/posts/hwwgcwb57twjqvhak0afgt3ukj8dmg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO IS GOD?12 Apr 2021 — God is Knowledge, Wisdom, Understanding, and Truth. God, having created the universe himself, knows it from the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bibleproject.com  
    Title: theme god e1 god or gods  
-   Link: <a href="https://bibleproject.com/podcasts/theme-god-e1-god-or-gods/" target="_blank" rel="noopener noreferrer nofollow">https://bibleproject.com/podcasts/theme-god-e1-god-or-gods/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>God or gods?16 Jul 2018 — Tim says that it comes down to how people use the word &quot;god.&quot; Today people use the word god to refer to a perso...</p></details>
+   Link:<a href="https://bibleproject.com/podcasts/theme-god-e1-god-or-gods/" target="_blank" rel="noopener noreferrer nofollow">https://bibleproject.com/podcasts/theme-god-e1-god-or-gods/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God or gods?16 Jul 2018 — Tim says that it comes down to how people use the word &quot;god.&quot; Today people use the word god to refer to a perso...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: [Cognitive Dissonance](&#123;&#123; 'dissonance/' | relative_url &#125;&#125;): Your Response to Conflicting Beliefs  
-   Link: <a href="http://www.youtube.com/watch?v=GxAu7BTZQRY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GxAu7BTZQRY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Chen Tao Garland](&amp;#123;&amp;#123; &#x27;garland-test/&#x27; | relative_url &amp;#125;&amp;#125;) Texas 1998 Hon-Ming Chen USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE AP Archive...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GxAu7BTZQRY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GxAu7BTZQRY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Chen Tao Garland](&amp;#123;&amp;#123; &#x27;garland-test/&#x27; | relative_url &amp;#125;&amp;#125;) Texas 1998 Hon-Ming Chen USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE AP Archive...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eLrGM26pmM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eLrGM26pmM0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly am I supposed to call Him? We invite you into the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eLrGM26pmM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eLrGM26pmM0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly am I supposed to call Him? We invite you into the...</p></details>

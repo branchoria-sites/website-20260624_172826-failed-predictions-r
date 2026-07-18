@@ -455,11 +455,11 @@ The answer was cautious but not panicked intervention. [Garland]({{ 'garland/' |
 
 ## The shadow of Heaven’s Gate
 
-Chen Tao entered public view at a moment when American police, journalists and residents had a fresh mental template for UFO prophecy gone wrong. On 26 March 1997, the San Diego County Sheriff’s Office found 39 members of Heaven’s Gate dead in Rancho Santa Fe; investigators determined that the deaths were a mass suicide carried out over several days. The group’s beliefs were tied to Comet Hale-Bopp and the expectation of departure from Earth, which made later UFO-linked prophecies harder for officials to dismiss as merely eccentric. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdsheriff.gov">[San Diego County Sheriff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdsheriff.gov</span><span class="citation-popover-title">San Diego County Sheriff Heaven&#x27;s Gate Case In all, 39 members of the &quot;Heaven&#x27;s Gate&quot; cult were found dead. An investigation by the San D</span><span class="citation-popover-snippet">San Diego County SheriffHeaven&#x27;s Gate CaseIn all, 39 members of the &quot;Heaven&#x27;s Gate&quot; cult were found dead. An investigation by the San Die...</span></span></span>
+Chen Tao entered public view at a moment when American police, journalists and residents had a fresh mental template for UFO prophecy gone wrong. On 26 March 1997, the San Diego County Sheriff’s Office found 39 members of Heaven’s Gate dead in Rancho Santa Fe; investigators determined that the deaths were a mass suicide carried out over several days. The group’s beliefs were tied to Comet Hale-Bopp and the expectation of departure from Earth, which made later UFO-linked prophecies harder for officials to dismiss as merely eccentric.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdsheriff.gov">[San Diego County Sheriff]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdsheriff.gov</span><span class="citation-popover-title">San Diego County Sheriff Heaven&#x27;s Gate Case In all, 39 members of the &quot;Heaven&#x27;s Gate&quot; cult were found dead. An investigation by the San D</span><span class="citation-popover-snippet">San Diego County SheriffHeaven&#x27;s Gate CaseIn all, 39 members of the &quot;Heaven&#x27;s Gate&quot; cult were found dead. An investigation by the San Die...</span></span></span>
 
-That timing shaped the Garland response. In the FBI Law Enforcement Bulletin’s later case study, Garland police said Chen Tao’s leader had announced that a flying saucer would land in Garland on 31 March 1998 with God aboard, and that this came “on the heels” of the Solar Temple deaths and Heaven’s Gate. The phrase matters: the police concern was not simply that Chen Tao believed unusual things, but that recent precedent had shown how apocalyptic or UFO-related religious conviction could become a sudden public-safety emergency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+That timing shaped the Garland response. In the FBI Law Enforcement Bulletin’s later case study, Garland police said Chen Tao’s leader had announced that a flying saucer would land in Garland on 31 March 1998 with God aboard, and that this came “on the heels” of the Solar Temple deaths and Heaven’s Gate. The phrase matters: the police concern was not simply that Chen Tao believed unusual things, but that recent precedent had shown how apocalyptic or UFO-related religious conviction could become a sudden public-safety emergency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-Chen Tao’s own prediction had several features that made the risk assessment more concrete than vague fear of “cults”. The group had moved to Garland, bought homes in a suburban neighbourhood, attracted international attention, and announced a precise prophetic schedule: God would appear on television on 25 March 1998 and physically appear on 31 March. Britannica summarises the failed sequence in similar terms: Chen predicted a television announcement before a physical manifestation on Earth, then revised his claims after nothing appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Chen Tao’s own prediction had several features that made the risk assessment more concrete than vague fear of “cults”. The group had moved to Garland, bought homes in a suburban neighbourhood, attracted international attention, and announced a precise prophetic schedule: God would appear on television on 25 March 1998 and physically appear on 31 March. Britannica summarises the failed sequence in similar terms: Chen predicted a television announcement before a physical manifestation on Earth, then revised his claims after nothing appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 The fear was sharpened by the form of the claim. Failed UFO predictions can often be reinterpreted quietly, but Chen Tao’s forecast had a public countdown, a fixed place and a media audience. If the prophecy failed in front of cameras, police had to consider several possible reactions: despair inside the group, hostility from outsiders, crowd disorder, copycat fears, or a medical emergency involving adults and children.
 
@@ -467,51 +467,51 @@ The fear was sharpened by the form of the claim. Failed UFO predictions can ofte
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-1-dark.svg" | relative_url }}" alt="Police illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Risk assessment without panic
 
-Garland’s key decision was to separate unfamiliar belief from actionable danger. The FBI Bulletin article begins by warning that “cult” stereotypes can themselves become dangerous when held by officers responsible for public safety. It recommends the less loaded term “new religious movement” and stresses that most such groups remain within the law. This framing did not make police naïve; it gave them a way to ask practical questions rather than treat odd theology as proof of criminal intent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+Garland’s key decision was to separate unfamiliar belief from actionable danger. The FBI Bulletin article begins by warning that “cult” stereotypes can themselves become dangerous when held by officers responsible for public safety. It recommends the less loaded term “new religious movement” and stresses that most such groups remain within the law. This framing did not make police naïve; it gave them a way to ask practical questions rather than treat odd theology as proof of criminal intent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-The department therefore built a broad information picture. According to the FBI case study, Garland police contacted the FBI’s National Center for the Analysis of Violent Crime, the US Department of State, immigration authorities, Taiwanese offices, websites about new religious movements and academic experts. They also partnered with a local university professor, setting ground rules so the expert would advise rather than negotiate, and clarifying what information could later be used in research or media statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+The department therefore built a broad information picture. According to the FBI case study, Garland police contacted the FBI’s National Center for the Analysis of Violent Crime, the US Department of State, immigration authorities, Taiwanese offices, websites about new religious movements and academic experts. They also partnered with a local university professor, setting ground rules so the expert would advise rather than negotiate, and clarifying what information could later be used in research or media statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
 That choice shows the governance problem clearly. Police needed enough understanding to detect real warning signs, but they also needed to avoid delegating state authority to an outsider or letting academic observation become operational control. The advisory role was a compromise: law enforcement kept responsibility, while religious-studies expertise reduced the risk of misreading unfamiliar practices.
 
-Several parts of the group’s behaviour looked strange to neighbours but were not automatically danger signals. The FBI article’s “neutral factors” included absolute devotion to a leader, social separation and unfamiliar customs around dress, diet, language or family life. In other words, white clothing, cowboy hats, unusual rituals and apocalyptic speech could not by themselves justify coercive intervention. The more relevant questions were whether there were weapons, threats, isolation from outside contact, plans for self-harm, abuse, coercion, or steps suggesting an imminent violent act. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+Several parts of the group’s behaviour looked strange to neighbours but were not automatically danger signals. The FBI article’s “neutral factors” included absolute devotion to a leader, social separation and unfamiliar customs around dress, diet, language or family life. In other words, white clothing, cowboy hats, unusual rituals and apocalyptic speech could not by themselves justify coercive intervention. The more relevant questions were whether there were weapons, threats, isolation from outside contact, plans for self-harm, abuse, coercion, or steps suggesting an imminent violent act.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-Local evidence gave police reasons for concern but also reasons not to overreact. Charles Houston Prather’s contemporary study of God’s Salvation Church notes that Garland officials investigated a neighbourhood complaint that Chen was building a “landing site”; the actual issue was a gazebo on a flood plain, and the group complied when told it could not build there. This was exactly the kind of episode that could have fed panic if handled badly: a rumour with a UFO flavour became a routine code matter once inspected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Local evidence gave police reasons for concern but also reasons not to overreact. Charles Houston Prather’s contemporary study of God’s Salvation Church notes that Garland officials investigated a neighbourhood complaint that Chen was building a “landing site”; the actual issue was a gazebo on a flood plain, and the group complied when told it could not build there. This was exactly the kind of episode that could have fed panic if handled badly: a rumour with a UFO flavour became a routine code matter once inspected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8nGLzE-vA18" title="God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer">God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8nGLzE-vA18">Open on YouTube</a></p></div></div></div>
 
 ## The safety plan was visible but restrained
 
-By the critical dates in March 1998, Garland police had moved from assessment to contingency planning. Prather reports that the city mobilised between 50 and 70 police officers and emergency personnel, issued bright orange press credentials, cordoned off a 165-house section of the neighbourhood, limited street access to residents and credentialled media, stationed personnel near Duck Creek, drew on Dallas police for extra help, and created a “media corral” near Chen’s house. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+By the critical dates in March 1998, Garland police had moved from assessment to contingency planning. Prather reports that the city mobilised between 50 and 70 police officers and emergency personnel, issued bright orange press credentials, cordoned off a 165-house section of the neighbourhood, limited street access to residents and credentialled media, stationed personnel near Duck Creek, drew on Dallas police for extra help, and created a “media corral” near Chen’s house.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
-The FBI case study describes an even wider emergency plan. Garland police set up an on-site command post, had a special weapons and tactics team available, placed child protective services on hand because the group included children, prepared fire and medical units in case of poisonous gas, arranged evacuation routes, kept a judge available for possible search warrants, and considered asking the Federal Aviation Administration to restrict helicopter traffic if necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+The FBI case study describes an even wider emergency plan. Garland police set up an on-site command post, had a special weapons and tactics team available, placed child protective services on hand because the group included children, prepared fire and medical units in case of poisonous gas, arranged evacuation routes, kept a judge available for possible search warrants, and considered asking the Federal Aviation Administration to restrict helicopter traffic if necessary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
 The striking point is that these measures were mostly preparatory and environmental. Police did not raid the group, arrest Chen, or try to prevent the prophecy from failing. They managed the setting around the prophecy: access, traffic, press pressure, emergency response, and the possibility of rapid legal authorisation if a real danger emerged. That is why the case is better understood as a decision cluster than a single intervention.
 
-This restraint was not passivity. It was a form of risk control suited to a legally protected religious group. The OJP abstract of the FBI article summarises the model as accurate information, meaningful dialogue, mobilisation of community resources and planning for the worst. The aim was to safeguard both Garland residents and Chen Tao members while avoiding serious confrontation between the group, the community and the authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
+This restraint was not passivity. It was a form of risk control suited to a legally protected religious group. The OJP abstract of the FBI article summarises the model as accurate information, meaningful dialogue, mobilisation of community resources and planning for the worst. The aim was to safeguard both Garland residents and Chen Tao members while avoiding serious confrontation between the group, the community and the authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojp.gov">[Office of Justice Programs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojp.gov</span><span class="citation-popover-snippet">Open source on ojp.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-2-dark.svg" | relative_url }}" alt="Police illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Dialogue became a policing tool
 
-Garland police did not rely only on surveillance or emergency readiness. They deliberately built [rapport]({{ 'rapport/' | relative_url }}) with Chen Tao. The FBI case study says an officer was assigned soon after the group arrived to maintain contact with members, using an open and friendly approach. He told members the department recognised their constitutional rights and saw its role as protecting those rights. He and others met often with Chen Tao officials, discussed media coverage, gave the group a 24-hour contact number, and eventually met with members for dinner every two weeks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+Garland police did not rely only on surveillance or emergency readiness. They deliberately built [rapport]({{ 'rapport/' | relative_url }}) with Chen Tao. The FBI case study says an officer was assigned soon after the group arrived to maintain contact with members, using an open and friendly approach. He told members the department recognised their constitutional rights and saw its role as protecting those rights. He and others met often with Chen Tao officials, discussed media coverage, gave the group a 24-hour contact number, and eventually met with members for dinner every two weeks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-This relationship served three safety functions. First, it helped Chen Tao members see police as potential protectors against hostile outsiders rather than as persecutors. Second, it gave officers a baseline sense of normal group behaviour, making sudden changes easier to notice. Third, it made it possible to ask direct questions about violence or suicidal intent and judge the answers with more confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+This relationship served three safety functions. First, it helped Chen Tao members see police as potential protectors against hostile outsiders rather than as persecutors. Second, it gave officers a baseline sense of normal group behaviour, making sudden changes easier to notice. Third, it made it possible to ask direct questions about violence or suicidal intent and judge the answers with more confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-The emphasis on trust also addressed a classic policing failure mode in encounters with marginal religious groups: treating the leader as a fraud from the outset. The FBI article warned that it is dangerous for officers to approach [leaders]({{ 'leaders/' | relative_url }}) as if they were merely disingenuous con artists. That does not mean taking every prophecy at face value. It means recognising that humiliation, deception by authorities or broken promises can intensify fear and make communication harder precisely when communication is most needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+The emphasis on trust also addressed a classic policing failure mode in encounters with marginal religious groups: treating the leader as a fraud from the outset. The FBI article warned that it is dangerous for officers to approach [leaders]({{ 'leaders/' | relative_url }}) as if they were merely disingenuous con artists. That does not mean taking every prophecy at face value. It means recognising that humiliation, deception by authorities or broken promises can intensify fear and make communication harder precisely when communication is most needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-Garland also kept communication open with residents. The group’s presence unsettled many neighbours, who did not understand its dress or behaviour and feared violence. Police therefore updated the community on investigation developments and contingency plans. This mattered because crowd fear can create its own risks: harassment, trespass, rumours and escalating confrontation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+Garland also kept communication open with residents. The group’s presence unsettled many neighbours, who did not understand its dress or behaviour and feared violence. Police therefore updated the community on investigation developments and contingency plans. This mattered because crowd fear can create its own risks: harassment, trespass, rumours and escalating confrontation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OtNseh3LOTw" title="Episode 749: The Heaven&#x27;s Gate Tragedy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OtNseh3LOTw" target="_blank" rel="noopener noreferrer">Episode 749: The Heaven&#x27;s Gate Tragedy</a></p><p class="youtube-embed-meta">Channel: Morbid | Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OtNseh3LOTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OtNseh3LOTw">Open on YouTube</a></p></div></div></div>
 
 ## Media pressure was part of the hazard
 
-Chen Tao’s prophecy was not simply observed by the media; it was partly performed through media. Researchers who studied the group argued that Chen used press attention as a way to broadcast God’s message, while journalists used Chen Tao as a compelling story about false prophecy, UFO belief and possible disaster. Ryan J. Cook’s study of Chen Tao in Garland notes that the group’s leader announced God’s television appearance and physical arrival, and that the group’s relationship with mass media became central to its adaptation in suburban America. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</span><span class="citation-popover-meta">Published: January 1, 1999</span></span></span>
+Chen Tao’s prophecy was not simply observed by the media; it was partly performed through media. Researchers who studied the group argued that Chen used press attention as a way to broadcast God’s message, while journalists used Chen Tao as a compelling story about false prophecy, UFO belief and possible disaster. Ryan J. Cook’s study of Chen Tao in Garland notes that the group’s leader announced God’s television appearance and physical arrival, and that the group’s relationship with mass media became central to its adaptation in suburban America.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reporters in God-land, Texas: The Role of the Mass Media</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</span><span class="citation-popover-meta">Published: January 1, 1999</span></span></span>
 
-This created a practical burden for police. The FBI case study says reporters and camera crews came from as far away as England, France, Germany and China. Garland police used public-information officers, issued media passes, prepared press kits, gave interviews, and arranged parking and sanitation facilities. Those details may sound mundane, but they prevented a religious prophecy from becoming a disorderly crowd incident in a residential neighbourhood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+This created a practical burden for police. The FBI case study says reporters and camera crews came from as far away as England, France, Germany and China. Garland police used public-information officers, issued media passes, prepared press kits, gave interviews, and arranged parking and sanitation facilities. Those details may sound mundane, but they prevented a religious prophecy from becoming a disorderly crowd incident in a residential neighbourhood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
-Prather’s account of 25 March, the night of the predicted television appearance, shows why crowd management mattered. By late evening, media crews were setting up on the street; at midnight, the expected broadcast produced only static. Police, reporters and onlookers waited in suspense, and some speculated that Chen and part of the group might be about to die inside the house. Chen emerged roughly 25 minutes later to cameras and reporters, with more than 350 people crowded around the suburban corner. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
+Prather’s account of 25 March, the night of the predicted television appearance, shows why crowd management mattered. By late evening, media crews were setting up on the street; at midnight, the expected broadcast produced only static. Police, reporters and onlookers waited in suspense, and some speculated that Chen and part of the group might be about to die inside the house. Chen emerged roughly 25 minutes later to cameras and reporters, with more than 350 people crowded around the suburban corner.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Open source on d-nb.info.</span></span></span>
 
 That scene explains the difference between “nothing happened” and “nothing needed managing”. The prophecy failed, but the failure occurred in public, under emotional pressure, with residents, children, police, journalists and curious spectators nearby. The police concern after Heaven’s Gate was not irrational fear of religion; it was anticipation of how a public failure could become dangerous if unmanaged.
 
@@ -519,7 +519,7 @@ That scene explains the difference between “nothing happened” and “nothing
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-3-dark.svg" | relative_url }}" alt="Police illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_police_concerns_a78e0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Balancing safety and religious freedom
 
-The Garland case is often remembered because the feared tragedy did not occur. After the 31 March prediction failed, the FBI account says Chen announced that he had misunderstood God’s plans, and members quietly returned to their homes; those who did not return to Taiwan later moved to upstate New York. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
+The Garland case is often remembered because the feared tragedy did not occur. After the 31 March prediction failed, the FBI account says Chen announced that he had misunderstood God’s plans, and members quietly returned to their homes; those who did not return to Taiwan later moved to upstate New York.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leb.fbi.gov">[FBI: Law Enforcement Bulletin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leb.fbi.gov</span><span class="citation-popover-title">Law Enforcement Bulletin</span><span class="citation-popover-snippet">Law Enforcement Bulletin...</span></span></span>
 
 That peaceful ending should not obscure the harder lesson. Police had to prepare for suicide, violence, poisonous gas, child-protection needs, crowd control, media disruption and possible search warrants while also respecting a group whose beliefs were protected and whose members had not, on the evidence available, committed a crime. The operational line was narrow: intervene too little and risk another Heaven’s Gate; intervene too aggressively and risk violating rights or provoking the danger the state feared.
 
@@ -549,194 +549,194 @@ That is why “police concerns after Heaven’s Gate” belongs inside the histo
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Police Took UFO Prophecy Seriously. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Police Took UFO Prophecy Seriously. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
-        </h4>
-        <p class="fr-book-author">By Steven Hassan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
+</h4>
+<p class="fr-book-author">By Steven Hassan</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults Inside Out on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7317919-M.jpg" alt="Cover for Cults Inside Out" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults Inside Out">Cults Inside Out</a>
-        </h4>
-        <p class="fr-book-author">By Rick Ross</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults Inside Out on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7317919-M.jpg" alt="Cover for Cults Inside Out" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults Inside Out">Cults Inside Out</a>
+</h4>
+<p class="fr-book-author">By Rick Ross</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Cults.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Cults.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
-        </h4>
-        <p class="fr-book-author">By Amanda Montell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
+</h4>
+<p class="fr-book-author">By Amanda Montell</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+Inside+Out&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults Inside Out</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+Inside+Out&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults Inside Out</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be"><img src="{{ '/assets/images/marketplace-covers/7f6dc0764d286cc66210.jpg' | relative_url }}" alt="Listing image for LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">LED Neon Lights Dimmable Space Neon Signs for Wall UFO Neon Light up Sign for Be</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign" data-ebay-reference="police-why-police-took-ufo-prophecy-seriously-failed-predictions-ufo-wall-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -752,7 +752,7 @@ That is why “police concerns after Heaven’s Gate” belongs inside the histo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -772,7 +772,7 @@ That is why “police concerns after Heaven’s Gate” belongs inside the histo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -804,7 +804,7 @@ That is why “police concerns after Heaven’s Gate” belongs inside the histo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -856,7 +856,7 @@ That is why “police concerns after Heaven’s Gate” belongs inside the histo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -901,7 +901,7 @@ That is why “police concerns after Heaven’s Gate” belongs inside the histo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -942,109 +942,109 @@ That is why “police concerns after Heaven’s Gate” belongs inside the histo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — In March 1997 39 members of the Heaven&#x27;s Gate g...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — In March 1997 39 members of the Heaven&#x27;s Gate g...</p></details>
    Published: May 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: leb.fbi.gov  
    Title: Law Enforcement Bulletin  
-   Link: <a href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/sep00leb.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Bulletin...</p></details>
+   Link:<a href="https://leb.fbi.gov/file-repository/archives/sep00leb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://leb.fbi.gov/file-repository/archives/sep00leb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Bulletin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Chen predicted that God would announce his plans and materialize...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model</a>  
+   Link:<a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/interacting-cults-policing-model</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate Reporters in God-land, Texas: The Role of the Mass Media  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...January 1, 1999 — Chen Tao is a Buddhist-Christian new religious...</p></details>
    Published: January 1, 1999  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
    Title: Marshall H Applewhite  
-   Link: <a href="https://www.britannica.com/biography/Marshall-H-Applewhite" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Marshall-H-Applewhite</a>  
+   Link:<a href="https://www.britannica.com/biography/Marshall-H-Applewhite" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Marshall-H-Applewhite</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: history.com  
    Title: heavens gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
+   Link:<a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sdsheriff.gov  
-   Link: <a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego County SheriffHeaven&#x27;s Gate CaseIn all, 39 members of the &quot;Heaven&#x27;s Gate&quot; cult were found dead. An investigation by the San Die...</p></details>
+   Link:<a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego County SheriffHeaven&#x27;s Gate CaseIn all, 39 members of the &quot;Heaven&#x27;s Gate&quot; cult were found dead. An investigation by the San Die...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: online.ucpress.edu  
-   Link: <a href="https://online.ucpress.edu/nr/issue/3/1" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/nr/issue/3/1</a>  
+   Link:<a href="https://online.ucpress.edu/nr/issue/3/1" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/nr/issue/3/1</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
+   Link:<a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
+   Link:<a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Meeting-God-in-Garland%3A-A-Model-of-Religious-Kliever/455a96be363aab8e07affca9e8d870e77752557e</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/</a>  
+   Link:<a href="https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: economist.com  
-   Link: <a href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh</a>  
+   Link:<a href="https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/united-states/1998/04/02/waiting-for-god-oh</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: downloads.cs.stanford.edu  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement</a>  
+   Link:<a href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dallasobserver.com  
-   Link: <a href="https://www.dallasobserver.com/uncategorized/in-honor-of-the-day-god-stood-up-garland-we-look-at-five-texas-linked-ufo-cults-7083063/" target="_blank" rel="noopener noreferrer nofollow">https://www.dallasobserver.com/uncategorized/in-honor-of-the-day-god-stood-up-garland-we-look-at-five-texas-linked-ufo-cults-7083063/</a>  
+   Link:<a href="https://www.dallasobserver.com/uncategorized/in-honor-of-the-day-god-stood-up-garland-we-look-at-five-texas-linked-ufo-cults-7083063/" target="_blank" rel="noopener noreferrer nofollow">https://www.dallasobserver.com/uncategorized/in-honor-of-the-day-god-stood-up-garland-we-look-at-five-texas-linked-ufo-cults-7083063/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: in march of 1997 americans woke up to the largest mass suicide in the countrys h  
-   Link: <a href="https://www.facebook.com/vanityfairmagazine/posts/in-march-of-1997-americans-woke-up-to-the-largest-mass-suicide-in-the-countrys-h/1366726181991998/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanityfairmagazine/posts/in-march-of-1997-americans-woke-up-to-the-largest-mass-suicide-in-the-countrys-h/1366726181991998/</a>  
+   Link:<a href="https://www.facebook.com/vanityfairmagazine/posts/in-march-of-1997-americans-woke-up-to-the-largest-mass-suicide-in-the-countrys-h/1366726181991998/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanityfairmagazine/posts/in-march-of-1997-americans-woke-up-to-the-largest-mass-suicide-in-the-countrys-h/1366726181991998/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Episode 749: The Heaven's Gate Tragedy  
-   Link: <a href="https://www.youtube.com/watch?v=OtNseh3LOTw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OtNseh3LOTw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA-Bodies of Heaven&#x27;s Gate cult members released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OtNseh3LOTw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OtNseh3LOTw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA-Bodies of Heaven&#x27;s Gate cult members released...</p></details>

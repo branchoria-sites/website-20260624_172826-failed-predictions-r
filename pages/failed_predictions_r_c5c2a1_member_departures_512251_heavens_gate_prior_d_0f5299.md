@@ -274,15 +274,15 @@ image: /assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heave
 
 ## Introduction
 
-Heaven’s Gate is often remembered only for the deaths of 39 members in 1997, but the movement’s earlier history reveals a long pattern of [departures]({{ 'departures/' | relative_url }}), setbacks, and theological revisions. For understanding failed UFO-related predictions, that earlier attrition is crucial. The group did not move directly from its 1970s promises of extraterrestrial transformation to its final act during the Hale-Bopp comet’s appearance. Over more than two decades, followers left after expectations failed, after demanding lifestyle changes were imposed, and after the movement’s beliefs had to be reworked to explain events that did not unfold as predicted. By 1997, Heaven’s Gate had been reduced from a movement that once attracted hundreds of followers to a much smaller, intensely committed core. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Heaven’s Gate is often remembered only for the deaths of 39 members in 1997, but the movement’s earlier history reveals a long pattern of [departures]({{ 'departures/' | relative_url }}), setbacks, and theological revisions. For understanding failed UFO-related predictions, that earlier attrition is crucial. The group did not move directly from its 1970s promises of extraterrestrial transformation to its final act during the Hale-Bopp comet’s appearance. Over more than two decades, followers left after expectations failed, after demanding lifestyle changes were imposed, and after the movement’s beliefs had to be reworked to explain events that did not unfold as predicted. By 1997, Heaven’s Gate had been reduced from a movement that once attracted hundreds of followers to a much smaller, intensely committed core.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-1-dark.svg" | relative_url }}" alt="Before Hale Bopp illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Early Expectations Produced Later Departures
 
-When Marshall Applewhite and Bonnie Nettles began attracting followers in the mid-1970s, they taught that selected individuals could advance to a higher extraterrestrial realm, often described as the “Next Level”. Early recruits were drawn by expectations of a dramatic transition that would separate them from ordinary human existence. Meetings in California and Oregon attracted substantial interest, and the movement briefly counted several hundred followers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+When Marshall Applewhite and Bonnie Nettles began attracting followers in the mid-1970s, they taught that selected individuals could advance to a higher extraterrestrial realm, often described as the “Next Level”. Early recruits were drawn by expectations of a dramatic transition that would separate them from ordinary human existence. Meetings in California and Oregon attracted substantial interest, and the movement briefly counted several hundred followers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-Yet the anticipated transformation did not occur in the way many followers initially expected. Rather than disappearing into a spacecraft or undergoing an immediate collective transition, members found themselves settling into a communal lifestyle marked by discipline, celibacy, [renunciation]({{ 'renunciation/' | relative_url }}) of family ties, and years of waiting. As the movement evolved, many early participants drifted away. The historical record does not support a picture of uninterrupted growth. Instead, Heaven’s Gate experienced repeated shrinkage, eventually becoming a relatively small group of dedicated adherents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Yet the anticipated transformation did not occur in the way many followers initially expected. Rather than disappearing into a spacecraft or undergoing an immediate collective transition, members found themselves settling into a communal lifestyle marked by discipline, celibacy, [renunciation]({{ 'renunciation/' | relative_url }}) of family ties, and years of waiting. As the movement evolved, many early participants drifted away. The historical record does not support a picture of uninterrupted growth. Instead, Heaven’s Gate experienced repeated shrinkage, eventually becoming a relatively small group of dedicated adherents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 This pattern matters because it illustrates a common feature of failed prophecy movements: disappointment does not always trigger a dramatic public break. Some believers leave quietly when expectations are deferred, when practical sacrifices become too costly, or when confidence in leadership weakens.
 
@@ -291,11 +291,11 @@ This pattern matters because it illustrates a common feature of failed prophecy 
 
 ## Nettles’s Death Forced a Major Belief Revision
 
-The most important turning point before 1997 was the death of co-founder Bonnie Nettles in June 1985. For years, Nettles and Applewhite had taught that they occupied a special role and that entry into the Next Level would involve a form of physical transformation. Nettles herself reportedly believed that she would not die before this transition occurred. When she died from cancer, the event directly contradicted expectations that had guided the movement for years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+The most important turning point before 1997 was the death of co-founder Bonnie Nettles in June 1985. For years, Nettles and Applewhite had taught that they occupied a special role and that entry into the Next Level would involve a form of physical transformation. Nettles herself reportedly believed that she would not die before this transition occurred. When she died from cancer, the event directly contradicted expectations that had guided the movement for years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
-Rather than abandoning the movement, Applewhite reinterpreted the event. He told followers that Nettles had completed her work and had advanced beyond the earthly realm. Her physical body was redefined as a temporary “vehicle” rather than an essential part of salvation. Scholars identify this moment as a decisive theological shift. The movement moved away from the expectation of a bodily ascent into a spacecraft and toward the idea that the true self could leave the body behind entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+Rather than abandoning the movement, Applewhite reinterpreted the event. He told followers that Nettles had completed her work and had advanced beyond the earthly realm. Her physical body was redefined as a temporary “vehicle” rather than an essential part of salvation. Scholars identify this moment as a decisive theological shift. The movement moved away from the expectation of a bodily ascent into a spacecraft and toward the idea that the true self could leave the body behind entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
-For some followers, this reinterpretation was convincing. For others, it was not. The death of a leader whose survival had seemed central to the movement’s worldview created a natural point for departure. Although detailed membership records are incomplete, researchers consistently describe Nettles’s death as a crisis that reshaped both the group’s doctrine and its membership. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+For some followers, this reinterpretation was convincing. For others, it was not. The death of a leader whose survival had seemed central to the movement’s worldview created a natural point for departure. Although detailed membership records are incomplete, researchers consistently describe Nettles’s death as a crisis that reshaped both the group’s doctrine and its membership.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lj_cyTt4SxE" title="The BRUTALITY Of The Heaven&#x27;s Gate Cult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer">The BRUTALITY Of The Heaven&#x27;s Gate Cult</a></p><p class="youtube-embed-meta">Channel: Kallmekris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lj_cyTt4SxE">Open on YouTube</a></p></div></div></div>
@@ -310,7 +310,7 @@ The revision accomplished two things at once:
 * It explained away a major contradiction between prophecy and reality.
 * It allowed the movement to continue despite a failed expectation.
 * It increased the importance of loyalty to Applewhite as the sole remaining leader.
-* It introduced a view of the body as disposable, a concept that would become increasingly important in later teachings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+* It introduced a view of the body as disposable, a concept that would become increasingly important in later teachings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
 </div>
 
@@ -320,13 +320,13 @@ In the context of failed UFO-related predictions, Nettles’s death functions mu
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-2-dark.svg" | relative_url }}" alt="Before Hale Bopp illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Long Attrition Before 1997
 
-The years after 1985 were not marked by rapid expansion. Instead, Heaven’s Gate became increasingly isolated and selective. Recruitment largely ceased for long periods, and members adopted a monastic existence centred on discipline, celibacy, obedience, and detachment from ordinary social life. The movement that had once attracted hundreds gradually contracted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">n 1997. Often described as a cult, it was founded...Read more...</span></span></span>
+The years after 1985 were not marked by rapid expansion. Instead, Heaven’s Gate became increasingly isolated and selective. Recruitment largely ceased for long periods, and members adopted a monastic existence centred on discipline, celibacy, obedience, and detachment from ordinary social life. The movement that had once attracted hundreds gradually contracted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">n 1997. Often described as a cult, it was founded...Read more...</span></span></span>
 
-Evidence of departures appears in several forms. Former members surfaced after the group’s 1997 deaths, demonstrating that not everyone who had committed to the movement remained until the end. Journalistic accounts and survivor testimony describe individuals who spent years inside the organisation before eventually deciding to leave. Others departed when the demands of communal life intensified or when doctrinal changes became harder to accept. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsHeaven&#x27;s Gate survivor reflects on the cult&#x27;s mass suicide...11 Mar 2022 — The cult began in the early 1970s and led to the larg...</span></span></span>
+Evidence of departures appears in several forms. Former members surfaced after the group’s 1997 deaths, demonstrating that not everyone who had committed to the movement remained until the end. Journalistic accounts and survivor testimony describe individuals who spent years inside the organisation before eventually deciding to leave. Others departed when the demands of communal life intensified or when doctrinal changes became harder to accept.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsHeaven&#x27;s Gate survivor reflects on the cult&#x27;s mass suicide...11 Mar 2022 — The cult began in the early 1970s and led to the larg...</span></span></span>
 
-A revealing example involves the group’s advocacy of extreme bodily control. The movement encouraged the suppression of sexuality and, in some cases, voluntary castration. At least one member reportedly left after an early castration attempt nearly resulted in death. This episode illustrates how practical and personal costs could drive attrition independently of any specific prophetic disappointment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">n 1997. Often described as a cult, it was founded...Read more...</span></span></span>
+A revealing example involves the group’s advocacy of extreme bodily control. The movement encouraged the suppression of sexuality and, in some cases, voluntary castration. At least one member reportedly left after an early castration attempt nearly resulted in death. This episode illustrates how practical and personal costs could drive attrition independently of any specific prophetic disappointment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">n 1997. Often described as a cult, it was founded...Read more...</span></span></span>
 
-By the mid-1990s, Heaven’s Gate no longer resembled the larger movement that had emerged in the 1970s. It had become a tightly bounded community with far fewer members than at its peak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+By the mid-1990s, Heaven’s Gate no longer resembled the larger movement that had emerged in the 1970s. It had become a tightly bounded community with far fewer members than at its peak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/npfSb3Ax1IU" title="What Really Happened in the Heaven&#x27;s Gate Cult? (REUPLOAD)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=npfSb3Ax1IU" target="_blank" rel="noopener noreferrer">What Really Happened in the Heaven&#x27;s Gate Cult? (REUPLOAD)</a></p><p class="youtube-embed-meta">Channel: Sommer Sanchez</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=npfSb3Ax1IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=npfSb3Ax1IU">Open on YouTube</a></p></div></div></div>
@@ -335,207 +335,207 @@ By the mid-1990s, Heaven’s Gate no longer resembled the larger movement that h
 
 The significance of these departures becomes clear when examining who remained. Attrition did not merely reduce numbers; it changed the composition of the movement.
 
-Those who stayed had already accepted years of deferred expectations, dramatic lifestyle restrictions, and major doctrinal revisions. They had lived through the failure of earlier assumptions, including the challenge posed by Nettles’s death, and had accepted new explanations rather than abandoning the belief system. In effect, the group had undergone a long process of self-selection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+Those who stayed had already accepted years of deferred expectations, dramatic lifestyle restrictions, and major doctrinal revisions. They had lived through the failure of earlier assumptions, including the challenge posed by Nettles’s death, and had accepted new explanations rather than abandoning the belief system. In effect, the group had undergone a long process of self-selection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
-This helps explain why later reinterpretations could gain traction among the remaining members. By the time Hale-Bopp became significant to the movement in the 1990s, the membership consisted largely of people who had already demonstrated a willingness to absorb disappointment and accept revised teachings. The smaller size of the group was therefore not evidence of stability but evidence of decades of filtering. Those most likely to reject failed expectations had largely departed earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+This helps explain why later reinterpretations could gain traction among the remaining members. By the time Hale-Bopp became significant to the movement in the 1990s, the membership consisted largely of people who had already demonstrated a willingness to absorb disappointment and accept revised teachings. The smaller size of the group was therefore not evidence of stability but evidence of decades of filtering. Those most likely to reject failed expectations had largely departed earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-3-dark.svg" | relative_url }}" alt="Before Hale Bopp illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_member_departures_512251_heavens_gate_prior_d_0f5299-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Heaven’s Gate Shows About Failed UFO Predictions
 
-Heaven’s Gate is often cited as a [UFO religion]({{ 'ufo-religion/' | relative_url }}) because of its belief in extraterrestrial salvation and spacecraft associated with higher beings. Yet its history before 1997 demonstrates that failed expectations do not automatically produce stronger commitment across an entire movement. Many people left over the years. Others stayed only after accepting increasingly substantial reinterpretations of earlier beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Heaven’s Gate is often cited as a [UFO religion]({{ 'ufo-religion/' | relative_url }}) because of its belief in extraterrestrial salvation and spacecraft associated with higher beings. Yet its history before 1997 demonstrates that failed expectations do not automatically produce stronger commitment across an entire movement. Many people left over the years. Others stayed only after accepting increasingly substantial reinterpretations of earlier beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-The crucial lesson is not that followers invariably “double down” after disappointment. Rather, Heaven’s Gate shows how a movement can survive repeated setbacks by losing members, revising doctrine, and retaining a smaller group that becomes progressively more committed. The final membership of 1997 was the product of decades of attrition as much as belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The crucial lesson is not that followers invariably “double down” after disappointment. Rather, Heaven’s Gate shows how a movement can survive repeated setbacks by losing members, revising doctrine, and retaining a smaller group that becomes progressively more committed. The final membership of 1997 was the product of decades of attrition as much as belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica+2People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Left Before Heaven&#x27;s Gate Ended?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Left Before Heaven&#x27;s Gate Ended?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Places Heaven&#x27;s Gate within the wider UFO-religion tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Heaven&#x27;s Gate within the wider UFO-religion tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
-        </h4>
-        <p class="fr-book-author">By Steven Hassan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
+</h4>
+<p class="fr-book-author">By Steven Hassan</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
-        </h4>
-        <p class="fr-book-author">By Amanda Montell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
+</h4>
+<p class="fr-book-author">By Amanda Montell</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”"><img src="{{ '/assets/images/marketplace-covers/88093169552128d6a9e5.jpg' | relative_url }}" alt="Listing image for Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”"><img src="{{ '/assets/images/marketplace-covers/88093169552128d6a9e5.jpg' | relative_url }}" alt="Listing image for Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Hale-Bopp Comet 1997 Jonathan Adams Grand Teton National Park Poster 18 x 24”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News"><img src="{{ '/assets/images/marketplace-covers/5a5a38a0ca6a3e0a1ed8.jpg' | relative_url }}" alt="Listing image for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News"><img src="{{ '/assets/images/marketplace-covers/5a5a38a0ca6a3e0a1ed8.jpg' | relative_url }}" alt="Listing image for 1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Poster Hale-Bopp Comet Perrine Bridge Twin Falls Idaho Sawyer &amp; Times News</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047"><img src="{{ '/assets/images/marketplace-covers/677660f3a16a491b2990.jpg' | relative_url }}" alt="Listing image for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047"><img src="{{ '/assets/images/marketplace-covers/677660f3a16a491b2990.jpg' | relative_url }}" alt="Listing image for OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">OUTER SPACE HALE BOPP COMET GLOSSY POSTER PICTURE PHOTO BANNER PRINT cool 6047</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus"><img src="{{ '/assets/images/marketplace-covers/169c37771b64fdcdb6b1.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus"><img src="{{ '/assets/images/marketplace-covers/169c37771b64fdcdb6b1.jpg' | relative_url }}" alt="Listing image for Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Hale-Bopp Grand Teton National Park By Jonathan Adams Poster 18x24 + Bonus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Hale Bopp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Hale Bopp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Hale+Bopp+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Hale Bopp poster" data-ebay-reference="before-hale-bopp-who-left-before-heaven-s-gate-ended-failed-predictions-hale-bopp-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ The crucial lesson is not that followers invariably “double down” after disa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ The crucial lesson is not that followers invariably “double down” after disa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ The crucial lesson is not that followers invariably “double down” after disa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ The crucial lesson is not that followers invariably “double down” after disa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ The crucial lesson is not that followers invariably “double down” after disa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,99 +741,99 @@ The crucial lesson is not that followers invariably “double down” after disa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</p></details>
    Published: May 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: people.com  
    Title: heavens gate cult suicide anniversary 11914222  
-   Link: <a href="https://people.com/heavens-gate-cult-suicide-anniversary-11914222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/heavens-gate-cult-suicide-anniversary-11914222</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mass suicide was carried out over three days in Rancho Santa Fe, California, with members ingesting barbiturates mixed with applesauc...</p></details>
+   Link:<a href="https://people.com/heavens-gate-cult-suicide-anniversary-11914222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/heavens-gate-cult-suicide-anniversary-11914222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mass suicide was carried out over three days in Rancho Santa Fe, California, with members ingesting barbiturates mixed with applesauc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n 1997. Often described as a cult, it was founded...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n 1997. Often described as a cult, it was founded...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Bonnie Nettles  
-   Link: <a href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonnie_Nettles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonnie_Nettles</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: heavens gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: people.com  
-   Link: <a href="https://people.com/crime/heavens-gate-cult-suicide-remembering-lives-lost/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/crime/heavens-gate-cult-suicide-remembering-lives-lost/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate religious cult, led by Marshall Applewhite, who also died that day.Read more...</p></details>
+   Link:<a href="https://people.com/crime/heavens-gate-cult-suicide-remembering-lives-lost/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/crime/heavens-gate-cult-suicide-remembering-lives-lost/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate religious cult, led by Marshall Applewhite, who also died that day.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHeaven&#x27;s Gate survivor reflects on the cult&#x27;s mass suicide...11 Mar 2022 — The cult began in the early 1970s and led to the larg...</p></details>
+   Link:<a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsHeaven&#x27;s Gate survivor reflects on the cult&#x27;s mass suicide...11 Mar 2022 — The cult began in the early 1970s and led to the larg...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateA charismatic leader convinces his devoted followers that salvation awaits aboard an alien spacecraft trailing a comet—leadi...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateA charismatic leader convinces his devoted followers that salvation awaits aboard an alien spacecraft trailing a comet—leadi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: the heavens gate cult was founded in the 1970s and became obsessed with the hale  
-   Link: <a href="https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult was founded in the 1970s and...The Heaven&#x27;s Gate cult was founded in the 1970s and became obsessed with the Hale...</p></details>
+   Link:<a href="https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult was founded in the 1970s and...The Heaven&#x27;s Gate cult was founded in the 1970s and became obsessed with the Hale...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members record farewell messagesHeaven&#x27;s Gate members were urged by Marshall Herff Applewhite to record goodbye messag...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members record farewell messagesHeaven&#x27;s Gate members were urged by Marshall Herff Applewhite to record goodbye messag...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — From cult members&#x27; eating habits to the sneakers the group wore duri...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — From cult members&#x27; eating habits to the sneakers the group wore duri...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: The 39 victims of the largest mass suicide on U.S  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>soil in...What was disturbing was how many times on a college campus I was approached by more than one “religious” group that was very c...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>soil in...What was disturbing was how many times on a college campus I was approached by more than one “religious” group that was very c...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in 1994 because I was looking to kill time before climbing Mountain...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in 1994 because I was looking to kill time before climbing Mountain...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oup.comHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Led by Marshall Applewhite, the Heaven&#x27;s Gate cult b...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oup.comHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Led by Marshall Applewhite, the Heaven&#x27;s Gate cult b...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: What Really Happened in the Heaven's Gate Cult? (REUPLOAD)  
-   Link: <a href="https://www.youtube.com/watch?v=npfSb3Ax1IU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npfSb3Ax1IU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=npfSb3Ax1IU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npfSb3Ax1IU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The BRUTALITY Of The Heaven's Gate Cult  
-   Link: <a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult survivors former members history The BRUTALITY Of The Heaven&#x27;s Gate Cult Kallmekris...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult survivors former members history The BRUTALITY Of The Heaven&#x27;s Gate Cult Kallmekris...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: 19931 hale bopp  
-   Link: <a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Hale-Bopp was an unusually bright comet that flew close to Earth in 1997...</p></details>
+   Link:<a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Hale-Bopp was an unusually bright comet that flew close to Earth in 1997...</p></details>

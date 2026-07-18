@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_offic
 
 ## Introduction
 
-Official reviews of UFO reports did not set out to test every alien prophecy, contactee prediction or apocalyptic landing date. Yet they played a central role in how such claims were judged. From Project Blue Book through the [Condon Report]({{ 'condon-report/' | relative_url }}) and into modern investigations by NASA and the Pentagon’s All-domain Anomaly Resolution Office (AARO), the recurring conclusion was not that every sighting had been explained, but that available evidence did not support claims of confirmed extraterrestrial intervention. That distinction mattered for prophecy failures. Many UFO predictions depended on the assumption that alien visitors had already been established as a real, verified presence. Official reviews repeatedly found that this evidential foundation was missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
+Official reviews of UFO reports did not set out to test every alien prophecy, contactee prediction or apocalyptic landing date. Yet they played a central role in how such claims were judged. From Project Blue Book through the [Condon Report]({{ 'condon-report/' | relative_url }}) and into modern investigations by NASA and the Pentagon’s All-domain Anomaly Resolution Office (AARO), the recurring conclusion was not that every sighting had been explained, but that available evidence did not support claims of confirmed extraterrestrial intervention. That distinction mattered for prophecy failures. Many UFO predictions depended on the assumption that alien visitors had already been established as a real, verified presence. Official reviews repeatedly found that this evidential foundation was missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-1-dark.svg" | relative_url }}" alt="Official Reviews illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,11 +290,11 @@ Rather than disproving specific prophecies one by one, these reviews raised the 
 
 ### Blue Book's final conclusions
 
-Project Blue Book accumulated more than two decades of UFO reports and remains the best-known official investigation of the subject. Its final assessment is often misunderstood. The Air Force did not claim that every case had been solved. Hundreds of reports remained officially unidentified. However, the programme concluded that no investigated case demonstrated extraterrestrial vehicles, technology beyond known scientific understanding, or a threat to national security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
+Project Blue Book accumulated more than two decades of UFO reports and remains the best-known official investigation of the subject. Its final assessment is often misunderstood. The Air Force did not claim that every case had been solved. Hundreds of reports remained officially unidentified. However, the programme concluded that no investigated case demonstrated extraterrestrial vehicles, technology beyond known scientific understanding, or a threat to national security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
 
-This distinction had direct implications for prophecy claims. UFO contact movements frequently treated unexplained sightings as evidence that alien visitors were already interacting with humanity and would soon reveal themselves through landings, warnings or world-changing events. Blue Book's conclusions challenged that logic. An unexplained report was not treated as proof of alien involvement; it was simply a report lacking enough information for a confident identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
+This distinction had direct implications for prophecy claims. UFO contact movements frequently treated unexplained sightings as evidence that alien visitors were already interacting with humanity and would soon reveal themselves through landings, warnings or world-changing events. Blue Book's conclusions challenged that logic. An unexplained report was not treated as proof of alien involvement; it was simply a report lacking enough information for a confident identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
 
-As a result, when predicted landings or interventions failed to occur, official reviewers did not see those failures as contradictions to established evidence. From the Air Force perspective, the underlying claim—that extraterrestrial visitors had already been demonstrated—had never been substantiated in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
+As a result, when predicted landings or interventions failed to occur, official reviewers did not see those failures as contradictions to established evidence. From the Air Force perspective, the underlying claim—that extraterrestrial visitors had already been demonstrated—had never been substantiated in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ As a result, when predicted landings or interventions failed to occur, official 
 
 A recurring feature of UFO prophecy narratives is the argument that unexplained sightings leave room for extraordinary conclusions. Official reviews consistently resisted that inference.
 
-Blue Book's record showed that a residual category of [unidentified cases]({{ 'unidentified-cases/' | relative_url }}) remained after investigation. Yet investigators did not interpret that remainder as confirmation of alien visitation. The reasoning was methodological: a lack of explanation does not automatically establish a preferred explanation. The gap between "unidentified" and "extraterrestrial" became one of the central themes of later official reviews as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
+Blue Book's record showed that a residual category of [unidentified cases]({{ 'unidentified-cases/' | relative_url }}) remained after investigation. Yet investigators did not interpret that remainder as confirmation of alien visitation. The reasoning was methodological: a lack of explanation does not automatically establish a preferred explanation. The gap between "unidentified" and "extraterrestrial" became one of the central themes of later official reviews as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
 
 For prophecy claims, this was a significant obstacle. Predictions of imminent contact often relied on converting [uncertainty]({{ 'uncertainty/' | relative_url }}) into certainty. Official reviews instead treated uncertainty as a reason for caution, making it difficult to use [unresolved]({{ 'unresolved/' | relative_url }}) sightings as evidence that prophetic forecasts were likely to succeed.
 
@@ -312,29 +312,29 @@ For prophecy claims, this was a significant obstacle. Predictions of imminent co
 
 ## How the Condon Report Reframed the Debate
 
-The University of Colorado study led by physicist Edward Condon represented a shift from military case handling to a broader scientific assessment. Its conclusion was not that every report had an ordinary explanation. Rather, the study argued that decades of UFO investigation had produced no meaningful addition to scientific knowledge and offered little reason to expect that continued large-scale investigations would yield revolutionary discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+The University of Colorado study led by physicist Edward Condon represented a shift from military case handling to a broader scientific assessment. Its conclusion was not that every report had an ordinary explanation. Rather, the study argued that decades of UFO investigation had produced no meaningful addition to scientific knowledge and offered little reason to expect that continued large-scale investigations would yield revolutionary discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-This conclusion mattered because many UFO prophecies depended on an expectation that accumulating sightings were steadily building toward public proof of alien contact. The Condon Report rejected that narrative. Instead of viewing UFO reports as a growing evidential trail toward confirmation, it found that the accumulated record had not demonstrated extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+This conclusion mattered because many UFO prophecies depended on an expectation that accumulating sightings were steadily building toward public proof of alien contact. The Condon Report rejected that narrative. Instead of viewing UFO reports as a growing evidential trail toward confirmation, it found that the accumulated record had not demonstrated extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-The report's influence extended beyond its own findings. The Air Force relied heavily on the study when deciding to close Project Blue Book in 1969. The message was clear: despite years of investigation, officials did not see evidence that justified claims of confirmed alien intervention or imminent [disclosure]({{ 'disclosure/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDThe Air Force investigation of UFO&#x27;s began in 1948 and...September 25, 2012 — On December 17, 1969 the Secretary of the Air Force...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
+The report's influence extended beyond its own findings. The Air Force relied heavily on the study when deciding to close Project Blue Book in 1969. The message was clear: despite years of investigation, officials did not see evidence that justified claims of confirmed alien intervention or imminent [disclosure]({{ 'disclosure/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[WHS ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">WHS ESDThe Air Force investigation of UFO&#x27;s began in 1948 and...September 25, 2012 — On December 17, 1969 the Secretary of the Air Force...</span><span class="citation-popover-meta">Published: September 25, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-2-dark.svg" | relative_url }}" alt="Official Reviews illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The National Academy of Sciences review
 
-An independent panel of the National Academy of Sciences reviewed the Condon study. Its assessment reinforced the broader conclusion. According to the review, available evidence did not justify assigning high scientific priority to UFO investigations, and extraterrestrial visitation was considered an unlikely explanation for the available data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+An independent panel of the National Academy of Sciences reviewed the Condon study. Its assessment reinforced the broader conclusion. According to the review, available evidence did not justify assigning high scientific priority to UFO investigations, and extraterrestrial visitation was considered an unlikely explanation for the available data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-For prophecy claims, this independent endorsement was important. It meant that scepticism toward alien-contact predictions was not simply an Air Force position. Scientific reviewers examining the same body of evidence reached a similar judgement: extraordinary conclusions required stronger evidence than the UFO record had provided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
+For prophecy claims, this independent endorsement was important. It meant that scepticism toward alien-contact predictions was not simply an Air Force position. Scientific reviewers examining the same body of evidence reached a similar judgement: extraordinary conclusions required stronger evidence than the UFO record had provided.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
 ## AARO and NASA: Modern Versions of the Same Challenge
 
 Contemporary reviews have adopted different terminology, using "unidentified anomalous phenomena" (UAP) rather than UFOs, but the evidential framework remains strikingly similar.
 
-NASA's 2023 independent study stated that there was no conclusive evidence in the peer-reviewed scientific literature for an extraterrestrial origin of UAP. At the same time, the agency emphasised that many reports suffer from inadequate, inconsistent or poorly calibrated data. The recommendation was not to assume alien explanations but to improve data collection and analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA's 2023 independent study stated that there was no conclusive evidence in the peer-reviewed scientific literature for an extraterrestrial origin of UAP. At the same time, the agency emphasised that many reports suffer from inadequate, inconsistent or poorly calibrated data. The recommendation was not to assume alien explanations but to improve data collection and analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-The Pentagon's AARO reached a comparable conclusion after reviewing decades of investigations. Its historical review found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed extraterrestrial technology. AARO also argued that many unresolved cases might be explained if better data were available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us ufo pentagon report extraterrestrial review</span><span class="citation-popover-snippet">investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
+The Pentagon's AARO reached a comparable conclusion after reviewing decades of investigations. Its historical review found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed extraterrestrial technology. AARO also argued that many unresolved cases might be explained if better data were available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us ufo pentagon report extraterrestrial review</span><span class="citation-popover-snippet">investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</span><span class="citation-popover-meta">Published: March 8, 2024</span></span></span>
 
-These findings are particularly relevant to failed UFO predictions because they target a common assumption behind them. Many prophecies implicitly treat alien visitation as an established fact and then make forecasts about what visitors will do next. Modern reviews reverse that order. They argue that the foundational claim itself remains unverified. Until that evidential hurdle is cleared, predictions built upon it remain speculative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+These findings are particularly relevant to failed UFO predictions because they target a common assumption behind them. Many prophecies implicitly treat alien visitation as an established fact and then make forecasts about what visitors will do next. Modern reviews reverse that order. They argue that the foundational claim itself remains unverified. Until that evidential hurdle is cleared, predictions built upon it remain speculative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-3-dark.svg" | relative_url }}" alt="Official Reviews illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_project_blue_book_07c262_official_reviews_evi_cb06c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -353,201 +353,201 @@ Across Blue Book, the Condon study, the National Academy review, NASA's UAP repo
 
 </div>
 
-Because official reviews consistently failed to find verified evidence of extraterrestrial visitation, they left alien prophecy claims without the evidential foundation many of them assumed. When predicted landings, warnings, rescues or disclosures failed to occur, the official record did not require complicated explanations. From the perspective of these reviews, the problem was not merely that a forecast missed its date; it was that the underlying claim of confirmed alien involvement had never been demonstrated to the required evidential standard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Axios+3Air Force+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
+Because official reviews consistently failed to find verified evidence of extraterrestrial visitation, they left alien prophecy claims without the evidential foundation many of them assumed. When predicted landings, warnings, rescues or disclosures failed to occur, the official record did not require complicated explanations. From the perspective of these reviews, the problem was not merely that a forecast missed its date; it was that the underlying claim of confirmed alien involvement had never been demonstrated to the required evidential standard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Axios+3Air Force+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">With the termination of Project Blue Book, the Air...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKnXUlwdG6w" title="UFOs: What Mysteries Could NASA’s New UAP Report Help Solve? | WSJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer">UFOs: What Mysteries Could NASA’s New UAP Report Help Solve? | WSJ</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal &middot; Views: 400.9K &middot; Uploaded: September 2023 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKnXUlwdG6w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Reviews That Raised the Evidence Bar. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Reviews That Raised the Evidence Bar. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines official investigations and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official investigations and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Connects official reviews, evidence standards, and UFO research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects official reviews, evidence standards, and UFO research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why extraordinary claims require stronger evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why extraordinary claims require stronger evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for official UFO review programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official UFO review programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien galactic visitor pin badge"><img src="{{ '/assets/images/marketplace-covers/61aa0e35180e7f12bb3f.jpg' | relative_url }}" alt="Listing image for Alien galactic visitor pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien galactic visitor pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien galactic visitor pin badge"><img src="{{ '/assets/images/marketplace-covers/61aa0e35180e7f12bb3f.jpg' | relative_url }}" alt="Listing image for Alien galactic visitor pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien galactic visitor pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW"><img src="{{ '/assets/images/marketplace-covers/e97195bd83724915a8fa.jpg' | relative_url }}" alt="Listing image for Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW"><img src="{{ '/assets/images/marketplace-covers/e97195bd83724915a8fa.jpg' | relative_url }}" alt="Listing image for Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Alien - Ripley - Fansets - Colored Enamel - Metal Pin - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible pin" data-ebay-reference="official-reviews-c2748e-the-reviews-that-raised-the-evidence-bar-failed-predictions-alien-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ Because official reviews consistently failed to find verified evidence of extrat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ Because official reviews consistently failed to find verified evidence of extrat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ Because official reviews consistently failed to find verified evidence of extrat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ Because official reviews consistently failed to find verified evidence of extrat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ Because official reviews consistently failed to find verified evidence of extrat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,156 +753,156 @@ Because official reviews consistently failed to find verified evidence of extrat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: colorado.edu  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Colorado BoulderThe Condon Report: CU Boulder&#x27;s Historic UFO StudyNov 5, 2021 — The “Condon Report” officially concluded UF...</p></details>
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Colorado BoulderThe Condon Report: CU Boulder&#x27;s Historic UFO StudyNov 5, 2021 — The “Condon Report” officially concluded UF...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Air Force investigation of UFO&#x27;s began in 1948 and...September 25, 2012 — On December 17, 1969 the Secretary of the Air Force...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDThe Air Force investigation of UFO&#x27;s began in 1948 and...September 25, 2012 — On December 17, 1969 the Secretary of the Air Force...</p></details>
    Published: September 25, 2012  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 —... evidence of extraterrestrial life and there is no evidence that UAPs are extraterrestrial.... UAP a...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 —... evidence of extraterrestrial life and there is no evidence that UAPs are extraterrestrial.... UAP a...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: axios.com  
    Title: us ufo pentagon report extraterrestrial review  
-   Link: <a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</p></details>
+   Link:<a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyMarch 8, 2024 — A recent unclassified report from the...</p></details>
    Published: March 8, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookNo UFO reported, investigated, and evaluated by the Air Force was ever an indication of threat to our national securi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookNo UFO reported, investigated, and evaluated by the Air Force was ever an indication of threat to our national securi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Bad Data, Not Aliens, May Be behind UFO Surge, NASA Team Says&quot;.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Bad Data, Not Aliens, May Be behind UFO Surge, NASA Team Says&quot;.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: esd.whs.mil  
    Title: mil IMMEDIAT E RELEASE  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RELEASE December 17, 1969 AIR FORCE...22 May 2017 — As a result of investigating UFO reports since 1948, the conclusions of Project Blue...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RELEASE December 17, 1969 AIR FORCE...22 May 2017 — As a result of investigating UFO reports since 1948, the conclusions of Project Blue...</p></details>
    Published: December 17, 1969  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Condon Report | NASA's Unexplained Files  
-   Link: <a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_W7SqS6UhE4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_W7SqS6UhE4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the Air...Read more...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the Air...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe Air Force research did not locate or develop any information that the &quot;Roswell Incident&quot; was a UFO event n...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe Air Force research did not locate or develop any information that the &quot;Roswell Incident&quot; was a UFO event n...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force from 1952 to 1969, recorded more than 12,000 sightings, of which 701 remained “unidentified.” The...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force from 1952 to 1969, recorded more than 12,000 sightings, of which 701 remained “unidentified.” The...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
    Title: Condon Report  
-   Link: <a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO studyAn American obsession with the UFO phenomenon was underway. In the hot summer of 1952 a provocative series of radar and visual s...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO studyAn American obsession with the UFO phenomenon was underway. In the hot summer of 1952 a provocative series of radar and visual s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gutenberg.org  
    Title: USA F Fact Sheet 95-03 by United States  
-   Link: <a href="https://www.gutenberg.org/ebooks/25674" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/25674</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force3 Jan 2021 — This document presents an overview of the Air Force&#x27;s investigations into Unidentified Flying Objects (UFOs) throug...</p></details>
+   Link:<a href="https://www.gutenberg.org/ebooks/25674" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/25674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force3 Jan 2021 — This document presents an overview of the Air Force&#x27;s investigations into Unidentified Flying Objects (UFOs) throug...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: origins.osu.edu  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | OriginsDec 22, 2024 — In its final analysis, Project Blue Book concluded that UFOs did not pose a thr...</p></details>
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | OriginsDec 22, 2024 — In its final analysis, Project Blue Book concluded that UFOs did not pose a thr...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports since. 1948, the conclusions of Project Blue Book were: (1) no UFO reported, investigated and evaluated by the Air Force was...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports since. 1948, the conclusions of Project Blue Book were: (1) no UFO reported, investigated and evaluated by the Air Force was...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAfter investigations found no evidence of any UFO that was extraterrestrial in nature or...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsAfter investigations found no evidence of any UFO that was extraterrestrial in nature or...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Alien visitors could have very similar tech to us if we&#x27;re near the threshold of what&#x27;s p...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Alien visitors could have very similar tech to us if we&#x27;re near the threshold of what&#x27;s p...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...[NASA UAP study](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
+   Link:<a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...[NASA UAP study](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: jstor.org  
    Title: (UFO's) was made public last week, and it contained bad news for flying- saucer  
-   Link: <a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Study: Condon Group Finds No Evidence of Visits...by PM Boffey · 1969 · Cited by 14 — The final report* of the first exten- sive stu...</p></details>
+   Link:<a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Study: Condon Group Finds No Evidence of Visits...by PM Boffey · 1969 · Cited by 14 — The final report* of the first exten- sive stu...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aa.com.tr  
    Title: nasa study team finds no evidence ufos have extraterrestrial origin  
-   Link: <a href="https://www.aa.com.tr/en/science-technology/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin/2992189" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/science-technology/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin/2992189</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA study team finds no evidence UFOs have...Sep 14, 2023 — NASA released a report Thursday that said there is no conclusive evidence t...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/science-technology/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin/2992189" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/science-technology/nasa-study-team-finds-no-evidence-ufos-have-extraterrestrial-origin/2992189</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA study team finds no evidence UFOs have...Sep 14, 2023 — NASA released a report Thursday that said there is no conclusive evidence t...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...r/space - NASA panel: No convincing evidence for extraterrestrial life connected with UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...r/space - NASA panel: No convincing evidence for extraterrestrial life connected with UAP...</p></details>

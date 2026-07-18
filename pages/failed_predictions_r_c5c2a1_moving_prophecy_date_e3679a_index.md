@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-moving/
 description: Focused pages that expand on Moved Dates.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a
 parent_title: Moved Dates
@@ -16,7 +16,7 @@ parent_permalink: /moved-dates/
 
 # Explore Topics in Moved Dates
 
-The following pages expand on the main **[Moved Dates]({{ '/moved-dates/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Moved Dates]({{ '/moved-dates/' | relative_url }})** page and cover its key branches in.
 
 - [Hostile Forces]({{ '/hostile-forces/' | relative_url }})
 - [Misread Dates]({{ '/misread-dates/' | relative_url }})

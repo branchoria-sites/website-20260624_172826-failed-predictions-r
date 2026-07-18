@@ -278,20 +278,20 @@ When a predicted alien landing, rescue mission, or cosmic transformation fails t
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_costly_sacrifices_pu_e8587b-Illustration-1-dark.svg" | relative_url }}" alt="Sunk Costs illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_costly_sacrifices_pu_e8587b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_costly_sacrifices_pu_e8587b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Across several well-documented UFO-related prophetic movements, some believers altered careers, sold possessions, relocated across countries, severed relationships, abandoned studies, or reorganised their entire identities around an expected extraterrestrial event. The failed date becomes the memorable headline. The sacrifices made before the deadline often become invisible. Understanding those costs helps explain why failed UFO prophecies can leave complicated personal aftermaths long after the jokes fade. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Across several well-documented UFO-related prophetic movements, some believers altered careers, sold possessions, relocated across countries, severed relationships, abandoned studies, or reorganised their entire identities around an expected extraterrestrial event. The failed date becomes the memorable headline. The sacrifices made before the deadline often become invisible. Understanding those costs helps explain why failed UFO prophecies can leave complicated personal aftermaths long after the jokes fade.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8nGLzE-vA18" title="God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer">God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8nGLzE-vA18">Open on YouTube</a></p></div></div></div>
 
 ## Property, Work, and Family Losses
 
-The most famous UFO prophecy case in social science is the group around [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), later popularised in *When Prophecy Fails*. Members believed they would be rescued by a flying saucer before a catastrophic flood. Contemporary accounts and later summaries report that some followers took concrete steps demonstrating commitment: leaving jobs, disrupting studies, ending relationships, giving away money, and disposing of possessions in preparation for departure. These were not symbolic gestures. They represented real-world investments made before the predicted rescue failed to materialise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The most famous UFO prophecy case in social science is the group around [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), later popularised in *When Prophecy Fails*. Members believed they would be rescued by a flying saucer before a catastrophic flood. Contemporary accounts and later summaries report that some followers took concrete steps demonstrating commitment: leaving jobs, disrupting studies, ending relationships, giving away money, and disposing of possessions in preparation for departure. These were not symbolic gestures. They represented real-world investments made before the predicted rescue failed to materialise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The Chen Tao movement offers another example. Founded in Taiwan and later relocated to the United States, the group predicted divine and extraterrestrial events culminating in March 1998. Followers moved internationally, settled in [Garland]({{ 'garland/' | relative_url }}), Texas, and collectively purchased numerous homes in anticipation of the prophecy. The migration itself required financial resources, career disruption, and separation from existing social networks. After the predicted events failed, members faced not only theological disappointment but also the practical consequences of uprooting their lives. Some reportedly began preparing to sell homes and return to their previous lives almost immediately after the prophecy collapsed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+The Chen Tao movement offers another example. Founded in Taiwan and later relocated to the United States, the group predicted divine and extraterrestrial events culminating in March 1998. Followers moved internationally, settled in [Garland]({{ 'garland/' | relative_url }}), Texas, and collectively purchased numerous homes in anticipation of the prophecy. The migration itself required financial resources, career disruption, and separation from existing social networks. After the predicted events failed, members faced not only theological disappointment but also the practical consequences of uprooting their lives. Some reportedly began preparing to sell homes and return to their previous lives almost immediately after the prophecy collapsed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-In the Heaven’s Gate movement, members embraced an extreme communal lifestyle centred on expectations of eventual extraterrestrial transition. Followers surrendered possessions, detached themselves from conventional social life, practised celibacy, and lived according to strict communal rules. Many spent years reorganising their identities around the movement’s worldview. Although Heaven’s Gate ended differently from most failed-prophecy cases, the group illustrates how UFO-related beliefs can demand long-term sacrifices that are rarely captured by later public [mockery]({{ 'mockery/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+In the Heaven’s Gate movement, members embraced an extreme communal lifestyle centred on expectations of eventual extraterrestrial transition. Followers surrendered possessions, detached themselves from conventional social life, practised celibacy, and lived according to strict communal rules. Many spent years reorganising their identities around the movement’s worldview. Although Heaven’s Gate ended differently from most failed-prophecy cases, the group illustrates how UFO-related beliefs can demand long-term sacrifices that are rarely captured by later public [mockery]({{ 'mockery/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-Even [leaders]({{ 'leaders/' | relative_url }}) and prominent believers sometimes paid professional costs. Evidence relating to the Martin group indicates that Charles Laughead, a key supporter of the prophecy, lost his employment after extensive UFO-related advocacy before the predicted catastrophe date. The failed prediction was therefore not merely an embarrassing belief; it was connected to tangible economic consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: christianscholars.com">[Christian Scholar’s Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">christianscholars.com</span><span class="citation-popover-snippet">job due to his UFO proselytizing before the failed prophecy. In addition, as Kelly notes, “Even though Martin publicly walked back her...</span></span></span>
+Even [leaders]({{ 'leaders/' | relative_url }}) and prominent believers sometimes paid professional costs. Evidence relating to the Martin group indicates that Charles Laughead, a key supporter of the prophecy, lost his employment after extensive UFO-related advocacy before the predicted catastrophe date. The failed prediction was therefore not merely an embarrassing belief; it was connected to tangible economic consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: christianscholars.com">[Christian Scholar’s Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">christianscholars.com</span><span class="citation-popover-snippet">job due to his UFO proselytizing before the failed prophecy. In addition, as Kelly notes, “Even though Martin publicly walked back her...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_GMmkrXMLDw" title="Heaven’s Gate cult members record farewell messages: 20/20 ‘The Cult Next Door’ Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer">Heaven’s Gate cult members record farewell messages: 20/20 ‘The Cult Next Door’ Preview</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_GMmkrXMLDw">Open on YouTube</a></p></div></div></div>
@@ -302,7 +302,7 @@ The more a believer has invested in a prediction, the harder it can become to ac
 
 A person who casually expects an alien landing can simply move on when nothing happens. Someone who has sold possessions, moved across the world, alienated relatives, or abandoned a career faces a different calculation. Admitting the prophecy failed may also mean admitting that years of effort, money, and emotional investment cannot be recovered.
 
-This dynamic helps explain why some followers seek reinterpretations after a failed prediction. In the [Martin case]({{ 'martin-case/' | relative_url }}), believers generated alternative explanations after the expected catastrophe did not occur, including claims that their faith had somehow helped avert disaster. Such responses are often discussed through the concept of [cognitive dissonance]({{ 'dissonance/' | relative_url }})—the psychological discomfort that arises when deeply held beliefs collide with contrary evidence. Whether every historical account has been interpreted correctly remains debated by recent researchers, but the underlying problem remains clear: the greater the sacrifice, the greater the pressure to find meaning in the failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: templetonworldcharity.org">[Templeton World Charity Foundation, Inc.+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">templetonworldcharity.org</span><span class="citation-popover-title">Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?</span><span class="citation-popover-snippet">The Power of Us…Dorothy Martin, who seemingly was an ordinary... failed prophecy? Then something astonishing happened. At 4:45am Dorothy...</span></span></span>
+This dynamic helps explain why some followers seek reinterpretations after a failed prediction. In the [Martin case]({{ 'martin-case/' | relative_url }}), believers generated alternative explanations after the expected catastrophe did not occur, including claims that their faith had somehow helped avert disaster. Such responses are often discussed through the concept of [cognitive dissonance]({{ 'dissonance/' | relative_url }})—the psychological discomfort that arises when deeply held beliefs collide with contrary evidence. Whether every historical account has been interpreted correctly remains debated by recent researchers, but the underlying problem remains clear: the greater the sacrifice, the greater the pressure to find meaning in the failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: templetonworldcharity.org">[Templeton World Charity Foundation, Inc.+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">templetonworldcharity.org</span><span class="citation-popover-title">Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?</span><span class="citation-popover-snippet">The Power of Us…Dorothy Martin, who seemingly was an ordinary... failed prophecy? Then something astonishing happened. At 4:45am Dorothy...</span></span></span>
 
 Importantly, sacrifice is not only financial. Believers may invest:
 
@@ -325,11 +325,11 @@ Those losses cannot be recovered simply because a prediction date passes.
 
 Humour tends to focus on the moment of failure: the empty sky, the missed deadline, the prediction that never happened. That framing creates a simple story with a clear winner and loser. Yet the [aftermath]({{ 'aftermath/' | relative_url }}) is usually more complicated.
 
-Public ridicule often treats believers as if they experienced only intellectual error. In reality, many are dealing simultaneously with embarrassment, grief, financial disruption, damaged relationships, and uncertainty about how to rebuild ordinary life. A person who sold a house, left a job, or moved countries because of a UFO prophecy faces practical problems that persist long after media attention disappears. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Public ridicule often treats believers as if they experienced only intellectual error. In reality, many are dealing simultaneously with embarrassment, grief, financial disruption, damaged relationships, and uncertainty about how to rebuild ordinary life. A person who sold a house, left a job, or moved countries because of a UFO prophecy faces practical problems that persist long after media attention disappears.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
 Mockery can also obscure differences among followers. Not everyone in a prophetic movement commits equally. Some are curious observers. Others make major sacrifices. When a failed prediction becomes a cultural joke, these distinctions vanish. The believer who attended a meeting and the believer who reorganised an entire life are often treated as identical.
 
-Recent scholarship revisiting famous UFO prophecy cases has further complicated popular narratives. Research challenging aspects of *When Prophecy Fails* argues that some participants may have abandoned beliefs more quickly than the classic account suggested. If true, that would mean certain followers were not stubbornly clinging to error but instead attempting to rebuild after costly commitments had already been made. The human story then becomes less about irrational persistence and more about the difficult process of recovering from a failed expectation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They also expose...Read more...</span></span></span>
+Recent scholarship revisiting famous UFO prophecy cases has further complicated popular narratives. Research challenging aspects of *When Prophecy Fails* argues that some participants may have abandoned beliefs more quickly than the classic account suggested. If true, that would mean certain followers were not stubbornly clinging to error but instead attempting to rebuild after costly commitments had already been made. The human story then becomes less about irrational persistence and more about the difficult process of recovering from a failed expectation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">They also expose...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5V6FmVS_Gr0" title="10 Doomsday Cults That Got It Wrong | When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer">10 Doomsday Cults That Got It Wrong | When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: MythVision Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5V6FmVS_Gr0">Open on YouTube</a></p></div></div></div>
@@ -338,200 +338,200 @@ Recent scholarship revisiting famous UFO prophecy cases has further complicated 
 
 The public memory of failed UFO predictions usually centres on absurdity: the saucer that never arrived, the alien rescue that never happened, the prophecy date that passed uneventfully. Yet the historical record repeatedly shows that some followers had already wagered significant parts of their lives before those moments occurred.
 
-Homes were purchased or abandoned. Careers were disrupted. Relationships were strained. Personal identities became tied to expectations of extraterrestrial intervention. When the prediction failed, the immediate spectacle attracted laughter, but the deeper story involved people confronting the consequences of decisions made in sincere anticipation of a future they believed was imminent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Homes were purchased or abandoned. Careers were disrupted. Relationships were strained. Personal identities became tied to expectations of extraterrestrial intervention. When the prediction failed, the immediate spectacle attracted laughter, but the deeper story involved people confronting the consequences of decisions made in sincere anticipation of a future they believed was imminent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_costly_sacrifices_pu_e8587b-Illustration-3-dark.svg" | relative_url }}" alt="Sunk Costs illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_costly_sacrifices_pu_e8587b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3_costly_sacrifices_pu_e8587b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What UFO Prophecy Punchlines Leave Out. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What UFO Prophecy Punchlines Leave Out. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Documents the personal costs associated with prophetic commitment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the personal costs associated with prophetic commitment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps explain commitment escalation and sunk costs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain commitment escalation and sunk costs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Places costly commitments in a wider historical pattern.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Places costly commitments in a wider historical pattern.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
-        </h4>
-        <p class="fr-book-author">By Steven Hassan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
+</h4>
+<p class="fr-book-author">By Steven Hassan</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="sunk-costs-what-ufo-prophecy-punchlines-leave-out-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ Homes were purchased or abandoned. Careers were disrupted. Relationships were st
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ Homes were purchased or abandoned. Careers were disrupted. Relationships were st
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ Homes were purchased or abandoned. Careers were disrupted. Relationships were st
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ Homes were purchased or abandoned. Careers were disrupted. Relationships were st
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ Homes were purchased or abandoned. Careers were disrupted. Relationships were st
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,120 +737,120 @@ Homes were purchased or abandoned. Careers were disrupted. Relationships were st
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Chen Tao Became a “Suicide Cult”1by RJ Cook · 2014 — In fact, some members began putting houses up for sale and making plans to retur...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Chen Tao Became a “Suicide Cult”1by RJ Cook · 2014 — In fact, some members began putting houses up for sale and making plans to retur...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History, Beliefs, &amp; Facts22 May 2026 — Chen Tao, new religious movement that was founded by Chen Hong-min in Pei-pu, Hsin-chu county, Tai...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History, Beliefs, &amp; Facts22 May 2026 — Chen Tao, new religious movement that was founded by Chen Hong-min in Pei-pu, Hsin-chu county, Tai...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: templetonworldcharity.org  
    Title: Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?  
-   Link: <a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary... failed prophecy? Then something astonishing happened. At 4:45am Dorothy...</p></details>
+   Link:<a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary... failed prophecy? Then something astonishing happened. At 4:45am Dorothy...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate survivor reflects on the cult&#x27;s mass suicide...11 Mar 2022 — The cult began in the early 1970s and led to the largest mass...</p></details>
+   Link:<a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate survivor reflects on the cult&#x27;s mass suicide...11 Mar 2022 — The cult began in the early 1970s and led to the largest mass...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>job due to his UFO proselytizing before the failed prophecy. In addition, as Kelly notes, “Even though Martin publicly walked back her...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>job due to his UFO proselytizing before the failed prophecy. In addition, as Kelly notes, “Even though Martin publicly walked back her...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...13 Nov 2025 — New research questions When Prophecy Fails, the classic study of a...</p></details>
+   Link:<a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...13 Nov 2025 — New research questions When Prophecy Fails, the classic study of a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They also expose...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They also expose...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members record farewell messagesHeaven&#x27;s Gate members were urged by Marshall Herff Applewhite to record goodbye messag...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_GMmkrXMLDw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GMmkrXMLDw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members record farewell messagesHeaven&#x27;s Gate members were urged by Marshall Herff Applewhite to record goodbye messag...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 292144959 Failed Prophecy and Group Demise The Case of Chen Tao  
-   Link: <a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy and Group Demise: The Case of Chen TaoFailed prophecy may lead to religious demise as Wright and Greil (2011) have shown...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy and Group Demise: The Case of Chen TaoFailed prophecy may lead to religious demise as Wright and Greil (2011) have shown...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — From cult members&#x27; eating habits to the sneakers the group wore duri...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — From cult members&#x27; eating habits to the sneakers the group wore duri...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: andzwa.medium.com  
    Title: cognitive dissonance and doomsday cults 785c9403cae5  
-   Link: <a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerThe buzz of excitement as people pondered what aliens look like. What colour sky would wait...</p></details>
+   Link:<a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerThe buzz of excitement as people pondered what aliens look like. What colour sky would wait...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: The 39 victims of the largest mass suicide on U.S  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>soil in...What was disturbing was how many times on a college campus I was approached by more than one “religious” group that was very c...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>soil in...What was disturbing was how many times on a college campus I was approached by more than one “religious” group that was very c...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: alexquigley.co.uk  
    Title: when prophecies fail and evidence backfires  
-   Link: <a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2017 — Instead of rejecting Martin and her failed prophecies, the group quickly adapted and found a narrative that could see them...</p></details>
+   Link:<a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2017 — Instead of rejecting Martin and her failed prophecies, the group quickly adapted and found a narrative that could see them...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: b-mag.bhasvic.ac.uk  
    Title: It centred around Marshall Applewhite and Bonnie Nettles.Read more  
-   Link: <a href="https://b-mag.bhasvic.ac.uk/blog/221-tragic-manipulation-at-the-heart-of-a-cult-heavens-gate" target="_blank" rel="noopener noreferrer nofollow">https://b-mag.bhasvic.ac.uk/blog/221-tragic-manipulation-at-the-heart-of-a-cult-heavens-gate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>manipulation at the heart of a cult: Heaven&#x27;s Gate - B-Mag22 Oct 2024 — Heaven&#x27;s Gate is perhaps one of the most famous and tragic cults...</p></details>
+   Link:<a href="https://b-mag.bhasvic.ac.uk/blog/221-tragic-manipulation-at-the-heart-of-a-cult-heavens-gate" target="_blank" rel="noopener noreferrer nofollow">https://b-mag.bhasvic.ac.uk/blog/221-tragic-manipulation-at-the-heart-of-a-cult-heavens-gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>manipulation at the heart of a cult: Heaven&#x27;s Gate - B-Mag22 Oct 2024 — Heaven&#x27;s Gate is perhaps one of the most famous and tragic cults...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Q-e2k7QFU0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q-e2k7QFU0k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails Leon Festinger Seekers Dorothy Martin End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Cogito Cr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q-e2k7QFU0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q-e2k7QFU0k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails Leon Festinger Seekers Dorothy Martin End of Days Cults, the Day After | Cognitive Dissonance (Video Essay) Cogito Cr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of cognitive dissonance. New archival evidence reveals...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of cognitive dissonance. New archival evidence reveals...</p></details>

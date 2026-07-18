@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-claims-vs/
 description: Focused pages that expand on Claims vs Sightings.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_claims_vs_sightings_58753d
 parent_title: Claims vs Sightings
@@ -16,7 +16,7 @@ parent_permalink: /claims-vs-sightings/
 
 # Explore Topics in Claims vs Sightings
 
-The following pages expand on the main **[Claims vs Sightings]({{ '/claims-vs-sightings/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Claims vs Sightings]({{ '/claims-vs-sightings/' | relative_url }})** page and cover its key branches in.
 
 - [Costly Choices]({{ '/costly-choices/' | relative_url }})
 - [Dated Claims]({{ '/dated-claims/' | relative_url }})

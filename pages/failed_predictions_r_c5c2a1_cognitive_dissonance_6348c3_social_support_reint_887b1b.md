@@ -274,17 +274,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_so
 
 ## Introduction
 
-Failed UFO prophecies do not become meaningful again through logic alone. One of the most important insights from research on prophecy failure is that reinterpretation is often a social process. When a prediction fails, believers rarely face the disappointment in isolation. They discuss it with fellow members, compare explanations, look to [leaders]({{ 'leaders/' | relative_url }}) for guidance and collectively construct a new understanding of what happened. Shared belief can transform what looks like a public humiliation into a story about hidden success, divine mercy, altered cosmic plans or a test of commitment. The classic UFO case behind *When Prophecy Fails* made this mechanism famous, but later research suggests that social support matters less because it automatically strengthens belief and more because it provides the setting in which alternative interpretations can be created, circulated and reinforced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
+Failed UFO prophecies do not become meaningful again through logic alone. One of the most important insights from research on prophecy failure is that reinterpretation is often a social process. When a prediction fails, believers rarely face the disappointment in isolation. They discuss it with fellow members, compare explanations, look to [leaders]({{ 'leaders/' | relative_url }}) for guidance and collectively construct a new understanding of what happened. Shared belief can transform what looks like a public humiliation into a story about hidden success, divine mercy, altered cosmic plans or a test of commitment. The classic UFO case behind *When Prophecy Fails* made this mechanism famous, but later research suggests that social support matters less because it automatically strengthens belief and more because it provides the setting in which alternative interpretations can be created, circulated and reinforced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-1-dark.svg" | relative_url }}" alt="Social Support illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Group Setting After Disconfirmation
 
-When a prophecy fails, believers face more than an intellectual problem. They must explain their past actions. Many have invested time, reputation, relationships or money in the prediction. Admitting error can therefore carry social and emotional costs as well as factual ones. [Cognitive dissonance]({{ 'dissonance/' | relative_url }}) theory highlighted this tension, but subsequent scholarship has shown that the surrounding community is often just as important as the individual's psychology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing?</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+When a prophecy fails, believers face more than an intellectual problem. They must explain their past actions. Many have invested time, reputation, relationships or money in the prediction. Admitting error can therefore carry social and emotional costs as well as factual ones. [Cognitive dissonance]({{ 'dissonance/' | relative_url }}) theory highlighted this tension, but subsequent scholarship has shown that the surrounding community is often just as important as the individual's psychology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing?</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
-In the famous 1954 UFO-contactee case centred on [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) (“Marian Keech” in *When Prophecy Fails*), the prediction of alien rescue and catastrophic flooding failed to materialise. According to the original account, some committed followers remained together and accepted a new explanation: their faith and spiritual efforts had somehow helped prevent the disaster. The key point for understanding social support is not whether this explanation was objectively persuasive, but that it was developed and accepted within a group context rather than by isolated individuals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In the famous 1954 UFO-contactee case centred on [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) (“Marian Keech” in *When Prophecy Fails*), the prediction of alien rescue and catastrophic flooding failed to materialise. According to the original account, some committed followers remained together and accepted a new explanation: their faith and spiritual efforts had somehow helped prevent the disaster. The key point for understanding social support is not whether this explanation was objectively persuasive, but that it was developed and accepted within a group context rather than by isolated individuals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Researchers studying failed prophecies across many movements have repeatedly found that continued interaction among believers helps maintain a plausible shared reality. Lorne Dawson's review of the field noted that survival after prophetic failure is easier when members remain closely connected and able to communicate regularly. A cohesive group can coordinate explanations and reassure doubters before [uncertainty]({{ 'uncertainty/' | relative_url }}) turns into mass defections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
+Researchers studying failed prophecies across many movements have repeatedly found that continued interaction among believers helps maintain a plausible shared reality. Lorne Dawson's review of the field noted that survival after prophetic failure is easier when members remain closely connected and able to communicate regularly. A cohesive group can coordinate explanations and reassure doubters before [uncertainty]({{ 'uncertainty/' | relative_url }}) turns into mass defections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nH-pwULIGzs" title="Why Religions Survive When Prophecies Fail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nH-pwULIGzs" target="_blank" rel="noopener noreferrer">Why Religions Survive When Prophecies Fail</a></p><p class="youtube-embed-meta">Channel: ReligionForBreakfast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nH-pwULIGzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nH-pwULIGzs">Open on YouTube</a></p></div></div></div>
@@ -307,11 +307,11 @@ After a failed prediction, believers typically face competing interpretations:
 
 </div>
 
-Which explanation gains acceptance depends heavily on social interaction. A believer who privately invents a rationalisation may still abandon it if nobody else accepts it. By contrast, an explanation repeated by respected leaders and echoed by fellow members can quickly become the group's new consensus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</span></span></span>
+Which explanation gains acceptance depends heavily on social interaction. A believer who privately invents a rationalisation may still abandon it if nobody else accepts it. By contrast, an explanation repeated by respected leaders and echoed by fellow members can quickly become the group's new consensus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</span></span></span>
 
-This process also redistributes responsibility. Instead of one person confronting the fact that a UFO landing, rescue mission or apocalyptic event never occurred, the group creates a narrative that spreads the burden across the community. The failed prediction becomes a collective challenge rather than an individual mistake. The new interpretation gains credibility not because new evidence appears, but because trusted people endorse it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;How Prophecy Lives&quot;... group social support essential to weathering the failure. The followers of these pro...</span></span></span>
+This process also redistributes responsibility. Instead of one person confronting the fact that a UFO landing, rescue mission or apocalyptic event never occurred, the group creates a narrative that spreads the burden across the community. The failed prediction becomes a collective challenge rather than an individual mistake. The new interpretation gains credibility not because new evidence appears, but because trusted people endorse it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;How Prophecy Lives&quot;... group social support essential to weathering the failure. The followers of these pro...</span></span></span>
 
-Studies of failed prophecy movements have found that spiritualisation is especially common. Physical events that did not occur are redefined as spiritual achievements, hidden victories or unseen interventions. In these cases, believers do not necessarily see themselves as revising reality. Instead, they come to believe they misunderstood the original meaning of the prophecy. Social reinforcement helps make that reinterpretation feel coherent and sincere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeThis article concluded that prophetic failures in the physical wor...</span></span></span>
+Studies of failed prophecy movements have found that spiritualisation is especially common. Physical events that did not occur are redefined as spiritual achievements, hidden victories or unseen interventions. In these cases, believers do not necessarily see themselves as revising reality. Instead, they come to believe they misunderstood the original meaning of the prophecy. Social reinforcement helps make that reinterpretation feel coherent and sincere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalistsresource.org">[The Journalist&#x27;s Resource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalistsresource.org</span><span class="citation-popover-snippet">The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeThis article concluded that prophetic failures in the physical wor...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-2-dark.svg" | relative_url }}" alt="Social Support illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,9 +323,9 @@ A failed UFO prophecy creates uncertainty. Social support reduces that uncertain
 * **Memory reconstruction:** Members collectively emphasise details that support the revised interpretation.
 * **Emotional reassurance:** Doubt becomes less threatening when others express confidence.
 * **Status protection:** Reinterpretation allows committed members to preserve dignity after public failure.
-* **Narrative consistency:** The group can integrate the failed prediction into an ongoing story rather than treating it as an ending. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
+* **Narrative consistency:** The group can integrate the failed prediction into an ongoing story rather than treating it as an ending.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
 
-The result is not necessarily stronger belief. In many movements, members still leave. What social support provides is a mechanism through which continued belief remains possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
+The result is not necessarily stronger belief. In many movements, members still leave. What social support provides is a mechanism through which continued belief remains possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhblbZDXfZU" title="When “When Prophecy Fails” Fails (E350)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer">When “When Prophecy Fails” Fails (E350)</a></p><p class="youtube-embed-meta">Channel: QAA Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhblbZDXfZU">Open on YouTube</a></p></div></div></div>
@@ -334,211 +334,211 @@ The result is not necessarily stronger belief. In many movements, members still 
 
 The importance of social support becomes clearer when it is absent.
 
-Research on prophetic movements has repeatedly shown that [failed predictions]({{ 'failed-predictions/' | relative_url }}) can produce severe disillusionment. Without a supportive community, believers must process contradictory evidence largely on their own. They have fewer opportunities to hear reassuring explanations and fewer social rewards for maintaining commitment. As a result, abandonment of the belief often becomes more likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">What Really Happens When Prophecy Fails: The Case of...Failed prophecy may result in severe disillusionment for members of a...</span></span></span>
+Research on prophetic movements has repeatedly shown that [failed predictions]({{ 'failed-predictions/' | relative_url }}) can produce severe disillusionment. Without a supportive community, believers must process contradictory evidence largely on their own. They have fewer opportunities to hear reassuring explanations and fewer social rewards for maintaining commitment. As a result, abandonment of the belief often becomes more likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">What Really Happens When Prophecy Fails: The Case of...Failed prophecy may result in severe disillusionment for members of a...</span></span></span>
 
-Even the original *When Prophecy Fails* account acknowledged variation among members. Those with weaker commitments or less access to continuing [group support]({{ 'group-support/' | relative_url }}) were generally more likely to reduce involvement or leave altogether. Later scholars have argued that this variation is one reason failed prophecy cannot be explained by a single universal law of cognitive dissonance. Different social environments produce different outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Even the original *When Prophecy Fails* account acknowledged variation among members. Those with weaker commitments or less access to continuing [group support]({{ 'group-support/' | relative_url }}) were generally more likely to reduce involvement or leave altogether. Later scholars have argued that this variation is one reason failed prophecy cannot be explained by a single universal law of cognitive dissonance. Different social environments produce different outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-This insight helps explain why some failed UFO predictions lead to rapid [collapse]({{ 'collapse/' | relative_url }}) while others generate elaborate reinterpretations. The critical factor is often not the severity of the failure itself but whether a functioning community remains available to help believers make sense of it. A prediction can fail spectacularly, yet a cohesive group may survive by redefining what the failure means. Conversely, a less dramatic failure can destroy a movement if members become isolated and no shared explanation emerges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
+This insight helps explain why some failed UFO predictions lead to rapid [collapse]({{ 'collapse/' | relative_url }}) while others generate elaborate reinterpretations. The critical factor is often not the severity of the failure itself but whether a functioning community remains available to help believers make sense of it. A prediction can fail spectacularly, yet a cohesive group may survive by redefining what the failure means. Conversely, a less dramatic failure can destroy a movement if members become isolated and no shared explanation emerges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</span><span class="citation-popover-meta">Published: May 8, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-3-dark.svg" | relative_url }}" alt="Social Support illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3_social_support_reint_887b1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Failed Prophecies Need an Audience
 
-The enduring lesson from UFO prophecy research is that reinterpretation is rarely a solitary achievement. Cognitive dissonance may create pressure to resolve the contradiction between prediction and reality, but social support supplies the tools for doing so. Fellow believers provide reassurance, leaders offer alternative meanings and the group collectively decides which story will replace the failed prediction. In that sense, a failed prophecy often needs an audience. Without people willing to share and sustain a new interpretation, the gap between expectation and reality becomes much harder to bridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</span></span></span>
+The enduring lesson from UFO prophecy research is that reinterpretation is rarely a solitary achievement. Cognitive dissonance may create pressure to resolve the contradiction between prediction and reality, but social support supplies the tools for doing so. Fellow believers provide reassurance, leaders offer alternative meanings and the group collectively decides which story will replace the failed prediction. In that sense, a failed prophecy often needs an audience. Without people willing to share and sustain a new interpretation, the gap between expectation and reality becomes much harder to bridge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6d6SJd5sxnM" title="InPresence 0211: When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer">InPresence 0211: When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6d6SJd5sxnM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Failed Prophecies Need an Audience. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Failed Prophecies Need an Audience. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">The page directly discusses the famous UFO prophecy case and the social processes documented in this foundational study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The page directly discusses the famous UFO prophecy case and the social processes documented in this foundational study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains cognitive dissonance, self-justification, and why people reinterpret evidence after being proven wrong.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive dissonance, self-justification, and why people reinterpret evidence after being proven wrong.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps readers understand commitment, consistency pressures, and social mechanisms that can support reinterpretation after failed predicti...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand commitment, consistency pressures, and social mechanisms that can support reinterpretation after failed predicti...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE GREAT COMET OF 1881 Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/285bd63e6ecca117e1b1.jpg' | relative_url }}" alt="Listing image for THE GREAT COMET OF 1881 Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">THE GREAT COMET OF 1881 Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE GREAT COMET OF 1881 Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/285bd63e6ecca117e1b1.jpg' | relative_url }}" alt="Listing image for THE GREAT COMET OF 1881 Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">THE GREAT COMET OF 1881 Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bf99970149b9499cd9b0.jpg' | relative_url }}" alt="Listing image for The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bf99970149b9499cd9b0.jpg' | relative_url }}" alt="Listing image for The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">The Blue Comet Poster Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/40c65abf82b7d1a81d66.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/40c65abf82b7d1a81d66.jpg' | relative_url }}" alt="Listing image for Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Comet Space Night Landscape Astronomy Etching Huge Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4"><img src="{{ '/assets/images/marketplace-covers/2b3855a0ce4042580f77.jpg' | relative_url }}" alt="Listing image for Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4"><img src="{{ '/assets/images/marketplace-covers/2b3855a0ce4042580f77.jpg' | relative_url }}" alt="Listing image for Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">Night of the Comet Cult Movie Print | Vintage Comic Art Poster | 80s Sci Fi A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comet poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comet poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comet poster" data-ebay-reference="social-support-why-failed-prophecies-need-an-audience-failed-predictions-comet-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ The enduring lesson from UFO prophecy research is that reinterpretation is rarel
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ The enduring lesson from UFO prophecy research is that reinterpretation is rarel
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ The enduring lesson from UFO prophecy research is that reinterpretation is rarel
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ The enduring lesson from UFO prophecy research is that reinterpretation is rarel
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ The enduring lesson from UFO prophecy research is that reinterpretation is rarel
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,111 +744,111 @@ The enduring lesson from UFO prophecy research is that reinterpretation is rarel
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/sociology/1999-dawson.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</p></details>
+   Link:<a href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/sociology/1999-dawson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith PersistsMay 8, 2013 — 5 May 2004 — This was most clearly true of the UFO cult examined by Festinger et...</p></details>
    Published: May 8, 2013  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2009.12.4.72</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2009.12.4.72</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prophecy and Dissonanceby JR Stone · 2009 · Cited by 17 — In the same way, social support, while critical, is not sufficient to assu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;How Prophecy Lives&quot;... group social support essential to weathering the failure. The followers of these pro...</p></details>
+   Link:<a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;How Prophecy Lives&quot;... group social support essential to weathering the failure. The followers of these pro...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happens When Prophecy Fails: The Case of...Failed prophecy may result in severe disillusionment for members of a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228730969_What_Really_Happens_When_Prophecy_Fails_The_Case_of_Lubavitch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happens When Prophecy Fails: The Case of...Failed prophecy may result in severe disillusionment for members of a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin) eventually moved to Sedona, Arizona, where she started another group under the name [Sister Thedra](&amp;#123;&amp;#123; &#x27;sister-thedra/&#x27; | relative_url &amp;#125;&amp;#125;). 7 See, for...Read m...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin) eventually moved to Sedona, Arizona, where she started another group under the name [Sister Thedra](&amp;#123;&amp;#123; &#x27;sister-thedra/&#x27; | relative_url &amp;#125;&amp;#125;). 7 See, for...Read m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: time.com  
    Title: ufo cultists political paranoia essay  
-   Link: <a href="https://time.com/6960441/ufo-cultists-political-paranoia-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6960441/ufo-cultists-political-paranoia-essay/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marian Keech in the book), a 50-something housewife...Read more...</p></details>
+   Link:<a href="https://time.com/6960441/ufo-cultists-political-paranoia-essay/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6960441/ufo-cultists-political-paranoia-essay/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marian Keech in the book), a 50-something housewife...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: newyorker.com  
    Title: The New Yorker Is Cognitive Dissonance Actually a Thing?  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journalistsresource.org  
-   Link: <a href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/prophecy-religion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeThis article concluded that prophetic failures in the physical wor...</p></details>
+   Link:<a href="https://journalistsresource.org/home/prophecy-religion/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/prophecy-religion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Journalist&#x27;s ResourceWhen prophecy fails: How religious groups copeThis article concluded that prophetic failures in the physical wor...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: stevemurch.com  
    Title: When Prophecy Fails  
-   Link: <a href="https://stevemurch.com/when-prophecy-fails/2019/03" target="_blank" rel="noopener noreferrer nofollow">https://stevemurch.com/when-prophecy-fails/2019/03</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Murch25 Mar 2019 —... Dorothy Martin was given the alias Marian Keech.) A small but fervent apocalyptic cult formed around Keech&#x27;s...</p></details>
+   Link:<a href="https://stevemurch.com/when-prophecy-fails/2019/03" target="_blank" rel="noopener noreferrer nofollow">https://stevemurch.com/when-prophecy-fails/2019/03</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Murch25 Mar 2019 —... Dorothy Martin was given the alias Marian Keech.) A small but fervent apocalyptic cult formed around Keech&#x27;s...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/546439639/ib-psychology-festinger-1956" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/546439639/ib-psychology-festinger-1956</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger&#x27;s Study on Prophecy Failure | PDFThe cult was led by Dorothy Martin who received messages through automatic writing claim...</p></details>
+   Link:<a href="https://www.scribd.com/document/546439639/ib-psychology-festinger-1956" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/546439639/ib-psychology-festinger-1956</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger&#x27;s Study on Prophecy Failure | PDFThe cult was led by Dorothy Martin who received messages through automatic writing claim...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOoqWOTmWMqCVF9EDQCwiYgxCXIkceDRSBGkZnB1RWSUC1pEybHBU" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOoqWOTmWMqCVF9EDQCwiYgxCXIkceDRSBGkZnB1RWSUC1pEybHBU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter fourBy reinterpreting the prophecies, these groups tend to take the disconfirmation more or less in stride (see the summary analy...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOoqWOTmWMqCVF9EDQCwiYgxCXIkceDRSBGkZnB1RWSUC1pEybHBU" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOoqWOTmWMqCVF9EDQCwiYgxCXIkceDRSBGkZnB1RWSUC1pEybHBU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter fourBy reinterpreting the prophecies, these groups tend to take the disconfirmation more or less in stride (see the summary analy...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mayooshin.com  
-   Link: <a href="https://mayooshin.com/why-we-keep-making-the-same-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://mayooshin.com/why-we-keep-making-the-same-mistakes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hy Martin), who claimed that she had received a prophecy from “superior beings...Read more...</p></details>
+   Link:<a href="https://mayooshin.com/why-we-keep-making-the-same-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://mayooshin.com/why-we-keep-making-the-same-mistakes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hy Martin), who claimed that she had received a prophecy from “superior beings...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sk.sagepub.com  
    Title: failed prophecies is for groups to deny the failure  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-sociology-of-religion/chpt/prophecy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-sociology-of-religion/chpt/prophecy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeThe SAGE Encyclopedia of the Sociology of ReligionGordon Melton argues that belief, practice, and social support all uphold...</p></details>
+   Link:<a href="https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-sociology-of-religion/chpt/prophecy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-sociology-of-religion/chpt/prophecy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeThe SAGE Encyclopedia of the Sociology of ReligionGordon Melton argues that belief, practice, and social support all uphold...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whose members became more devoted when their prophecy failed.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ov6kw7/when_prophecy_fails_the_case_study_that_helped/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whose members became more devoted when their prophecy failed.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Festinger, Leon, Riecken...It chronicles the experience of a UFO cult that believed the end of the world was at hand...</p></details>
+   Link:<a href="https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Festinger, Leon, Riecken...It chronicles the experience of a UFO cult that believed the end of the world was at hand...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cy. of cognitive dissonance would spare Martin&#x27;s group...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cy. of cognitive dissonance would spare Martin&#x27;s group...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theatlantic.com  
    Title: the christmas the aliens didnt come  
-   Link: <a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — At 6 o&#x27;clock on Christmas Eve, 1954, a small group of people gathered on the street out...</p></details>
+   Link:<a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — At 6 o&#x27;clock on Christmas Eve, 1954, a small group of people gathered on the street out...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bps.org.uk  
    Title: when when prophecy fails fails  
-   Link: <a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOorWBKaEhYIpCQ6tzH1VX0sxN58fQSdlh7-x4FF2XBBP2TO2ucs2" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOorWBKaEhYIpCQ6tzH1VX0sxN58fQSdlh7-x4FF2XBBP2TO2ucs2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>group “dispersed” within a week...Read more...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOorWBKaEhYIpCQ6tzH1VX0sxN58fQSdlh7-x4FF2XBBP2TO2ucs2" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s006.pdf?srsltid=AfmBOorWBKaEhYIpCQ6tzH1VX0sxN58fQSdlh7-x4FF2XBBP2TO2ucs2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>group “dispersed” within a week...Read more...</p></details>

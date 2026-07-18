@@ -447,17 +447,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3-ov
 
 ## Introduction
 
-*When Prophecy Fails* is the famous UFO-prophecy case that made cognitive dissonance feel almost like a law of human nature: believers expect alien rescue and a world-ending flood, the date passes, and instead of giving up they supposedly recruit harder. That lesson is still useful, but it is no longer safe to tell it as a clean parable. Later scholarship, especially newly available archival work, suggests the original account exaggerated or misrepresented key events, including whether the group really became more evangelical only after the failed prediction. The better lesson is narrower and more interesting: failed UFO prophecy can create psychological pressure to reinterpret events, but it does not automatically strengthen belief, and the [Martin case]({{ 'martin-case/' | relative_url }}) cannot bear all the weight that textbooks have placed on it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-title">Semantic Scholar[PDF] When Prophecy Fails &#124; Semantic Scholar</span><span class="citation-popover-snippet">Semantic Scholar[PDF] When Prophecy Fails &#124; Semantic Scholar</span></span></span>
+*When Prophecy Fails* is the famous UFO-prophecy case that made cognitive dissonance feel almost like a law of human nature: believers expect alien rescue and a world-ending flood, the date passes, and instead of giving up they supposedly recruit harder. That lesson is still useful, but it is no longer safe to tell it as a clean parable. Later scholarship, especially newly available archival work, suggests the original account exaggerated or misrepresented key events, including whether the group really became more evangelical only after the failed prediction. The better lesson is narrower and more interesting: failed UFO prophecy can create psychological pressure to reinterpret events, but it does not automatically strengthen belief, and the [Martin case]({{ 'martin-case/' | relative_url }}) cannot bear all the weight that textbooks have placed on it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-title">Semantic Scholar[PDF] When Prophecy Fails &#124; Semantic Scholar</span><span class="citation-popover-snippet">Semantic Scholar[PDF] When Prophecy Fails &#124; Semantic Scholar</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3-overview.webp" | relative_url }}" alt="Overview image for Dissonance" loading="eager" decoding="sync" fetchpriority="high">
 ## The original cognitive dissonance claim
 
-Leon Festinger, Henry Riecken and Stanley Schachter studied a small 1954 UFO-contactee group centred on [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), called “Marian Keech” in their book. Martin claimed to receive messages from beings associated with the planet Clarion, warning that a great flood would devastate much of Earth on 21 December 1954. A select group, she said, would be saved by spacecraft. Local accounts preserve the same basic pattern: a dated catastrophe, a promised rescue, and followers waiting through the night when nothing happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oprfmuseum.org">[Oak Park River Forest Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oprfmuseum.org</span><span class="citation-popover-snippet">Open source on oprfmuseum.org.</span></span></span>
+Leon Festinger, Henry Riecken and Stanley Schachter studied a small 1954 UFO-contactee group centred on [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), called “Marian Keech” in their book. Martin claimed to receive messages from beings associated with the planet Clarion, warning that a great flood would devastate much of Earth on 21 December 1954. A select group, she said, would be saved by spacecraft. Local accounts preserve the same basic pattern: a dated catastrophe, a promised rescue, and followers waiting through the night when nothing happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oprfmuseum.org">[Oak Park River Forest Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oprfmuseum.org</span><span class="citation-popover-snippet">Open source on oprfmuseum.org.</span></span></span>
 
-The psychological claim was not simply that the group was wrong. It was that a costly, public, emotionally loaded belief can become harder to abandon after disconfirmation. In the researchers’ telling, some followers had invested heavily: leaving work, disrupting family life, giving away possessions, or publicly tying their reputation to the prophecy. When the saucer did not arrive and the flood did not come, that created cognitive dissonance: the discomfort of holding a belief that reality has just contradicted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span></span></span>
+The psychological claim was not simply that the group was wrong. It was that a costly, public, emotionally loaded belief can become harder to abandon after disconfirmation. In the researchers’ telling, some followers had invested heavily: leaving work, disrupting family life, giving away possessions, or publicly tying their reputation to the prophecy. When the saucer did not arrive and the flood did not come, that created cognitive dissonance: the discomfort of holding a belief that reality has just contradicted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span></span></span>
 
-The famous resolution was social. According to the book’s interpretation, believers could reduce dissonance by persuading others. If more people accepted the message, the failed prophecy could be reframed not as error but as proof that the group’s faith had helped avert disaster. The story therefore became a memorable mechanism for failed UFO predictions generally: when a predicted landing, rescue or revelation fails, believers may shift from “the event will happen” to “our faith changed the event”, “the event happened invisibly”, or “the test was spiritual rather than physical”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-title">Semantic Scholar[PDF] When Prophecy Fails &#124; Semantic Scholar</span><span class="citation-popover-snippet">Semantic Scholar[PDF] When Prophecy Fails &#124; Semantic Scholar</span></span></span>
+The famous resolution was social. According to the book’s interpretation, believers could reduce dissonance by persuading others. If more people accepted the message, the failed prophecy could be reframed not as error but as proof that the group’s faith had helped avert disaster. The story therefore became a memorable mechanism for failed UFO predictions generally: when a predicted landing, rescue or revelation fails, believers may shift from “the event will happen” to “our faith changed the event”, “the event happened invisibly”, or “the test was spiritual rather than physical”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-title">Semantic Scholar[PDF] When Prophecy Fails &#124; Semantic Scholar</span><span class="citation-popover-snippet">Semantic Scholar[PDF] When Prophecy Fails &#124; Semantic Scholar</span></span></span>
 
 That is why the case travelled so far beyond UFO studies. It gave psychologists, sociologists of religion and later commentators a compact model for belief under pressure: the more a person has sacrificed for a prediction, and the more [social support]({{ 'social-support/' | relative_url }}) remains around them, the more attractive reinterpretation can become.
 
@@ -465,15 +465,15 @@ That is why the case travelled so far beyond UFO studies. It gave psychologists,
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3-Illustration-1-dark.svg" | relative_url }}" alt="Dissonance illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What later criticism challenged
 
-The textbook version now has a serious problem: the original study was not a detached observation of an untouched group. Festinger and his colleagues infiltrated the circle, and later discussion has long noted that observers, journalists and outside attention may have shaped the very behaviour being explained. Lorne Dawson’s review of failed-prophecy research argued that the field should move away from treating Festinger’s formulation as the whole story and towards a broader view of how groups manage disconfirmation in different ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">1999 dawson</span><span class="citation-popover-snippet">1999 dawson</span></span></span>
+The textbook version now has a serious problem: the original study was not a detached observation of an untouched group. Festinger and his colleagues infiltrated the circle, and later discussion has long noted that observers, journalists and outside attention may have shaped the very behaviour being explained. Lorne Dawson’s review of failed-prophecy research argued that the field should move away from treating Festinger’s formulation as the whole story and towards a broader view of how groups manage disconfirmation in different ways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">1999 dawson</span><span class="citation-popover-snippet">1999 dawson</span></span></span>
 
-The strongest recent challenge comes from Thomas Kelly’s archival work. PubMed’s abstract of Kelly’s article summarises the claim sharply: newly unsealed material indicates that the book’s central claims were false, that the group had proselytised before the failure, and that the group quickly abandoned key beliefs afterwards. It also reports allegations of serious ethical violations, including fabricated psychic messages, covert manipulation and interference in a child welfare investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - PubMed...</span></span></span>
+The strongest recent challenge comes from Thomas Kelly’s archival work. PubMed’s abstract of Kelly’s article summarises the claim sharply: newly unsealed material indicates that the book’s central claims were false, that the group had proselytised before the failure, and that the group quickly abandoned key beliefs afterwards. It also reports allegations of serious ethical violations, including fabricated psychic messages, covert manipulation and interference in a child welfare investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - PubMed...</span></span></span>
 
-A detailed contemporary account in *The New Yorker* adds why this matters for the mechanism. It reports that some meetings may have included a large proportion of infiltrators, that one research assistant pretended to receive dreams and psychic messages, and that Henry Riecken held unusual status inside the group. On that account, the researchers did not merely watch dissonance unfold; they may have helped create the social cues that made the [aftermath]({{ 'aftermath/' | relative_url }}) look like their theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span></span></span>
+A detailed contemporary account in *The New Yorker* adds why this matters for the mechanism. It reports that some meetings may have included a large proportion of infiltrators, that one research assistant pretended to receive dreams and psychic messages, and that Henry Riecken held unusual status inside the group. On that account, the researchers did not merely watch dissonance unfold; they may have helped create the social cues that made the [aftermath]({{ 'aftermath/' | relative_url }}) look like their theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span></span></span>
 
-The most damaging issue is timing. The classic claim depends on a contrast: secrecy before failure, energetic recruitment [after failure]({{ 'after-failure/' | relative_url }}). But later archival discussion points to outreach before the failed date, including magazine writing, a press release, public claims by Charles Laughead and prior [media]({{ 'media/' | relative_url }}) attention. If proselytising was already happening, then post-failure publicity cannot be treated as clean evidence that disconfirmation caused a new evangelising drive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span></span></span>
+The most damaging issue is timing. The classic claim depends on a contrast: secrecy before failure, energetic recruitment [after failure]({{ 'after-failure/' | relative_url }}). But later archival discussion points to outreach before the failed date, including magazine writing, a press release, public claims by Charles Laughead and prior [media]({{ 'media/' | relative_url }}) attention. If proselytising was already happening, then post-failure publicity cannot be treated as clean evidence that disconfirmation caused a new evangelising drive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span></span></span>
 
-This does not mean every idea associated with cognitive dissonance collapses. It means this particular UFO-prophecy case is weaker than its legend. Even defenders of dissonance theory have treated *When Prophecy Fails* as an evocative but methodologically fragile example rather than a controlled test. Elliot Aronson, one of Festinger’s students, is reported as saying that the observational case would not by itself decide the fate of the wider theory, which also rests on laboratory studies and later research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span></span></span>
+This does not mean every idea associated with cognitive dissonance collapses. It means this particular UFO-prophecy case is weaker than its legend. Even defenders of dissonance theory have treated *When Prophecy Fails* as an evocative but methodologically fragile example rather than a controlled test. Elliot Aronson, one of Festinger’s students, is reported as saying that the observational case would not by itself decide the fate of the wider theory, which also rests on laboratory studies and later research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Is Cognitive Dissonance Actually a Thing? &#124; The New Yorker</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bkRjQ5juZXk" title="Festinger&#x27;s When Prophecy Fails: What Happens After the World Doesn&#x27;t End" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer">Festinger&#x27;s When Prophecy Fails: What Happens After the World Doesn&#x27;t End</a></p><p class="youtube-embed-meta">Channel: Psychology: Theories Explained</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bkRjQ5juZXk">Open on YouTube</a></p></div></div></div>
@@ -482,7 +482,7 @@ This does not mean every idea associated with cognitive dissonance collapses. It
 
 The most persistent misunderstanding is that failed prophecy naturally makes believers more certain. The Martin case actually points to several different possibilities. Some people may reinterpret the failure. Some may quietly drift away. Some may preserve the wider spiritual worldview while dropping the specific prediction. Some may blame human error, timing, outsiders, hidden fulfilment or a changed divine or alien plan.
 
-That range matters for UFO prophecy because the failed event is often only one layer of belief. A believer may stop expecting a rescue on a named date while still believing in telepathic contact, cosmic masters, hidden spacecraft or a coming transformation. Martin herself did not simply become a conventional sceptic. After the 1954 episode, she continued as [Sister Thedra]({{ 'sister-thedra/' | relative_url }}) and later founded the Association of Sananda and Sanat Kumara, an organisation rooted in continuing channelled teachings and the contactee milieu. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/association-sananda-and-sanat-kumara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Association of Sananda and Sanat Kumara &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Association of Sananda and Sanat Kumara &#124; Encyclopedia.com</span></span></span>
+That range matters for UFO prophecy because the failed event is often only one layer of belief. A believer may stop expecting a rescue on a named date while still believing in telepathic contact, cosmic masters, hidden spacecraft or a coming transformation. Martin herself did not simply become a conventional sceptic. After the 1954 episode, she continued as [Sister Thedra]({{ 'sister-thedra/' | relative_url }}) and later founded the Association of Sananda and Sanat Kumara, an organisation rooted in continuing channelled teachings and the contactee milieu.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/association-sananda-and-sanat-kumara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Association of Sananda and Sanat Kumara &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Association of Sananda and Sanat Kumara &#124; Encyclopedia.com</span></span></span>
 
 The case therefore separates three things that are often blurred together:
 
@@ -506,11 +506,11 @@ That distinction is crucial for understanding failed UFO predictions. “Belief 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3-Illustration-2-dark.svg" | relative_url }}" alt="Dissonance illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_cognitive_dissonance_6348c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case can and cannot prove
 
-The Martin case can still teach a useful mechanism: when people are publicly committed to a failed prediction, they often look for ways to reduce the psychological and social cost of being wrong. Reinterpretation is one such route. Recruitment can be another, because agreement from outsiders turns private embarrassment into shared validation. Social support also matters: a believer surrounded by fellow believers has more resources for reinterpretation than an isolated follower facing [ridicule]({{ 'ridicule/' | relative_url }}) alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">1999 dawson</span><span class="citation-popover-snippet">1999 dawson</span></span></span>
+The Martin case can still teach a useful mechanism: when people are publicly committed to a failed prediction, they often look for ways to reduce the psychological and social cost of being wrong. Reinterpretation is one such route. Recruitment can be another, because agreement from outsiders turns private embarrassment into shared validation. Social support also matters: a believer surrounded by fellow believers has more resources for reinterpretation than an isolated follower facing [ridicule]({{ 'ridicule/' | relative_url }}) alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">1999 dawson</span><span class="citation-popover-snippet">1999 dawson</span></span></span>
 
-But the case cannot prove that failed UFO prophecy usually strengthens belief. The evidence is too contaminated by observer involvement, press pressure and later disputes over what actually happened. It is safer to treat the original book as a historically important prompt for a theory, not as a clean demonstration of that theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - PubMed...</span></span></span>
+But the case cannot prove that failed UFO prophecy usually strengthens belief. The evidence is too contaminated by observer involvement, press pressure and later disputes over what actually happened. It is safer to treat the original book as a historically important prompt for a theory, not as a clean demonstration of that theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - PubMed...</span></span></span>
 
-It also cannot show that cognitive dissonance predicts one outcome. Dissonance is a pressure, not a script. The same failed prediction may produce renewed zeal in one person, embarrassment in another, reinterpretation in a third and quiet exit in a fourth. That is why Dawson’s broader framing is useful: failed-prophecy research works best when it studies the practical strategies groups use to manage disconfirmation, rather than assuming one universal response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">1999 dawson</span><span class="citation-popover-snippet">1999 dawson</span></span></span>
+It also cannot show that cognitive dissonance predicts one outcome. Dissonance is a pressure, not a script. The same failed prediction may produce renewed zeal in one person, embarrassment in another, reinterpretation in a third and quiet exit in a fourth. That is why Dawson’s broader framing is useful: failed-prophecy research works best when it studies the practical strategies groups use to manage disconfirmation, rather than assuming one universal response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">1999 dawson</span><span class="citation-popover-snippet">1999 dawson</span></span></span>
 
 For readers following failed UFO predictions, the practical takeaway is to watch the repair work after the date passes. Does the claim become less physical and more spiritual? Does the group say disaster was averted by faith? Does leadership blame timing, translation, human weakness or hostile forces? Do members recruit harder, retreat inward or disperse? Those responses tell us more than the failed date alone.
 
@@ -521,194 +521,194 @@ The enduring value of *When Prophecy Fails* is therefore not the tidy slogan tha
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Failed Prophecy Really Strengthen Belief?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Failed Prophecy Really Strengthen Belief?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">The article centers on the famous failed-prophecy case study and later criticism of its conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The article centers on the famous failed-prophecy case study and later criticism of its conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains cognitive dissonance, self-justification, and why people maintain beliefs after contradictory evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive dissonance, self-justification, and why people maintain beliefs after contradictory evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores how people form, defend, and rationalize beliefs even when evidence is weak or contradictory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how people form, defend, and rationalize beliefs even when evidence is weak or contradictory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Focuses on rethinking beliefs, updating views, and the psychological barriers that prevent belief revision.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on rethinking beliefs, updating views, and the psychological barriers that prevent belief revision.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="dissonance-did-failed-prophecy-really-strengthen-belief-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -724,7 +724,7 @@ The enduring value of *When Prophecy Fails* is therefore not the tidy slogan tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -744,7 +744,7 @@ The enduring value of *When Prophecy Fails* is therefore not the tidy slogan tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -776,7 +776,7 @@ The enduring value of *When Prophecy Fails* is therefore not the tidy slogan tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -828,7 +828,7 @@ The enduring value of *When Prophecy Fails* is therefore not the tidy slogan tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -873,7 +873,7 @@ The enduring value of *When Prophecy Fails* is therefore not the tidy slogan tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -914,118 +914,118 @@ The enduring value of *When Prophecy Fails* is therefore not the tidy slogan tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gwern.net  
    Title: 1999 dawson  
-   Link: <a href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/sociology/1999-dawson.pdf</a>  
+   Link:<a href="https://gwern.net/doc/sociology/1999-dawson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/sociology/1999-dawson.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: encyclopedia.com  
    Title: Association of Sananda and Sanat Kumara | Encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/association-sananda-and-sanat-kumara" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/association-sananda-and-sanat-kumara</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/association-sananda-and-sanat-kumara" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/association-sananda-and-sanat-kumara</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: leon.co  
-   Link: <a href="https://leon.co/" target="_blank" rel="noopener noreferrer nofollow">https://leon.co/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageMeals in Minutes. Our Microwave Meal Pouches are inspired by our restaurant menu. Each pouch is packed with flavour, plant...</p></details>
+   Link:<a href="https://leon.co/" target="_blank" rel="noopener noreferrer nofollow">https://leon.co/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomepageMeals in Minutes. Our Microwave Meal Pouches are inspired by our restaurant menu. Each pouch is packed with flavour, plant...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Cognitive Dissonance Theory: A Crash Course  
-   Link: <a href="http://www.youtube.com/watch?v=9Y17YaZRRvY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9Y17YaZRRvY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leon Festinger...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=9Y17YaZRRvY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9Y17YaZRRvY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leon Festinger...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Leon Festinger  
-   Link: <a href="http://www.youtube.com/watch?v=lPM17X4CXzc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lPM17X4CXzc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Cognitive Dissonance &amp; the &quot;Trump Re-Election&quot; Prophecies...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lPM17X4CXzc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lPM17X4CXzc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Cognitive Dissonance &amp; the &quot;Trump Re-Election&quot; Prophecies...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: semanticscholar.org  
    Title: Semantic Scholar[PDF] When Prophecy Fails | Semantic Scholar  
-   Link: <a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Debunking "When Prophecy Fails"  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - PubMed...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newyorker.com  
    Title: The New Yorker Is Cognitive Dissonance Actually a Thing? | The New Yorker  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oprfmuseum.org  
-   Link: <a href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow">https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue</a>  
+   Link:<a href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow">https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: libris.nl  
    Title: When Prophecy Fails  
-   Link: <a href="https://libris.nl/librisbuitelaar/a/professor-leon-festinger--henry-w-riecken--stanley-schachter/when-prophecy-fails/9781617202803" target="_blank" rel="noopener noreferrer nofollow">https://libris.nl/librisbuitelaar/a/professor-leon-festinger--henry-w-riecken--stanley-schachter/when-prophecy-fails/9781617202803</a>  
+   Link:<a href="https://libris.nl/librisbuitelaar/a/professor-leon-festinger--henry-w-riecken--stanley-schachter/when-prophecy-fails/9781617202803" target="_blank" rel="noopener noreferrer nofollow">https://libris.nl/librisbuitelaar/a/professor-leon-festinger--henry-w-riecken--stanley-schachter/when-prophecy-fails/9781617202803</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: denieuweboekhandel.nl  
    Title: When Prophecy Fails  
-   Link: <a href="https://denieuweboekhandel.nl/products/when-prophecy-fails-9781617202803" target="_blank" rel="noopener noreferrer nofollow">https://denieuweboekhandel.nl/products/when-prophecy-fails-9781617202803</a>  
+   Link:<a href="https://denieuweboekhandel.nl/products/when-prophecy-fails-9781617202803" target="_blank" rel="noopener noreferrer nofollow">https://denieuweboekhandel.nl/products/when-prophecy-fails-9781617202803</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: When Prophecy Fails: Cognitive Dissonance & the "Trump Re-Election" Prophecies  
-   Link: <a href="http://www.youtube.com/watch?v=uIcIj_Iwvp4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uIcIj_Iwvp4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails Leon Festinger cognitive dissonance theory Cognitive Dissonance Theory: A Crash Course Opinion Science...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=uIcIj_Iwvp4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uIcIj_Iwvp4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails Leon Festinger cognitive dissonance theory Cognitive Dissonance Theory: A Crash Course Opinion Science...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bps.org.uk  
    Title: when when prophecy fails fails  
-   Link: <a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: End of Days Cults, the Day After | Cognitive Dissonance  
-   Link: <a href="http://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5yVuauQjkDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger&#x27;s When Prophecy Fails: What Happens After the World Doesn&#x27;t End...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=5yVuauQjkDc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5yVuauQjkDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Festinger&#x27;s When Prophecy Fails: What Happens After the World Doesn&#x27;t End...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Festinger's When Prophecy Fails: What Happens After the World Doesn't End  
-   Link: <a href="http://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bkRjQ5juZXk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Dissonance Theory: A Crash Course...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=bkRjQ5juZXk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bkRjQ5juZXk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Dissonance Theory: A Crash Course...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/work/editions/19317-in-the-name-of-science" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/editions/19317-in-the-name-of-science</a>  
+   Link:<a href="https://www.goodreads.com/work/editions/19317-in-the-name-of-science" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/editions/19317-in-the-name-of-science</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Fads-Fallacies-Name-Science-Popular-ebook/dp/B00A73ITVW?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Fads-Fallacies-Name-Science-Popular-ebook/dp/B00A73ITVW?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.com/Fads-Fallacies-Name-Science-Popular-ebook/dp/B00A73ITVW?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Fads-Fallacies-Name-Science-Popular-ebook/dp/B00A73ITVW?tag=searcht-20</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: openlibrary.org  
-   Link: <a href="https://openlibrary.org/works/OL459956W/In_the_Name_of_Science" target="_blank" rel="noopener noreferrer nofollow">https://openlibrary.org/works/OL459956W/In_the_Name_of_Science</a>  
+   Link:<a href="https://openlibrary.org/works/OL459956W/In_the_Name_of_Science" target="_blank" rel="noopener noreferrer nofollow">https://openlibrary.org/works/OL459956W/In_the_Name_of_Science</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/</a>  
+   Link:<a href="https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CCHPsych/posts/the-henry-w-riecken-papers-are-newly-processed-and-available-for-research-riecke/1564839975641518/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Leon-Ingredients-Recipes/dp/1840915021?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Leon-Ingredients-Recipes/dp/1840915021?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.co.uk/Leon-Ingredients-Recipes/dp/1840915021?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Leon-Ingredients-Recipes/dp/1840915021?tag=searcht-20</a>  

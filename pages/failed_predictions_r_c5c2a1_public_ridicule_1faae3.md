@@ -455,9 +455,9 @@ Public ridicule after failed alien predictions is easy to understand and easy to
 
 Failed UFO predictions are unusually mockable because they often make themselves testable. A vague claim that aliens exist can drift for decades; a prediction that God will appear on television, a flying saucer will arrive, or a spacecraft will rescue believers by a specific date creates a public countdown. When the deadline passes without the promised event, the contrast between cosmic certainty and ordinary reality is stark.
 
-That structure shaped the best-known cases. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 group expected catastrophic flooding and rescue by flying saucer, a story later made famous through *When Prophecy Fails*. Chen Tao, also known as God’s Salvation Church, predicted that God would appear on television on 25 March 1998 and in person in [Garland]({{ 'garland/' | relative_url }}), Texas, on 31 March. Heaven’s Gate ended in catastrophe after members believed they could reach a spacecraft associated with Comet Hale-Bopp. Each case offered the public a simple comic frame: immense claims, precise timing, no visible fulfilment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+That structure shaped the best-known cases. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 group expected catastrophic flooding and rescue by flying saucer, a story later made famous through *When Prophecy Fails*. Chen Tao, also known as God’s Salvation Church, predicted that God would appear on television on 25 March 1998 and in person in [Garland]({{ 'garland/' | relative_url }}), Texas, on 31 March. Heaven’s Gate ended in catastrophe after members believed they could reach a spacecraft associated with Comet Hale-Bopp. Each case offered the public a simple comic frame: immense claims, precise timing, no visible fulfilment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Ridicule also feeds on visual and media-ready details. Chen Tao’s Texas episode became a media event partly because the prophecy was designed around broadcast visibility: a television sign, a suburban front lawn, press conferences, and a precise date. Religious-studies scholar Rebecca Moore Cook argued that Chen Tao’s leader tried to make the news media an instrument of prophecy, and that this relationship with reporters shaped the group’s adaptation to Garland as much as the prophecy itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR)...</span></span></span>
+Ridicule also feeds on visual and media-ready details. Chen Tao’s Texas episode became a media event partly because the prophecy was designed around broadcast visibility: a television sign, a suburban front lawn, press conferences, and a precise date. Religious-studies scholar Rebecca Moore Cook argued that Chen Tao’s leader tried to make the news media an instrument of prophecy, and that this relationship with reporters shaped the group’s adaptation to Garland as much as the prophecy itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">Chen Tao in Texas (CESNUR</span><span class="citation-popover-snippet">Chen Tao in Texas (CESNUR)...</span></span></span>
 
 The jokes are not always only about aliens. They often target costume, accent, class, nationality, sexuality, internet habits, religious language, or perceived oddness. That is why the same failed prediction can produce two different public reactions at once: scepticism towards a false claim, and contempt towards a minority religious group. The first can protect the public from credulity; the second can become a way of treating believers as less than fully serious human beings.
 
@@ -467,11 +467,11 @@ The jokes are not always only about aliens. They often target costume, accent, c
 
 The simplest joke says: “They believed something absurd, and it did not happen.” The fuller story is usually more uncomfortable. Failed prophecy can involve people who have sold property, left jobs, strained marriages, moved cities, lost face with relatives, or invested their identity in a leader’s authority. Once the date fails, the believer is not only deciding whether a claim was wrong; they may be deciding how to explain months or years of sacrifice.
 
-That is one reason scholars of new religious movements tend to avoid treating “cult” as a neutral description. The term “new religious movements” is used for groups that are often labelled “sects” or “cults” in popular discourse, but those popular labels already carry strong negative assumptions. The wording matters because ridicule often begins before the failed prophecy and then intensifies afterwards, making it harder to separate legitimate criticism from stigma. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://religionmediacentre.org.uk/factsheets/factsheet-new-religious-movements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: New Religious Movements</span><span class="citation-popover-snippet">Religion Media CentreFactsheet: New Religious Movements - Religion Media Centre...</span></span></span>
+That is one reason scholars of new religious movements tend to avoid treating “cult” as a neutral description. The term “new religious movements” is used for groups that are often labelled “sects” or “cults” in popular discourse, but those popular labels already carry strong negative assumptions. The wording matters because ridicule often begins before the failed prophecy and then intensifies afterwards, making it harder to separate legitimate criticism from stigma.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://religionmediacentre.org.uk/factsheets/factsheet-new-religious-movements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: religionmediacentre.org.uk">[Religion Media Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">religionmediacentre.org.uk</span><span class="citation-popover-title">Religion Media Centre Factsheet: New Religious Movements</span><span class="citation-popover-snippet">Religion Media CentreFactsheet: New Religious Movements - Religion Media Centre...</span></span></span>
 
 ### The Dorothy Martin problem
 
-The Martin case is often retold as a tidy psychology lesson: prophecy fails, believers feel [cognitive dissonance]({{ 'dissonance/' | relative_url }}), then they double down and proselytise. That version made the case famous, but recent archival criticism has challenged how cleanly the evidence supports it. Timothy Kelly’s reassessment of the original case argues that the canonical account overstated the group’s post-failure commitment and that Martin’s group did not simply behave as the textbook version suggests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</span></span></span>
+The Martin case is often retold as a tidy psychology lesson: prophecy fails, believers feel [cognitive dissonance]({{ 'dissonance/' | relative_url }}), then they double down and proselytise. That version made the case famous, but recent archival criticism has challenged how cleanly the evidence supports it. Timothy Kelly’s reassessment of the original case argues that the canonical account overstated the group’s post-failure commitment and that Martin’s group did not simply behave as the textbook version suggests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Debunking “When Prophecy Fails”</span><span class="citation-popover-snippet">Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</span></span></span>
 
 That matters for ridicule because the public loves the “they doubled down” story. It allows failed believers to be treated as comic proof that irrational people never learn. The more complicated possibility is less satisfying but more useful: some believers leave, some reinterpret, some feel humiliated, and some groups decline rather than harden. A mocking public narrative can turn a messy human aftermath into a single punchline.
 
@@ -480,22 +480,22 @@ That matters for ridicule because the public loves the “they doubled down” s
 
 ### Chen Tao and the “media circus” problem
 
-Chen Tao’s Garland prophecy shows another thing ridicule can hide: public fear. Observers did not only laugh at the prediction that God would appear; some worried about whether the group might repeat the violence of Heaven’s Gate, which had taken place the previous year. Reports and later studies describe intense media attention, police preparation, community anxiety, and Chen’s own attempts to deny that members would commit suicide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+Chen Tao’s Garland prophecy shows another thing ridicule can hide: public fear. Observers did not only laugh at the prediction that God would appear; some worried about whether the group might repeat the violence of Heaven’s Gate, which had taken place the previous year. Reports and later studies describe intense media attention, police preparation, community anxiety, and Chen’s own attempts to deny that members would commit suicide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
-When God did not appear as predicted, Chen reportedly acknowledged failure and even offered to be punished, while the group’s public profile collapsed. The comic version is that nothing happened. The more revealing version is that the predicted event failed, the anticipated disaster did not occur, the press moved on, and the group’s members were left to manage embarrassment, visa problems, religious disappointment, and a damaged relationship with the outside world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
+When God did not appear as predicted, Chen reportedly acknowledged failure and even offered to be punished, while the group’s public profile collapsed. The comic version is that nothing happened. The more revealing version is that the predicted event failed, the anticipated disaster did not occur, the press moved on, and the group’s members were left to manage embarrassment, visa problems, religious disappointment, and a damaged relationship with the outside world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBGod&#x27;s Salvation Church: Past, Present and Future</span><span class="citation-popover-snippet">April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</span><span class="citation-popover-meta">Published: April 11, 2004</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sPyWo4Ei5vU" title="USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer">USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sPyWo4Ei5vU">Open on YouTube</a></p></div></div></div>
 
 ## When ridicule follows tragedy
 
-Heaven’s Gate is the clearest warning against treating all failed alien prophecy as harmless absurdity. In 1997, 39 members died in Rancho Santa Fe, California, believing that death would allow them to reach a spacecraft connected with Comet Hale-Bopp. The UFO claim was false, but the deaths were real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie &#124; Vanity Fair</span></span></span>
+Heaven’s Gate is the clearest warning against treating all failed alien prophecy as harmless absurdity. In 1997, 39 members died in Rancho Santa Fe, California, believing that death would allow them to reach a spacecraft connected with Comet Hale-Bopp. The UFO claim was false, but the deaths were real.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie &#124; Vanity Fair</span></span></span>
 
-Public mockery arrived quickly. Vanity Fair reported that, a little more than two weeks after the bodies were discovered, *Saturday Night Live* mocked the dead in a sketch depicting Marshall Applewhite from outer space. Documentary director Clay Tweel later remarked on the speed and volume of the jokes, noting that the subject was suicide and yet the victims became punchlines within days. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie &#124; Vanity Fair</span></span></span>
+Public mockery arrived quickly. Vanity Fair reported that, a little more than two weeks after the bodies were discovered, *Saturday Night Live* mocked the dead in a sketch depicting Marshall Applewhite from outer space. Documentary director Clay Tweel later remarked on the speed and volume of the jokes, noting that the subject was suicide and yet the victims became punchlines within days.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie &#124; Vanity Fair</span></span></span>
 
 This is where ridicule becomes ethically unstable. Satire can puncture the grandiosity of a leader, challenge apocalyptic certainty, or expose the absurdity of a false cosmic claim. But when it turns the dead themselves into comic props, it can erase vulnerability, bereavement, and coercive group dynamics. It may also comfort outsiders with the thought that only “kooks” could be drawn into such a movement, when researchers and former members often stress more ordinary pathways: loneliness, spiritual searching, group belonging, fear of catastrophe, and trust in a leader.
 
-The Hale-Bopp case also shows how ridicule can distract from the information ecosystem that helped a claim travel. Before Heaven’s Gate’s deaths, an alleged “secret UFO picture” connected to Hale-Bopp circulated through prominent paranormal media channels; astronomer Olivier Hainaut’s page documents how the supposed image was promoted as coming from an anonymous astrophysicist. The failed claim was not only a private delusion inside one house. It sat inside a wider media environment where rumours, images, radio discussion, and internet circulation could lend a fringe idea temporary plausibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?</span></span></span>
+The Hale-Bopp case also shows how ridicule can distract from the information ecosystem that helped a claim travel. Before Heaven’s Gate’s deaths, an alleged “secret UFO picture” connected to Hale-Bopp circulated through prominent paranormal media channels; astronomer Olivier Hainaut’s page documents how the supposed image was promoted as coming from an anonymous astrophysicist. The failed claim was not only a private delusion inside one house. It sat inside a wider media environment where rumours, images, radio discussion, and internet circulation could lend a fringe idea temporary plausibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eso.org">[ESO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eso.org</span><span class="citation-popover-title">Hale-Bopp companions?!?</span><span class="citation-popover-snippet">Hale-Bopp companions?!?</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3-Illustration-2-dark.svg" | relative_url }}" alt="Ridicule illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -509,9 +509,9 @@ Three effects are especially important after failed UFO prophecy:
 
 **It can make outsiders less attentive.** Once a group is treated mainly as a joke, warning signs may be missed. Before Heaven’s Gate, the public could laugh at comet-spaceship beliefs; afterwards, the same beliefs had to be re-read as part of a fatal process.
 
-**It can damage serious reporting.** NASA’s 2023 UAP independent study report warned that stigma around unusual or unexplained phenomena can discourage reporting and study. The report noted that some scientists involved in the panel received negative mail or were ridiculed online, and it argued for a shift from sensationalism to transparent, rigorous analysis. That point does not validate alien prophecies, but it does show why ridicule is a poor substitute for evidence-based scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+**It can damage serious reporting.** NASA’s 2023 UAP independent study report warned that stigma around unusual or unexplained phenomena can discourage reporting and study. The report noted that some scientists involved in the panel received negative mail or were ridiculed online, and it argued for a shift from sensationalism to transparent, rigorous analysis. That point does not validate alien prophecies, but it does show why ridicule is a poor substitute for evidence-based scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-The same distinction matters in official UFO investigation. AARO’s historical review found no evidence that investigated UAP cases represented extraterrestrial technology, while also noting persistent data-quality problems in many cases. In other words, the evidential answer may be sceptical without needing contempt. Better data, clearer categories, and careful follow-up do more public good than treating every unusual claim as comedy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+The same distinction matters in official UFO investigation. AARO’s historical review found no evidence that investigated UAP cases represented extraterrestrial technology, while also noting persistent data-quality problems in many cases. In other words, the evidential answer may be sceptical without needing contempt. Better data, clearer categories, and careful follow-up do more public good than treating every unusual claim as comedy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dju4F0twu0A" title="Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer">Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dju4F0twu0A">Open on YouTube</a></p></div></div></div>
@@ -528,194 +528,194 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3-Illustration-3-dark.svg" | relative_url }}" alt="Ridicule illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_public_ridicule_1faae3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Mockery Misses About Failed Prophecy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Mockery Misses About Failed Prophecy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Explains what happens inside groups after public failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains what happens inside groups after public failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps explain belief, embarrassment, and persistence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain belief, embarrassment, and persistence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
-        </h4>
-        <p class="fr-book-author">By Steven Hassan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Combating cult mind control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12927141-M.jpg" alt="Cover for Combating cult mind control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
+</h4>
+<p class="fr-book-author">By Steven Hassan</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Leaving+the+fold+Marlene+Winell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Leaving the fold on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3949387-M.jpg" alt="Cover for Leaving the fold" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Leaving+the+fold+Marlene+Winell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Leaving the fold">Leaving the fold</a>
-        </h4>
-        <p class="fr-book-author">By Marlene Winell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Leaving+the+fold+Marlene+Winell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Leaving the fold on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3949387-M.jpg" alt="Cover for Leaving the fold" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Leaving+the+fold+Marlene+Winell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Leaving the fold">Leaving the fold</a>
+</h4>
+<p class="fr-book-author">By Marlene Winell</p>
         
-        <p class="fr-book-desc">First published 1993. Subjects: Ex-church members, Fundamentalism, Psychology, Psychology and religion, Faith.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Leaving+the+fold+Marlene+Winell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1993. Subjects: Ex-church members, Fundamentalism, Psychology, Psychology and religion, Faith.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Leaving+the+fold+Marlene+Winell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black"><img src="{{ '/assets/images/marketplace-covers/078b55bb70d6b61d9af5.jpg' | relative_url }}" alt="Listing image for Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Face Head Metal Enamel Pin Badge Area 51 UFO Silver and Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="ridicule-what-mockery-misses-about-failed-prophecy-failed-predictions-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -731,7 +731,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -751,7 +751,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -783,7 +783,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -835,7 +835,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -880,7 +880,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -921,147 +921,147 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cesnur.org  
    Title: Chen Tao in Texas (CESNUR)  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in Texas (CESNUR)...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in Texas (CESNUR)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Debunking “When Prophecy Fails”  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: d-nb.info  
    Title: DNBGod's Salvation Church: Past, Present and Future  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 11, 2004 — by CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also known as Chen Tao, held the attention...</p></details>
    Published: April 11, 2004  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eso.org  
    Title: Hale-Bopp companions?!?  
-   Link: <a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
+   Link:<a href="https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/Hale_Bopp/hb_ufo_tholen.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of Saturday Night Live commercial parodies  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_commercial_parodies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_commercial_parodies</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_commercial_parodies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_commercial_parodies</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: New religious movement  
-   Link: <a href="https://en.wikipedia.org/wiki/New_religious_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_religious_movement</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/New_religious_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_religious_movement</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: 19931 hale bopp  
-   Link: <a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
+   Link:<a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vanityfair.com  
    Title: Vanity Fair The Heaven’s Gate Cult Was As American as Apple Pie | Vanity Fair  
-   Link: <a href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: religionmediacentre.org.uk  
    Title: Religion Media Centre Factsheet: New Religious Movements  
-   Link: <a href="https://religionmediacentre.org.uk/factsheets/factsheet-new-religious-movements/" target="_blank" rel="noopener noreferrer nofollow">https://religionmediacentre.org.uk/factsheets/factsheet-new-religious-movements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Religion Media CentreFactsheet: New Religious Movements - Religion Media Centre...</p></details>
+   Link:<a href="https://religionmediacentre.org.uk/factsheets/factsheet-new-religious-movements/" target="_blank" rel="noopener noreferrer nofollow">https://religionmediacentre.org.uk/factsheets/factsheet-new-religious-movements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Religion Media CentreFactsheet: New Religious Movements - Religion Media Centre...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bvlsingler.com  
    Title: new religious movements  
-   Link: <a href="https://bvlsingler.com/tag/new-religious-movements/" target="_blank" rel="noopener noreferrer nofollow">https://bvlsingler.com/tag/new-religious-movements/</a>  
+   Link:<a href="https://bvlsingler.com/tag/new-religious-movements/" target="_blank" rel="noopener noreferrer nofollow">https://bvlsingler.com/tag/new-religious-movements/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: religions.wiki  
    Title: Chen Tao  
-   Link: <a href="https://religions.wiki/index.php/Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://religions.wiki/index.php/Chen_Tao</a>  
+   Link:<a href="https://religions.wiki/index.php/Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://religions.wiki/index.php/Chen_Tao</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/magazine/2021/07/12/what-makes-a-cult-a-cult" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/07/12/what-makes-a-cult-a-cult</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sarah Berman&#x27;s book &quot;Don&#x27;t Call It a Cult&quot; delves into Keith Raniere&#x27;s use of manipulative tactics like branding followers and using blac...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2021/07/12/what-makes-a-cult-a-cult" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/07/12/what-makes-a-cult-a-cult</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sarah Berman&#x27;s book &quot;Don&#x27;t Call It a Cult&quot; delves into Keith Raniere&#x27;s use of manipulative tactics like branding followers and using blac...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dju4F0twu0A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in the Heaven&#x27;s Gate Cult? (REUPLOAD)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dju4F0twu0A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in the Heaven&#x27;s Gate Cult? (REUPLOAD)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sdsheriff.gov  
-   Link: <a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
+   Link:<a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6d6SJd5sxnM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6d6SJd5sxnM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
+   Link:<a href="https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661363_God%27s_Descending_in_Clouds_Flying_Saucers_Anthropological_Approaches_to_UFOs_in_the_Religious_Register</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LPOTL/comments/m7qm8m/3_days_after_the_heavens_gate_mass_suicide/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LPOTL/comments/m7qm8m/3_days_after_the_heavens_gate_mass_suicide/</a>  
+   Link:<a href="https://www.reddit.com/r/LPOTL/comments/m7qm8m/3_days_after_the_heavens_gate_mass_suicide/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LPOTL/comments/m7qm8m/3_days_after_the_heavens_gate_mass_suicide/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
+   Link:<a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/astonishing-uap-cases-and-debate-over-what-the-government-really-knows/1022805733459777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/astonishing-uap-cases-and-debate-over-what-the-government-really-knows/1022805733459777/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/astonishing-uap-cases-and-debate-over-what-the-government-really-knows/1022805733459777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/astonishing-uap-cases-and-debate-over-what-the-government-really-knows/1022805733459777/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  

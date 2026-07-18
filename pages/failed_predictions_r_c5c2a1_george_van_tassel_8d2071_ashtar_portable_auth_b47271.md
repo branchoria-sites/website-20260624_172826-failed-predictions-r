@@ -274,17 +274,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashta
 
 ## Introduction
 
-Among the many figures produced by the 1950s UFO contactee movement, [Ashtar]({{ 'ashtar/' | relative_url }}) proved unusually durable because he was presented not simply as an alien visitor but as an office-holder within a cosmic command structure. [George Van Tassel]({{ 'van-tassel/' | relative_url }})’s early messages described Ashtar through a vocabulary of commandants, sectors, patrol stations and chains of authority. That language created a portable framework that could survive changes in personnel, predictions and doctrines. When later prophecies failed or new channelers emerged, believers did not need to defend a specific encounter; they could attach fresh revelations to the same recognised authority structure. In the history of failed UFO predictions, this made Ashtar less important as an individual character than as a reusable mechanism for granting legitimacy to new claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+Among the many figures produced by the 1950s UFO contactee movement, [Ashtar]({{ 'ashtar/' | relative_url }}) proved unusually durable because he was presented not simply as an alien visitor but as an office-holder within a cosmic command structure. [George Van Tassel]({{ 'van-tassel/' | relative_url }})’s early messages described Ashtar through a vocabulary of commandants, sectors, patrol stations and chains of authority. That language created a portable framework that could survive changes in personnel, predictions and doctrines. When later prophecies failed or new channelers emerged, believers did not need to defend a specific encounter; they could attach fresh revelations to the same recognised authority structure. In the history of failed UFO predictions, this made Ashtar less important as an individual character than as a reusable mechanism for granting legitimacy to new claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-1-dark.svg" | relative_url }}" alt="Ashtar Command illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The July 1952 Arrival of Ashtar
 
-Van Tassel reported receiving telepathic communications from several extraterrestrial sources during 1952. According to accounts preserved in both reference works and reproductions of the original messages, Ashtar did not appear immediately. In July 1952 another entity announced the approach of a spacecraft carrying a superior officer, preparing the audience for a higher-ranking authority. Shortly afterwards the newcomer identified himself as “Ashtar, commandant quadra sector, patrol station Schare, all projections, all waves.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2wwwuser.gwdguser.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+Van Tassel reported receiving telepathic communications from several extraterrestrial sources during 1952. According to accounts preserved in both reference works and reproductions of the original messages, Ashtar did not appear immediately. In July 1952 another entity announced the approach of a spacecraft carrying a superior officer, preparing the audience for a higher-ranking authority. Shortly afterwards the newcomer identified himself as “Ashtar, commandant quadra sector, patrol station Schare, all projections, all waves.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2wwwuser.gwdguser.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
-That introduction is significant because it framed authority bureaucratically rather than personally. Ashtar was not merely a wise space brother offering advice. He arrived with a title, a jurisdiction and an apparent command responsibility. The message implied an organised interplanetary system with stations, sectors and patrol functions. In effect, Van Tassel's audience was being told that the warning about humanity’s nuclear behaviour came from a recognised officer in a larger cosmic administration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+That introduction is significant because it framed authority bureaucratically rather than personally. Ashtar was not merely a wise space brother offering advice. He arrived with a title, a jurisdiction and an apparent command responsibility. The message implied an organised interplanetary system with stations, sectors and patrol functions. In effect, Van Tassel's audience was being told that the warning about humanity’s nuclear behaviour came from a recognised officer in a larger cosmic administration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
-This mattered because the contactee movement was operating during the early Cold War, when military terminology carried strong cultural authority. References to command structures, sectors and patrols made the messages sound organised, disciplined and official. The language resembled both military administration and emerging aerospace culture, giving supernatural claims a veneer of procedural legitimacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+This mattered because the contactee movement was operating during the early Cold War, when military terminology carried strong cultural authority. References to command structures, sectors and patrols made the messages sound organised, disciplined and official. The language resembled both military administration and emerging aerospace culture, giving supernatural claims a veneer of procedural legitimacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gpRpRYTTU-0" title="Introducing… THE INTERRUPTION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gpRpRYTTU-0" target="_blank" rel="noopener noreferrer">Introducing… THE INTERRUPTION</a></p><p class="youtube-embed-meta">Channel: hochelaga</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gpRpRYTTU-0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gpRpRYTTU-0">Open on YouTube</a></p></div></div></div>
@@ -305,32 +305,32 @@ Several features made the authority unusually transferable:
 
 </div>
 
-The earliest Ashtar communications focused heavily on nuclear dangers, especially fears surrounding hydrogen-bomb development. Yet even when specific warnings did not unfold as predicted, the command framework remained intact. Scholars of [UFO religion]({{ 'ufo-religion/' | relative_url }}) have noted that failed expectations were often absorbed by expanding the narrative rather than abandoning it. In Ashtar’s case, the existence of a cosmic command hierarchy made such adaptation easier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">UFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.... Van Tassel, George (1952), I rode a flyi...</span></span></span>
+The earliest Ashtar communications focused heavily on nuclear dangers, especially fears surrounding hydrogen-bomb development. Yet even when specific warnings did not unfold as predicted, the command framework remained intact. Scholars of [UFO religion]({{ 'ufo-religion/' | relative_url }}) have noted that failed expectations were often absorbed by expanding the narrative rather than abandoning it. In Ashtar’s case, the existence of a cosmic command hierarchy made such adaptation easier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">UFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.... Van Tassel, George (1952), I rode a flyi...</span></span></span>
 
-The original wording also blended technical and administrative imagery. Terms such as “all projections” and “all waves” suggested mastery over communications, space travel and dimensions that ordinary humans could not access. Whether interpreted literally or spiritually, the effect was to place Ashtar above ordinary earthly institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[wwwuser.gwdguser.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">his book I Rode a Flying Saucer). July 18, 1952. Hail to you beings of Shan...Read more...</span><span class="citation-popover-meta">Published: July 18, 1952</span></span></span>
+The original wording also blended technical and administrative imagery. Terms such as “all projections” and “all waves” suggested mastery over communications, space travel and dimensions that ordinary humans could not access. Whether interpreted literally or spiritually, the effect was to place Ashtar above ordinary earthly institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[wwwuser.gwdguser.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-title">ashtar muw</span><span class="citation-popover-snippet">his book I Rode a Flying Saucer). July 18, 1952. Hail to you beings of Shan...Read more...</span><span class="citation-popover-meta">Published: July 18, 1952</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-2-dark.svg" | relative_url }}" alt="Ashtar Command illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Authority Structure Escaped Van Tassel
 
-A striking feature of the Ashtar story is how quickly it spread beyond its original source. Reference works on the movement note that within months of Ashtar’s appearance, other individuals were claiming to receive messages from the same being. The figure effectively detached from Van Tassel and became available for reuse by other channelers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+A striking feature of the Ashtar story is how quickly it spread beyond its original source. Reference works on the movement note that within months of Ashtar’s appearance, other individuals were claiming to receive messages from the same being. The figure effectively detached from Van Tassel and became available for reuse by other channelers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
 This portability was aided by the fact that Ashtar had already been defined as an office-holder within a hierarchy. New claimants did not need to reproduce Van Tassel’s exact experiences. They only needed to establish contact with the recognised commander.
 
-The pattern appeared almost immediately. Robert Short, who was associated with Van Tassel's circle, promoted Ashtar messages independently and eventually helped popularise the term “Ashtar Command.” Van Tassel reportedly disputed the authenticity of some of these later communications, but the authority structure had already become larger than any single claimant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">UFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.... Van Tassel, George (1952), I rode a flyi...</span></span></span>
+The pattern appeared almost immediately. Robert Short, who was associated with Van Tassel's circle, promoted Ashtar messages independently and eventually helped popularise the term “Ashtar Command.” Van Tassel reportedly disputed the authenticity of some of these later communications, but the authority structure had already become larger than any single claimant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">UFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.... Van Tassel, George (1952), I rode a flyi...</span></span></span>
 
-Once detached from its creator, the system became highly adaptable. Different channels could disagree on details while still claiming access to the same cosmic chain of command. Contradictions that might have destroyed a more tightly defined prophetic movement instead became evidence of a sprawling and flexible revelation network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+Once detached from its creator, the system became highly adaptable. Different channels could disagree on details while still claiming access to the same cosmic chain of command. Contradictions that might have destroyed a more tightly defined prophetic movement instead became evidence of a sprawling and flexible revelation network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_dBjaMqUBtI" title="Ashtar Galactic Council: Message To Humanity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_dBjaMqUBtI" target="_blank" rel="noopener noreferrer">Ashtar Galactic Council: Message To Humanity</a></p><p class="youtube-embed-meta">Channel: Literati</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_dBjaMqUBtI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_dBjaMqUBtI">Open on YouTube</a></p></div></div></div>
 
 ## How Later Channels Reused the Framework
 
-By the 1980s and 1990s, Ashtar had evolved from a specific contactee figure into the head of a vast spiritual organisation. Later channelers expanded the hierarchy dramatically, portraying Ashtar as a supreme director, commander of immense fleets or leader of the “Ashtar Command.” The details varied, but the underlying mechanism remained the same: authority flowed from rank and position within a cosmic bureaucracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+By the 1980s and 1990s, Ashtar had evolved from a specific contactee figure into the head of a vast spiritual organisation. Later channelers expanded the hierarchy dramatically, portraying Ashtar as a supreme director, commander of immense fleets or leader of the “Ashtar Command.” The details varied, but the underlying mechanism remained the same: authority flowed from rank and position within a cosmic bureaucracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
-This development proved especially useful for UFO prophecy. Predictions of landings, interventions, evacuations or planetary transformations could be issued under the banner of an established command structure. When such predictions failed, later messages often reinterpreted events, postponed timetables or claimed unseen interventions. The authority of the commander could survive even when individual forecasts did not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">UFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.... Van Tassel, George (1952), I rode a flyi...</span></span></span>
+This development proved especially useful for UFO prophecy. Predictions of landings, interventions, evacuations or planetary transformations could be issued under the banner of an established command structure. When such predictions failed, later messages often reinterpreted events, postponed timetables or claimed unseen interventions. The authority of the commander could survive even when individual forecasts did not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">UFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.... Van Tassel, George (1952), I rode a flyi...</span></span></span>
 
-As the movement diversified, Ashtar accumulated titles including commander, lord, director and fleet leader. Yet the essential pattern remained recognisable: a cosmic officer speaking through human intermediaries. That consistency allowed successive generations of channelers to inherit credibility from earlier claims without needing direct continuity with Van Tassel himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+As the movement diversified, Ashtar accumulated titles including commander, lord, director and fleet leader. Yet the essential pattern remained recognisable: a cosmic officer speaking through human intermediaries. That consistency allowed successive generations of channelers to inherit credibility from earlier claims without needing direct continuity with Van Tassel himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-3-dark.svg" | relative_url }}" alt="Ashtar Command illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_george_van_tassel_8d2071_ashtar_portable_auth_b47271-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,201 +344,201 @@ The original 1952 messages established three durable ideas:
 2. Ashtar occupied a senior position within it.
 3. Humans could receive directives from that authority through [channeling]({{ 'channeling/' | relative_url }}).
 
-Those ideas could be reused indefinitely. New messages could be attached to the same commander, new prophecies could be issued under the same authority and new movements could inherit the same symbolic chain of command. In the wider history of failed UFO predictions, that portability helps explain why Ashtar survived long after many individual forecasts, landings and rescue promises failed to materialise. The command language itself became the mechanism through which authority was preserved and transferred from one generation of believers to the next. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
+Those ideas could be reused indefinitely. New messages could be attached to the same commander, new prophecies could be issued under the same authority and new movements could inherit the same symbolic chain of command. In the wider history of failed UFO predictions, that portability helps explain why Ashtar survived long after many individual forecasts, landings and rescue promises failed to materialise. The command language itself became the mechanism through which authority was preserved and transferred from one generation of believers to the next.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/51vOvQJ853c" title="Vrillon, The Ashtar Galactic Command" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=51vOvQJ853c" target="_blank" rel="noopener noreferrer">Vrillon, The Ashtar Galactic Command</a></p><p class="youtube-embed-meta">Channel: Lobodaman Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=51vOvQJ853c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=51vOvQJ853c">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Ashtar Became a Movable Authority. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Ashtar Became a Movable Authority. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Directly examines how authority, revelation, and legitimacy function in UFO-related movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how authority, revelation, and legitimacy function in UFO-related movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers place older contactee narratives within the wider history of UFO belief and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers place older contactee narratives within the wider history of UFO belief and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how UFO narratives evolved and became institutionalized within belief communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO narratives evolved and became institutionalized within belief communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XdVWAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Extraterrestrial Encounters">The Encyclopedia of Extraterrestrial Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Story</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Encyclopedia of Extraterrestrial Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XdVWAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Encyclopedia of Extraterrestrial Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Extraterrestrial Encounters">The Encyclopedia of Extraterrestrial Encounters</a>
+</h4>
+<p class="fr-book-author">By Ronald Story</p>
         
-        <p class="fr-book-desc">Contains background on contactees and extraterrestrial authority figures such as those associated with Ashtar traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains background on contactees and extraterrestrial authority figures such as those associated with Ashtar traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Extraterrestrial+Encounters+by+Ronald+Story&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print"><img src="{{ '/assets/images/marketplace-covers/0038eedf7a007e9169b3.jpg' | relative_url }}" alt="Listing image for Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print"><img src="{{ '/assets/images/marketplace-covers/0038eedf7a007e9169b3.jpg' | relative_url }}" alt="Listing image for Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien (1979) Movie Poster – A1, A2, A3, A4 – Premium Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/a8e7e44325c5ab20d438.jpg' | relative_url }}" alt="Listing image for ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/a8e7e44325c5ab20d438.jpg' | relative_url }}" alt="Listing image for ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">ALIENS POSTER ART PRINTS PREDATOR A4 A3 SIZE BUY 2 GET ANY 2 FREE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien The Short Version Parody Artwork Printed On Sheet Metal"><img src="{{ '/assets/images/marketplace-covers/01a6e657f6962b37df33.jpg' | relative_url }}" alt="Listing image for Alien The Short Version Parody Artwork Printed On Sheet Metal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien The Short Version Parody Artwork Printed On Sheet Metal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien The Short Version Parody Artwork Printed On Sheet Metal"><img src="{{ '/assets/images/marketplace-covers/01a6e657f6962b37df33.jpg' | relative_url }}" alt="Listing image for Alien The Short Version Parody Artwork Printed On Sheet Metal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Alien The Short Version Parody Artwork Printed On Sheet Metal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton"><img src="{{ '/assets/images/marketplace-covers/3c6698c568d4c21f0d94.jpg' | relative_url }}" alt="Listing image for Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton"><img src="{{ '/assets/images/marketplace-covers/3c6698c568d4c21f0d94.jpg' | relative_url }}" alt="Listing image for Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">Suzi Does Alien / Fine Art Print / Sleeved W Backing Board / Signed Rick Melton</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print" data-ebay-reference="ashtar-command-how-ashtar-became-a-movable-authority-failed-predictions-alien-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Those ideas could be reused indefinitely. New messages could be attached to the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Those ideas could be reused indefinitely. New messages could be attached to the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Those ideas could be reused indefinitely. New messages could be attached to the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Those ideas could be reused indefinitely. New messages could be attached to the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Those ideas could be reused indefinitely. New messages could be attached to the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,112 +744,112 @@ Those ideas could be reused indefinitely. New messages could be attached to the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.... Van Tassel, George (1952), I rode a flyi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.... Van Tassel, George (1952), I rode a flyi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wwwuser.gwdguser.de  
    Title: ashtar muw  
-   Link: <a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>his book I Rode a Flying Saucer). July 18, 1952. Hail to you beings of Shan...Read more...</p></details>
+   Link:<a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>his book I Rode a Flying Saucer). July 18, 1952. Hail to you beings of Shan...Read more...</p></details>
    Published: July 18, 1952  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke from Van Tassel in 1952 to found the...</p></details>
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke from Van Tassel in 1952 to found the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: encyclopedia.com  
    Title: flying saucer groups 0  
-   Link: <a href="https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/flying-saucer-groups-0" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/flying-saucer-groups-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer GroupsAshtar, a space being first channeled and made famous by George Van Tassel, In January 1952 he began to receive chann...</p></details>
+   Link:<a href="https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/flying-saucer-groups-0" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/flying-saucer-groups-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer GroupsAshtar, a space being first channeled and made famous by George Van Tassel, In January 1952 he began to receive chann...</p></details>
    Published: January 1952  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Wellington Van Tassel (March 12, 1910 – February 9, 1978) was an American author, inventor and UFO contactee.R...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Wellington Van Tassel (March 12, 1910 – February 9, 1978) was an American author, inventor and UFO contactee.R...</p></details>
    Published: March 12, 1910  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: boneandsickle.com  
    Title: george van tassel  
-   Link: <a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: George van Tassel30 Jul 2021 — Chief among the Space People van Tassel claimed to contact was Ashtar, whose messages were largely de...</p></details>
+   Link:<a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: George van Tassel30 Jul 2021 — Chief among the Space People van Tassel claimed to contact was Ashtar, whose messages were largely de...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/ashtar-command/60572481" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/ashtar-command/60572481</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ent originating from channeled entities...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/ashtar-command/60572481" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/ashtar-command/60572481</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ent originating from channeled entities...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: [integratron](&#123;&#123; 'integratron/' | relative_url &#125;&#125;). com  
-   Link: <a href="https://integratron.com/wp-content/uploads/2018/12/Integratron-National-Register-of-Historic-Places-Registration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://integratron.com/wp-content/uploads/2018/12/Integratron-National-Register-of-Historic-Places-Registration.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Register of Historic Places Registration FormJuly, Van Tassel was contacted by a being who appears to frequent ufology channeler...</p></details>
+   Link:<a href="https://integratron.com/wp-content/uploads/2018/12/Integratron-National-Register-of-Historic-Places-Registration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://integratron.com/wp-content/uploads/2018/12/Integratron-National-Register-of-Historic-Places-Registration.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Register of Historic Places Registration FormJuly, Van Tassel was contacted by a being who appears to frequent ufology channeler...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/COX7rbqhK0L/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/COX7rbqhK0L/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/COX7rbqhK0L/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/COX7rbqhK0L/?hl=en</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: poochinthehouse.wordpress.com  
-   Link: <a href="https://poochinthehouse.wordpress.com/2025/07/21/ashtar-messenger-from-the-stars-and-his-message-for-humanity/" target="_blank" rel="noopener noreferrer nofollow">https://poochinthehouse.wordpress.com/2025/07/21/ashtar-messenger-from-the-stars-and-his-message-for-humanity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comAshtar: Messenger from the Stars and His Message for Humanity...The initial messages received by Van Tassel were stark and...</p></details>
+   Link:<a href="https://poochinthehouse.wordpress.com/2025/07/21/ashtar-messenger-from-the-stars-and-his-message-for-humanity/" target="_blank" rel="noopener noreferrer nofollow">https://poochinthehouse.wordpress.com/2025/07/21/ashtar-messenger-from-the-stars-and-his-message-for-humanity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wordpress.comAshtar: Messenger from the Stars and His Message for Humanity...The initial messages received by Van Tassel were stark and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: voice of george van tassel 1950s ufo contactee at [giant rock](&#123;&#123; 'giant-rock/' | relative_url &#125;&#125;) in the mojave deser  
-   Link: <a href="https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of George Van Tassel — 1950s UFO contactee...Here is the first message conveyed through George Van Tassel in 1952 from a being cal...</p></details>
+   Link:<a href="https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of George Van Tassel — 1950s UFO contactee...Here is the first message conveyed through George Van Tassel in 1952 from a being cal...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: georgehbalazs.com  
    Title: 1952 I RODE A FLYING SAUCER BY GEORGE W. VAN TASSEL  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;From the sector system of Vela, I greet you from the quadra sector station Schare, in love and peace. I am Ashtar, commandant, all proje...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;From the sector system of Vela, I greet you from the quadra sector station Schare, in love and peace. I am Ashtar, commandant, all proje...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: x.com  
-   Link: <a href="https://x.com/grok/status/2052930729042993158" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/2052930729042993158</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galactic Command&quot;—a supposed fleet of spaceships here to warn...Read more...</p></details>
+   Link:<a href="https://x.com/grok/status/2052930729042993158" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/2052930729042993158</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galactic Command&quot;—a supposed fleet of spaceships here to warn...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/328732519/The-Ashtar-Command" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/328732519/The-Ashtar-Command</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd in conjunction with the Ascended Masters. Besides the...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/328732519/The-Ashtar-Command" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/328732519/The-Ashtar-Command</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd in conjunction with the Ascended Masters. Besides the...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: prussia.online  
    Title: Encyclopedia of Wars (2005), OCR  
-   Link: <a href="https://prussia.online/Data/Book/en/encyclopedia-of-wars/Encyclopedia%20of%20Wars%20%282005%29%2C%20OCR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prussia.online/Data/Book/en/encyclopedia-of-wars/Encyclopedia%20of%20Wars%20%282005%29%2C%20OCR.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of WarsMilitary history—Encyclopedias. I. Axelrod, Alan, 1952– II. (212) 967-8800 or (800) 322-8755. Acoma Revolt. July Muti...</p></details>
+   Link:<a href="https://prussia.online/Data/Book/en/encyclopedia-of-wars/Encyclopedia%20of%20Wars%20%282005%29%2C%20OCR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prussia.online/Data/Book/en/encyclopedia-of-wars/Encyclopedia%20of%20Wars%20%282005%29%2C%20OCR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of WarsMilitary history—Encyclopedias. I. Axelrod, Alan, 1952– II. (212) 967-8800 or (800) 322-8755. Acoma Revolt. July Muti...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: galacticfederationoflight.com  
    Title: What Is the Ashtar Command?  
-   Link: <a href="https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command" target="_blank" rel="noopener noreferrer nofollow">https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who Is Ashtar Sheran?2 Mar 2023 — In 1952, Van Tassel received the first of many personal messages from Lord Commander Ashtar. Some docum...</p></details>
+   Link:<a href="https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command" target="_blank" rel="noopener noreferrer nofollow">https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who Is Ashtar Sheran?2 Mar 2023 — In 1952, Van Tassel received the first of many personal messages from Lord Commander Ashtar. Some docum...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ia802901.us.archive.org  
    Title: Extraordinary Encounters  
-   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters... Van Tassel, George W. (1910–1978), 255. Vegetable Man, 256. Venudo, 257. Villanueva&#x27;s visitors, 257. VIVenus, 258. Volmo, 2...</p></details>
+   Link:<a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters... Van Tassel, George W. (1910–1978), 255. Vegetable Man, 256. Venudo, 257. Villanueva&#x27;s visitors, 257. VIVenus, 258. Volmo, 2...</p></details>

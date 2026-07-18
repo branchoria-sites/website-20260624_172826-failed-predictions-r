@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-police/
 description: Focused pages that expand on Police.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_police_concerns_a78e0d
 parent_title: Police
@@ -16,7 +16,7 @@ parent_permalink: /police/
 
 # Explore Topics in Police
 
-The following pages expand on the main **[Police]({{ '/police/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Police]({{ '/police/' | relative_url }})** page and cover its key branches in.
 
 - [Belief vs Risk]({{ '/belief-vs-risk/' | relative_url }})
 - [Children]({{ '/children/' | relative_url }})

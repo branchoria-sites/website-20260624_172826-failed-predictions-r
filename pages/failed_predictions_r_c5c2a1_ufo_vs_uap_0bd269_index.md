@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-ufo-vs-uap/
 description: Focused pages that expand on UFO vs UAP.
-date: '2026-06-24'
+date: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_ufo_vs_uap_0bd269
 parent_title: UFO vs UAP
@@ -16,7 +16,7 @@ parent_permalink: /ufo-vs-uap/
 
 # Explore Topics in UFO vs UAP
 
-The following pages expand on the main **[UFO vs UAP]({{ '/ufo-vs-uap/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UFO vs UAP]({{ '/ufo-vs-uap/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Cases]({{ '/aaro-cases/' | relative_url }})
 - [Blue Book]({{ '/blue-book-991f2a/' | relative_url }})

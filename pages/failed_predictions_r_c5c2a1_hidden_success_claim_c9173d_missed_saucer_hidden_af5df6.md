@@ -274,21 +274,21 @@ image: /assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_mi
 
 ## Introduction
 
-The crucial turning point in many failed UFO prophecies is not the prediction itself but the first explanation offered after nothing happens. A flying saucer is expected, a rescue deadline arrives, and the promised event fails to occur. For a brief period, the prophecy stands exposed to direct testing. Then comes the decisive reinterpretation. Instead of treating the missing saucer as evidence that the prediction was wrong, believers may receive a new message, revelation, or authority claim that transforms failure into an unseen success. The saucer did not arrive because the mission changed. The catastrophe did not occur because higher powers intervened. The deadline was missed, but the objective was supposedly achieved in secret. This moment—often occurring within hours of the failed deadline—is where a visible failure can become a hidden victory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The crucial turning point in many failed UFO prophecies is not the prediction itself but the first explanation offered after nothing happens. A flying saucer is expected, a rescue deadline arrives, and the promised event fails to occur. For a brief period, the prophecy stands exposed to direct testing. Then comes the decisive reinterpretation. Instead of treating the missing saucer as evidence that the prediction was wrong, believers may receive a new message, revelation, or authority claim that transforms failure into an unseen success. The saucer did not arrive because the mission changed. The catastrophe did not occur because higher powers intervened. The deadline was missed, but the objective was supposedly achieved in secret. This moment—often occurring within hours of the failed deadline—is where a visible failure can become a hidden victory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-1-dark.svg" | relative_url }}" alt="Deadline Turn illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Hours After the Failed Deadline
 
-In the classic 1954 flying-saucer prophecy associated with [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) and later documented in *When Prophecy Fails*, believers expected rescue from an impending flood by extraterrestrial spacecraft. The predicted time came and went without any saucer appearing. Observers described a period of confusion, waiting, disappointment, and attempts to understand why the expected event had not occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In the classic 1954 flying-saucer prophecy associated with [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) and later documented in *When Prophecy Fails*, believers expected rescue from an impending flood by extraterrestrial spacecraft. The predicted time came and went without any saucer appearing. Observers described a period of confusion, waiting, disappointment, and attempts to understand why the expected event had not occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-What makes this period significant is that belief is briefly vulnerable. Before a new explanation emerges, members face an awkward fact: the promised event failed. During this window, some participants begin questioning assumptions, while others search for signs that they have misunderstood the timetable or conditions. The group's future often depends on what explanation arrives first and who is authorised to provide it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+What makes this period significant is that belief is briefly vulnerable. Before a new explanation emerges, members face an awkward fact: the promised event failed. During this window, some participants begin questioning assumptions, while others search for signs that they have misunderstood the timetable or conditions. The group's future often depends on what explanation arrives first and who is authorised to provide it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The evidence from the Seekers case suggests that reinterpretation did not occur gradually over months. It emerged almost immediately after the deadline passed. The first post-failure narrative therefore acted less like a later theological reflection and more like an emergency response to a crisis of credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The evidence from the Seekers case suggests that reinterpretation did not occur gradually over months. It emerged almost immediately after the deadline passed. The first post-failure narrative therefore acted less like a later theological reflection and more like an emergency response to a crisis of credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## When the Missing Saucer Becomes a Mission
 
-The most famous explanation in the Seekers story was not that the saucer had been delayed. It was that the group's faith had accomplished something larger than the original prediction. According to accounts associated with the case, a message arrived stating that the believers had "spread so much light" that the world had been spared destruction. The catastrophe did not occur because the mission had already succeeded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secularhumanism.org">[secularhumanism.org+2The Task at Hand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secularhumanism.org</span><span class="citation-popover-snippet">When We Become the SeekersThe headline read: “Prophecy from Planet Clarion Call to City: Flee That Flood.... spread so much light that G...</span></span></span>
+The most famous explanation in the Seekers story was not that the saucer had been delayed. It was that the group's faith had accomplished something larger than the original prediction. According to accounts associated with the case, a message arrived stating that the believers had "spread so much light" that the world had been spared destruction. The catastrophe did not occur because the mission had already succeeded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secularhumanism.org">[secularhumanism.org+2The Task at Hand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secularhumanism.org</span><span class="citation-popover-snippet">When We Become the SeekersThe headline read: “Prophecy from Planet Clarion Call to City: Flee That Flood.... spread so much light that G...</span></span></span>
 
 This is a profound shift in the meaning of events.
 
@@ -314,7 +314,7 @@ After the deadline:
 
 </div>
 
-The original claim was about a saucer. The revised claim is about a hidden cosmic operation. Once this shift happens, the discussion is no longer centred on whether a spacecraft arrived. Instead, it focuses on whether unseen forces responded to the group's faith or actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The original claim was about a saucer. The revised claim is about a hidden cosmic operation. Once this shift happens, the discussion is no longer centred on whether a spacecraft arrived. Instead, it focuses on whether unseen forces responded to the group's faith or actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This transformation is what turns a failed saucer prediction into a hidden mission narrative.
 
@@ -325,7 +325,7 @@ This transformation is what turns a failed saucer prediction into a hidden missi
 
 A striking feature of these moments is the role of fresh revelation. The authority that issued the original prediction often becomes the authority that explains its failure.
 
-In the Seekers case, the explanation reportedly came through the same channelled communication system that had delivered the prophecy in the first place. Rather than weakening the source's status, the failed deadline created demand for additional messages. Members needed clarification, and clarification could only come from the recognised source of supernatural knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In the Seekers case, the explanation reportedly came through the same channelled communication system that had delivered the prophecy in the first place. Rather than weakening the source's status, the failed deadline created demand for additional messages. Members needed clarification, and clarification could only come from the recognised source of supernatural knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This creates an important asymmetry:
 
@@ -339,7 +339,7 @@ This creates an important asymmetry:
 
 </div>
 
-The first post-deadline message therefore does more than explain events. It re-establishes authority at the exact moment authority is under greatest pressure. By defining what the failure means, the messenger also defines how followers should react to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The first post-deadline message therefore does more than explain events. It re-establishes authority at the exact moment authority is under greatest pressure. By defining what the failure means, the messenger also defines how followers should react to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-2-dark.svg" | relative_url }}" alt="Deadline Turn illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -347,9 +347,9 @@ The first post-deadline message therefore does more than explain events. It re-e
 
 The initial explanation often determines whether a group fragments, postpones, or survives.
 
-If the first response is [uncertainty]({{ 'uncertainty/' | relative_url }}), members may drift away. If the response is a simple scheduling error, believers may wait for a revised date. But when the explanation claims that an invisible success has already occurred, the prophecy can be treated as fulfilled rather than postponed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar[PDF] When Prophecy Fails1999. Previous studies of failed prophecies have typically been framed as replications of Festin...</span></span></span>
+If the first response is [uncertainty]({{ 'uncertainty/' | relative_url }}), members may drift away. If the response is a simple scheduling error, believers may wait for a revised date. But when the explanation claims that an invisible success has already occurred, the prophecy can be treated as fulfilled rather than postponed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Semantic Scholar[PDF] When Prophecy Fails1999. Previous studies of failed prophecies have typically been framed as replications of Festin...</span></span></span>
 
-This distinction matters because fulfilment is psychologically stronger than delay. A postponed prophecy remains vulnerable to future testing. A [hidden success claim]({{ 'hidden-success/' | relative_url }}) asserts that the crucial event has already happened and cannot be directly examined. The narrative moves from prediction to interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+This distinction matters because fulfilment is psychologically stronger than delay. A postponed prophecy remains vulnerable to future testing. A [hidden success claim]({{ 'hidden-success/' | relative_url }}) asserts that the crucial event has already happened and cannot be directly examined. The narrative moves from prediction to interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 In practical terms, the first explanation answers three urgent questions:
 
@@ -360,7 +360,7 @@ The hidden-mission answer says their faith was effective.
 3. **What should happen next?**
 The hidden-mission answer often calls for renewed commitment rather than withdrawal.
 
-Because these questions arise immediately after the missed deadline, the first explanation has disproportionate influence over the group's future direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Because these questions arise immediately after the missed deadline, the first explanation has disproportionate influence over the group's future direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6d6SJd5sxnM" title="InPresence 0211: When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer">InPresence 0211: When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6d6SJd5sxnM">Open on YouTube</a></p></div></div></div>
@@ -369,9 +369,9 @@ Because these questions arise immediately after the missed deadline, the first e
 
 From an evidential standpoint, the hidden-mission explanation changes what counts as proof.
 
-A predicted saucer landing is a concrete event. Either witnesses observe it or they do not. A claim that believers secretly saved the world through spiritual influence operates differently. The evidence becomes the ordinary continuation of life itself. The world still exists; therefore the intervention must have worked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secularhumanism.org">[secularhumanism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secularhumanism.org</span><span class="citation-popover-snippet">When We Become the SeekersThe headline read: “Prophecy from Planet Clarion Call to City: Flee That Flood.... spread so much light that G...</span></span></span>
+A predicted saucer landing is a concrete event. Either witnesses observe it or they do not. A claim that believers secretly saved the world through spiritual influence operates differently. The evidence becomes the ordinary continuation of life itself. The world still exists; therefore the intervention must have worked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secularhumanism.org">[secularhumanism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secularhumanism.org</span><span class="citation-popover-snippet">When We Become the SeekersThe headline read: “Prophecy from Planet Clarion Call to City: Flee That Flood.... spread so much light that G...</span></span></span>
 
-Critics have long argued that this makes the claim difficult to test. The same uneventful morning that sceptics interpret as disconfirmation can be interpreted by believers as confirmation. Because the success is defined as invisible, the absence of visible evidence ceases to count against it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Critics have long argued that this makes the claim difficult to test. The same uneventful morning that sceptics interpret as disconfirmation can be interpreted by believers as confirmation. Because the success is defined as invisible, the absence of visible evidence ceases to count against it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This is why the immediate post-deadline reinterpretation is so consequential. It relocates the discussion from observable events to unobservable outcomes.
 
@@ -382,202 +382,202 @@ This is why the immediate post-deadline reinterpretation is so consequential. It
 
 Many later narratives about failed UFO prophecies can be traced back to this first interpretive move. Once followers accept that a missed saucer may represent a successful hidden mission, future disappointments become easier to absorb. The pattern has already been established.
 
-The key development is not the original failed prediction but the decision, made in the hours afterwards, about what the failure means. In the classic flying-saucer case, the explanation that the group had helped save the world supplied a new story capable of replacing the old one. Whether later scholars accept every detail of the traditional account remains debated, particularly in light of recent archival critiques of *When Prophecy Fails*. Yet the reported episode remains a powerful illustration of how a failed UFO deadline can be transformed into a claim of invisible success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Wikipedia+3sciety.org+3onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neith...</span></span></span>
+The key development is not the original failed prediction but the decision, made in the hours afterwards, about what the failure means. In the classic flying-saucer case, the explanation that the group had helped save the world supplied a new story capable of replacing the old one. Whether later scholars accept every detail of the traditional account remains debated, particularly in light of recent archival critiques of *When Prophecy Fails*. Yet the reported episode remains a powerful illustration of how a failed UFO deadline can be transformed into a claim of invisible success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Wikipedia+3sciety.org+3onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neith...</span></span></span>
 
-The hidden mission begins at the exact moment the visible mission fails. That first explanation is the hinge on which the entire meaning of the prophecy turns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secularhumanism.org">[secularhumanism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secularhumanism.org</span><span class="citation-popover-snippet">When We Become the SeekersThe headline read: “Prophecy from Planet Clarion Call to City: Flee That Flood.... spread so much light that G...</span></span></span>
+The hidden mission begins at the exact moment the visible mission fails. That first explanation is the hinge on which the entire meaning of the prophecy turns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secularhumanism.org">[secularhumanism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secularhumanism.org</span><span class="citation-popover-snippet">When We Become the SeekersThe headline read: “Prophecy from Planet Clarion Call to City: Flee That Flood.... spread so much light that G...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-3-dark.svg" | relative_url }}" alt="Deadline Turn illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_hidden_success_claim_c9173d_missed_saucer_hidden_af5df6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The First Explanation After the Saucer Fails. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The First Explanation After the Saucer Fails. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Documents the Dorothy Martin flying-saucer prophecy and the reinterpretations that followed predictive failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the Dorothy Martin flying-saucer prophecy and the reinterpretations that followed predictive failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains cognitive dissonance and how people rationalize disconfirmed beliefs after clear failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive dissonance and how people rationalize disconfirmed beliefs after clear failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how people construct and defend beliefs, including reinterpretations of contradictory evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how people construct and defend beliefs, including reinterpretations of contradictory evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers historical examples of collective belief, reinterpretation, and persistence despite disconfirming events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Offers historical examples of collective belief, reinterpretation, and persistence despite disconfirming events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/45c397a9e6ad58253f3e.jpg' | relative_url }}" alt="Listing image for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/45c397a9e6ad58253f3e.jpg' | relative_url }}" alt="Listing image for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture"><img src="{{ '/assets/images/marketplace-covers/359939611f2a9033a7c2.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture"><img src="{{ '/assets/images/marketplace-covers/359939611f2a9033a7c2.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Original Framed Wall Art Print Large Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/19ff43a9535a1efae504.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/19ff43a9535a1efae504.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/25c33379bf4f27794534.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/25c33379bf4f27794534.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration Framed Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art print" data-ebay-reference="deadline-turn-the-first-explanation-after-the-saucer-fails-failed-predictions-flying-saucer-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ The hidden mission begins at the exact moment the visible mission fails. That fi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ The hidden mission begins at the exact moment the visible mission fails. That fi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ The hidden mission begins at the exact moment the visible mission fails. That fi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ The hidden mission begins at the exact moment the visible mission fails. That fi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ The hidden mission begins at the exact moment the visible mission fails. That fi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,102 +783,102 @@ The hidden mission begins at the exact moment the visible mission fails. That fi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: secularhumanism.org  
-   Link: <a href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow">https://secularhumanism.org/2024/11/when-we-become-the-seekers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When We Become the SeekersThe headline read: “Prophecy from Planet Clarion Call to City: Flee That Flood.... spread so much light that G...</p></details>
+   Link:<a href="https://secularhumanism.org/2024/11/when-we-become-the-seekers/" target="_blank" rel="noopener noreferrer nofollow">https://secularhumanism.org/2024/11/when-we-become-the-seekers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When We Become the SeekersThe headline read: “Prophecy from Planet Clarion Call to City: Flee That Flood.... spread so much light that G...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neith...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neith...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
    Title: When neither arrived, she recanted,  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar[PDF] When Prophecy Fails1999. Previous studies of failed prophecies have typically been framed as replications of Festin...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/When-Prophecy-Fails-Festinger-Riecken/1df350a8638ab04f6a2f08623646a40d56dbb40c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic Scholar[PDF] When Prophecy Fails1999. Previous studies of failed prophecies have typically been framed as replications of Festin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shoreacres.wordpress.com  
    Title: [failed predictions](&#123;&#123; 'failed-predictions/' | relative_url &#125;&#125;)  
-   Link: <a href="https://shoreacres.wordpress.com/tag/failed-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://shoreacres.wordpress.com/tag/failed-predictions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>predictions | The Task at Hand11 Aug 2023 —... spread so much light that God had saved the world from destruction.” Responses from the S...</p></details>
+   Link:<a href="https://shoreacres.wordpress.com/tag/failed-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://shoreacres.wordpress.com/tag/failed-predictions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>predictions | The Task at Hand11 Aug 2023 —... spread so much light that God had saved the world from destruction.” Responses from the S...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: stevemurch.com  
    Title: When Prophecy Fails  
-   Link: <a href="https://stevemurch.com/when-prophecy-fails/2019/03" target="_blank" rel="noopener noreferrer nofollow">https://stevemurch.com/when-prophecy-fails/2019/03</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Murch25 Mar 2019 — Budding Scientologist Dorothy Martin of Oak Park, IL typed out a dire prediction: a devastating flood would arri...</p></details>
+   Link:<a href="https://stevemurch.com/when-prophecy-fails/2019/03" target="_blank" rel="noopener noreferrer nofollow">https://stevemurch.com/when-prophecy-fails/2019/03</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Murch25 Mar 2019 — Budding Scientologist Dorothy Martin of Oak Park, IL typed out a dire prediction: a devastating flood would arri...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abebooks.co.uk  
    Title: When Prophecy Fails  
-   Link: <a href="https://www.abebooks.co.uk/9781905177196/When-Prophecy-Fails-Leon-Festinger-1905177194/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781905177196/When-Prophecy-Fails-Leon-Festinger-1905177194/plp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RieckenFeatured Edition; 9781515430797: When Prophecy Fails: A Study of [Cognitive Dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;) and Belief Under Disconfirmation · Wilder P...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/9781905177196/When-Prophecy-Fails-Leon-Festinger-1905177194/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781905177196/When-Prophecy-Fails-Leon-Festinger-1905177194/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RieckenFeatured Edition; 9781515430797: When Prophecy Fails: A Study of [Cognitive Dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;) and Belief Under Disconfirmation · Wilder P...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...Nov 13, 2025 — Written by Leon Festinger, Henry Riecken, and Stanley Schachter...</p></details>
+   Link:<a href="https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/alarm-bells-went-off-new-research-takes-a-critical-look-at-the-landmark-ufo-cult-study-when-prophecy-fails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Alarm Bells Went Off”: New Research Takes a Critical...Nov 13, 2025 — Written by Leon Festinger, Henry Riecken, and Stanley Schachter...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kJbXBYmyk-o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kJbXBYmyk-o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Was Life Before the FLOOD | Full Biblical Documentary 4kThe nephilim began to dominate human tribes their size and power made them a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kJbXBYmyk-o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kJbXBYmyk-o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Was Life Before the FLOOD | Full Biblical Documentary 4kThe nephilim began to dominate human tribes their size and power made them a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT In 1954, Dorothy Martin predicted an apocalyptic flood and promised her...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT In 1954, Dorothy Martin predicted an apocalyptic flood and promised her...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skepticalscience.com  
    Title: Skeptical Science The Person Who Lies To You The Most…  
-   Link: <a href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=5174</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is You8 Sept 2021 — But they reminded themselves that the real rescue would take place at 12:00 am on December 21, as predicted in the or...</p></details>
+   Link:<a href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=5174</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is You8 Sept 2021 — But they reminded themselves that the real rescue would take place at 12:00 am on December 21, as predicted in the or...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her f...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her f...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: a foundational 1956 study of cognitive dissonance  
-   Link: <a href="https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist Leon Festinger coined the term after infiltrating a 1954 UFO cult whose members became more devoted when their prophecy fail...</p></details>
+   Link:<a href="https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist Leon Festinger coined the term after infiltrating a 1954 UFO cult whose members became more devoted when their prophecy fail...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: alexquigley.co.uk  
    Title: when prophecies fail and evidence backfires  
-   Link: <a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2017 — They were ardently convinced that on December 21st, 1954, that they would be transported to safety on a flying saucer. with...</p></details>
+   Link:<a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Mar 2017 — They were ardently convinced that on December 21st, 1954, that they would be transported to safety on a flying saucer. with...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Festinger, Leon, Riecken...It chronicles the experience of a UFO cult that believed the end of the world was at hand...</p></details>
+   Link:<a href="https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/When-Prophecy-Fails-Leon-Festinger/dp/1891396986?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails: Festinger, Leon, Riecken...It chronicles the experience of a UFO cult that believed the end of the world was at hand...</p></details>

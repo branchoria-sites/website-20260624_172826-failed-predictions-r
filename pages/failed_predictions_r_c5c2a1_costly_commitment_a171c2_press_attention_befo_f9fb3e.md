@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press
 
 ## Introduction
 
-Some UFO prophecies became public spectacles before they became [failed predictions]({{ 'failed-predictions/' | relative_url }}). Long before the predicted spacecraft failed to arrive, journalists, photographers and curious observers had already turned the prophecy into a news event. That publicity mattered. It increased the social stakes for believers, created an external audience waiting to judge the outcome, and sometimes altered the behaviour of the group itself. In several well-known UFO prophecy cases, failure did not occur in private. It happened under observation, with reporters calling, cameras present, and newspapers already primed for a dramatic story. The result was a complicated mix of embarrassment, solidarity, [ridicule]({{ 'ridicule/' | relative_url }}) and attempts to preserve meaning after the prediction collapsed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The messages received by Martin included a prophecy would be destroyed by a flood before dawn on December 21, 1954. a flyin...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+Some UFO prophecies became public spectacles before they became [failed predictions]({{ 'failed-predictions/' | relative_url }}). Long before the predicted spacecraft failed to arrive, journalists, photographers and curious observers had already turned the prophecy into a news event. That publicity mattered. It increased the social stakes for believers, created an external audience waiting to judge the outcome, and sometimes altered the behaviour of the group itself. In several well-known UFO prophecy cases, failure did not occur in private. It happened under observation, with reporters calling, cameras present, and newspapers already primed for a dramatic story. The result was a complicated mix of embarrassment, solidarity, [ridicule]({{ 'ridicule/' | relative_url }}) and attempts to preserve meaning after the prediction collapsed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The messages received by Martin included a prophecy would be destroyed by a flood before dawn on December 21, 1954. a flyin...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e-Illustration-1-dark.svg" | relative_url }}" alt="Press Watch illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ Some UFO prophecies became public spectacles before they became [failed predicti
 
 For believers awaiting a predicted UFO rescue, landing or cosmic intervention, publicity creates a second audience beyond the group itself. Family members, [neighbours]({{ 'neighbours/' | relative_url }}), sceptics and journalists become witnesses. Once newspapers have reported the prophecy, retreating from it is no longer simply a private change of mind.
 
-The most famous example is Dorothy Martin's flying-saucer movement in suburban Chicago during 1954. Martin claimed to receive messages from extraterrestrial beings warning of a catastrophic flood and promising rescue by spacecraft. The prediction attracted attention from newspapers before the appointed date, helping transform a small circle of believers into a public curiosity. Reports about the coming disaster and alien rescue circulated widely enough to catch the attention of social psychologist Leon Festinger and his colleagues, who began observing the group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">the christmas the aliens didnt come</span><span class="citation-popover-snippet">The AtlanticThe Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — It all started with a prophecy that a massive flood was coming on December...</span></span></span>
+The most famous example is Dorothy Martin's flying-saucer movement in suburban Chicago during 1954. Martin claimed to receive messages from extraterrestrial beings warning of a catastrophic flood and promising rescue by spacecraft. The prediction attracted attention from newspapers before the appointed date, helping transform a small circle of believers into a public curiosity. Reports about the coming disaster and alien rescue circulated widely enough to catch the attention of social psychologist Leon Festinger and his colleagues, who began observing the group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">the christmas the aliens didnt come</span><span class="citation-popover-snippet">The AtlanticThe Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — It all started with a prophecy that a massive flood was coming on December...</span></span></span>
 
 The publicity created a difficult situation for believers. If they abandoned the prophecy before the deadline, they risked admitting error in front of people who already knew their commitment. If they stayed, they risked public humiliation if nothing happened. Either way, the presence of an audience increased the psychological cost of changing course.
 
-A revealing detail from accounts of the final night is that journalists were actively monitoring events. As midnight passed and the expected rescue failed to occur, reporters telephoned to ask whether the world had ended yet. The prophecy was not merely being experienced by believers; it was being observed in real time by outsiders waiting for a verdict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/04/dont-despair-big-ideas-can-still-change-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Don&#x27;t Despair: Big Ideas Can Still Change The World</span><span class="citation-popover-snippet">It revisits Leon Festinger&#x27;s infiltration of a Chicago sect in 1954 to study cognitive dissonance, where believers faced the disconfirmat...</span></span></span>
+A revealing detail from accounts of the final night is that journalists were actively monitoring events. As midnight passed and the expected rescue failed to occur, reporters telephoned to ask whether the world had ended yet. The prophecy was not merely being experienced by believers; it was being observed in real time by outsiders waiting for a verdict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/04/dont-despair-big-ideas-can-still-change-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Don&#x27;t Despair: Big Ideas Can Still Change The World</span><span class="citation-popover-snippet">It revisits Leon Festinger&#x27;s infiltration of a Chicago sect in 1954 to study cognitive dissonance, where believers faced the disconfirmat...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oc7Nu1vh6V0" title="Dorothy Martin and the UFO Cult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oc7Nu1vh6V0" target="_blank" rel="noopener noreferrer">Dorothy Martin and the UFO Cult</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oc7Nu1vh6V0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oc7Nu1vh6V0">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ Public attention does more than document a movement. It can change how members b
 
 When a prophecy remains obscure, believers may feel little need to explain themselves. Once journalists arrive, however, members become aware that their actions are being interpreted by outsiders. This can encourage more explicit statements, stronger displays of confidence and efforts to present the group as coherent and serious.
 
-In the Dorothy [Martin case]({{ 'martin-case/' | relative_url }}), the expectation of scrutiny may have helped push members toward public explanations when the prophecy failed. Festinger's original interpretation emphasised post-failure rationalisation and renewed outreach. More recent archival research has challenged parts of that narrative, arguing that Martin largely recanted, the group fragmented and widespread post-failure recruitment was overstated. Yet both interpretations highlight the same underlying reality: public attention made the outcome socially consequential. The group's response became part of a public story rather than an internal disappointment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
+In the Dorothy [Martin case]({{ 'martin-case/' | relative_url }}), the expectation of scrutiny may have helped push members toward public explanations when the prophecy failed. Festinger's original interpretation emphasised post-failure rationalisation and renewed outreach. More recent archival research has challenged parts of that narrative, arguing that Martin largely recanted, the group fragmented and widespread post-failure recruitment was overstated. Yet both interpretations highlight the same underlying reality: public attention made the outcome socially consequential. The group's response became part of a public story rather than an internal disappointment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
 
 Observers can also unintentionally reinforce commitment before failure occurs. News coverage signals that an event is significant enough to deserve attention. For committed believers, this visibility may feel like validation even when coverage is sceptical. A prediction discussed in newspapers can appear more consequential than one ignored by everyone outside the movement.
 
@@ -317,7 +317,7 @@ The relationship can become self-reinforcing. Publicity attracts spectators. Spe
 
 By the time the prediction date arrives, the media are no longer merely covering the event. They have become part of the social environment surrounding it.
 
-This pattern appeared again in later UFO-oriented apocalyptic movements. The Heaven's Gate movement operated during an era of mass media and the early internet. Public discussion of Hale–Bopp, rumours of an accompanying spacecraft and extensive attention from UFO broadcasters helped create a broader audience for ideas circulating within the movement. The group's beliefs developed in an environment where extraordinary claims could rapidly gain visibility beyond the immediate membership. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicmagazine.com">[Epic Magazine+2SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicmagazine.com</span><span class="citation-popover-title">Epic Magazine The sole survivor of Heaven&#x27;s Gate has a message for you</span><span class="citation-popover-snippet">Hale-Bopp showing an elongated fuzzy brightness lurking in the tail, word quickly spread in UFO circles that there was an alien spacecraf...</span></span></span>
+This pattern appeared again in later UFO-oriented apocalyptic movements. The Heaven's Gate movement operated during an era of mass media and the early internet. Public discussion of Hale–Bopp, rumours of an accompanying spacecraft and extensive attention from UFO broadcasters helped create a broader audience for ideas circulating within the movement. The group's beliefs developed in an environment where extraordinary claims could rapidly gain visibility beyond the immediate membership.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicmagazine.com">[Epic Magazine+2SFGATE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicmagazine.com</span><span class="citation-popover-title">Epic Magazine The sole survivor of Heaven&#x27;s Gate has a message for you</span><span class="citation-popover-snippet">Hale-Bopp showing an elongated fuzzy brightness lurking in the tail, word quickly spread in UFO circles that there was an alien spacecraf...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7GAx4-7k0T0" title="Leon Festinger and why cults can&#x27;t accept when they are wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7GAx4-7k0T0" target="_blank" rel="noopener noreferrer">Leon Festinger and why cults can&#x27;t accept when they are wrong</a></p><p class="youtube-embed-meta">Channel: Steve Trash</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7GAx4-7k0T0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7GAx4-7k0T0">Open on YouTube</a></p></div></div></div>
@@ -330,7 +330,7 @@ Press attention rarely produces a single effect. The same coverage can generate 
 
 News organisations often frame failed prophecies as cautionary tales, oddities or examples of irrational belief. From the perspective of believers, this creates a threat of humiliation. Once journalists have documented confident predictions, the failure becomes easier to publicise than the original belief itself.
 
-In UFO prophecy cases, the contrast is especially sharp because the predicted events are usually visible and concrete. A spacecraft either appears or it does not. A rescue either happens or it does not. The absence of the expected event is readily understood by outsiders, making ridicule particularly likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oprfmuseum.org">[Oak Park River Forest Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oprfmuseum.org</span><span class="citation-popover-title">They warned of impending doom.Read more</span><span class="citation-popover-snippet">Oak Park River Forest MuseumThe Seekers of Cuyler AvenueIn the autumn of 1954, Dorothy shared a message with the Laugheads, one she had r...</span></span></span>
+In UFO prophecy cases, the contrast is especially sharp because the predicted events are usually visible and concrete. A spacecraft either appears or it does not. A rescue either happens or it does not. The absence of the expected event is readily understood by outsiders, making ridicule particularly likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oprfmuseum.org">[Oak Park River Forest Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oprfmuseum.org</span><span class="citation-popover-title">They warned of impending doom.Read more</span><span class="citation-popover-snippet">Oak Park River Forest MuseumThe Seekers of Cuyler AvenueIn the autumn of 1954, Dorothy shared a message with the Laugheads, one she had r...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e-Illustration-3-dark.svg" | relative_url }}" alt="Press Watch illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,7 +338,7 @@ In UFO prophecy cases, the contrast is especially sharp because the predicted ev
 
 At the same time, hostile coverage can strengthen internal bonds. Members who feel mocked by the press may come to see journalists as part of an unsympathetic outside world. Shared criticism can create a temporary sense of unity, encouraging believers to support one another rather than immediately abandon the group.
 
-This does not necessarily mean the prophecy survives. Recent scholarship on Dorothy Martin's movement suggests that public narratives of dramatic post-failure strengthening may exaggerate what actually happened. Nonetheless, the social mechanism remains important: ridicule and solidarity can emerge simultaneously, even if the movement ultimately declines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
+This does not necessarily mean the prophecy survives. Recent scholarship on Dorothy Martin's movement suggests that public narratives of dramatic post-failure strengthening may exaggerate what actually happened. Nonetheless, the social mechanism remains important: ridicule and solidarity can emerge simultaneously, even if the movement ultimately declines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
 
 ## Why the Press Watch Matters
 
@@ -346,201 +346,201 @@ The significance of press attention is not that journalists cause failed UFO pro
 
 A prophecy that collapses in private may simply fade away. A prophecy that fails in front of reporters becomes a public event. Believers know they are being watched. Outsiders know there will be a verdict. The prediction acquires reputational consequences long before the deadline arrives.
 
-For that reason, media attention is an important part of understanding group commitment before failed UFO prophecies. The audience waiting outside the group can become almost as influential as the believers waiting inside it. When the predicted spacecraft does not arrive, the failure is not only a challenge to belief. It is also a public performance of being wrong, observed, recorded and remembered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/04/dont-despair-big-ideas-can-still-change-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Don&#x27;t Despair: Big Ideas Can Still Change The World</span><span class="citation-popover-snippet">It revisits Leon Festinger&#x27;s infiltration of a Chicago sect in 1954 to study cognitive dissonance, where believers faced the disconfirmat...</span></span></span>
+For that reason, media attention is an important part of understanding group commitment before failed UFO prophecies. The audience waiting outside the group can become almost as influential as the believers waiting inside it. When the predicted spacecraft does not arrive, the failure is not only a challenge to belief. It is also a public performance of being wrong, observed, recorded and remembered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/04/dont-despair-big-ideas-can-still-change-world" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Don&#x27;t Despair: Big Ideas Can Still Change The World</span><span class="citation-popover-snippet">It revisits Leon Festinger&#x27;s infiltration of a Chicago sect in 1954 to study cognitive dissonance, where believers faced the disconfirmat...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-PmjDRoSXAI" title="Ask the Historians- Flying Saucers in Oak Park?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-PmjDRoSXAI" target="_blank" rel="noopener noreferrer">Ask the Historians- Flying Saucers in Oak Park?</a></p><p class="youtube-embed-meta">Channel: OPRFHistSociety</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-PmjDRoSXAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-PmjDRoSXAI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Reporters Make Failure Public. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Reporters Make Failure Public. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Includes the famous observed case that attracted attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes the famous observed case that attracted attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains reactions when public predictions fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reactions when public predictions fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explores public enthusiasm and collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explores public enthusiasm and collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps explain public commitment and reputation management.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain public commitment and reputation management.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="press-watch-when-reporters-make-failure-public-failed-predictions-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ For that reason, media attention is an important part of understanding group com
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ For that reason, media attention is an important part of understanding group com
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ For that reason, media attention is an important part of understanding group com
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ For that reason, media attention is an important part of understanding group com
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ For that reason, media attention is an important part of understanding group com
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,144 +746,144 @@ For that reason, media attention is an important part of understanding group com
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — The messages received by Martin included a prophecy would be destroyed by a flood before dawn on December 21, 1954. a flyin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — The messages received by Martin included a prophecy would be destroyed by a flood before dawn on December 21, 1954. a flyin...</p></details>
    Published: May 3, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: Don't Despair: Big Ideas Can Still Change The World  
-   Link: <a href="https://www.wired.com/2017/04/dont-despair-big-ideas-can-still-change-world" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/04/dont-despair-big-ideas-can-still-change-world</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It revisits Leon Festinger&#x27;s infiltration of a Chicago sect in 1954 to study [cognitive dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;), where believers faced the disconfirmat...</p></details>
+   Link:<a href="https://www.wired.com/2017/04/dont-despair-big-ideas-can-still-change-world" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/04/dont-despair-big-ideas-can-still-change-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It revisits Leon Festinger&#x27;s infiltration of a Chicago sect in 1954 to study [cognitive dissonance](&amp;#123;&amp;#123; &#x27;dissonance/&#x27; | relative_url &amp;#125;&amp;#125;), where believers faced the disconfirmat...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
    Title: When neither arrived, she recanted,  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDebunking “When Prophecy Fails” - Kelly - 2026by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sfgate.com  
    Title: Cultists Saw Hale Bopp as a Heavenly Sign It 2848671  
-   Link: <a href="https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultists Saw Hale-Bopp as a Heavenly Sign / It meant UFO...28 Mar 1997 — Rumors of an impending UFO encounter, the arrival of the Hale-B...</p></details>
+   Link:<a href="https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultists Saw Hale-Bopp as a Heavenly Sign / It meant UFO...28 Mar 1997 — Rumors of an impending UFO encounter, the arrival of the Hale-B...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Dorothy Martin (May 2, 1900 – June 16, 1992) a.k.a. &quot;Marian Keech&quot;, later known as &quot;[Sister Thedra](&amp;#123;&amp;#123; &#x27;sister-thedra/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, was a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Dorothy Martin (May 2, 1900 – June 16, 1992) a.k.a. &quot;Marian Keech&quot;, later known as &quot;[Sister Thedra](&amp;#123;&amp;#123; &#x27;sister-thedra/&#x27; | relative_url &amp;#125;&amp;#125;)&quot;, was a...</p></details>
    Published: May 2, 1900  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)Scholars have described the theology of Heaven&#x27;s Gate as a mixture of Christian millenarianism, New Age...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)Scholars have described the theology of Heaven&#x27;s Gate as a mixture of Christian millenarianism, New Age...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesDays later, 39 members of UFO group Heaven&#x27;s Gate were found dead in a mass suicide.... stories of alien visit...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesDays later, 39 members of UFO group Heaven&#x27;s Gate were found dead in a mass suicide.... stories of alien visit...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1083 6101.1997.tb00077.x  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1083-6101.1997.tb00077.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comHeaven&#x27;s Gate: The End - Robinson - 1997by WG Robinson · 1997 · Cited by 46 — Cult leader believed in space aliens and apocalyps...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1083-6101.1997.tb00077.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comHeaven&#x27;s Gate: The End - Robinson - 1997by WG Robinson · 1997 · Cited by 46 — Cult leader believed in space aliens and apocalyps...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 1997 — Alien abductions, poltergeists, UFO encounters, [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing/&#x27; | relative_url &amp;#125;&amp;#125;), ESP and other unlikely phenomena are common fare.... &#x27; It&#x27;...</p></details>
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 1997 — Alien abductions, poltergeists, UFO encounters, [remote viewing](&amp;#123;&amp;#123; &#x27;remote-viewing/&#x27; | relative_url &amp;#125;&amp;#125;), ESP and other unlikely phenomena are common fare.... &#x27; It&#x27;...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theatlantic.com  
    Title: the christmas the aliens didnt come  
-   Link: <a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AtlanticThe Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — It all started with a prophecy that a massive flood was coming on December...</p></details>
+   Link:<a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AtlanticThe Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — It all started with a prophecy that a massive flood was coming on December...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: epicmagazine.com  
    Title: Epic Magazine The sole survivor of Heaven's Gate has a message for you  
-   Link: <a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp showing an elongated fuzzy brightness lurking in the tail, word quickly spread in UFO circles that there was an alien spacecraf...</p></details>
+   Link:<a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp showing an elongated fuzzy brightness lurking in the tail, word quickly spread in UFO circles that there was an alien spacecraf...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oprfmuseum.org  
    Title: They warned of impending doom.Read more  
-   Link: <a href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow">https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oak Park River Forest MuseumThe Seekers of Cuyler AvenueIn the autumn of 1954, Dorothy shared a message with the Laugheads, one she had r...</p></details>
+   Link:<a href="https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue" target="_blank" rel="noopener noreferrer nofollow">https://oprfmuseum.org/this-month-in-history/seekers-cuyler-avenue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oak Park River Forest MuseumThe Seekers of Cuyler AvenueIn the autumn of 1954, Dorothy shared a message with the Laugheads, one she had r...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Ufo, alien, space over trees. Britannica Quiz. Don&#x27;t Drink the Punch Q...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Ufo, alien, space over trees. Britannica Quiz. Don&#x27;t Drink the Punch Q...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual Suicide and the End of the World: Destruction...15 Feb 2017 — PDF | UFO and alien-based religions emerged in the wake of Worl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Individual Suicide and the End of the World: Destruction...15 Feb 2017 — PDF | UFO and alien-based religions emerged in the wake of Worl...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellMy memory may be foggy, but I seem to recall that Whitley claimed his sources verified the Ha...</p></details>
+   Link:<a href="https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ArtBell/comments/1d8f8yg/hale_bopp_and_heavens_gate_cult/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp and Heaven&#x27;s Gate cult: r/ArtBellMy memory may be foggy, but I seem to recall that Whitley claimed his sources verified the Ha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sdsheriff.gov  
-   Link: <a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation by the San Diego County Sheriff&#x27;s Office determined they all took part in a mass...Read more...</p></details>
+   Link:<a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation by the San Diego County Sheriff&#x27;s Office determined they all took part in a mass...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien planets in Star Trek. The group also believed that God was an... &#x27;Luigi: The Musical&#x27; Uses Political Satire to Critique Society&#x27;s...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien planets in Star Trek. The group also believed that God was an... &#x27;Luigi: The Musical&#x27; Uses Political Satire to Critique Society&#x27;s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: yorku.ca  
-   Link: <a href="https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early yesterday morning the bodies of 15 members of York University&#x27;s Board...Read more...</p></details>
+   Link:<a href="https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early yesterday morning the bodies of 15 members of York University&#x27;s Board...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: crimeandinvestigation.co.uk  
    Title: heavens gate ufo cult largest mass suicide us history  
-   Link: <a href="https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate UFO Cult: The largest mass suicide in US...39 members of Heaven&#x27;s Gate took their lives in 1997 believing it would help th...</p></details>
+   Link:<a href="https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate UFO Cult: The largest mass suicide in US...39 members of Heaven&#x27;s Gate took their lives in 1997 believing it would help th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: The 39 victims of the largest mass suicide on U.S  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>soil in...This picture shows the bodies of dead cult members who died believing their souls were going on a spaceship, which would take...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-39-victims-of-the-largest-mass-suicide-on-us-soil-in-history-were-members-of/10161668744138812/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>soil in...This picture shows the bodies of dead cult members who died believing their souls were going on a spaceship, which would take...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult website is still up after their suicide...I was given Heaven&#x27;s Gate, somewhat by choice because I was interested...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult website is still up after their suicide...I was given Heaven&#x27;s Gate, somewhat by choice because I was interested...</p></details>

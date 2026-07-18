@@ -280,20 +280,20 @@ image: /assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hy
 
 ## Introduction
 
-One of the earliest failed UFO-related prophecies linked to [Ashtar]({{ 'ashtar/' | relative_url }}) was not a prediction of flying-saucer landings but a warning about the hydrogen bomb. In 1952, contactee [George Van Tassel]({{ 'van-tassel/' | relative_url }}) claimed to receive messages from an extraterrestrial commander named Ashtar, who warned that humanity was tampering with forces it did not understand. The warning was framed in concrete terms: thermonuclear experimentation threatened planetary catastrophe, and space intelligences were monitoring the danger closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">In his booklet, I Rode a Flying Saucer!, George Van Tassell (1910-1978) claimed that he had begun to receive messages from alien beings f...</span></span></span>
+One of the earliest failed UFO-related prophecies linked to [Ashtar]({{ 'ashtar/' | relative_url }}) was not a prediction of flying-saucer landings but a warning about the hydrogen bomb. In 1952, contactee [George Van Tassel]({{ 'van-tassel/' | relative_url }}) claimed to receive messages from an extraterrestrial commander named Ashtar, who warned that humanity was tampering with forces it did not understand. The warning was framed in concrete terms: thermonuclear experimentation threatened planetary catastrophe, and space intelligences were monitoring the danger closely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">In his booklet, I Rode a Flying Saucer!, George Van Tassell (1910-1978) claimed that he had begun to receive messages from alien beings f...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hydrogen_bomb_warnin_0de4f9-Illustration-1-dark.svg" | relative_url }}" alt="Bomb Warning illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hydrogen_bomb_warnin_0de4f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hydrogen_bomb_warnin_0de4f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The importance of this episode lies in its [testability]({{ 'testability/' | relative_url }}). Within months, the United States detonated the first successful hydrogen bomb during the Ivy [Mike test]({{ 'mike-test/' | relative_url }}). Earth was not destroyed, civilisation did not collapse, and the predicted catastrophe did not occur. Yet the failed prediction did not end belief in Ashtar. Instead, many believers reinterpreted the non-event as evidence that unseen space forces had intervened. That pattern—failed prophecy followed by reinterpretation—became a recurring feature of later Ashtar traditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivy_Mike" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ivy Mike</span><span class="citation-popover-snippet">Ivy Mike</span></span></span>
+The importance of this episode lies in its [testability]({{ 'testability/' | relative_url }}). Within months, the United States detonated the first successful hydrogen bomb during the Ivy [Mike test]({{ 'mike-test/' | relative_url }}). Earth was not destroyed, civilisation did not collapse, and the predicted catastrophe did not occur. Yet the failed prediction did not end belief in Ashtar. Instead, many believers reinterpreted the non-event as evidence that unseen space forces had intervened. That pattern—failed prophecy followed by reinterpretation—became a recurring feature of later Ashtar traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivy_Mike" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ivy Mike</span><span class="citation-popover-snippet">Ivy Mike</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eHzWCrp0jP8" title="1952 Hydrogen Nuclear Bomb Test - &quot;Operation Ivy&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eHzWCrp0jP8" target="_blank" rel="noopener noreferrer">1952 Hydrogen Nuclear Bomb Test - &quot;Operation Ivy&quot;</a></p><p class="youtube-embed-meta">Channel: C-SPAN&#x27;s American History TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eHzWCrp0jP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eHzWCrp0jP8">Open on YouTube</a></p></div></div></div>
 
 ## What Van Tassel's Ashtar Message Warned
 
-George Van Tassel emerged from the early flying-saucer contactee movement centred around [Giant Rock]({{ 'giant-rock/' | relative_url }}) in California. In July 1952 he reported receiving communications from Ashtar, an alleged extraterrestrial commander who warned that humanity's nuclear experimentation threatened consequences far beyond what scientists understood. The messages portrayed hydrogen-bomb development as an existential danger rather than merely a military one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galacticfederationoflight.com">[Galactic Federation of Light+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galacticfederationoflight.com</span><span class="citation-popover-title">ashtar command</span><span class="citation-popover-snippet">Galactic Federation of LightWhat Is the Ashtar Command?On July 18th, 1952, Van Tassel received one of several specific messages about the...</span></span></span>
+George Van Tassel emerged from the early flying-saucer contactee movement centred around [Giant Rock]({{ 'giant-rock/' | relative_url }}) in California. In July 1952 he reported receiving communications from Ashtar, an alleged extraterrestrial commander who warned that humanity's nuclear experimentation threatened consequences far beyond what scientists understood. The messages portrayed hydrogen-bomb development as an existential danger rather than merely a military one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: galacticfederationoflight.com">[Galactic Federation of Light+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">galacticfederationoflight.com</span><span class="citation-popover-title">ashtar command</span><span class="citation-popover-snippet">Galactic Federation of LightWhat Is the Ashtar Command?On July 18th, 1952, Van Tassel received one of several specific messages about the...</span></span></span>
 
-The warning reflected the atmosphere of the early Cold War. The United States and Soviet Union were pursuing increasingly powerful nuclear weapons, and public anxiety about atomic destruction was widespread. Van Tassel's messages transformed those fears into a specific prophetic claim: humanity was approaching a threshold where misuse of atomic forces could endanger the planet itself. Surviving versions of the communications emphasise that humans were "tinkering" with forces they did not fully comprehend and imply that higher intelligences might need to intervene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User+2georgehbalazs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-snippet">GWDG UserAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</span></span></span>
+The warning reflected the atmosphere of the early Cold War. The United States and Soviet Union were pursuing increasingly powerful nuclear weapons, and public anxiety about atomic destruction was widespread. Van Tassel's messages transformed those fears into a specific prophetic claim: humanity was approaching a threshold where misuse of atomic forces could endanger the planet itself. Surviving versions of the communications emphasise that humans were "tinkering" with forces they did not fully comprehend and imply that higher intelligences might need to intervene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User+2georgehbalazs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-snippet">GWDG UserAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</span></span></span>
 
 Unlike many later UFO prophecies that depended on vague future dates, the hydrogen-bomb warning was tied to a real-world technological programme that was advancing rapidly. That made the claim unusually vulnerable to [verification]({{ 'verification/' | relative_url }}) or falsification.
 
@@ -302,9 +302,9 @@ Unlike many later UFO prophecies that depended on vague future dates, the hydrog
 
 ## Why Ivy Mike Made the Claim Testable
 
-On 1 November 1952, the United States conducted Ivy Mike at Enewetak Atoll in the Marshall Islands. The detonation produced a yield of about 10.4 megatons and became the first successful full-scale thermonuclear test. The explosion vaporised the island of Elugelab and left a massive crater, demonstrating destructive power far beyond the atomic bombs used during the Second World War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivy_Mike" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Atomic Archive+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ivy Mike</span><span class="citation-popover-snippet">Ivy Mike</span></span></span>
+On 1 November 1952, the United States conducted Ivy Mike at Enewetak Atoll in the Marshall Islands. The detonation produced a yield of about 10.4 megatons and became the first successful full-scale thermonuclear test. The explosion vaporised the island of Elugelab and left a massive crater, demonstrating destructive power far beyond the atomic bombs used during the Second World War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivy_Mike" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Atomic Archive+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ivy Mike</span><span class="citation-popover-snippet">Ivy Mike</span></span></span>
 
-The significance for the Ashtar prophecy is straightforward. If hydrogen-bomb testing threatened immediate planetary destruction, Ivy Mike provided a direct opportunity for that prediction to be confirmed. The test was not a laboratory experiment hidden from view; it was a major historical event whose consequences could be observed. Earth remained intact, life continued, and further thermonuclear tests followed in subsequent years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivy_Mike" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ivy Mike</span><span class="citation-popover-snippet">Ivy Mike</span></span></span>
+The significance for the Ashtar prophecy is straightforward. If hydrogen-bomb testing threatened immediate planetary destruction, Ivy Mike provided a direct opportunity for that prediction to be confirmed. The test was not a laboratory experiment hidden from view; it was a major historical event whose consequences could be observed. Earth remained intact, life continued, and further thermonuclear tests followed in subsequent years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ivy_Mike" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ivy Mike</span><span class="citation-popover-snippet">Ivy Mike</span></span></span>
 
 From an evidence perspective, this is what distinguishes the episode from more elastic UFO claims. The prediction was connected to a clearly identifiable event. Once that event occurred without producing the foretold catastrophe, the original warning lost its predictive success.
 
@@ -314,7 +314,7 @@ From an evidence perspective, this is what distinguishes the episode from more e
 
 The failure of the expected catastrophe did not eliminate belief in Ashtar. Instead, an alternative explanation emerged within parts of the movement: the absence of disaster was itself evidence that extraterrestrial guardians had acted behind the scenes.
 
-Under this interpretation, humanity had indeed approached a dangerous threshold, but space intelligences prevented the worst outcome. Rather than disproving the warning, the successful hydrogen-bomb test was recast as proof that intervention had occurred invisibly. Later descriptions of Ashtar increasingly portrayed him as a protector watching over Earth and preventing nuclear self-destruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nyym.org/content/ashtar-sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyym.org">[nyym.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyym.org</span><span class="citation-popover-snippet">Ashtar SheranSheran purportedly was keeping humans safe from the hydrogen bomb and sought to prevent the Earth&#x27;s destruction from nuclear...</span></span></span>
+Under this interpretation, humanity had indeed approached a dangerous threshold, but space intelligences prevented the worst outcome. Rather than disproving the warning, the successful hydrogen-bomb test was recast as proof that intervention had occurred invisibly. Later descriptions of Ashtar increasingly portrayed him as a protector watching over Earth and preventing nuclear self-destruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nyym.org/content/ashtar-sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyym.org">[nyym.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyym.org</span><span class="citation-popover-snippet">Ashtar SheranSheran purportedly was keeping humans safe from the hydrogen bomb and sought to prevent the Earth&#x27;s destruction from nuclear...</span></span></span>
 
 This reinterpretation solved a difficult problem for believers. If the catastrophe never happened, the prophecy could survive by changing its meaning:
 
@@ -334,188 +334,188 @@ Such reasoning removed the need for a visible confirmation event. Once hidden in
 
 ## Why This Case Matters in the History of Failed UFO Predictions
 
-Van Tassel's hydrogen-bomb warning is significant because it established a pattern that would appear repeatedly in later UFO prophecy traditions. A concrete prediction encountered an observable contradiction, yet belief persisted through reinterpretation rather than abandonment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
+Van Tassel's hydrogen-bomb warning is significant because it established a pattern that would appear repeatedly in later UFO prophecy traditions. A concrete prediction encountered an observable contradiction, yet belief persisted through reinterpretation rather than abandonment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
 
-The episode also illustrates a shift in the role assigned to extraterrestrials. Initially, Ashtar functioned as a messenger warning humanity about a coming danger. After the warning failed, Ashtar increasingly functioned as a guardian whose unseen actions explained why the danger did not materialise. The focus moved from prediction to intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nyym.org/content/ashtar-sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyym.org">[nyym.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyym.org</span><span class="citation-popover-snippet">Ashtar SheranSheran purportedly was keeping humans safe from the hydrogen bomb and sought to prevent the Earth&#x27;s destruction from nuclear...</span></span></span>
+The episode also illustrates a shift in the role assigned to extraterrestrials. Initially, Ashtar functioned as a messenger warning humanity about a coming danger. After the warning failed, Ashtar increasingly functioned as a guardian whose unseen actions explained why the danger did not materialise. The focus moved from prediction to intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nyym.org/content/ashtar-sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyym.org">[nyym.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyym.org</span><span class="citation-popover-snippet">Ashtar SheranSheran purportedly was keeping humans safe from the hydrogen bomb and sought to prevent the Earth&#x27;s destruction from nuclear...</span></span></span>
 
-For historians of UFO movements, the hydrogen-bomb warning therefore serves as an early and revealing case study. The prophecy was tied to a real event, the event contradicted the expected outcome, and the contradiction generated a new belief mechanism rather than ending the belief system. Later Ashtar claims about landings, evacuations and planetary rescue would often rely on the same basic logic: apparent failure could be reinterpreted as evidence of hidden success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User+2CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-snippet">GWDG UserAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</span></span></span>
+For historians of UFO movements, the hydrogen-bomb warning therefore serves as an early and revealing case study. The prophecy was tied to a real event, the event contradicted the expected outcome, and the contradiction generated a new belief mechanism rather than ending the belief system. Later Ashtar claims about landings, evacuations and planetary rescue would often rely on the same basic logic: apparent failure could be reinterpreted as evidence of hidden success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User+2CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-snippet">GWDG UserAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hydrogen_bomb_warnin_0de4f9-Illustration-3-dark.svg" | relative_url }}" alt="Bomb Warning illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hydrogen_bomb_warnin_0de4f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ashtar_command_landi_fdc647_hydrogen_bomb_warnin_0de4f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Hydrogen Bomb Did Not End Earth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Hydrogen Bomb Did Not End Earth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s central theme of prophecy failure followed by reinterpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s central theme of prophecy failure followed by reinterpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
-        </h4>
-        <p class="fr-book-author">By Eric Schlosser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Command and Control on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mpZVtGW_LOgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Command and Control" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
+</h4>
+<p class="fr-book-author">By Eric Schlosser</p>
         
-        <p class="fr-book-desc">Provides real-world context for Cold War nuclear fears that informed hydrogen-bomb prophecies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context for Cold War nuclear fears that informed hydrogen-bomb prophecies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Barkun</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Barkun</p>
         
-        <p class="fr-book-desc">Explains how extraordinary claims survive disconfirmation and become embedded in wider belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how extraordinary claims survive disconfirmation and become embedded in wider belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Culture of Conspiracy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Command+and+Control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Command and Control</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Culture of Conspiracy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="bomb-warning-when-the-hydrogen-bomb-did-not-end-earth-failed-predictions-ufo-memorabilia-book-books-gerry-anderson-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ For historians of UFO movements, the hydrogen-bomb warning therefore serves as a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ For historians of UFO movements, the hydrogen-bomb warning therefore serves as a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ For historians of UFO movements, the hydrogen-bomb warning therefore serves as a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ For historians of UFO movements, the hydrogen-bomb warning therefore serves as a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ For historians of UFO movements, the hydrogen-bomb warning therefore serves as a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,177 +721,177 @@ For historians of UFO movements, the hydrogen-bomb warning therefore serves as a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In his booklet, I Rode a Flying Saucer!, George Van Tassell (1910-1978) claimed that he had begun to receive messages from alien beings f...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In his booklet, I Rode a Flying Saucer!, George Van Tassell (1910-1978) claimed that he had begun to receive messages from alien beings f...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ivy Mike  
-   Link: <a href="https://en.wikipedia.org/wiki/Ivy_Mike" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ivy_Mike</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ivy_Mike" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ivy_Mike</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Operation Ivy  
-   Link: <a href="https://en.wikipedia.org/wiki/Operation_Ivy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Ivy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation IvyThe first Ivy shot, codenamed Mike, was the first successful full-scale test... The bomb was detonated on November 1, 19...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Operation_Ivy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Ivy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation IvyThe first Ivy shot, codenamed Mike, was the first successful full-scale test... The bomb was detonated on November 1, 19...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nyym.org  
-   Link: <a href="https://nyym.org/content/ashtar-sheran" target="_blank" rel="noopener noreferrer nofollow">https://nyym.org/content/ashtar-sheran</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar SheranSheran purportedly was keeping humans safe from the hydrogen bomb and sought to prevent the Earth&#x27;s destruction from nuclear...</p></details>
+   Link:<a href="https://nyym.org/content/ashtar-sheran" target="_blank" rel="noopener noreferrer nofollow">https://nyym.org/content/ashtar-sheran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar SheranSheran purportedly was keeping humans safe from the hydrogen bomb and sought to prevent the Earth&#x27;s destruction from nuclear...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: George Van Tassel George Wellington Van Tassel (  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Wellington Van Tassel (March 12, 1910 – February 9, 1978) was an American author and inventor. George Wellingt...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselGeorge Wellington Van Tassel (March 12, 1910 – February 9, 1978) was an American author and inventor. George Wellingt...</p></details>
    Published: March 12, 1910  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: georgehbalazs.com  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>any effort to end continual destruction on earth, before man destroys the eart...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2019/05/1952-I-RODE-A-FLYING-SAUCER-BY-GEORGE-W.-VAN-TASSEL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>any effort to end continual destruction on earth, before man destroys the eart...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: govinfo.gov  
    Title: GOVPUB D15 PURL gpo222810  
-   Link: <a href="https://www.govinfo.gov/app/details/GOVPUB-D15-PURL-gpo222810" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GOVPUB-D15-PURL-gpo222810</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Ivy, 1952 - Content Details -IVY was a two-detonation atmospheric nuclear weapon test series conducted during October and Novem...</p></details>
+   Link:<a href="https://www.govinfo.gov/app/details/GOVPUB-D15-PURL-gpo222810" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GOVPUB-D15-PURL-gpo222810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Ivy, 1952 - Content Details -IVY was a two-detonation atmospheric nuclear weapon test series conducted during October and Novem...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/[UFO Religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</p></details>
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar SheranUFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar SheranUFO contactee George Van Tassel was the first to claim to receive an Ashtar message in 1952.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Hedera" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hedera</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HederaHedera, commonly called ivy (plural ivies), is a genus of 12–15 species of evergreen climbing or ground-creeping woody plants in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Hedera" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hedera</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HederaHedera, commonly called ivy (plural ivies), is a genus of 12–15 species of evergreen climbing or ground-creeping woody plants in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/George" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeorgeFilm and television · George (1972 TV series), a Canadian-Swiss television series · George (1993 TV series), a short-lived sitco...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/George" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GeorgeFilm and television · George (1972 TV series), a Canadian-Swiss television series · George (1993 TV series), a short-lived sitco...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Curious George (série de televisão)  
-   Link: <a href="https://pt.wikipedia.org/wiki/Curious_George_%28s%C3%A9rie_de_televis%C3%A3o%29" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Curious_George_%28s%C3%A9rie_de_televis%C3%A3o%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious George (série de televisão)Curious George (George, o Curioso, no Brasil) é uma série de TV infantil estadunidense baseada no f...</p></details>
+   Link:<a href="https://pt.wikipedia.org/wiki/Curious_George_%28s%C3%A9rie_de_televis%C3%A3o%29" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Curious_George_%28s%C3%A9rie_de_televis%C3%A3o%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curious George (série de televisão)Curious George (George, o Curioso, no Brasil) é uma série de TV infantil estadunidense baseada no f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: georgehbalazs.com  
-   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2020/02/1950s-Intelligence-FIle-on-Contactee-George-Van-Tassel.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2020/02/1950s-Intelligence-FIle-on-Contactee-George-Van-Tassel.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 PAGES. Official FBI intelligence documents acquired under the FOIA on UFO contactee, George Van Tassel, operator of the Giant Rock Air...</p></details>
+   Link:<a href="https://georgehbalazs.com/wp-content/uploads/2020/02/1950s-Intelligence-FIle-on-Contactee-George-Van-Tassel.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2020/02/1950s-Intelligence-FIle-on-Contactee-George-Van-Tassel.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 PAGES. Official FBI intelligence documents acquired under the FOIA on UFO contactee, George Van Tassel, operator of the Giant Rock Air...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=g1PAfKstw6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g1PAfKstw6A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George van Tassel - 1958 UFO Lecture...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=g1PAfKstw6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g1PAfKstw6A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George van Tassel - 1958 UFO Lecture...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: George van Tassel  
-   Link: <a href="https://www.youtube.com/watch?v=LEk4HVI0v4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LEk4HVI0v4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation IVY MIKE 1952...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LEk4HVI0v4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LEk4HVI0v4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation IVY MIKE 1952...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: galacticfederationoflight.com  
    Title: [ashtar command](&#123;&#123; 'ashtar-command/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command" target="_blank" rel="noopener noreferrer nofollow">https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galactic Federation of LightWhat Is the Ashtar Command?On July 18th, 1952, Van Tassel received one of several specific messages about the...</p></details>
+   Link:<a href="https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command" target="_blank" rel="noopener noreferrer nofollow">https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galactic Federation of LightWhat Is the Ashtar Command?On July 18th, 1952, Van Tassel received one of several specific messages about the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wwwuser.gwdguser.de  
-   Link: <a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GWDG UserAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</p></details>
+   Link:<a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GWDG UserAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: boneandsickle.com  
    Title: george van tassel  
-   Link: <a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: George van TasselJul 30, 2021 — Chief among the Space People van Tassel claimed to contact was Ashtar, whose messages were largely d...</p></details>
+   Link:<a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: George van TasselJul 30, 2021 — Chief among the Space People van Tassel claimed to contact was Ashtar, whose messages were largely d...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: atomicarchive.com  
-   Link: <a href="https://www.atomicarchive.com/history/hydrogen-bomb/page-13.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/history/hydrogen-bomb/page-13.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mike&quot; Device is TestedIts explosion yielded 10.4 megatons of energy-over 450 times the power of the bomb dropped onto Nagasaki-and oblit...</p></details>
+   Link:<a href="https://www.atomicarchive.com/history/hydrogen-bomb/page-13.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atomicarchive.com/history/hydrogen-bomb/page-13.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mike&quot; Device is TestedIts explosion yielded 10.4 megatons of energy-over 450 times the power of the bomb dropped onto Nagasaki-and oblit...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuclearweaponarchive.org  
-   Link: <a href="https://nuclearweaponarchive.org/Usa/Tests/Ivy.html" target="_blank" rel="noopener noreferrer nofollow">https://nuclearweaponarchive.org/Usa/Tests/Ivy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Ivy14 May 1999 — The enormous explosion was the 4th largest device ever tested by the U.S. 77% (8 megatons) of the yield was du...</p></details>
+   Link:<a href="https://nuclearweaponarchive.org/Usa/Tests/Ivy.html" target="_blank" rel="noopener noreferrer nofollow">https://nuclearweaponarchive.org/Usa/Tests/Ivy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Operation Ivy14 May 1999 — The enormous explosion was the 4th largest device ever tested by the U.S. 77% (8 megatons) of the yield was du...</p></details>
    Published: May 1999  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: monstropedia.org  
-   Link: <a href="https://www.monstropedia.org/index.php/Ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.monstropedia.org/index.php/Ashtar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Aug 2011 — Van Tassel&#x27;s early purported messages from Ashtar contained apocalyptic material, with regard to the soon to be tested hydro...</p></details>
+   Link:<a href="https://www.monstropedia.org/index.php/Ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.monstropedia.org/index.php/Ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Aug 2011 — Van Tassel&#x27;s early purported messages from Ashtar contained apocalyptic material, with regard to the soon to be tested hydro...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: army.mil  
    Title: The Island is Missing!  
-   Link: <a href="https://www.army.mil/article/47341/the_island_is_missing" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/47341/the_island_is_missing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Article | The United States ArmyOct 28, 2010 — The first hydrogen bomb was prepared by the Atomic Energy Commission and the Defense Dep...</p></details>
+   Link:<a href="https://www.army.mil/article/47341/the_island_is_missing" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/47341/the_island_is_missing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Article | The United States ArmyOct 28, 2010 — The first hydrogen bomb was prepared by the Atomic Energy Commission and the Defense Dep...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mackids.com.tw  
-   Link: <a href="https://www.mackids.com.tw/product/list/4231/1" target="_blank" rel="noopener noreferrer nofollow">https://www.mackids.com.tw/product/list/4231/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious GeorgeCurious George. 熱門排行TOP. TOP 10. IT&#x27;S HALLOWEEN CURIOUS GEORGE. 紅利1點 79折... CURIOUS GEORGE VISITS THE DENTIST(附貼紙). 紅利0點 7...</p></details>
+   Link:<a href="https://www.mackids.com.tw/product/list/4231/1" target="_blank" rel="noopener noreferrer nofollow">https://www.mackids.com.tw/product/list/4231/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curious GeorgeCurious George. 熱門排行TOP. TOP 10. IT&#x27;S HALLOWEEN CURIOUS GEORGE. 紅利1點 79折... CURIOUS GEORGE VISITS THE DENTIST(附貼紙). 紅利0點 7...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A%22Ivy_Mike%22_atmospheric_nuclear_test_-_November_1952_-_Flickr_-_The_Official_CTBTO_Photostream.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A%22Ivy_Mike%22_atmospheric_nuclear_test_-_November_1952_-_Flickr_-_The_Official_CTBTO_Photostream.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:&quot;Ivy Mike&quot; atmospheric nuclear test - November 1952Ivy Mike atmospheric nuclear test - November 1952 - Flickr - The Off...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A%22Ivy_Mike%22_atmospheric_nuclear_test_-_November_1952_-_Flickr_-_The_Official_CTBTO_Photostream.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A%22Ivy_Mike%22_atmospheric_nuclear_test_-_November_1952_-_Flickr_-_The_Official_CTBTO_Photostream.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:&quot;Ivy Mike&quot; atmospheric nuclear test - November 1952Ivy Mike atmospheric nuclear test - November 1952 - Flickr - The Off...</p></details>
    Published: November 1952  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100050477380184/posts/lord-ashtar-talon-abraxas-the-ashtar-movement-also-known-as-the-ashtar-command-i/991679485857955/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100050477380184/posts/lord-ashtar-talon-abraxas-the-ashtar-movement-also-known-as-the-ashtar-command-i/991679485857955/</a>  
+   Link:<a href="https://www.facebook.com/100050477380184/posts/lord-ashtar-talon-abraxas-the-ashtar-movement-also-known-as-the-ashtar-command-i/991679485857955/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100050477380184/posts/lord-ashtar-talon-abraxas-the-ashtar-movement-also-known-as-the-ashtar-command-i/991679485857955/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15361055.2025.2503035" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15361055.2025.2503035</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: The Untold Story of Building the First Megaton...by JE Morgan · 2025 · Cited by 2 — The test series was named IVY, and two...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/15361055.2025.2503035" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15361055.2025.2503035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: The Untold Story of Building the First Megaton...by JE Morgan · 2025 · Cited by 2 — The test series was named IVY, and two...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/atomicmuseum.vegas/posts/from-november-1-to-december-31-1952-the-united-states-conducted-operation-ivy-at/1158993959352655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atomicmuseum.vegas/posts/from-november-1-to-december-31-1952-the-united-states-conducted-operation-ivy-at/1158993959352655/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>megaton yield, making it the first full-scale test of a...10.4 Megaton Ivy Mike Test (1952). This is the 49 tonne liquid... This aircra...</p></details>
+   Link:<a href="https://www.facebook.com/atomicmuseum.vegas/posts/from-november-1-to-december-31-1952-the-united-states-conducted-operation-ivy-at/1158993959352655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atomicmuseum.vegas/posts/from-november-1-to-december-31-1952-the-united-states-conducted-operation-ivy-at/1158993959352655/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>megaton yield, making it the first full-scale test of a...10.4 Megaton Ivy Mike Test (1952). This is the 49 tonne liquid... This aircra...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: in 1976 a family in england reported their television was hijacked mid broadcast  
-   Link: <a href="https://www.facebook.com/mrballen/posts/in-1976-a-family-in-england-reported-their-television-was-hijacked-mid-broadcast/789003110165191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-1976-a-family-in-england-reported-their-television-was-hijacked-mid-broadcast/789003110165191/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976, a family in England reported their television was...The audio of a Southern Television broadcast was replaced by a voice claimi...</p></details>
+   Link:<a href="https://www.facebook.com/mrballen/posts/in-1976-a-family-in-england-reported-their-television-was-hijacked-mid-broadcast/789003110165191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/in-1976-a-family-in-england-reported-their-television-was-hijacked-mid-broadcast/789003110165191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976, a family in England reported their television was...The audio of a Southern Television broadcast was replaced by a voice claimi...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: voice of george van tassel 1950s ufo contactee at giant rock in the mojave deser  
-   Link: <a href="https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of George Van Tassel — 1950s UFO contactee...Here is the first message conveyed through George Van Tassel in 1952 from a being cal...</p></details>
+   Link:<a href="https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of George Van Tassel — 1950s UFO contactee...Here is the first message conveyed through George Van Tassel in 1952 from a being cal...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curious George OfficialThe TV show reveals how curiosity is a building block of learning, as it introduces simple science, technology, en...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curious George OfficialThe TV show reveals how curiosity is a building block of learning, as it introduces simple science, technology, en...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/cdO-wwmOgD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/cdO-wwmOgD8</a>  
+   Link:<a href="https://www.youtube.com/shorts/cdO-wwmOgD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/cdO-wwmOgD8</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/161847971/Ashtar-Command-Project" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/161847971/Ashtar-Command-Project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>980s about upcoming earth changes and the ascension of Earth.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/161847971/Ashtar-Command-Project" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/161847971/Ashtar-Command-Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>980s about upcoming earth changes and the ascension of Earth.Read more...</p></details>

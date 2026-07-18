@@ -280,24 +280,24 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled
 
 ## Introduction
 
-Many failed UFO prophecies gained their force not from physical evidence but from claimed revelation. In a number of UFO-based religious movements, [leaders]({{ 'leaders/' | relative_url }}) asserted that they could receive messages directly from extraterrestrials, cosmic masters, or higher intelligences through channelling, telepathy, automatic writing, or trance states. These communications were treated as sacred knowledge unavailable to ordinary people, giving predictions an authority that could outweigh conflicting evidence. When a predicted rescue, landing, or transformation failed to occur, the central question for followers was often not whether the prediction had been wrong, but whether the message had been misunderstood, delayed, or fulfilled in an unseen way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Many failed UFO prophecies gained their force not from physical evidence but from claimed revelation. In a number of UFO-based religious movements, [leaders]({{ 'leaders/' | relative_url }}) asserted that they could receive messages directly from extraterrestrials, cosmic masters, or higher intelligences through channelling, telepathy, automatic writing, or trance states. These communications were treated as sacred knowledge unavailable to ordinary people, giving predictions an authority that could outweigh conflicting evidence. When a predicted rescue, landing, or transformation failed to occur, the central question for followers was often not whether the prediction had been wrong, but whether the message had been misunderstood, delayed, or fulfilled in an unseen way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-1-dark.svg" | relative_url }}" alt="Channelling illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the history of failed UFO predictions, channelling matters because it creates a special chain of trust. Followers are asked to believe not merely in aliens, but in a leader's unique ability to speak for them. That claim transforms an uncertain prediction into something closer to a religious revelation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aetherius Society</span><span class="citation-popover-snippet">Aetherius Society</span></span></span>
+Within the history of failed UFO predictions, channelling matters because it creates a special chain of trust. Followers are asked to believe not merely in aliens, but in a leader's unique ability to speak for them. That claim transforms an uncertain prediction into something closer to a religious revelation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aetherius Society</span><span class="citation-popover-snippet">Aetherius Society</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oc7Nu1vh6V0" title="Dorothy Martin and the UFO Cult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oc7Nu1vh6V0" target="_blank" rel="noopener noreferrer">Dorothy Martin and the UFO Cult</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oc7Nu1vh6V0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oc7Nu1vh6V0">Open on YouTube</a></p></div></div></div>
 
 ## How Revelation Creates Trust
 
-The authority of channelled UFO messages comes from a simple but powerful mechanism: the source is presented as superior to ordinary human judgement. If a message is believed to come from advanced extraterrestrials, enlightened cosmic beings, or guardians of humanity, then disagreement can appear less like scepticism and more like resistance to higher truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aetherius Society</span><span class="citation-popover-snippet">Aetherius Society</span></span></span>
+The authority of channelled UFO messages comes from a simple but powerful mechanism: the source is presented as superior to ordinary human judgement. If a message is believed to come from advanced extraterrestrials, enlightened cosmic beings, or guardians of humanity, then disagreement can appear less like scepticism and more like resistance to higher truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aetherius Society</span><span class="citation-popover-snippet">Aetherius Society</span></span></span>
 
-Unlike scientific claims, which can be tested through public observation, channelled messages depend on privileged access. Only the channel can receive the communication directly. Followers therefore evaluate the message largely through their trust in the messenger. This creates a religious structure in which the leader functions as interpreter, translator, and validator of revelation simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.findresearcher.sdu.dk/en/publications/the-aetherius-society-a-ritual-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.findresearcher.sdu.dk">[Syddansk Universitet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.findresearcher.sdu.dk</span><span class="citation-popover-snippet">Syddansk UniversitetThe Aetherius Society: A Ritual Perspectiveby M Rothstein · 2021 · Cited by 5 — The Aetherius Society is one of the b...</span></span></span>
+Unlike scientific claims, which can be tested through public observation, channelled messages depend on privileged access. Only the channel can receive the communication directly. Followers therefore evaluate the message largely through their trust in the messenger. This creates a religious structure in which the leader functions as interpreter, translator, and validator of revelation simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.findresearcher.sdu.dk/en/publications/the-aetherius-society-a-ritual-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.findresearcher.sdu.dk">[Syddansk Universitet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.findresearcher.sdu.dk</span><span class="citation-popover-snippet">Syddansk UniversitetThe Aetherius Society: A Ritual Perspectiveby M Rothstein · 2021 · Cited by 5 — The Aetherius Society is one of the b...</span></span></span>
 
-[Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s famous 1954 UFO prophecy illustrates this pattern. Martin claimed to receive messages through automatic writing from beings associated with the planet Clarion. The prediction of catastrophic flooding and rescue by flying saucer was accepted by followers because it was presented as information from a higher extraterrestrial source rather than as a personal opinion. The authority of the prophecy rested on the presumed authority of the beings communicating through her. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Alex Quigley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+[Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s famous 1954 UFO prophecy illustrates this pattern. Martin claimed to receive messages through automatic writing from beings associated with the planet Clarion. The prediction of catastrophic flooding and rescue by flying saucer was accepted by followers because it was presented as information from a higher extraterrestrial source rather than as a personal opinion. The authority of the prophecy rested on the presumed authority of the beings communicating through her.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Alex Quigley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-A similar dynamic appeared in the [Aetherius]({{ 'aetherius/' | relative_url }}) Society. Founder George King claimed that years of spiritual training enabled him to receive telepathic communications from advanced extraterrestrial intelligences known as "Cosmic Masters". Their messages became the foundation of a religious movement that treated these communications as guidance for humanity's future. The movement's teachings derived legitimacy from the claimed extraterrestrial origin of the messages rather than from conventional evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Aetherius Cloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aetherius Society</span><span class="citation-popover-snippet">Aetherius Society</span></span></span>
+A similar dynamic appeared in the [Aetherius]({{ 'aetherius/' | relative_url }}) Society. Founder George King claimed that years of spiritual training enabled him to receive telepathic communications from advanced extraterrestrial intelligences known as "Cosmic Masters". Their messages became the foundation of a religious movement that treated these communications as guidance for humanity's future. The movement's teachings derived legitimacy from the claimed extraterrestrial origin of the messages rather than from conventional evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Aetherius Cloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aetherius Society</span><span class="citation-popover-snippet">Aetherius Society</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h1W9zv8S5vE" title="GRAVITY WILL STOP IN 2026? Maverick Approach’s CHILLING Prediction of ALIEN INVASION | AP |S1 EP21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h1W9zv8S5vE" target="_blank" rel="noopener noreferrer">GRAVITY WILL STOP IN 2026? Maverick Approach’s CHILLING Prediction of ALIEN INVASION | AP |S1 EP21</a></p><p class="youtube-embed-meta">Channel: You&#x27;re Welcome Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h1W9zv8S5vE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h1W9zv8S5vE">Open on YouTube</a></p></div></div></div>
@@ -306,11 +306,11 @@ A similar dynamic appeared in the [Aetherius]({{ 'aetherius/' | relative_url }})
 
 Channelled UFO movements typically ask followers to accept several linked propositions at once.
 
-First, they must accept that advanced non-human intelligences exist and are communicating with humanity. Second, they must believe that a specific individual has privileged access to those intelligences. Third, they must trust that the leader is correctly interpreting what has been received. Finally, they must act on that interpretation, sometimes making significant personal sacrifices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</span></span></span>
+First, they must accept that advanced non-human intelligences exist and are communicating with humanity. Second, they must believe that a specific individual has privileged access to those intelligences. Third, they must trust that the leader is correctly interpreting what has been received. Finally, they must act on that interpretation, sometimes making significant personal sacrifices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</span></span></span>
 
-This layered structure is important because it protects authority from immediate challenge. If a prediction appears doubtful, followers may still trust the leader. If the leader appears mistaken, followers may conclude that the extraterrestrials communicated symbolically rather than literally. Because the source itself cannot be independently questioned, the chain of authority remains difficult to test directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</span></span></span>
+This layered structure is important because it protects authority from immediate challenge. If a prediction appears doubtful, followers may still trust the leader. If the leader appears mistaken, followers may conclude that the extraterrestrials communicated symbolically rather than literally. Because the source itself cannot be independently questioned, the chain of authority remains difficult to test directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</span></span></span>
 
-The [Ashtar]({{ 'ashtar/' | relative_url }}) movement demonstrates how this process can operate across many different channels. Following early contact claims associated with [George Van Tassel]({{ 'van-tassel/' | relative_url }}), numerous mediums claimed communication with the extraterrestrial commander Ashtar. Although these channels often delivered conflicting messages, followers frequently treated the communications as spiritually authoritative. Predictions of imminent landings and dramatic planetary changes gained credibility because they were framed as warnings from a higher cosmic intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">May 9, 2026 — Due to his common depiction as a humanoid with blond hair and European features, Ashtar may be considered a Nordic alien. T...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+The [Ashtar]({{ 'ashtar/' | relative_url }}) movement demonstrates how this process can operate across many different channels. Following early contact claims associated with [George Van Tassel]({{ 'van-tassel/' | relative_url }}), numerous mediums claimed communication with the extraterrestrial commander Ashtar. Although these channels often delivered conflicting messages, followers frequently treated the communications as spiritually authoritative. Predictions of imminent landings and dramatic planetary changes gained credibility because they were framed as warnings from a higher cosmic intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">May 9, 2026 — Due to his common depiction as a humanoid with blond hair and European features, Ashtar may be considered a Nordic alien. T...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
 In this way, belief is transferred from observable events to the reliability of revelation itself. The prediction matters because it originates from a supposedly superior source.
 
@@ -318,7 +318,7 @@ In this way, belief is transferred from observable events to the reliability of 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-2-dark.svg" | relative_url }}" alt="Channelling illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Message Fails the Test
 
-Failed UFO predictions place channelled authority under its greatest pressure. If a spaceship does not arrive, a catastrophe does not occur, or a rescue never materialises, followers confront an apparent contradiction between revelation and reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Failed UFO predictions place channelled authority under its greatest pressure. If a spaceship does not arrive, a catastrophe does not occur, or a rescue never materialises, followers confront an apparent contradiction between revelation and reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 Yet failure does not automatically destroy the authority of the channel. Several responses are common:
 
@@ -329,199 +329,199 @@ Yet failure does not automatically destroy the authority of the channel. Several
 * The timing is said to have been misunderstood.
 * The predicted event is claimed to have occurred on a spiritual level.
 * Followers argue that human behaviour changed the outcome.
-* New revelations replace older ones and redirect attention toward future expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</span></span></span>
+* New revelations replace older ones and redirect attention toward future expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</span></span></span>
 
 </div>
 
-The Dorothy [Martin case]({{ 'martin-case/' | relative_url }}) remains influential because it revealed how believers could continue to value the channel even after a dramatic prophecy failed. Although later scholarship has debated exactly how the group's members responded and how researchers interpreted events, the episode remains a classic example of the tension between prophetic authority and empirical failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Gwern+3Wikipedia+3Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The Dorothy [Martin case]({{ 'martin-case/' | relative_url }}) remains influential because it revealed how believers could continue to value the channel even after a dramatic prophecy failed. Although later scholarship has debated exactly how the group's members responded and how researchers interpreted events, the episode remains a classic example of the tension between prophetic authority and empirical failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Gwern+3Wikipedia+3Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The broader history of UFO religions shows that failed predictions often test not simply a forecast but an entire system of authority. If the channel is believed to possess unique access to extraterrestrial wisdom, followers may search for explanations that preserve that access even when a specific prediction proves inaccurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</span></span></span>
+The broader history of UFO religions shows that failed predictions often test not simply a forecast but an entire system of authority. If the channel is believed to possess unique access to extraterrestrial wisdom, followers may search for explanations that preserve that access even when a specific prediction proves inaccurate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vvFV1v8l-PI" title="The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer">The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vvFV1v8l-PI">Open on YouTube</a></p></div></div></div>
 
 ## Why Channelling Matters in Failed UFO Prophecies
 
-Channelled messages give UFO prophecies religious weight because they elevate predictions above ordinary speculation. The leader is no longer presented as someone making a guess about future events but as a recipient of privileged cosmic knowledge. This transforms belief from an assessment of evidence into a question of faith in revelation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aetherius Society</span><span class="citation-popover-snippet">Aetherius Society</span></span></span>
+Channelled messages give UFO prophecies religious weight because they elevate predictions above ordinary speculation. The leader is no longer presented as someone making a guess about future events but as a recipient of privileged cosmic knowledge. This transforms belief from an assessment of evidence into a question of faith in revelation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aetherius Society</span><span class="citation-popover-snippet">Aetherius Society</span></span></span>
 
-That mechanism helps explain why failed UFO predictions can resemble religious crises rather than simple forecasting errors. When a prophecy fails, the issue is not merely whether an event happened. The credibility of a sacred communication channel is at stake. For movements built around extraterrestrial revelation, preserving confidence in that channel often becomes more important than preserving the original prediction itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+That mechanism helps explain why failed UFO predictions can resemble religious crises rather than simple forecasting errors. When a prophecy fails, the issue is not merely whether an event happened. The credibility of a sacred communication channel is at stake. For movements built around extraterrestrial revelation, preserving confidence in that channel often becomes more important than preserving the original prediction itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2archiv.ub.uni-marburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-3-dark.svg" | relative_url }}" alt="Channelling illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_channelled_alien_aut_db2ff1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Channelled UFO Messages Carry Authority. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Channelled UFO Messages Carry Authority. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how extraordinary revelations gain authority in contemporary UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how extraordinary revelations gain authority in contemporary UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
-        </h4>
-        <p class="fr-book-author">By Gregory L. Reece</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
+</h4>
+<p class="fr-book-author">By Gregory L. Reece</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Explains why followers trust revealed messages and maintain commitment after disconfirmation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why followers trust revealed messages and maintain commitment after disconfirmation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -gerry -anderson" data-ebay-reference="channelling-why-channelled-ufo-messages-carry-authority-failed-predictions-ufo-memorabilia-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ That mechanism helps explain why failed UFO predictions can resemble religious c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ That mechanism helps explain why failed UFO predictions can resemble religious c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ That mechanism helps explain why failed UFO predictions can resemble religious c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ That mechanism helps explain why failed UFO predictions can resemble religious c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ That mechanism helps explain why failed UFO predictions can resemble religious c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,185 +727,185 @@ That mechanism helps explain why failed UFO predictions can resemble religious c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Aetherius Society  
-   Link: <a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aetherius_Society</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aetherius_Society</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archiv.ub.uni-marburg.de  
-   Link: <a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</p></details>
+   Link:<a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New Religious Movements, apocalypti...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_religion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_religion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO religionSome historians consider the Aetherius Society, founded by George King, to... Academic Christopher Partridge places UFO r...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_religion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_religion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO religionSome historians consider the Aetherius Society, founded by George King, to... Academic Christopher Partridge places UFO r...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cloud.aetherius.org  
    Title: Cloud Dr  
-   Link: <a href="https://cloud.aetherius.org/speaker/dr-george-king/" target="_blank" rel="noopener noreferrer nofollow">https://cloud.aetherius.org/speaker/dr-george-king/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George King Archives - Aetherius CloudDr. George King (1919-1997) was a Master of Yoga, contactee, and outstanding trance medium. He was...</p></details>
+   Link:<a href="https://cloud.aetherius.org/speaker/dr-george-king/" target="_blank" rel="noopener noreferrer nofollow">https://cloud.aetherius.org/speaker/dr-george-king/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George King Archives - Aetherius CloudDr. George King (1919-1997) was a Master of Yoga, contactee, and outstanding trance medium. He was...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aetherius.org  
-   Link: <a href="https://www.aetherius.org/overview/?srsltid=AfmBOoqXXhYrAerazYudJnEbtEQgHFsx2oxdx6gxhDO5POO1eyUGakea" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/overview/?srsltid=AfmBOoqXXhYrAerazYudJnEbtEQgHFsx2oxdx6gxhDO5POO1eyUGakea</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aetherius SocietyOverviewUFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they here? What&#x27;s... The Society was founded in t...</p></details>
+   Link:<a href="https://www.aetherius.org/overview/?srsltid=AfmBOoqXXhYrAerazYudJnEbtEQgHFsx2oxdx6gxhDO5POO1eyUGakea" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/overview/?srsltid=AfmBOoqXXhYrAerazYudJnEbtEQgHFsx2oxdx6gxhDO5POO1eyUGakea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aetherius SocietyOverviewUFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they here? What&#x27;s... The Society was founded in t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2026 — Due to his common depiction as a humanoid with blond hair and European features, Ashtar may be considered a Nordic alien. T...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2026 — Due to his common depiction as a humanoid with blond hair and European features, Ashtar may be considered a Nordic alien. T...</p></details>
    Published: May 9, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neith...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neith...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gwern.net  
    Title: 2025 kelly  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2025-kelly.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: George King (religious leader)  
-   Link: <a href="https://en.wikipedia.org/wiki/George_King_%28religious_leader%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_King_%28religious_leader%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George King (religious leader) - WikipediaGeorge King was a British author, esotericist, and spiritual figure who founded the Aetheriu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/George_King_%28religious_leader%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_King_%28religious_leader%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George King (religious leader) - WikipediaGeorge King was a British author, esotericist, and spiritual figure who founded the Aetheriu...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Television broadcast interruptionThe audio of a Southern Television broadcast was replaced by a voice claiming to represent t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Television broadcast interruptionThe audio of a Southern Television broadcast was replaced by a voice claiming to represent t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aetherius.org  
    Title: The Aetherius Society  
-   Link: <a href="https://www.aetherius.org/?srsltid=AfmBOopqQxi4LEcm1F0LqkfJ7w60M7kzYdY0rCQgw6cT2lB4kuK3ZaNC" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/?srsltid=AfmBOopqQxi4LEcm1F0LqkfJ7w60M7kzYdY0rCQgw6cT2lB4kuK3ZaNC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your guide through spiritual evolution to Enlightenment and beyond.... UFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they he...</p></details>
+   Link:<a href="https://www.aetherius.org/?srsltid=AfmBOopqQxi4LEcm1F0LqkfJ7w60M7kzYdY0rCQgw6cT2lB4kuK3ZaNC" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/?srsltid=AfmBOopqQxi4LEcm1F0LqkfJ7w60M7kzYdY0rCQgw6cT2lB4kuK3ZaNC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your guide through spiritual evolution to Enlightenment and beyond.... UFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they he...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cloud.aetherius.org  
    Title: world emergency celebration  
-   Link: <a href="https://cloud.aetherius.org/world-emergency-celebration/" target="_blank" rel="noopener noreferrer nofollow">https://cloud.aetherius.org/world-emergency-celebration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George King recounts the incredible story of an extraterrestrial invasion of Earth. The invaders were a non-belligerent...</p></details>
+   Link:<a href="https://cloud.aetherius.org/world-emergency-celebration/" target="_blank" rel="noopener noreferrer nofollow">https://cloud.aetherius.org/world-emergency-celebration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George King recounts the incredible story of an extraterrestrial invasion of Earth. The invaders were a non-belligerent...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cloud.aetherius.org  
    Title: the aetherius society a unique organization  
-   Link: <a href="https://cloud.aetherius.org/the-aetherius-society-a-unique-organization/" target="_blank" rel="noopener noreferrer nofollow">https://cloud.aetherius.org/the-aetherius-society-a-unique-organization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aetherius Society... George King founded The Aetherius Society in 1955, he was not...Read more...</p></details>
+   Link:<a href="https://cloud.aetherius.org/the-aetherius-society-a-unique-organization/" target="_blank" rel="noopener noreferrer nofollow">https://cloud.aetherius.org/the-aetherius-society-a-unique-organization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aetherius Society... George King founded The Aetherius Society in 1955, he was not...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cloud.aetherius.org  
-   Link: <a href="https://cloud.aetherius.org/" target="_blank" rel="noopener noreferrer nofollow">https://cloud.aetherius.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George King was a channel for advanced extraterrestrial intelligences living on higher frequencies of vibration on other planets.Read more...</p></details>
+   Link:<a href="https://cloud.aetherius.org/" target="_blank" rel="noopener noreferrer nofollow">https://cloud.aetherius.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George King was a channel for advanced extraterrestrial intelligences living on higher frequencies of vibration on other planets.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aetherius.org  
-   Link: <a href="https://www.aetherius.org/the-extraterrestrial-message/cosmic-masters/?srsltid=AfmBOop-MqrI8L23MP6Z5rLTUFirWVX6r1rAsdKSEHOiQj6iejaE83hm" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/the-extraterrestrial-message/cosmic-masters/?srsltid=AfmBOop-MqrI8L23MP6Z5rLTUFirWVX6r1rAsdKSEHOiQj6iejaE83hm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Masters and TransmissionsUFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they here? What&#x27;s their message? Discover. Pray...</p></details>
+   Link:<a href="https://www.aetherius.org/the-extraterrestrial-message/cosmic-masters/?srsltid=AfmBOop-MqrI8L23MP6Z5rLTUFirWVX6r1rAsdKSEHOiQj6iejaE83hm" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/the-extraterrestrial-message/cosmic-masters/?srsltid=AfmBOop-MqrI8L23MP6Z5rLTUFirWVX6r1rAsdKSEHOiQj6iejaE83hm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Masters and TransmissionsUFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they here? What&#x27;s their message? Discover. Pray...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: portal.findresearcher.sdu.dk  
-   Link: <a href="https://portal.findresearcher.sdu.dk/en/publications/the-aetherius-society-a-ritual-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://portal.findresearcher.sdu.dk/en/publications/the-aetherius-society-a-ritual-perspective/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Syddansk UniversitetThe Aetherius Society: A Ritual Perspectiveby M Rothstein · 2021 · Cited by 5 — The Aetherius Society is one of the b...</p></details>
+   Link:<a href="https://portal.findresearcher.sdu.dk/en/publications/the-aetherius-society-a-ritual-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://portal.findresearcher.sdu.dk/en/publications/the-aetherius-society-a-ritual-perspective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Syddansk UniversitetThe Aetherius Society: A Ritual Perspectiveby M Rothstein · 2021 · Cited by 5 — The Aetherius Society is one of the b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: alexquigley.co.uk  
    Title: when prophecies fail and evidence backfires  
-   Link: <a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alex QuigleyWhen Prophecies Fail and Evidence Backfires18 Mar 2017 — Dorothy Martin was a charismatic leader with a unique skill. She cou...</p></details>
+   Link:<a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alex QuigleyWhen Prophecies Fail and Evidence Backfires18 Mar 2017 — Dorothy Martin was a charismatic leader with a unique skill. She cou...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ojs.zrc-sazu.si  
-   Link: <a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESMore recent case studies about specific UFO religions include Tumminia, 2005 on the Unariuns, Palmer, 2004 on the Raëlians, an...</p></details>
+   Link:<a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESMore recent case studies about specific UFO religions include Tumminia, 2005 on the Unariuns, Palmer, 2004 on the Raëlians, an...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: encyclopedia.com  
    Title: aetherius society  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aetherius-society" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aetherius-society</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aetherius Society | Encyclopedia.comFounded by Sir George King (1919-1997), a British occultist and flying saucer contactee from the...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aetherius-society" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aetherius-society</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aetherius Society | Encyclopedia.comFounded by Sir George King (1919-1997), a British occultist and flying saucer contactee from the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: drdavidclarke.co.uk  
    Title: George King  
-   Link: <a href="https://drdavidclarke.co.uk/tag/george-king/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/george-king/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David Clarke29 Jul 2015 — At the 1959 demo amplified tape recordings of one of King&#x27;s extraterrestrial contacts, Mars Sector 6, were p...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/tag/george-king/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/tag/george-king/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr David Clarke29 Jul 2015 — At the 1959 demo amplified tape recordings of one of King&#x27;s extraterrestrial contacts, Mars Sector 6, were p...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: huckmag.com  
    Title: aetherius society  
-   Link: <a href="https://www.huckmag.com/article/aetherius-society" target="_blank" rel="noopener noreferrer nofollow">https://www.huckmag.com/article/aetherius-society</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious LA religion working to stop the apocalypse26 Apr 2018 — Founded in the 1950s and composed of a few hundred members, they b...</p></details>
+   Link:<a href="https://www.huckmag.com/article/aetherius-society" target="_blank" rel="noopener noreferrer nofollow">https://www.huckmag.com/article/aetherius-society</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious LA religion working to stop the apocalypse26 Apr 2018 — Founded in the 1950s and composed of a few hundred members, they b...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Failed Doomsday PredictionsThey&#x27;ve predicted the destruction of the world through floods, fires, and comets—luckily for us, none of it...</p></details>
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Failed Doomsday PredictionsThey&#x27;ve predicted the destruction of the world through floods, fires, and comets—luckily for us, none of it...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of several UFO an...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of several UFO an...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/167240849991995/posts/8414208328628498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/167240849991995/posts/8414208328628498/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command and the origins of UFO religionsUFO phenomenon linked to biblical prophecy and alien intervention... alien contacts recei...</p></details>
+   Link:<a href="https://www.facebook.com/groups/167240849991995/posts/8414208328628498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/167240849991995/posts/8414208328628498/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command and the origins of UFO religionsUFO phenomenon linked to biblical prophecy and alien intervention... alien contacts recei...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: drgeorgeking.org  
-   Link: <a href="https://drgeorgeking.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://drgeorgeking.org/about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The King Who Came To EarthIn this photo he leads a public demonstration with Aetherius Society healers. You may ask why Dr. King was chos...</p></details>
+   Link:<a href="https://drgeorgeking.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://drgeorgeking.org/about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The King Who Came To EarthIn this photo he leads a public demonstration with Aetherius Society healers. You may ask why Dr. King was chos...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReligionsOne of the common features of UFO religions is that their founders are convinced that they have been contacted by aliens. Ad...</p></details>
+   Link:<a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReligionsOne of the common features of UFO religions is that their founders are convinced that they have been contacted by aliens. Ad...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/01/08/lifestyle/clairvoyant-baba-vanga-predicted-alien-spaceship-would-enter-earths-atmosphere-and-outbreak-of-wwiii-for-2026/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/01/08/lifestyle/clairvoyant-baba-vanga-predicted-alien-spaceship-would-enter-earths-atmosphere-and-outbreak-of-wwiii-for-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baba Vanga predicted alien spaceship would enter Earth&#x27;s...8 Jan 2026 — Baba Vanga predicted alien spaceship would enter Earth&#x27;s atmosph...</p></details>
+   Link:<a href="https://nypost.com/2026/01/08/lifestyle/clairvoyant-baba-vanga-predicted-alien-spaceship-would-enter-earths-atmosphere-and-outbreak-of-wwiii-for-2026/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/01/08/lifestyle/clairvoyant-baba-vanga-predicted-alien-spaceship-would-enter-earths-atmosphere-and-outbreak-of-wwiii-for-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baba Vanga predicted alien spaceship would enter Earth&#x27;s...8 Jan 2026 — Baba Vanga predicted alien spaceship would enter Earth&#x27;s atmosph...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-[cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — The book is based on the account of Dorothy Martin, who in 1954 p...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/Ashtar-Revealing-Identity-Spiritual-Program-ebook/dp/B00DGCQDNC?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Ashtar-Revealing-Identity-Spiritual-Program-ebook/dp/B00DGCQDNC?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man or Myth? Name or Title? Space Commander or Archangel? Intergalactic Spiritual Leader? The name Ashtar has become widely known in UFO...</p></details>
+   Link:<a href="https://www.amazon.nl/Ashtar-Revealing-Identity-Spiritual-Program-ebook/dp/B00DGCQDNC?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Ashtar-Revealing-Identity-Spiritual-Program-ebook/dp/B00DGCQDNC?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man or Myth? Name or Title? Space Commander or Archangel? Intergalactic Spiritual Leader? The name Ashtar has become widely known in UFO...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: player.bfi.org.uk  
    Title: watch the aetherius society at holdstone down 1963 online  
-   Link: <a href="https://player.bfi.org.uk/free/film/watch-the-aetherius-society-at-holdstone-down-1963-online" target="_blank" rel="noopener noreferrer nofollow">https://player.bfi.org.uk/free/film/watch-the-aetherius-society-at-holdstone-down-1963-online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aetherius Society at Holdstone Down | ReplayThe Aetherius Society is a religion founded by George King in 1955 based on New Age and Unide...</p></details>
+   Link:<a href="https://player.bfi.org.uk/free/film/watch-the-aetherius-society-at-holdstone-down-1963-online" target="_blank" rel="noopener noreferrer nofollow">https://player.bfi.org.uk/free/film/watch-the-aetherius-society-at-holdstone-down-1963-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aetherius Society at Holdstone Down | ReplayThe Aetherius Society is a religion founded by George King in 1955 based on New Age and Unide...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dan-lee.net  
    Title: This obviously is radically different to the classical  
-   Link: <a href="https://www.dan-lee.net/littlegreenmen" target="_blank" rel="noopener noreferrer nofollow">https://www.dan-lee.net/littlegreenmen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>little green men the aetherius society and aliens as modern mythThe Aetherius Society holds that Jesus Christ was in fact an alien Master...</p></details>
+   Link:<a href="https://www.dan-lee.net/littlegreenmen" target="_blank" rel="noopener noreferrer nofollow">https://www.dan-lee.net/littlegreenmen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>little green men the aetherius society and aliens as modern mythThe Aetherius Society holds that Jesus Christ was in fact an alien Master...</p></details>

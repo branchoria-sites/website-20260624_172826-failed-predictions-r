@@ -445,7 +445,7 @@ A dated UFO prediction can be tested only after it has been pinned down in advan
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc-overview.webp" | relative_url }}" alt="Overview image for Verify Claims" loading="eager" decoding="sync" fetchpriority="high">
-The practical test is simple but strict. First, preserve the original prediction. Second, define the promised event before checking later explanations. Third, compare post-deadline claims with independent evidence, not with the claimant’s revised interpretation. This approach does not require assuming that all UFO reports are false. It only asks whether a specific dated claim came true in the ordinary, public, checkable sense. Official reviews have repeatedly said that [unresolved]({{ 'unresolved/' | relative_url }}) UAP reports are not the same thing as confirmed extraterrestrial evidence, which makes careful claim-by-claim [verification]({{ 'verification/' | relative_url }}) especially important. The US Air Force’s Project Blue Book found no evidence that its “unidentified” cases were extraterrestrial vehicles, and NASA’s 2023 UAP study reported no conclusive peer-reviewed evidence for an extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</span></span></span>
+The practical test is simple but strict. First, preserve the original prediction. Second, define the promised event before checking later explanations. Third, compare post-deadline claims with independent evidence, not with the claimant’s revised interpretation. This approach does not require assuming that all UFO reports are false. It only asks whether a specific dated claim came true in the ordinary, public, checkable sense. Official reviews have repeatedly said that [unresolved]({{ 'unresolved/' | relative_url }}) UAP reports are not the same thing as confirmed extraterrestrial evidence, which makes careful claim-by-claim [verification]({{ 'verification/' | relative_url }}) especially important. The US Air Force’s Project Blue Book found no evidence that its “unidentified” cases were extraterrestrial vehicles, and NASA’s 2023 UAP study reported no conclusive peer-reviewed evidence for an extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</span></span></span>
 
 ## Identify the Exact Promised Event
 
@@ -463,7 +463,7 @@ Record four elements:
 
 </div>
 
-This distinction is vital in UFO prophecy cases. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 group, later discussed in *When Prophecy Fails*, reportedly expected a catastrophic flood and rescue by flying saucers around 21 December 1954; the claim was not merely that extraterrestrials existed, but that a dramatic dated rescue would occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books When Prophecy Fails</span><span class="citation-popover-snippet">Riecken...A classic text in social psychology authored by Leon Festinger, Henry Riecken, and Stanley Schachter. It chronicles the exper...</span></span></span> Chen Tao’s leader, Hon-Ming Chen, likewise made a specific claim: God would appear on television on 25 March 1998 and then in person in [Garland]({{ 'garland/' | relative_url }}), Texas, on 31 March 1998. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+This distinction is vital in UFO prophecy cases. [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 group, later discussed in *When Prophecy Fails*, reportedly expected a catastrophic flood and rescue by flying saucers around 21 December 1954; the claim was not merely that extraterrestrials existed, but that a dramatic dated rescue would occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books When Prophecy Fails</span><span class="citation-popover-snippet">Riecken...A classic text in social psychology authored by Leon Festinger, Henry Riecken, and Stanley Schachter. It chronicles the exper...</span></span></span> Chen Tao’s leader, Hon-Ming Chen, likewise made a specific claim: God would appear on television on 25 March 1998 and then in person in [Garland]({{ 'garland/' | relative_url }}), Texas, on 31 March 1998.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
 A prediction becomes harder to test when it is phrased as a [private revelation]({{ 'private-claims/' | relative_url }}), symbolic sign, or “energetic shift”. That does not make it true or false automatically; it means the evaluator should classify it as **not publicly testable** unless the claimant supplied observable criteria in advance. The burden is not on sceptics to invent a measurable version after the fact.
 
@@ -473,9 +473,9 @@ A prediction becomes harder to test when it is phrased as a [private revelation]
 
 A UFO prediction should be treated as “dated” only if there is evidence that the claim existed before the deadline. This is where many viral claims fail. Screenshots can be edited, forum posts can be deleted, social posts can be backdated in misleading retellings, and later summaries often clean up the messy original language.
 
-The strongest source trail starts with the earliest available primary or near-primary record: the claimant’s own website, book, press conference, leaflet, archived forum post, newsletter, radio transcript, or contemporary news report. The Internet Archive’s Wayback Machine can help because archived URLs include a timestamp in the form year-month-day-hour-minute-second, but its own help pages warn that not every archived date captures a complete site and that missing links may be filled from nearby captures or the live web. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.archive.org">[Internet Archive Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.archive.org</span><span class="citation-popover-snippet">Internet Archive Help CenterUsing the Wayback MachineWhen you are surfing an incomplete archived site the Wayback Machine will grab the c...</span></span></span> Its “Save Page Now” function can preserve a current page and provide a permanent archived URL for future checking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.archive.org/help/save-pages-in-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.archive.org">[Internet Archive Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.archive.org</span><span class="citation-popover-snippet">Internet Archive Help CenterSave Pages in the Wayback MachineGo to a page you want to archive, click the icon in your toolbar, and select...</span></span></span>
+The strongest source trail starts with the earliest available primary or near-primary record: the claimant’s own website, book, press conference, leaflet, archived forum post, newsletter, radio transcript, or contemporary news report. The Internet Archive’s Wayback Machine can help because archived URLs include a timestamp in the form year-month-day-hour-minute-second, but its own help pages warn that not every archived date captures a complete site and that missing links may be filled from nearby captures or the live web.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.archive.org">[Internet Archive Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.archive.org</span><span class="citation-popover-snippet">Internet Archive Help CenterUsing the Wayback MachineWhen you are surfing an incomplete archived site the Wayback Machine will grab the c...</span></span></span> Its “Save Page Now” function can preserve a current page and provide a permanent archived URL for future checking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.archive.org/help/save-pages-in-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.archive.org">[Internet Archive Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.archive.org</span><span class="citation-popover-snippet">Internet Archive Help CenterSave Pages in the Wayback MachineGo to a page you want to archive, click the icon in your toolbar, and select...</span></span></span>
 
-For a live prediction, the best practice is to archive the claim before the deadline and save more than one kind of record: the page itself, screenshots with visible dates, copies of attached images or PDFs, and independent references from people who noticed the claim at the time. General fact-checking guidance is similar: follow a claim back to its original source, verify the exact wording, and compare it with other sources rather than relying on a later paraphrase. House of Commons Library+2Information Saves Lives | Internews <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[commonslibrary.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library How to check facts</span><span class="citation-popover-snippet">House of Commons Library How to check facts</span></span></span>
+For a live prediction, the best practice is to archive the claim before the deadline and save more than one kind of record: the page itself, screenshots with visible dates, copies of attached images or PDFs, and independent references from people who noticed the claim at the time. General fact-checking guidance is similar: follow a claim back to its original source, verify the exact wording, and compare it with other sources rather than relying on a later paraphrase. House of Commons Library+2Information Saves Lives | Internews<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[commonslibrary.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library How to check facts</span><span class="citation-popover-snippet">House of Commons Library How to check facts</span></span></span>
 
 A clean source trail should answer these questions:
 
@@ -491,9 +491,9 @@ A clean source trail should answer these questions:
 
 Once the deadline passes, the task is not to ask whether believers found meaning in the event. It is to ask whether the promised public event happened. If the claim said a spacecraft would appear over a city, check astronomy records, local news, aviation data where available, weather conditions, public safety reports, and credible witness documentation. If the claim involved a comet, satellite, or sky object, use astronomical sources before UFO forums.
 
-The Heaven’s Gate tragedy shows why the fulfilment test has to separate belief from external evidence. The group associated Comet Hale-Bopp with a supposed spacecraft and 39 members died in March 1997 believing they were leaving their bodies to reach a higher level. Contemporary reporting noted that the idea of a companion object drew from a flawed or misinterpreted image, and astronomers identified the alleged object as an ordinary star rather than a spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker DE-PROGRAMMING HEAVEN&#x27;S GATE The Wrong Stuff</span><span class="citation-popover-snippet">The New Yorker DE-PROGRAMMING HEAVEN&#x27;S GATE The Wrong Stuff</span></span></span> The question for verification is not whether Hale-Bopp was real — it was a spectacular real comet — but whether the added UFO claim was supported. The cited astronomical rebuttals matter because they address the specific claim being used as proof.
+The Heaven’s Gate tragedy shows why the fulfilment test has to separate belief from external evidence. The group associated Comet Hale-Bopp with a supposed spacecraft and 39 members died in March 1997 believing they were leaving their bodies to reach a higher level. Contemporary reporting noted that the idea of a companion object drew from a flawed or misinterpreted image, and astronomers identified the alleged object as an ordinary star rather than a spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker DE-PROGRAMMING HEAVEN&#x27;S GATE The Wrong Stuff</span><span class="citation-popover-snippet">The New Yorker DE-PROGRAMMING HEAVEN&#x27;S GATE The Wrong Stuff</span></span></span> The question for verification is not whether Hale-Bopp was real — it was a spectacular real comet — but whether the added UFO claim was supported. The cited astronomical rebuttals matter because they address the specific claim being used as proof.
 
-Chen Tao offers a cleaner failed-prediction pattern. The claim named dates, media, and a location: a television manifestation on 25 March 1998 and a physical appearance in Garland on 31 March. Contemporary and scholarly accounts describe the prophecy as failing; Chen reportedly acknowledged after the missed television event that his predictions could be considered nonsense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq0iFtxef6Ibf2zJzjSjNcZWEYgXo5b377FKMmbujCtZIEiAHHt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">B9789004222687 s009</span></span></span> A later claim that the event occurred invisibly, spiritually, or in a way only followers could perceive would not satisfy the original public test.
+Chen Tao offers a cleaner failed-prediction pattern. The claim named dates, media, and a location: a television manifestation on 25 March 1998 and a physical appearance in Garland on 31 March. Contemporary and scholarly accounts describe the prophecy as failing; Chen reportedly acknowledged after the missed television event that his predictions could be considered nonsense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq0iFtxef6Ibf2zJzjSjNcZWEYgXo5b377FKMmbujCtZIEiAHHt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-title">B9789004222687 s009</span><span class="citation-popover-snippet">B9789004222687 s009</span></span></span> A later claim that the event occurred invisibly, spiritually, or in a way only followers could perceive would not satisfy the original public test.
 
 ## Watch for Post-Deadline Reinterpretation
 
@@ -512,7 +512,7 @@ Common reinterpretations include:
 
 </div>
 
-These moves are especially common in apocalyptic and millennial UFO settings, where salvation, cosmic rescue, world transformation, and extraterrestrial guidance are blended together. Scholars of millennial belief have described “avertive apocalypticism”, where disaster can be said to have been postponed or prevented by spiritual action, making apparent failure easier to absorb. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Open source on oup.com.</span></span></span> That concept is useful for verification because it identifies a loophole: if a prediction includes a built-in escape clause that failure itself proves success, it is not a strong public test.
+These moves are especially common in apocalyptic and millennial UFO settings, where salvation, cosmic rescue, world transformation, and extraterrestrial guidance are blended together. Scholars of millennial belief have described “avertive apocalypticism”, where disaster can be said to have been postponed or prevented by spiritual action, making apparent failure easier to absorb.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Open source on oup.com.</span></span></span> That concept is useful for verification because it identifies a loophole: if a prediction includes a built-in escape clause that failure itself proves success, it is not a strong public test.
 
 A fair test should still quote the claimant’s later explanation. But it should label it correctly: **post-deadline reinterpretation**, not fulfilment, unless the original prediction allowed that exact outcome in advance.
 
@@ -524,7 +524,7 @@ A dated UFO prediction can be graded with a simple decision cluster. The point i
 
 TestWhat to look forWhy it mattersSpecificityNamed event, place, date, and observable outcomeVague predictions cannot be cleanly testedPublic recordPre-deadline publication, archive, broadcast, press report, or dated documentPrevents retrofitting after the factIndependenceSources outside the claimant’s own circleReduces circular confirmationPhysical observabilityEvidence available to ordinary witnesses or instrumentsSeparates public events from private beliefDeadline integrityNo unnoticed date changes or softened wordingDetects moving goalpostsAlternative explanationsAstronomy, aviation, weather, hoaxes, misidentification, media errorsAvoids treating “unexplained” as “alien”Post-event consistencyFulfilment claim matches the original wordingStops symbolic reinterpretation replacing the promised event
 
-The last item is often decisive. Project Blue Book, NASA and AARO all illustrate the same broad evidential caution: unexplained cases can remain unresolved because data are incomplete, but that is different from confirming extraterrestrial origin or a successful UFO prediction. AARO’s 2024 historical report stated that it found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span> Reuters’ reporting on the same AARO review emphasised that many sightings were ordinary objects or phenomena and that better-quality data could resolve many cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span></span></span>
+The last item is often decisive. Project Blue Book, NASA and AARO all illustrate the same broad evidential caution: unexplained cases can remain unresolved because data are incomplete, but that is different from confirming extraterrestrial origin or a successful UFO prediction. AARO’s 2024 historical report stated that it found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span> Reuters’ reporting on the same AARO review emphasised that many sightings were ordinary objects or phenomena and that better-quality data could resolve many cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc-Illustration-3-dark.svg" | relative_url }}" alt="Verify Claims illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -561,178 +561,178 @@ The strongest verification method is therefore modest but firm: preserve the cla
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Test a UFO Prediction. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Test a UFO Prediction. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts documented UFO reports with predictive claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts documented UFO reports with predictive claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches evidence-based evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evidence-based evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Central case study in evaluating failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central case study in evaluating failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Useful framework for testing claims against evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for testing claims against evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="verify-claims-how-to-test-a-ufo-prediction-failed-predictions-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -748,7 +748,7 @@ The strongest verification method is therefore modest but firm: preserve the cla
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -768,7 +768,7 @@ The strongest verification method is therefore modest but firm: preserve the cla
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -800,7 +800,7 @@ The strongest verification method is therefore modest but firm: preserve the cla
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -852,7 +852,7 @@ The strongest verification method is therefore modest but firm: preserve the cla
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -897,7 +897,7 @@ The strongest verification method is therefore modest but firm: preserve the cla
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -938,219 +938,219 @@ The strongest verification method is therefore modest but firm: preserve the cla
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: books.google.com  
    Title: Books When Prophecy Fails  
-   Link: <a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Riecken...A classic text in social psychology authored by Leon Festinger, Henry Riecken, and Stanley Schachter. It chronicles the exper...</p></details>
+   Link:<a href="https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/When_Prophecy_Fails.html?id=FTAxYAAACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Riecken...A classic text in social psychology authored by Leon Festinger, Henry Riecken, and Stanley Schachter. It chronicles the exper...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: help.archive.org  
-   Link: <a href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/using-the-wayback-machine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive Help CenterUsing the Wayback MachineWhen you are surfing an incomplete archived site the Wayback Machine will grab the c...</p></details>
+   Link:<a href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/using-the-wayback-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive Help CenterUsing the Wayback MachineWhen you are surfing an incomplete archived site the Wayback Machine will grab the c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: help.archive.org  
-   Link: <a href="https://help.archive.org/help/save-pages-in-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/save-pages-in-the-wayback-machine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive Help CenterSave Pages in the Wayback MachineGo to a page you want to archive, click the icon in your toolbar, and select...</p></details>
+   Link:<a href="https://help.archive.org/help/save-pages-in-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/save-pages-in-the-wayback-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive Help CenterSave Pages in the Wayback MachineGo to a page you want to archive, click the icon in your toolbar, and select...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: web.archive.org  
-   Link: <a href="https://web.archive.org/" target="_blank" rel="noopener noreferrer nofollow">https://web.archive.org/</a>  
+   Link:<a href="https://web.archive.org/" target="_blank" rel="noopener noreferrer nofollow">https://web.archive.org/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: internews.org  
-   Link: <a href="https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf</a>  
+   Link:<a href="https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://internews.org/wp-content/uploads/2024/02/Youth-Media-Litreracy-Program-Fact-Checking-Manual-final.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: brill.com  
    Title: B9789004222687 s009  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq0iFtxef6Ibf2zJzjSjNcZWEYgXo5b377FKMmbujCtZIEiAHHt" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq0iFtxef6Ibf2zJzjSjNcZWEYgXo5b377FKMmbujCtZIEiAHHt</a>  
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq0iFtxef6Ibf2zJzjSjNcZWEYgXo5b377FKMmbujCtZIEiAHHt" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s009.pdf?srsltid=AfmBOoq0iFtxef6Ibf2zJzjSjNcZWEYgXo5b377FKMmbujCtZIEiAHHt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
+   Link:<a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/HeavensGateFBI/Heaven%27s%20Gate%2001_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HeavensGateFBI/Heaven%27s%20Gate%2001_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/HeavensGateFBI/Heaven%27s%20Gate%2001_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HeavensGateFBI/Heaven%27s%20Gate%2001_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ia802901.us.archive.org  
    Title: Extraordinary Encounters  
-   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
+   Link:<a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blog.archive.org  
    Title: see something save something  
-   Link: <a href="https://blog.archive.org/2017/01/25/see-something-save-something/" target="_blank" rel="noopener noreferrer nofollow">https://blog.archive.org/2017/01/25/see-something-save-something/</a>  
+   Link:<a href="https://blog.archive.org/2017/01/25/see-something-save-something/" target="_blank" rel="noopener noreferrer nofollow">https://blog.archive.org/2017/01/25/see-something-save-something/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: chromewebstore.google.com  
-   Link: <a href="https://chromewebstore.google.com/detail/web-cache-viewer/pbkloffickinnlnmefmjmjbacohecpbd?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/web-cache-viewer/pbkloffickinnlnmefmjmjbacohecpbd?hl=en</a>  
+   Link:<a href="https://chromewebstore.google.com/detail/web-cache-viewer/pbkloffickinnlnmefmjmjbacohecpbd?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/web-cache-viewer/pbkloffickinnlnmefmjmjbacohecpbd?hl=en</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/9789004435537/BP000011.xml?language=en&amp;srsltid=AfmBOoqP6d5H6BErlzYTpOusrON1GAzncAzRs-_IyZo488-Q2oHDOdMO" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004435537/BP000011.xml?language=en&amp;srsltid=AfmBOoqP6d5H6BErlzYTpOusrON1GAzncAzRs-_IyZo488-Q2oHDOdMO</a>  
+   Link:<a href="https://brill.com/display/book/9789004435537/BP000011.xml?language=en&amp;srsltid=AfmBOoqP6d5H6BErlzYTpOusrON1GAzncAzRs-_IyZo488-Q2oHDOdMO" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004435537/BP000011.xml?language=en&amp;srsltid=AfmBOoqP6d5H6BErlzYTpOusrON1GAzncAzRs-_IyZo488-Q2oHDOdMO</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reuters.com  
    Title: nasa panel calls agency play larger role studying ufos 2023 09 14  
-   Link: <a href="https://www.reuters.com/science/nasa-panel-calls-agency-play-larger-role-studying-ufos-2023-09-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/nasa-panel-calls-agency-play-larger-role-studying-ufos-2023-09-14/</a>  
+   Link:<a href="https://www.reuters.com/science/nasa-panel-calls-agency-play-larger-role-studying-ufos-2023-09-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/nasa-panel-calls-agency-play-larger-role-studying-ufos-2023-09-14/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: commonslibrary.parliament.uk  
    Title: House of Commons Library How to check facts  
-   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10820/</a>  
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10820/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: newyorker.com  
    Title: The New Yorker DE-PROGRAMMING HEAVEN'S GATE The Wrong Stuff  
-   Link: <a href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff</a>  
+   Link:<a href="https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1997/04/14/de-programming-heavens-gate-the-wrong-stuff</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Internet Archive  
-   Link: <a href="https://www.youtube.com/watch?v=ts1tu1BiSuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ts1tu1BiSuY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ts1tu1BiSuY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ts1tu1BiSuY</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: insidegovuk.blog.gov.uk  
    Title: blog.gov.uk Busting the cache to view an update  
-   Link: <a href="https://insidegovuk.blog.gov.uk/2012/11/28/busting-the-cache-to-see-a-pages-update/" target="_blank" rel="noopener noreferrer nofollow">https://insidegovuk.blog.gov.uk/2012/11/28/busting-the-cache-to-see-a-pages-update/</a>  
+   Link:<a href="https://insidegovuk.blog.gov.uk/2012/11/28/busting-the-cache-to-see-a-pages-update/" target="_blank" rel="noopener noreferrer nofollow">https://insidegovuk.blog.gov.uk/2012/11/28/busting-the-cache-to-see-a-pages-update/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/44251140" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44251140</a>  
+   Link:<a href="https://www.jstor.org/stable/44251140" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44251140</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: From skeptics to scientists: Debunking UFO hoaxes  
-   Link: <a href="https://www.youtube.com/watch?v=MK7st-tnpFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MK7st-tnpFc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating UFO claims scientifically skepticism Aliens, Area 51, and Bob Lazar: Skeptic Stunned! Body Language Analysis Dr. G Explains...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MK7st-tnpFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MK7st-tnpFc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating UFO claims scientifically skepticism Aliens, Area 51, and Bob Lazar: Skeptic Stunned! Body Language Analysis Dr. G Explains...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)  
-   Link: <a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Science - Lecture 5: The Burden Of Proof...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Science - Lecture 5: The Burden Of Proof...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: FLOATER Toolkit: A Life Preserver for Surviving a Sea of Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=FZXA6wpVLew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FZXA6wpVLew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Science - Lecture 11: Special Pleading...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FZXA6wpVLew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FZXA6wpVLew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Science - Lecture 11: Special Pleading...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Understanding Science  
-   Link: <a href="https://www.youtube.com/watch?v=M-82tBzxzlU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M-82tBzxzlU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLOATER Toolkit: A Life Preserver for Surviving a Sea of Misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M-82tBzxzlU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M-82tBzxzlU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLOATER Toolkit: A Life Preserver for Surviving a Sea of Misinformation...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Understanding Science  
-   Link: <a href="https://www.youtube.com/watch?v=G57S1wOqt4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G57S1wOqt4Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From skeptics to scientists: Debunking UFO hoaxes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G57S1wOqt4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G57S1wOqt4Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From skeptics to scientists: Debunking UFO hoaxes...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: gijn.org  
-   Link: <a href="https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/</a>  
+   Link:<a href="https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  

@@ -274,15 +274,15 @@ image: /assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aft
 
 ## Introduction
 
-The most famous lesson drawn from [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s failed 1954 flying-saucer prophecy is that committed believers responded to disconfirmation by strengthening their faith and actively seeking converts. That interpretation, popularised in *When Prophecy Fails* (1956), became one of the foundational examples behind [cognitive dissonance]({{ 'dissonance/' | relative_url }}) theory. Yet archival research and methodological criticism have complicated that textbook story. The dispute is no longer about whether some believers rationalised the failure; it is about whether the group's post-prophecy behaviour was accurately described in the first place, and whether the researchers themselves influenced the outcome they later presented as evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
+The most famous lesson drawn from [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s failed 1954 flying-saucer prophecy is that committed believers responded to disconfirmation by strengthening their faith and actively seeking converts. That interpretation, popularised in *When Prophecy Fails* (1956), became one of the foundational examples behind [cognitive dissonance]({{ 'dissonance/' | relative_url }}) theory. Yet archival research and methodological criticism have complicated that textbook story. The dispute is no longer about whether some believers rationalised the failure; it is about whether the group's post-prophecy behaviour was accurately described in the first place, and whether the researchers themselves influenced the outcome they later presented as evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-1-dark.svg" | relative_url }}" alt="Aftermath dispute illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers interested in failed UFO predictions, this matters because Martin’s group remains the best-known case in the field. If the evidence behind its most famous interpretation is weaker or more ambiguous than often assumed, then the episode becomes less a simple demonstration of belief persistence and more a cautionary story about observation, interpretation and historical reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+For readers interested in failed UFO predictions, this matters because Martin’s group remains the best-known case in the field. If the evidence behind its most famous interpretation is weaker or more ambiguous than often assumed, then the episode becomes less a simple demonstration of belief persistence and more a cautionary story about observation, interpretation and historical reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 ## The textbook version of the aftermath
 
-In the traditional account, the prophecy failed, the predicted rescue never arrived, and a core group of believers resolved the resulting psychological tension by embracing a new explanation. According to *When Prophecy Fails*, members concluded that their faithfulness had helped avert the catastrophe, transforming apparent failure into spiritual success. The researchers argued that this reinterpretation encouraged increased public outreach and proselytising, providing a striking example of how people can preserve deeply held beliefs when confronted with contrary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In the traditional account, the prophecy failed, the predicted rescue never arrived, and a core group of believers resolved the resulting psychological tension by embracing a new explanation. According to *When Prophecy Fails*, members concluded that their faithfulness had helped avert the catastrophe, transforming apparent failure into spiritual success. The researchers argued that this reinterpretation encouraged increased public outreach and proselytising, providing a striking example of how people can preserve deeply held beliefs when confronted with contrary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 This interpretation became enormously influential because it appeared to show a specific pattern:
 
@@ -296,37 +296,37 @@ This interpretation became enormously influential because it appeared to show a 
 
 </div>
 
-The case was subsequently cited far beyond UFO studies, influencing discussions of religion, politics, social movements and everyday decision-making. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The case was subsequently cited far beyond UFO studies, influencing discussions of religion, politics, social movements and everyday decision-making.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The problem raised by later critics is not that such reactions never occur. Rather, it is whether Martin’s group actually behaved in the clear, sequential way the classic narrative suggests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</span><span class="citation-popover-meta">Published: June 23, 2017</span></span></span>
+The problem raised by later critics is not that such reactions never occur. Rather, it is whether Martin’s group actually behaved in the clear, sequential way the classic narrative suggests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</span><span class="citation-popover-meta">Published: June 23, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/klsvywBE1Xw" title="Why smart people double down even after being proven wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=klsvywBE1Xw" target="_blank" rel="noopener noreferrer">Why smart people double down even after being proven wrong</a></p><p class="youtube-embed-meta">Channel: Growth Mindset Co.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=klsvywBE1Xw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=klsvywBE1Xw">Open on YouTube</a></p></div></div></div>
 
 ## What archival critics challenge
 
-Recent archival work has focused on original notes, correspondence and previously unavailable research materials associated with the study. The strongest critics argue that the celebrated story of a dramatic post-failure surge in belief commitment may have been overstated. According to this revisionist view, members of the group were already engaging in publicity and outreach before the prophecy failed, making it difficult to portray proselytising as a distinctive reaction to disconfirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
+Recent archival work has focused on original notes, correspondence and previously unavailable research materials associated with the study. The strongest critics argue that the celebrated story of a dramatic post-failure surge in belief commitment may have been overstated. According to this revisionist view, members of the group were already engaging in publicity and outreach before the prophecy failed, making it difficult to portray proselytising as a distinctive reaction to disconfirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
 
-Critics also question whether the group remained as committed after the failed prediction as the classic account implies. Newly examined documents have been interpreted as showing that many participants drifted away relatively quickly and that the movement's cohesion weakened substantially after the prophecy collapsed. If that interpretation is correct, the [aftermath]({{ 'aftermath/' | relative_url }}) may have involved both rationalisation and attrition rather than a simple collective doubling down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
+Critics also question whether the group remained as committed after the failed prediction as the classic account implies. Newly examined documents have been interpreted as showing that many participants drifted away relatively quickly and that the movement's cohesion weakened substantially after the prophecy collapsed. If that interpretation is correct, the [aftermath]({{ 'aftermath/' | relative_url }}) may have involved both rationalisation and attrition rather than a simple collective doubling down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
 
-A second line of criticism concerns [observer effects]({{ 'observer-effect/' | relative_url }}). Historians and sociologists have long noted that the group was not being watched from a distance. Researchers and assistants infiltrated the movement, attended meetings and interacted directly with members. Some later commentators have argued that the presence of so many observers—at times constituting a significant proportion of those present—makes it difficult to know how the group would have behaved in their absence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+A second line of criticism concerns [observer effects]({{ 'observer-effect/' | relative_url }}). Historians and sociologists have long noted that the group was not being watched from a distance. Researchers and assistants infiltrated the movement, attended meetings and interacted directly with members. Some later commentators have argued that the presence of so many observers—at times constituting a significant proportion of those present—makes it difficult to know how the group would have behaved in their absence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-2-dark.svg" | relative_url }}" alt="Aftermath dispute illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Did the observers help create the story?
 
-The most controversial criticism is that researchers may have done more than simply observe. Archival investigators have alleged that members of the research team sometimes participated in discussions in ways that reinforced expectations, encouraged interpretations or increased the apparent importance of certain events. Thomas Kelly's archival analysis goes further, arguing that the researchers' involvement shaped both the group's internal dynamics and the narrative eventually presented to readers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
+The most controversial criticism is that researchers may have done more than simply observe. Archival investigators have alleged that members of the research team sometimes participated in discussions in ways that reinforced expectations, encouraged interpretations or increased the apparent importance of certain events. Thomas Kelly's archival analysis goes further, arguing that the researchers' involvement shaped both the group's internal dynamics and the narrative eventually presented to readers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
 
-Not all scholars accept these conclusions. Some regard the new archival findings as important but believe they challenge a particular case study more than they overturn cognitive dissonance theory itself. Others note that observational field research is inherently messy and that the existence of researcher influence does not automatically invalidate every observation recorded in the study. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
+Not all scholars accept these conclusions. Some regard the new archival findings as important but believe they challenge a particular case study more than they overturn cognitive dissonance theory itself. Others note that observational field research is inherently messy and that the existence of researcher influence does not automatically invalidate every observation recorded in the study.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6d6SJd5sxnM" title="InPresence 0211: When Prophecy Fails" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer">InPresence 0211: When Prophecy Fails</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6d6SJd5sxnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6d6SJd5sxnM">Open on YouTube</a></p></div></div></div>
 
 ### A broader criticism of the framework
 
-Even before the latest archival debates, scholars had argued that *When Prophecy Fails* may have interpreted the group too narrowly through the lens of prophecy fulfilment and disconfirmation. Critics suggested that Martin's followers were not united solely by a flood prediction. Their beliefs also included spiritual, moral and contactee-worldview elements that could sustain commitment independently of any single failed forecast. From this perspective, the famous narrative may have simplified a more complex religious and social movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</span><span class="citation-popover-meta">Published: June 23, 2017</span></span></span>
+Even before the latest archival debates, scholars had argued that *When Prophecy Fails* may have interpreted the group too narrowly through the lens of prophecy fulfilment and disconfirmation. Critics suggested that Martin's followers were not united solely by a flood prediction. Their beliefs also included spiritual, moral and contactee-worldview elements that could sustain commitment independently of any single failed forecast. From this perspective, the famous narrative may have simplified a more complex religious and social movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</span><span class="citation-popover-meta">Published: June 23, 2017</span></span></span>
 
-This criticism does not deny that dissonance occurred. Instead, it argues that the original study may have selected and emphasised evidence that fit its emerging theoretical framework while underplaying other motivations and identities operating within the group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</span><span class="citation-popover-meta">Published: June 23, 2017</span></span></span>
+This criticism does not deny that dissonance occurred. Instead, it argues that the original study may have selected and emphasised evidence that fit its emerging theoretical framework while underplaying other motivations and identities operating within the group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</span><span class="citation-popover-meta">Published: June 23, 2017</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/41im5nk0g5c" title="2015 Marty Center Senior Fellow Symposium with Betty M. Bayer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=41im5nk0g5c" target="_blank" rel="noopener noreferrer">2015 Marty Center Senior Fellow Symposium with Betty M. Bayer</a></p><p class="youtube-embed-meta">Channel: The University of Chicago</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=41im5nk0g5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=41im5nk0g5c">Open on YouTube</a></p></div></div></div>
@@ -335,206 +335,206 @@ This criticism does not deny that dissonance occurred. Instead, it argues that t
 
 The archival controversy has not erased the historical importance of Dorothy Martin's failed UFO prophecy. Several points remain largely uncontested.
 
-First, the prediction itself failed. The anticipated catastrophe and extraterrestrial rescue did not occur. That basic fact made the episode a rare, clearly testable case among UFO-related prophetic claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+First, the prediction itself failed. The anticipated catastrophe and extraterrestrial rescue did not occur. That basic fact made the episode a rare, clearly testable case among UFO-related prophetic claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Second, at least some believers sought explanations that preserved meaning after the failure. Whether this response was widespread, temporary or decisive is debated, but reinterpretation undeniably occurred. Messages circulated within the group explaining that disaster had been averted or transformed through spiritual action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+Second, at least some believers sought explanations that preserved meaning after the failure. Whether this response was widespread, temporary or decisive is debated, but reinterpretation undeniably occurred. Messages circulated within the group explaining that disaster had been averted or transformed through spiritual action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-Third, the case continues to illustrate a genuine challenge in studying [failed predictions]({{ 'failed-predictions/' | relative_url }}): observers rarely witness untouched social reality. [Media]({{ 'media/' | relative_url }}) attention, public scrutiny and researcher involvement can all affect how groups respond to disappointment. Martin's movement became famous partly because it was observed so closely, but that very scrutiny may have altered the phenomenon being studied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</span><span class="citation-popover-meta">Published: June 23, 2017</span></span></span>
+Third, the case continues to illustrate a genuine challenge in studying [failed predictions]({{ 'failed-predictions/' | relative_url }}): observers rarely witness untouched social reality. [Media]({{ 'media/' | relative_url }}) attention, public scrutiny and researcher involvement can all affect how groups respond to disappointment. Martin's movement became famous partly because it was observed so closely, but that very scrutiny may have altered the phenomenon being studied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</span><span class="citation-popover-meta">Published: June 23, 2017</span></span></span>
 
-The result is a more nuanced lesson than the one often presented in introductory psychology textbooks. Rather than proving that believers invariably become more committed after failed UFO prophecies, the [Martin case]({{ 'martin-case/' | relative_url }}) now highlights the difficulty of separating belief dynamics from the influence of observers, theories and retrospective storytelling. The episode remains a landmark in the history of failed predictions, but the evidence behind its most famous interpretation is more contested than it once appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
+The result is a more nuanced lesson than the one often presented in introductory psychology textbooks. Rather than proving that believers invariably become more committed after failed UFO prophecies, the [Martin case]({{ 'martin-case/' | relative_url }}) now highlights the difficulty of separating belief dynamics from the influence of observers, theories and retrospective storytelling. The episode remains a landmark in the history of failed predictions, but the evidence behind its most famous interpretation is more contested than it once appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</span><span class="citation-popover-meta">Published: November 4, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-3-dark.svg" | relative_url }}" alt="Aftermath dispute illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_dorothy_martin_1954_2bee14_aftermath_dispute_e36a9c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the famous lesson overstated?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the famous lesson overstated?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Primary source for the famous interpretation of Dorothy Martin&#x27;s failed prophecy and the aftermath dispute.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Primary source for the famous interpretation of Dorothy Martin&#x27;s failed prophecy and the aftermath dispute.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains the theory that grew in part from interpretations of the Dorothy Martin case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the theory that grew in part from interpretations of the Dorothy Martin case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Provides broader context for how people form and maintain beliefs despite contradictory evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for how people form and maintain beliefs despite contradictory evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Offers a skeptical framework for evaluating prophecy claims, UFO beliefs, and contested historical interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a skeptical framework for evaluating prophecy claims, UFO beliefs, and contested historical interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/f3581fcb556dc9b5c1ab.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="{{ '/assets/images/marketplace-covers/b06528b873e213be5d56.jpg' | relative_url }}" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Show Flying Saucer SHADO POSTER"><img src="{{ '/assets/images/marketplace-covers/f905d9529d0c2d6446cf.jpg' | relative_url }}" alt="Listing image for UFO TV Show Flying Saucer SHADO POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">UFO TV Show Flying Saucer SHADO POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Show Flying Saucer SHADO POSTER"><img src="{{ '/assets/images/marketplace-covers/f905d9529d0c2d6446cf.jpg' | relative_url }}" alt="Listing image for UFO TV Show Flying Saucer SHADO POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">UFO TV Show Flying Saucer SHADO POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="aftermath-dispute-was-the-famous-lesson-overstated-failed-predictions-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ The result is a more nuanced lesson than the one often presented in introductory
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ The result is a more nuanced lesson than the one often presented in introductory
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ The result is a more nuanced lesson than the one often presented in introductory
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ The result is a more nuanced lesson than the one often presented in introductory
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ The result is a more nuanced lesson than the one often presented in introductory
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,90 +740,90 @@ The result is a more nuanced lesson than the one often presented in introductory
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”November 4, 2025 — Drawing on newly unsealed archival material, this article demonstrates that...</p></details>
    Published: November 4, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44505332</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</p></details>
+   Link:<a href="https://www.jstor.org/stable/44505332" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44505332</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Process of Jesus&#x27; Deification and Cognitive...June 23, 2017 — by F Bermejo-Rubio · 2017 · Cited by 12 — When Prophecy Failed; C...</p></details>
    Published: June 23, 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404861540_The_Bloomsbury_Handbook_of_Apocalypticism_and_Millennialism_references_and_notes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404861540_The_Bloomsbury_Handbook_of_Apocalypticism_and_Millennialism_references_and_notes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Bloomsbury Handbook of Apocalypticism and...15 May 2026 — Stone ed., Expecting Armageddon: Essential Readings in Failed Prophe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404861540_The_Bloomsbury_Handbook_of_Apocalypticism_and_Millennialism_references_and_notes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404861540_The_Bloomsbury_Handbook_of_Apocalypticism_and_Millennialism_references_and_notes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Bloomsbury Handbook of Apocalypticism and...15 May 2026 — Stone ed., Expecting Armageddon: Essential Readings in Failed Prophe...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — Drawing on newly unsealed archival material, this article demonstra...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/the-bloomsbury-companion-to-new-religious-movements-9781441190055-9781472594518-9781441198297.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-bloomsbury-companion-to-new-religious-movements-9781441190055-9781472594518-9781441198297.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bloomsbury Companion to New Religious Movements...Leon Festinger&#x27;s famous piece of covert research, When Prophecy Fails (1956), focu...</p></details>
+   Link:<a href="https://dokumen.pub/the-bloomsbury-companion-to-new-religious-movements-9781441190055-9781472594518-9781441198297.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-bloomsbury-companion-to-new-religious-movements-9781441190055-9781472594518-9781441198297.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bloomsbury Companion to New Religious Movements...Leon Festinger&#x27;s famous piece of covert research, When Prophecy Fails (1956), focu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: christianscholars.com  
-   Link: <a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — Once the prophecies went unfulfilled, the groups experienced decr...</p></details>
+   Link:<a href="https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://christianscholars.com/when-the-book-about-when-prophecy-fails-fails-the-lies-behind-the-famous-theory-of-cognitive-dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Book about When Prophecy Fails Fails: The Lies...1 Apr 2026 — Once the prophecies went unfulfilled, the groups experienced decr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scispace.com  
    Title: journal of the philosophy of education vol iii 2018 38kyq77nwx  
-   Link: <a href="https://scispace.com/pdf/journal-of-the-philosophy-of-education-vol-iii-2018-38kyq77nwx.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/journal-of-the-philosophy-of-education-vol-iii-2018-38kyq77nwx.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of the Philosophy of Education Vol III (2018)study group, preparing relentlessly, extending lessons to include independent resear...</p></details>
+   Link:<a href="https://scispace.com/pdf/journal-of-the-philosophy-of-education-vol-iii-2018-38kyq77nwx.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/journal-of-the-philosophy-of-education-vol-iii-2018-38kyq77nwx.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of the Philosophy of Education Vol III (2018)study group, preparing relentlessly, extending lessons to include independent resear...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: era.ed.ac.uk  
-   Link: <a href="https://era.ed.ac.uk/bitstream/handle/1842/41300/Vidal%20Quintero2023.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://era.ed.ac.uk/bitstream/handle/1842/41300/Vidal%20Quintero2023.pdf?isAllowed=y&amp;sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Vidal i Quintero · 2023 — The theory proposes that when a group experiences a critical blow or threat to their identity in the fo...</p></details>
+   Link:<a href="https://era.ed.ac.uk/bitstream/handle/1842/41300/Vidal%20Quintero2023.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://era.ed.ac.uk/bitstream/handle/1842/41300/Vidal%20Quintero2023.pdf?isAllowed=y&amp;sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Vidal i Quintero · 2023 — The theory proposes that when a group experiences a critical blow or threat to their identity in the fo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the prophecy failed, contradicting the book&#x27;s central...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the prophecy failed, contradicting the book&#x27;s central...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>group had weathered the failure of the 1990 prophecy...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>group had weathered the failure of the 1990 prophecy...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying s...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Debunking-%E2%80%9CWhen-Prophecy-Fails%E2%80%9D-Kelly/f41bdb7e42d07488e801356934c4705ce0f021ba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/94983949/When_Prophecy_Fails_and_Faith_Persists_A_Theoretical_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/94983949/When_Prophecy_Fails_and_Faith_Persists_A_Theoretical_Overview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith Persists: A Theoretical...The study critiques cognitive dissonance theory&#x27;s applicability to religious gro...</p></details>
+   Link:<a href="https://www.academia.edu/94983949/When_Prophecy_Fails_and_Faith_Persists_A_Theoretical_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/94983949/When_Prophecy_Fails_and_Faith_Persists_A_Theoretical_Overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails and Faith Persists: A Theoretical...The study critiques cognitive dissonance theory&#x27;s applicability to religious gro...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: Christianity made ONE prediction  
-   Link: <a href="https://www.reddit.com/r/DebateReligion/comments/9jqs6r/christianity_made_one_prediction_that_prediction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/9jqs6r/christianity_made_one_prediction_that_prediction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That prediction turned...... Prophecy Failed: Reactions and Responses to Failure in the Old Testament Prophetic Traditions.... Cognitiv...</p></details>
+   Link:<a href="https://www.reddit.com/r/DebateReligion/comments/9jqs6r/christianity_made_one_prediction_that_prediction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/9jqs6r/christianity_made_one_prediction_that_prediction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That prediction turned...... Prophecy Failed: Reactions and Responses to Failure in the Old Testament Prophetic Traditions.... Cognitiv...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — Drawing on newly unsealed archival material, this article demonstrates that the book&#x27;s central claims are false, and t...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Oct 2025 — Drawing on newly unsealed archival material, this article demonstrates that the book&#x27;s central claims are false, and t...</p></details>

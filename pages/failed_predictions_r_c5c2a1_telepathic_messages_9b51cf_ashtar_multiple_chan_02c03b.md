@@ -274,15 +274,15 @@ image: /assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ash
 
 ## Introduction
 
-The history of Ashtar is one of the clearest examples of how a failed UFO prophecy could evolve into a durable mythology. What began in the early 1950s as a series of claimed [telepathic messages]({{ 'channeling/' | relative_url }}) received by contactee [George Van Tassel]({{ 'van-tassel/' | relative_url }}) did not disappear when specific warnings and expectations failed. Instead, the figure of Ashtar spread beyond a single messenger and became a shared character used by dozens of channelers, each adding new revelations, cosmic hierarchies and spiritual teachings. As a result, the survival of the belief no longer depended on whether any one prediction came true. The authority shifted from a single message to a growing network of messages, allowing the Ashtar tradition to outlive repeated disappointments and become one of the most influential currents in UFO religion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
+The history of Ashtar is one of the clearest examples of how a failed UFO prophecy could evolve into a durable mythology. What began in the early 1950s as a series of claimed [telepathic messages]({{ 'channeling/' | relative_url }}) received by contactee [George Van Tassel]({{ 'van-tassel/' | relative_url }}) did not disappear when specific warnings and expectations failed. Instead, the figure of Ashtar spread beyond a single messenger and became a shared character used by dozens of channelers, each adding new revelations, cosmic hierarchies and spiritual teachings. As a result, the survival of the belief no longer depended on whether any one prediction came true. The authority shifted from a single message to a growing network of messages, allowing the Ashtar tradition to outlive repeated disappointments and become one of the most influential currents in UFO religion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-1-dark.svg" | relative_url }}" alt="Ashtar Channels illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Van Tassel and the First Ashtar Messages
 
-The [Ashtar]({{ 'ashtar/' | relative_url }}) story began with George Van Tassel, a prominent UFO contactee associated with the [Giant Rock]({{ 'giant-rock/' | relative_url }}) gatherings in California. In 1952 he claimed to receive telepathic communications from a being called Ashtar, presented as a commander of an advanced extraterrestrial force. These messages combined space-age language with warnings about humanity's technological dangers, especially nuclear weapons. Van Tassel portrayed the communications as a form of extraterrestrial telepathy rather than traditional spiritual mediumship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The [Ashtar]({{ 'ashtar/' | relative_url }}) story began with George Van Tassel, a prominent UFO contactee associated with the [Giant Rock]({{ 'giant-rock/' | relative_url }}) gatherings in California. In 1952 he claimed to receive telepathic communications from a being called Ashtar, presented as a commander of an advanced extraterrestrial force. These messages combined space-age language with warnings about humanity's technological dangers, especially nuclear weapons. Van Tassel portrayed the communications as a form of extraterrestrial telepathy rather than traditional spiritual mediumship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-A key feature of the early messages was their prophetic character. Ashtar reportedly warned that hydrogen bomb testing could have catastrophic consequences for Earth. One message suggested that humanity risked planetary destruction through misuse of atomic technology. Yet when hydrogen bomb tests proceeded, the predicted catastrophe did not occur. Rather than ending the narrative, later messages explained that Ashtar's space fleet had intervened to prevent disaster. The failed prediction was therefore absorbed into the belief system instead of falsifying it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+A key feature of the early messages was their prophetic character. Ashtar reportedly warned that hydrogen bomb testing could have catastrophic consequences for Earth. One message suggested that humanity risked planetary destruction through misuse of atomic technology. Yet when hydrogen bomb tests proceeded, the predicted catastrophe did not occur. Rather than ending the narrative, later messages explained that Ashtar's space fleet had intervened to prevent disaster. The failed prediction was therefore absorbed into the belief system instead of falsifying it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 This pattern would become a defining feature of the broader Ashtar movement. A prophecy could fail, but the same channel that delivered the warning could also provide the explanation.
 
@@ -291,11 +291,11 @@ This pattern would become a defining feature of the broader Ashtar movement. A p
 
 ## Why Multiple Channels Protected the Tradition
 
-The crucial development was that Ashtar did not remain Van Tassel's exclusive contact. Within a short time, other individuals began claiming telepathic communication with the same extraterrestrial commander. Robert Short, originally associated with Van Tassel, broke away and helped popularise the idea of an “[Ashtar Command]({{ 'ashtar-command/' | relative_url }})”, a vast cosmic organisation rather than merely a single space visitor. Other channelers soon followed, each presenting their own messages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
+The crucial development was that Ashtar did not remain Van Tassel's exclusive contact. Within a short time, other individuals began claiming telepathic communication with the same extraterrestrial commander. Robert Short, originally associated with Van Tassel, broke away and helped popularise the idea of an “[Ashtar Command]({{ 'ashtar-command/' | relative_url }})”, a vast cosmic organisation rather than merely a single space visitor. Other channelers soon followed, each presenting their own messages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
 
 This multiplication of channels changed the structure of authority.
 
-Instead of: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/HistoryHit/posts/on-26th-november-1977-viewers-in-the-southern-television-area-lost-sound-from-th/1550034361728283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Instead of newsreader Andrew Gardner, the audience</span><span class="citation-popover-snippet">This is the voice of Vrillon, a representative of the Ashtar...On 26th November 1977, viewers in the Southern television area lost soun...</span><span class="citation-popover-meta">Published: November 1977</span></span></span>
+Instead of:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/HistoryHit/posts/on-26th-november-1977-viewers-in-the-southern-television-area-lost-sound-from-th/1550034361728283/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Instead of newsreader Andrew Gardner, the audience</span><span class="citation-popover-snippet">This is the voice of Vrillon, a representative of the Ashtar...On 26th November 1977, viewers in the Southern television area lost soun...</span><span class="citation-popover-meta">Published: November 1977</span></span></span>
 
 * One messenger receiving one stream of revelations.
 * One prediction standing or falling on its own success.
@@ -311,7 +311,7 @@ The movement increasingly relied on:
 
 </div>
 
-Scholars of [UFO religion]({{ 'ufo-religion/' | relative_url }}) have noted that by the mid-1950s dozens of people were claiming contact with Ashtar, often delivering contradictory messages. Some predicted imminent spacecraft landings. Others described thriving civilisations on nearby planets. Many of these claims failed when expected events did not occur or when scientific discoveries contradicted them. Yet there was no central institution capable of declaring the entire tradition invalid. New channelers simply continued producing new material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+Scholars of [UFO religion]({{ 'ufo-religion/' | relative_url }}) have noted that by the mid-1950s dozens of people were claiming contact with Ashtar, often delivering contradictory messages. Some predicted imminent spacecraft landings. Others described thriving civilisations on nearby planets. Many of these claims failed when expected events did not occur or when scientific discoveries contradicted them. Yet there was no central institution capable of declaring the entire tradition invalid. New channelers simply continued producing new material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 In practical terms, the movement became resilient because belief was attached to the character of Ashtar rather than to any single prediction.
 
@@ -319,9 +319,9 @@ In practical terms, the movement became resilient because belief was attached to
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-2-dark.svg" | relative_url }}" alt="Ashtar Channels illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Landing Claims Became Cosmic Mythology
 
-As the decades passed, specific expectations repeatedly encountered problems. Predictions of dramatic landings, public extraterrestrial contact, planetary evacuations and visible intervention failed to materialise. Some channelers forecast major transformations that never arrived on schedule. A notable example was the prediction by Yvonne Cole that humanity would experience a dramatic extraterrestrial arrival and civilisational transformation in 1994. When this failed, it joined a growing list of unrealised expectations within the Ashtar tradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+As the decades passed, specific expectations repeatedly encountered problems. Predictions of dramatic landings, public extraterrestrial contact, planetary evacuations and visible intervention failed to materialise. Some channelers forecast major transformations that never arrived on schedule. A notable example was the prediction by Yvonne Cole that humanity would experience a dramatic extraterrestrial arrival and civilisational transformation in 1994. When this failed, it joined a growing list of unrealised expectations within the Ashtar tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-What is striking is how the movement adapted. Rather than focusing on physical spacecraft appearing at a specific place and time, later Ashtar teachings increasingly emphasised spiritual evolution, higher consciousness and ascension. Academic studies of the movement have observed a shift away from concrete UFO predictions and towards themes more familiar from Theosophy, New Age spirituality and ascended-master traditions. Ashtar gradually became less a commander of a literal rescue fleet and more a cosmic teacher guiding humanity's spiritual development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+What is striking is how the movement adapted. Rather than focusing on physical spacecraft appearing at a specific place and time, later Ashtar teachings increasingly emphasised spiritual evolution, higher consciousness and ascension. Academic studies of the movement have observed a shift away from concrete UFO predictions and towards themes more familiar from Theosophy, New Age spirituality and ascended-master traditions. Ashtar gradually became less a commander of a literal rescue fleet and more a cosmic teacher guiding humanity's spiritual development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 This transformation solved several problems at once:
 
@@ -345,204 +345,204 @@ The result was a mythology that became increasingly detached from the original t
 
 ## From Contactee Figure to UFO Religious Symbol
 
-The endurance of Ashtar illustrates an important pattern in the history of failed UFO predictions. Many prophetic movements depend heavily on a founder. When the founder's prediction fails, the movement often collapses. The Ashtar tradition followed a different path because its central figure was not a human leader but a supernatural extraterrestrial authority accessible through multiple channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
+The endurance of Ashtar illustrates an important pattern in the history of failed UFO predictions. Many prophetic movements depend heavily on a founder. When the founder's prediction fails, the movement often collapses. The Ashtar tradition followed a different path because its central figure was not a human leader but a supernatural extraterrestrial authority accessible through multiple channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
 
-By the 1990s and later, efforts emerged to standardise Ashtar teachings and create a more coherent orthodoxy. Competing channelers were judged according to whether their messages matched an accepted spiritual framework. The emphasis shifted further away from imminent physical intervention and towards a cosmic worldview involving ascension, galactic federations and spiritual service. Scholars have argued that this process helped transform a fragmented collection of UFO prophecies into a more stable religious tradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+By the 1990s and later, efforts emerged to standardise Ashtar teachings and create a more coherent orthodoxy. Competing channelers were judged according to whether their messages matched an accepted spiritual framework. The emphasis shifted further away from imminent physical intervention and towards a cosmic worldview involving ascension, galactic federations and spiritual service. Scholars have argued that this process helped transform a fragmented collection of UFO prophecies into a more stable religious tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
-The significance of Ashtar within the history of failed UFO predictions is therefore not that a particular prophecy failed. Many did. The more revealing story is how repeated failures were absorbed into an expanding body of telepathic revelations. Through the work of multiple channelers, Ashtar evolved from a single contactee message into a mythology capable of surviving the disappearance of the very events it once promised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
+The significance of Ashtar within the history of failed UFO predictions is therefore not that a particular prophecy failed. Many did. The more revealing story is how repeated failures were absorbed into an expanding body of telepathic revelations. Through the work of multiple channelers, Ashtar evolved from a single contactee message into a mythology capable of surviving the disappearance of the very events it once promised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-3-dark.svg" | relative_url }}" alt="Ashtar Channels illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_ashtar_multiple_chan_02c03b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Ashtar Outgrew One Failed Prediction. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Ashtar Outgrew One Failed Prediction. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Explains how belief systems survive failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how belief systems survive failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places contactee narratives into a broader mythological framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places contactee narratives into a broader mythological framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines contemporary spiritual meanings attached to UFO beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contemporary spiritual meanings attached to UFO beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ashtar-channels-how-ashtar-outgrew-one-failed-prediction-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ The significance of Ashtar within the history of failed UFO predictions is there
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ The significance of Ashtar within the history of failed UFO predictions is there
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ The significance of Ashtar within the history of failed UFO predictions is there
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ The significance of Ashtar within the history of failed UFO predictions is there
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ The significance of Ashtar within the history of failed UFO predictions is there
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,122 +748,122 @@ The significance of Ashtar within the history of failed UFO predictions is there
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</p></details>
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — Van Tassel did not accept Short&#x27;s experiences as genuine, though, and Short broke...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselVan Tassel (March 12, 1910 – February 9, 1978) was an American author, inventor and UFO contactee. Ashtar (extraterre...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Van TasselVan Tassel (March 12, 1910 – February 9, 1978) was an American author, inventor and UFO contactee. Ashtar (extraterre...</p></details>
    Published: March 12, 1910  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Television broadcast interruptionThe audio of a Southern Television broadcast was replaced by a voice claiming to represent t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Television broadcast interruptionThe audio of a Southern Television broadcast was replaced by a voice claiming to represent t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: robertsspaceindustries.com  
    Title: The Ashtar  
-   Link: <a href="https://robertsspaceindustries.com/en/orgs/SPEEDOGHOS" target="_blank" rel="noopener noreferrer nofollow">https://robertsspaceindustries.com/en/orgs/SPEEDOGHOS</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Galactic Command [SPEEDOGHOS] - OrganizationsThe Ashtar Command are perfected humans that vibrate to the Christ Vibration and are...</p></details>
+   Link:<a href="https://robertsspaceindustries.com/en/orgs/SPEEDOGHOS" target="_blank" rel="noopener noreferrer nofollow">https://robertsspaceindustries.com/en/orgs/SPEEDOGHOS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Galactic Command [SPEEDOGHOS] - OrganizationsThe Ashtar Command are perfected humans that vibrate to the Christ Vibration and are...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</p></details>
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>was one of the original extraterrestrial entities who appeared among the flying saucer contactees of the 1950s. · After Van Tassell passe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: extraterrestrials.fandom.com  
    Title: Ashtar command  
-   Link: <a href="https://extraterrestrials.fandom.com/wiki/Ashtar_command" target="_blank" rel="noopener noreferrer nofollow">https://extraterrestrials.fandom.com/wiki/Ashtar_command</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>command - Alien Wiki - FandomThe Ashtar Command is an etheric group of extraterrestrials, angels and lightbeings and millions of &quot;starshi...</p></details>
+   Link:<a href="https://extraterrestrials.fandom.com/wiki/Ashtar_command" target="_blank" rel="noopener noreferrer nofollow">https://extraterrestrials.fandom.com/wiki/Ashtar_command</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>command - Alien Wiki - FandomThe Ashtar Command is an etheric group of extraterrestrials, angels and lightbeings and millions of &quot;starshi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dancingpastthedark.com  
-   Link: <a href="https://dancingpastthedark.com/tag/ashtar/" target="_blank" rel="noopener noreferrer nofollow">https://dancingpastthedark.com/tag/ashtar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives31 Jul 2021 — Ashtar is the name given to an extraterrestrial being or group claimed by quite a few channelers to be their UFO co...</p></details>
+   Link:<a href="https://dancingpastthedark.com/tag/ashtar/" target="_blank" rel="noopener noreferrer nofollow">https://dancingpastthedark.com/tag/ashtar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives31 Jul 2021 — Ashtar is the name given to an extraterrestrial being or group claimed by quite a few channelers to be their UFO co...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: boneandsickle.com  
    Title: george van tassel  
-   Link: <a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: George van Tassel30 Jul 2021 — Chief among the Space People van Tassel claimed to contact was Ashtar, whose messages were largely de...</p></details>
+   Link:<a href="https://www.boneandsickle.com/tag/george-van-tassel/" target="_blank" rel="noopener noreferrer nofollow">https://www.boneandsickle.com/tag/george-van-tassel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: George van Tassel30 Jul 2021 — Chief among the Space People van Tassel claimed to contact was Ashtar, whose messages were largely de...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: galacticfederationoflight.com  
    Title: ashtar command  
-   Link: <a href="https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command" target="_blank" rel="noopener noreferrer nofollow">https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is the Ashtar Command?2 Mar 2023 — Ashtar Communications to George Van Tassel. In 1952, Van Tassel received the first of many person...</p></details>
+   Link:<a href="https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command" target="_blank" rel="noopener noreferrer nofollow">https://www.galacticfederationoflight.com/blogs/esoteric-knowledge/ashtar-command</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is the Ashtar Command?2 Mar 2023 — Ashtar Communications to George Van Tassel. In 1952, Van Tassel received the first of many person...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: monstropedia.org  
-   Link: <a href="https://www.monstropedia.org/index.php/Ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.monstropedia.org/index.php/Ashtar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Aug 2011 — Ashtar was first channeled by early UFO contactee George Van Tassel, on 18 July 1952.... Van Tassel&#x27;s early purported messa...</p></details>
+   Link:<a href="https://www.monstropedia.org/index.php/Ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.monstropedia.org/index.php/Ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Aug 2011 — Ashtar was first channeled by early UFO contactee George Van Tassel, on 18 July 1952.... Van Tassel&#x27;s early purported messa...</p></details>
    Published: July 1952  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Failed Doomsday PredictionsThey&#x27;ve predicted the destruction of the world through floods, fires, and comets—luckily for us, none of it...</p></details>
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Failed Doomsday PredictionsThey&#x27;ve predicted the destruction of the world through floods, fires, and comets—luckily for us, none of it...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of several UFO an...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of several UFO an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Godsofadamu/posts/ashtar-sometimes-called-ashtar-sheran-is-the-name-given-to-an-extraterrestrial-b/3606187156121529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Godsofadamu/posts/ashtar-sometimes-called-ashtar-sheran-is-the-name-given-to-an-extraterrestrial-b/3606187156121529/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gods of AdamuThe Ashtar movement is studied by academics as a prominent form of UFO religion.... COMMAND, COMMAND OF THE EXTRATERRESTRIA...</p></details>
+   Link:<a href="https://www.facebook.com/Godsofadamu/posts/ashtar-sometimes-called-ashtar-sheran-is-the-name-given-to-an-extraterrestrial-b/3606187156121529/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Godsofadamu/posts/ashtar-sometimes-called-ashtar-sheran-is-the-name-given-to-an-extraterrestrial-b/3606187156121529/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gods of AdamuThe Ashtar movement is studied by academics as a prominent form of UFO religion.... COMMAND, COMMAND OF THE EXTRATERRESTRIA...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillion The Ashtar Galactic CommandFamous UFO sightings and their impact. Theories on ancient... r/aliens - Galactic Federation of Ligh...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillion The Ashtar Galactic CommandFamous UFO sightings and their impact. Theories on ancient... r/aliens - Galactic Federation of Ligh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wwwuser.gwdguser.de  
-   Link: <a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gwdguser.deAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also...</p></details>
+   Link:<a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gwdguser.deAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: voice of george van tassel 1950s ufo contactee at giant rock in the mojave deser  
-   Link: <a href="https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of George Van Tassel — 1950s UFO contactee...Here is the first message conveyed through George Van Tassel in 1952 from a being cal...</p></details>
+   Link:<a href="https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067811412084/posts/voice-of-george-van-tassel-1950s-ufo-contactee-at-giant-rock-in-the-mojave-deser/1106035978333439/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Voice of George Van Tassel — 1950s UFO contactee...Here is the first message conveyed through George Van Tassel in 1952 from a being cal...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: basildonheritage.org.uk  
-   Link: <a href="https://www.basildonheritage.org.uk/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.basildonheritage.org.uk/[media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Night the Earth Stood Still (for six minutes)Tassel, who claimed to receive telepathic messages from an extraterrestrial being named...</p></details>
+   Link:<a href="https://www.basildonheritage.org.uk/[media" target="_blank" rel="noopener noreferrer nofollow">https://www.basildonheritage.org.uk/[media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Night the Earth Stood Still (for six minutes)Tassel, who claimed to receive telepathic messages from an extraterrestrial being named...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: insighttimer.com  
    Title: you were chosen for this ashtar s message for starseeds  
-   Link: <a href="https://insighttimer.com/athinakrol/guided-meditations/you-were-chosen-for-this-ashtar-s-message-for-starseeds" target="_blank" rel="noopener noreferrer nofollow">https://insighttimer.com/athinakrol/guided-meditations/you-were-chosen-for-this-ashtar-s-message-for-starseeds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Were Chosen For This: Ashtar&#x27;s Message For Starseeds4 Feb 2025 — This channeled transmission from Ashtar is a divine call to step ful...</p></details>
+   Link:<a href="https://insighttimer.com/athinakrol/guided-meditations/you-were-chosen-for-this-ashtar-s-message-for-starseeds" target="_blank" rel="noopener noreferrer nofollow">https://insighttimer.com/athinakrol/guided-meditations/you-were-chosen-for-this-ashtar-s-message-for-starseeds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Were Chosen For This: Ashtar&#x27;s Message For Starseeds4 Feb 2025 — This channeled transmission from Ashtar is a divine call to step ful...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: yic.edu.et  
-   Link: <a href="https://www.yic.edu.et/primo-explore/scholarship/filedownload.ashx/The_Ashtar_Command_Members_Intl_Starseed_Network.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yic.edu.et/primo-explore/scholarship/filedownload.ashx/The_Ashtar_Command_Members_Intl_Starseed_Network.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ique in fact as the contributors to this intriguing study show the...Read more...</p></details>
+   Link:<a href="https://www.yic.edu.et/primo-explore/scholarship/filedownload.ashx/The_Ashtar_Command_Members_Intl_Starseed_Network.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yic.edu.et/primo-explore/scholarship/filedownload.ashx/The_Ashtar_Command_Members_Intl_Starseed_Network.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ique in fact as the contributors to this intriguing study show the...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: Instead of newsreader Andrew Gardner, the audience  
-   Link: <a href="https://www.facebook.com/HistoryHit/posts/on-26th-november-1977-viewers-in-the-southern-television-area-lost-sound-from-th/1550034361728283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryHit/posts/on-26th-november-1977-viewers-in-the-southern-television-area-lost-sound-from-th/1550034361728283/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;This is the voice of Vrillon, a representative of the Ashtar...On 26th November 1977, viewers in the Southern television area lost soun...</p></details>
+   Link:<a href="https://www.facebook.com/HistoryHit/posts/on-26th-november-1977-viewers-in-the-southern-television-area-lost-sound-from-th/1550034361728283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryHit/posts/on-26th-november-1977-viewers-in-the-southern-television-area-lost-sound-from-th/1550034361728283/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;This is the voice of Vrillon, a representative of the Ashtar...On 26th November 1977, viewers in the Southern television area lost soun...</p></details>
    Published: November 1977  

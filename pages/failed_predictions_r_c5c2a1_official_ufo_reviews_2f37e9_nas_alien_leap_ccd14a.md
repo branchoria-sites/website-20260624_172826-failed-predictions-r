@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_na
 
 ## Introduction
 
-The National Academy of Sciences (NAS) review of the University of Colorado’s UFO study is important because it drew a sharp line between two very different claims: that some reports remained unexplained, and that unexplained reports proved extraterrestrial visitation. The Academy accepted the first claim but rejected the second. In doing so, it challenged a recurring pattern in UFO culture and prediction-making—the assumption that if a case cannot be explained by familiar causes, then the alien hypothesis becomes the default answer. The NAS argued that the evidence did not justify that leap. Its reasoning became one of the most influential scientific statements in the history of the UFO debate and remains relevant whenever predictions of imminent [disclosure]({{ 'disclosure/' | relative_url }}), alien contact, or hidden extraterrestrial programmes are built on [unresolved]({{ 'unresolved/' | relative_url }}) sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+The National Academy of Sciences (NAS) review of the University of Colorado’s UFO study is important because it drew a sharp line between two very different claims: that some reports remained unexplained, and that unexplained reports proved extraterrestrial visitation. The Academy accepted the first claim but rejected the second. In doing so, it challenged a recurring pattern in UFO culture and prediction-making—the assumption that if a case cannot be explained by familiar causes, then the alien hypothesis becomes the default answer. The NAS argued that the evidence did not justify that leap. Its reasoning became one of the most influential scientific statements in the history of the UFO debate and remains relevant whenever predictions of imminent [disclosure]({{ 'disclosure/' | relative_url }}), alien contact, or hidden extraterrestrial programmes are built on [unresolved]({{ 'unresolved/' | relative_url }}) sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nas_alien_leap_ccd14a-Illustration-1-dark.svg" | relative_url }}" alt="NAS Review illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nas_alien_leap_ccd14a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nas_alien_leap_ccd14a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,17 +288,17 @@ The National Academy of Sciences (NAS) review of the University of Colorado’s 
 
 The Academy reviewed the findings of the 1969 Colorado study led by physicist Edward Condon. It did not claim that every UFO report had been solved. Instead, it focused on a methodological question: what kind of evidence would be needed to establish extraterrestrial visitation?
 
-Its answer was straightforward. A report that lacks a conventional explanation is not automatically evidence for an extraordinary explanation. To move from “unknown” to “alien”, investigators would need positive evidence connecting the observation to extraterrestrial technology or visitors. The Academy found that such evidence was absent. According to the review panel, UFO research had not produced findings likely to advance scientific knowledge, and the extraterrestrial visitation hypothesis was among the least supported explanations available from the evidence then on hand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+Its answer was straightforward. A report that lacks a conventional explanation is not automatically evidence for an extraordinary explanation. To move from “unknown” to “alien”, investigators would need positive evidence connecting the observation to extraterrestrial technology or visitors. The Academy found that such evidence was absent. According to the review panel, UFO research had not produced findings likely to advance scientific knowledge, and the extraterrestrial visitation hypothesis was among the least supported explanations available from the evidence then on hand.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
-This distinction is easy to overlook but crucial. Scientific reasoning does not treat unexplained observations as proof of a preferred theory. It asks whether there is affirmative evidence for that theory. The Academy concluded that there was not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+This distinction is easy to overlook but crucial. Scientific reasoning does not treat unexplained observations as proof of a preferred theory. It asks whether there is affirmative evidence for that theory. The Academy concluded that there was not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
 ## What the Academy Accepted From the Colorado Study
 
 The NAS review was not a blanket dismissal of witnesses or unusual reports. The panel accepted several core observations from the Colorado investigation.
 
-First, many reports appeared sincere and were not obvious hoaxes. Second, a minority of cases resisted straightforward identification. Third, the study found that most reports could be linked to ordinary causes such as astronomical objects, atmospheric effects, aircraft, balloons, or observational errors. Most importantly, the Academy agreed that decades of investigation had yielded little scientifically significant knowledge about the phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+First, many reports appeared sincere and were not obvious hoaxes. Second, a minority of cases resisted straightforward identification. Third, the study found that most reports could be linked to ordinary causes such as astronomical objects, atmospheric effects, aircraft, balloons, or observational errors. Most importantly, the Academy agreed that decades of investigation had yielded little scientifically significant knowledge about the phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
-The review therefore recognised [uncertainty]({{ 'uncertainty/' | relative_url }}) without converting uncertainty into evidence for extraterrestrials. That position is sometimes caricatured as claiming that all UFOs were explained. In reality, the Academy's conclusion was narrower: unresolved cases existed, but unresolved cases did not establish alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+The review therefore recognised [uncertainty]({{ 'uncertainty/' | relative_url }}) without converting uncertainty into evidence for extraterrestrials. That position is sometimes caricatured as claiming that all UFOs were explained. In reality, the Academy's conclusion was narrower: unresolved cases existed, but unresolved cases did not establish alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_W7SqS6UhE4" title="The Condon Report | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer">The Condon Report | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 17.4K &middot; Uploaded: April 2012 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_W7SqS6UhE4">Open on YouTube</a></p></div></div></div>
@@ -309,7 +309,7 @@ The panel's reasoning reflected a basic scientific principle. Competing explanat
 
 For example, if a radar event or visual sighting remains unidentified because information is incomplete, that outcome tells investigators something about the limits of the data. It does not tell them the object came from another civilisation. Missing information and extraterrestrial evidence are not the same thing.
 
-The Academy therefore treated many unexplained reports as unresolved questions rather than partial confirmations of an alien hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+The Academy therefore treated many unexplained reports as unresolved questions rather than partial confirmations of an alien hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e2DwUh7tzww" title="Decoding UFOs: Unveiling the Truth - The Condon Committee Report Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e2DwUh7tzww" target="_blank" rel="noopener noreferrer">Decoding UFOs: Unveiling the Truth - The Condon Committee Report Explained</a></p><p class="youtube-embed-meta">Channel: TheMisterySpot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e2DwUh7tzww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e2DwUh7tzww">Open on YouTube</a></p></div></div></div>
@@ -331,7 +331,7 @@ The NAS review rejected that logic. It recognised several reasons why a case can
 
 </div>
 
-In scientific terms, the failure of one explanation does not automatically verify another. The Academy found no recovered artefacts, no demonstrably non-human technology, no repeatable measurements, and no physical evidence that could establish extraterrestrial origin. Without such evidence, the alien interpretation remained speculative rather than demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+In scientific terms, the failure of one explanation does not automatically verify another. The Academy found no recovered artefacts, no demonstrably non-human technology, no repeatable measurements, and no physical evidence that could establish extraterrestrial origin. Without such evidence, the alien interpretation remained speculative rather than demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
 This is why the review became influential far beyond the details of individual sightings. It established an evidential standard: extraordinary claims require evidence that points positively toward the extraordinary claim itself.
 
@@ -341,11 +341,11 @@ This is why the review became influential far beyond the details of individual s
 
 The Academy's position did not remain an isolated judgement. Later official and scientific reviews repeatedly reached similar conclusions.
 
-Project Blue Book ended after consideration of the Colorado study and the NAS review, with the Air Force stating that investigations had produced no evidence that UFOs represented extraterrestrial vehicles or technology beyond known scientific understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Unidentified Flying Objects and Air Force Project Blue Book</span><span class="citation-popover-snippet">Scientific Study of Unidentified Flying Objects;&quot; a review of the University of Colorado&#x27;s report by the National Academy of Sciences; pr...</span></span></span>
+Project Blue Book ended after consideration of the Colorado study and the NAS review, with the Air Force stating that investigations had produced no evidence that UFOs represented extraterrestrial vehicles or technology beyond known scientific understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">Air Force Unidentified Flying Objects and Air Force Project Blue Book</span><span class="citation-popover-snippet">Scientific Study of Unidentified Flying Objects;&quot; a review of the University of Colorado&#x27;s report by the National Academy of Sciences; pr...</span></span></span>
 
-More recently, the Pentagon's All-domain Anomaly Resolution Office (AARO) reviewed decades of records and likewise reported no confirmed evidence that sightings represented extraterrestrial technology or beings. Importantly, AARO also noted that some cases remain unresolved because available data are limited or poor in quality. The modern conclusion therefore mirrors the Academy's earlier logic: unresolved does not equal extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — or official review panel has confirmed that any... the reporte...</span></span></span>
+More recently, the Pentagon's All-domain Anomaly Resolution Office (AARO) reviewed decades of records and likewise reported no confirmed evidence that sightings represented extraterrestrial technology or beings. Importantly, AARO also noted that some cases remain unresolved because available data are limited or poor in quality. The modern conclusion therefore mirrors the Academy's earlier logic: unresolved does not equal extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — or official review panel has confirmed that any... the reporte...</span></span></span>
 
-The consistency across decades is notable. Different organisations, different investigators, and different eras arrived at essentially the same evidential distinction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+The consistency across decades is notable. Different organisations, different investigators, and different eras arrived at essentially the same evidential distinction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EoBQnIxAcyM" title="1968 🇺🇸 #UFOB [EDIT] Commentary on the Condon Committee findings with Prof. McDonald &amp; Major Keyhoe." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EoBQnIxAcyM" target="_blank" rel="noopener noreferrer">1968 🇺🇸 #UFOB [EDIT] Commentary on the Condon Committee findings with Prof. McDonald &amp; Major Keyhoe.</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EoBQnIxAcyM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EoBQnIxAcyM">Open on YouTube</a></p></div></div></div>
@@ -354,204 +354,204 @@ The consistency across decades is notable. Different organisations, different in
 
 The NAS review matters in the history of failed UFO predictions because many predictions depend on a hidden assumption: that unexplained sightings already constitute strong evidence of alien visitation.
 
-Predictions of imminent disclosure, public contact, secret alien treaties, recovered spacecraft programmes, or coming extraterrestrial intervention often begin with the premise that the extraterrestrial explanation has effectively been established. The Academy argued that this premise had not been demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+Predictions of imminent disclosure, public contact, secret alien treaties, recovered spacecraft programmes, or coming extraterrestrial intervention often begin with the premise that the extraterrestrial explanation has effectively been established. The Academy argued that this premise had not been demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
 If the evidential bridge from “unidentified” to “alien” has not been crossed, then predictions built on that bridge become much weaker. A sighting that remains unexplained may justify further investigation, but it does not automatically support forecasts of government revelations, alien arrivals, or confirmation of non-human visitors.
 
-This is why the NAS review occupies a distinctive place in the history of UFO controversies. Its significance was not that it solved every mystery. Its significance was that it clarified what would count as proof. The Academy accepted uncertainty, accepted that some cases remained unresolved, and still concluded that the evidence did not justify the extraterrestrial interpretation. That missing bridge—from unknown object to alien visitor—was precisely what the review found lacking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
+This is why the NAS review occupies a distinctive place in the history of UFO controversies. Its significance was not that it solved every mystery. Its significance was that it clarified what would count as proof. The Academy accepted uncertainty, accepted that some cases remained unresolved, and still concluded that the evidence did not justify the extraterrestrial interpretation. That missing bridge—from unknown object to alien visitor—was precisely what the review found lacking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dtic.minsky.ai">[Minsky DTIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dtic.minsky.ai</span><span class="citation-popover-snippet">Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nas_alien_leap_ccd14a-Illustration-3-dark.svg" | relative_url }}" alt="NAS Review illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nas_alien_leap_ccd14a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9_nas_alien_leap_ccd14a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Missing Bridge From Unknown to Alien. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Missing Bridge From Unknown to Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how unexplained reports differ from proven extraterrestrial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unexplained reports differ from proven extraterrestrial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores official cases while highlighting evidentiary limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores official cases while highlighting evidentiary limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses logical errors involved in moving from mystery to extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses logical errors involved in moving from mystery to extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why humans often infer conclusions beyond available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why humans often infer conclusions beyond available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️"><img src="{{ '/assets/images/marketplace-covers/4ce088b8aa2a266dfa2a.jpg' | relative_url }}" alt="Listing image for Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Paul the Alien Garage Figure Collectable Statue Handmade 90Cm ⚠️FULL PAINTED ⚠️</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror"><img src="{{ '/assets/images/marketplace-covers/876149dc17c3ad73b449.jpg' | relative_url }}" alt="Listing image for Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Collectible 13cm 3D Printed Statue Model Action Figure Toy Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible"><img src="{{ '/assets/images/marketplace-covers/3a4f2902008c63d6e916.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Figure Black Science Fiction Sci-Fi Franchise Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure" data-ebay-reference="nas-review-the-missing-bridge-from-unknown-to-alien-failed-predictions-alien-collectible-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ This is why the NAS review occupies a distinctive place in the history of UFO co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ This is why the NAS review occupies a distinctive place in the history of UFO co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ This is why the NAS review occupies a distinctive place in the history of UFO co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ This is why the NAS review occupies a distinctive place in the history of UFO co
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ This is why the NAS review occupies a distinctive place in the history of UFO co
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,112 +757,112 @@ This is why the NAS review occupies a distinctive place in the history of UFO co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dtic.minsky.ai  
-   Link: <a href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow">https://dtic.minsky.ai/index/AD0688541</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</p></details>
+   Link:<a href="https://dtic.minsky.ai/index/AD0688541" target="_blank" rel="noopener noreferrer nofollow">https://dtic.minsky.ai/index/AD0688541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minsky DTICreview of the university of colorado report on unidentified...Panel agrees that a study of UFOs in general is not a promising...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Our general conclusion is that nothing has come from the study of. UFOs in the past 21 years...Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Our general conclusion is that nothing has come from the study of. UFOs in the past 21 years...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: colorado.edu  
    Title: [condon report](&#123;&#123; 'condon-report/' | relative_url &#125;&#125;) cu boulders historic ufo study  
-   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report: CU Boulder&#x27;s Historic UFO StudyNov 5, 2021 — The “Condon Report” officially concluded UFOs did not warrant further inv...</p></details>
+   Link:<a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report: CU Boulder&#x27;s Historic UFO StudyNov 5, 2021 — The “Condon Report” officially concluded UFOs did not warrant further inv...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: af.mil  
    Title: Air Force Unidentified Flying Objects and Air Force Project Blue Book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Study of Unidentified Flying Objects;&quot; a review of the University of Colorado&#x27;s report by the National Academy of Sciences; pr...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Study of Unidentified Flying Objects;&quot; a review of the University of Colorado&#x27;s report by the National Academy of Sciences; pr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: [media](&#123;&#123; 'media/' | relative_url &#125;&#125;). defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — or official review panel has confirmed that any... the reporte...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — or official review panel has confirmed that any... the reporte...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report was reviewed by a special committee of the National Academy of Sciences...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report was reviewed by a special committee of the National Academy of Sciences...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CONSENSUSUFO&#x27;s which might be extraterrestrial. (An unreliable witness is anyone who reports a UFO that isn&#x27;t an obvious natural or a...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CONSENSUSUFO&#x27;s which might be extraterrestrial. (An unreliable witness is anyone who reports a UFO that isn&#x27;t an obvious natural or a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: physicstoday.aip.org  
-   Link: <a href="https://physicstoday.aip.org/reviews/scientific-study-of-unidentified-flying-objects-aliens-in-the-sky-ufos-yes-where-the-condon-committee-went-wrong" target="_blank" rel="noopener noreferrer nofollow">https://physicstoday.aip.org/reviews/scientific-study-of-unidentified-flying-objects-aliens-in-the-sky-ufos-yes-where-the-condon-committee-went-wrong</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study of Unidentified Flying Objects, Aliens in the...Scientific Study of Unidentified Flying Objects, Aliens in the Sky, UFO&#x27;s?...</p></details>
+   Link:<a href="https://physicstoday.aip.org/reviews/scientific-study-of-unidentified-flying-objects-aliens-in-the-sky-ufos-yes-where-the-condon-committee-went-wrong" target="_blank" rel="noopener noreferrer nofollow">https://physicstoday.aip.org/reviews/scientific-study-of-unidentified-flying-objects-aliens-in-the-sky-ufos-yes-where-the-condon-committee-went-wrong</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study of Unidentified Flying Objects, Aliens in the...Scientific Study of Unidentified Flying Objects, Aliens in the Sky, UFO&#x27;s?...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: on december 17th 1969 the united states air force wrapped up their investigation  
-   Link: <a href="https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Study of Unidentified Flying Objects;&quot; a review of the University of Colorado&#x27;s report by the National Academy of Sciences; pa...</p></details>
+   Link:<a href="https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Study of Unidentified Flying Objects;&quot; a review of the University of Colorado&#x27;s report by the National Academy of Sciences; pa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: 1969 is the last time the us government investigated ufos 53 years later the us  
-   Link: <a href="https://www.facebook.com/aljazeera/posts/1969-is-the-last-time-the-us-government-investigated-ufos-53-years-later-the-us-/10160803223088690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aljazeera/posts/1969-is-the-last-time-the-us-government-investigated-ufos-53-years-later-the-us-/10160803223088690/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2022 — The findings, published in 1969 as the Final Report on the Scientific Study of Unidentified Flying Objects, allowed...</p></details>
+   Link:<a href="https://www.facebook.com/aljazeera/posts/1969-is-the-last-time-the-us-government-investigated-ufos-53-years-later-the-us-/10160803223088690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aljazeera/posts/1969-is-the-last-time-the-us-government-investigated-ufos-53-years-later-the-us-/10160803223088690/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27, 2022 — The findings, published in 1969 as the Final Report on the Scientific Study of Unidentified Flying Objects, allowed...</p></details>
    Published: May 27, 2022  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: utias.utoronto.ca  
    Title: UFO files from NICAP when it folded shortly after the Condon report. Hynek  
-   Link: <a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace StudiesIn the end, his conclusions essentially laid to rest the reality of alien...</p></details>
+   Link:<a href="https://www.utias.utoronto.ca/our-story/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.utias.utoronto.ca/our-story/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto Institute for Aerospace StudiesIn the end, his conclusions essentially laid to rest the reality of alien...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward U. Condon... National Academy Sciences-National Research Council, Dr. OBrien had advised...</p></details>
+   Link:<a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edward U. Condon... National Academy Sciences-National Research Council, Dr. OBrien had advised...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: britannica.com  
    Title: The first widely publicized UFO sighting occurred  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object (UFO) | History, Sightings, &amp; Facts4 days ago — Some believed that UFOs were evidence of intelligent extraterr...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying object (UFO) | History, Sightings, &amp; Facts4 days ago — Some believed that UFOs were evidence of intelligent extraterr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Commentary on the Condon Committee findings with Prof. Mc Donald & Major Keyhoe  
-   Link: <a href="https://www.youtube.com/watch?v=EoBQnIxAcyM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EoBQnIxAcyM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report UFO The Condon UFO Report (Scientific Study &amp; Evidence of UFOs) in 1969 - FindingUFO FindingUFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EoBQnIxAcyM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EoBQnIxAcyM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report UFO The Condon UFO Report (Scientific Study &amp; Evidence of UFOs) in 1969 - FindingUFO FindingUFO...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is finding contributed to the decision to shutter Project...</p></details>
+   Link:<a href="https://www.britannica.com/story/unidentified-flying-objects-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/unidentified-flying-objects-what-we-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is finding contributed to the decision to shutter Project...</p></details>

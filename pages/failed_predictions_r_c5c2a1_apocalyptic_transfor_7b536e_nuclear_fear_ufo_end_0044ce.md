@@ -280,17 +280,17 @@ image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_nu
 
 ## Introduction
 
-Many failed UFO end-times predictions drew their emotional force from a fear that was already widespread: nuclear war. During the Cold War, the possibility of global destruction by atomic weapons was a daily political reality. UFO prophets and contactee movements often absorbed that anxiety and reframed it through a cosmic narrative in which extraterrestrials warned humanity about its self-destructive path. In these stories, nuclear catastrophe became both a prophecy and a moral lesson. The result was a powerful blend of contemporary fear and spiritual urgency that made failed UFO predictions seem plausible to many followers. Rather than predicting random disasters, these movements often claimed to explain the most frightening threat of their age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — The eschatology of such ET religions, in which Cold War fear of nuclear war... &#x27;...</span></span></span>
+Many failed UFO end-times predictions drew their emotional force from a fear that was already widespread: nuclear war. During the Cold War, the possibility of global destruction by atomic weapons was a daily political reality. UFO prophets and contactee movements often absorbed that anxiety and reframed it through a cosmic narrative in which extraterrestrials warned humanity about its self-destructive path. In these stories, nuclear catastrophe became both a prophecy and a moral lesson. The result was a powerful blend of contemporary fear and spiritual urgency that made failed UFO predictions seem plausible to many followers. Rather than predicting random disasters, these movements often claimed to explain the most frightening threat of their age.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — The eschatology of such ET religions, in which Cold War fear of nuclear war... &#x27;...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_nuclear_fear_ufo_end_0044ce-Illustration-1-dark.svg" | relative_url }}" alt="Nuclear Fear illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_nuclear_fear_ufo_end_0044ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_nuclear_fear_ufo_end_0044ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of failed UFO prophecies, nuclear themes are significant because they transformed vague expectations of alien contact into urgent warnings about survival, rescue and civilisation's future. When the predicted wars, evacuations or planetary transformations failed to occur, the underlying fear remained, often allowing new dates and new interpretations to replace the old ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
+Within the broader history of failed UFO prophecies, nuclear themes are significant because they transformed vague expectations of alien contact into urgent warnings about survival, rescue and civilisation's future. When the predicted wars, evacuations or planetary transformations failed to occur, the underlying fear remained, often allowing new dates and new interpretations to replace the old ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
 
 ## Why Nuclear War Fit UFO Prophecy
 
-The rise of modern [UFO religions]({{ 'ufo-religion/' | relative_url }}) closely overlapped with the nuclear age. The atomic bombings of Hiroshima and Nagasaki, followed by decades of superpower confrontation, created a cultural atmosphere in which many people feared sudden global annihilation. Scholars of UFO religion have noted that extraterrestrial salvation narratives frequently reflected these contemporary anxieties rather than ancient concerns alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/2395018/Apocalypse_in_Early_UFO_and_Alien_Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) Apocalypse in Early UFO and Alien-Based Religions UFO and alien-based religions crystallized as contemporary Western spiritual phen</span><span class="citation-popover-snippet">Academia(PDF) Apocalypse in Early UFO and Alien-Based ReligionsUFO and alien-based religions crystallized as contemporary Western spiritu...</span></span></span>
+The rise of modern [UFO religions]({{ 'ufo-religion/' | relative_url }}) closely overlapped with the nuclear age. The atomic bombings of Hiroshima and Nagasaki, followed by decades of superpower confrontation, created a cultural atmosphere in which many people feared sudden global annihilation. Scholars of UFO religion have noted that extraterrestrial salvation narratives frequently reflected these contemporary anxieties rather than ancient concerns alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/2395018/Apocalypse_in_Early_UFO_and_Alien_Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">PDF) Apocalypse in Early UFO and Alien-Based Religions UFO and alien-based religions crystallized as contemporary Western spiritual phen</span><span class="citation-popover-snippet">Academia(PDF) Apocalypse in Early UFO and Alien-Based ReligionsUFO and alien-based religions crystallized as contemporary Western spiritu...</span></span></span>
 
-Early UFO contactees often claimed that benevolent “space brothers” were deeply concerned about nuclear weapons. George Adamski's influential contactee accounts in the 1950s portrayed extraterrestrials as morally advanced beings warning humanity against atomic destruction. Similar themes appeared throughout contactee literature and UFO spirituality, where aliens were presented as guardians attempting to steer humanity away from catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
+Early UFO contactees often claimed that benevolent “space brothers” were deeply concerned about nuclear weapons. George Adamski's influential contactee accounts in the 1950s portrayed extraterrestrials as morally advanced beings warning humanity against atomic destruction. Similar themes appeared throughout contactee literature and UFO spirituality, where aliens were presented as guardians attempting to steer humanity away from catastrophe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
 
 This framework had several advantages for prophetic movements:
 
@@ -304,7 +304,7 @@ This framework had several advantages for prophetic movements:
 
 </div>
 
-Because the risk of nuclear conflict was real, believers could view UFO warnings as credible interpretations of world events rather than purely supernatural predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thebulletin.org/2019/06/double-dread-ufos-and-nuclear-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-title">Bulletin of the Atomic Scientists Double dread: UFOs and nuclear war</span><span class="citation-popover-snippet">fears—nuclear war and alien invasion—should be linked. While military sightings of unidentified aircraft are getting more attention of la...</span></span></span>
+Because the risk of nuclear conflict was real, believers could view UFO warnings as credible interpretations of world events rather than purely supernatural predictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thebulletin.org/2019/06/double-dread-ufos-and-nuclear-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebulletin.org">[Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebulletin.org</span><span class="citation-popover-title">Bulletin of the Atomic Scientists Double dread: UFOs and nuclear war</span><span class="citation-popover-snippet">fears—nuclear war and alien invasion—should be linked. While military sightings of unidentified aircraft are getting more attention of la...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vvFV1v8l-PI" title="The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer">The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vvFV1v8l-PI">Open on YouTube</a></p></div></div></div>
@@ -313,11 +313,11 @@ Because the risk of nuclear conflict was real, believers could view UFO warnings
 
 Nuclear-themed UFO prophecies often promised more than warnings. They also offered survival. Followers were told that extraterrestrials would intervene, rescue selected individuals, guide humanity through a planetary crisis or transport believers away from danger.
 
-The classic example is [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s Seekers movement. Although remembered primarily for its flood prophecy, the group's broader belief system included extraterrestrial guardians who were said to be increasingly active because of humanity's nuclear weapons testing. Members believed advanced beings were monitoring Earth and preparing to intervene before a global catastrophe. Some followers made significant life changes, including abandoning jobs, relationships and possessions, because they expected rescue by spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The classic example is [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s Seekers movement. Although remembered primarily for its flood prophecy, the group's broader belief system included extraterrestrial guardians who were said to be increasingly active because of humanity's nuclear weapons testing. Members believed advanced beings were monitoring Earth and preparing to intervene before a global catastrophe. Some followers made significant life changes, including abandoning jobs, relationships and possessions, because they expected rescue by spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The nuclear element mattered because it increased the plausibility of urgent action. A prophecy about a distant spiritual transformation might encourage reflection; a prophecy about civilisation-ending war encouraged immediate decisions. In many UFO movements, survival was linked to obedience, spiritual purity or acceptance of special knowledge. This transformed nuclear anxiety into a practical guide for behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
+The nuclear element mattered because it increased the plausibility of urgent action. A prophecy about a distant spiritual transformation might encourage reflection; a prophecy about civilisation-ending war encouraged immediate decisions. In many UFO movements, survival was linked to obedience, spiritual purity or acceptance of special knowledge. This transformed nuclear anxiety into a practical guide for behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
 
-Some movements also embraced what scholars call “avertive apocalypticism”: the belief that disaster was approaching but could still be prevented. Followers might believe that spiritual efforts, public outreach or alignment with extraterrestrial guidance could avert nuclear destruction. This idea helped movements survive [failed predictions]({{ 'failed-predictions/' | relative_url }}) because the absence of catastrophe could be reinterpreted as proof that their actions had succeeded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
+Some movements also embraced what scholars call “avertive apocalypticism”: the belief that disaster was approaching but could still be prevented. Followers might believe that spiritual efforts, public outreach or alignment with extraterrestrial guidance could avert nuclear destruction. This idea helped movements survive [failed predictions]({{ 'failed-predictions/' | relative_url }}) because the absence of catastrophe could be reinterpreted as proof that their actions had succeeded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_nuclear_fear_ufo_end_0044ce-Illustration-2-dark.svg" | relative_url }}" alt="Nuclear Fear illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_nuclear_fear_ufo_end_0044ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_nuclear_fear_ufo_end_0044ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,214 +338,214 @@ A recurring pattern involved three linked claims:
 
 </div>
 
-This structure created a powerful emotional incentive to remain committed. Rejecting the movement could be framed not merely as disagreement but as risking one's future survival. The fear of catastrophe therefore reinforced group authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — The eschatology of such ET religions, in which Cold War fear of nuclear war... &#x27;...</span></span></span>
+This structure created a powerful emotional incentive to remain committed. Rejecting the movement could be framed not merely as disagreement but as risking one's future survival. The fear of catastrophe therefore reinforced group authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — The eschatology of such ET religions, in which Cold War fear of nuclear war... &#x27;...</span></span></span>
 
-As predictions failed, [leaders]({{ 'leaders/' | relative_url }}) and believers often shifted the explanation rather than abandoning the underlying narrative. A predicted war might be postponed. Alien intervention might have secretly prevented disaster. Humanity might have received a temporary reprieve. These reinterpretations preserved both the nuclear threat and the group's special status as interpreters of cosmic events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+As predictions failed, [leaders]({{ 'leaders/' | relative_url }}) and believers often shifted the explanation rather than abandoning the underlying narrative. A predicted war might be postponed. Alien intervention might have secretly prevented disaster. Humanity might have received a temporary reprieve. These reinterpretations preserved both the nuclear threat and the group's special status as interpreters of cosmic events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-The famous post-failure rationalisation associated with the Seekers—that the world's destruction had been prevented through the faithfulness of believers—illustrates how a failed prophecy could become evidence for continued belief. The catastrophe did not occur, yet the warning remained psychologically effective because its non-occurrence was presented as proof of success rather than failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The famous post-failure rationalisation associated with the Seekers—that the world's destruction had been prevented through the faithfulness of believers—illustrates how a failed prophecy could become evidence for continued belief. The catastrophe did not occur, yet the warning remained psychologically effective because its non-occurrence was presented as proof of success rather than failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tbsxZBmGMBA" title="UFOs at Nuclear Sites? | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer">UFOs at Nuclear Sites? | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 201.6K &middot; Uploaded: March 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tbsxZBmGMBA">Open on YouTube</a></p></div></div></div>
 
 ## From Cold War Anxiety to Continuing UFO Narratives
 
-Although the Cold War ended, nuclear themes never disappeared from UFO culture. Stories about UFOs monitoring missile silos, interfering with nuclear weapons systems or warning military personnel about atomic dangers have remained common. These accounts generally shift from explicit doomsday deadlines to broader narratives in which extraterrestrials act as guardians concerned about humanity's technological power. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
+Although the Cold War ended, nuclear themes never disappeared from UFO culture. Stories about UFOs monitoring missile silos, interfering with nuclear weapons systems or warning military personnel about atomic dangers have remained common. These accounts generally shift from explicit doomsday deadlines to broader narratives in which extraterrestrials act as guardians concerned about humanity's technological power.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Bulletin of the Atomic Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sites</span></span></span>
 
-The persistence of these themes highlights an important point about failed UFO prophecies. The specific predictions often fail, but the underlying fear that gives them emotional power can endure for decades. Nuclear anxiety supplied UFO end-times movements with a ready-made language of global danger, moral urgency and possible rescue. That combination helped generate some of the most influential and memorable failed predictions in UFO history, even as the promised catastrophes repeatedly failed to arrive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — The eschatology of such ET religions, in which Cold War fear of nuclear war... &#x27;...</span></span></span>
+The persistence of these themes highlights an important point about failed UFO prophecies. The specific predictions often fail, but the underlying fear that gives them emotional power can endure for decades. Nuclear anxiety supplied UFO end-times movements with a ready-made language of global danger, moral urgency and possible rescue. That combination helped generate some of the most influential and memorable failed predictions in UFO history, even as the promised catastrophes repeatedly failed to arrive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — The eschatology of such ET religions, in which Cold War fear of nuclear war... &#x27;...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eh_LMjd_dZA" title="George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer">George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eh_LMjd_dZA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Nuclear Fear Fueled UFO End Times. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Nuclear Fear Fueled UFO End Times. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides cultural and historical context for the UFO movement that shaped later prophetic claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cultural and historical context for the UFO movement that shaped later prophetic claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores UFO belief systems, meaning-making, and modern spiritual narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores UFO belief systems, meaning-making, and modern spiritual narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Covers contactee traditions, salvation narratives, and apocalyptic themes linked to UFO beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers contactee traditions, salvation narratives, and apocalyptic themes linked to UFO beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how groups react when dramatic predictions do not come true.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how groups react when dramatic predictions do not come true.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art" data-ebay-reference="nuclear-fear-7b86d3-how-nuclear-fear-fueled-ufo-end-times-failed-predictions-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ The persistence of these themes highlights an important point about failed UFO p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ The persistence of these themes highlights an important point about failed UFO p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ The persistence of these themes highlights an important point about failed UFO p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ The persistence of these themes highlights an important point about failed UFO p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ The persistence of these themes highlights an important point about failed UFO p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,108 +751,108 @@ The persistence of these themes highlights an important point about failed UFO p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — The eschatology of such ET religions, in which Cold War fear of nuclear war... &#x27;...</p></details>
+   Link:<a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — The eschatology of such ET religions, in which Cold War fear of nuclear war... &#x27;...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/2395018/[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2395018/[Apocalypse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Apocalypse in Early UFO and Alien-Based ReligionsUFO and alien-based religions crystallized as contemporary Western spiritu...</p></details>
+   Link:<a href="https://www.academia.edu/2395018/[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2395018/[Apocalypse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Apocalypse in Early UFO and Alien-Based ReligionsUFO and alien-based religions crystallized as contemporary Western spiritu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicAvertive Apocalypticism | The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicAvertive Apocalypticism | The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Instead of abandoning the prophecy when no flood or flying saucer materialized, several of Martin&#x27;s follo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Instead of abandoning the prophecy when no flood or flying saucer materialized, several of Martin&#x27;s follo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Television broadcast interruptionThe name &quot;[Ashtar](&amp;#123;&amp;#123; &#x27;ashtar/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; and the idea of an &quot;[Ashtar Command](&amp;#123;&amp;#123; &#x27;ashtar-command/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; had been associated with...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Television broadcast interruptionThe name &quot;[Ashtar](&amp;#123;&amp;#123; &#x27;ashtar/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; and the idea of an &quot;[Ashtar Command](&amp;#123;&amp;#123; &#x27;ashtar-command/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; had been associated with...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thebulletin.org  
    Title: Bulletin of the Atomic Scientists Double dread: UFOs and nuclear war  
-   Link: <a href="https://thebulletin.org/2019/06/double-dread-ufos-and-nuclear-war/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2019/06/double-dread-ufos-and-nuclear-war/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fears—nuclear war and alien invasion—should be linked. While military sightings of unidentified aircraft are getting more attention of la...</p></details>
+   Link:<a href="https://thebulletin.org/2019/06/double-dread-ufos-and-nuclear-war/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2019/06/double-dread-ufos-and-nuclear-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fears—nuclear war and alien invasion—should be linked. While military sightings of unidentified aircraft are getting more attention of la...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theatlantic.com  
    Title: the christmas the aliens didnt come  
-   Link: <a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — The Christmas the Aliens Didn&#x27;t Come. What a failed doomsday prophecy taught psychologi...</p></details>
+   Link:<a href="https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/health/archive/2015/12/the-christmas-the-aliens-didnt-come/421122/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Christmas the Aliens Didn&#x27;t Come18 Dec 2015 — The Christmas the Aliens Didn&#x27;t Come. What a failed doomsday prophecy taught psychologi...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skepticism of UFOs and Alien EncountersAliens Among us and Fears of the Other. If UFOs were visiting our world, where were these extrater...</p></details>
+   Link:<a href="https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skepticism of UFOs and Alien EncountersAliens Among us and Fears of the Other. If UFOs were visiting our world, where were these extrater...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ojs.zrc-sazu.si  
-   Link: <a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESThe mythologies associated with UFOs are protean and shape-shifting, as are the aliens that have materialized in the extraterr...</p></details>
+   Link:<a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESThe mythologies associated with UFOs are protean and shape-shifting, as are the aliens that have materialized in the extraterr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that...TIL about Dorothy Martin who convinced a small group that aliens had warned...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1tf8jfv/til_about_dorothy_martin_who_convinced_a_small/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL about Dorothy Martin who convinced a small group that...TIL about Dorothy Martin who convinced a small group that aliens had warned...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) UFO Mythologies: Extraterrestrial Cosmology and...2010; Pócs, 2012: 216-219, and Whitmore, 1995; for UFO and alien conspiracy theo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) UFO Mythologies: Extraterrestrial Cosmology and...2010; Pócs, 2012: 216-219, and Whitmore, 1995; for UFO and alien conspiracy theo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: telegraph.co.uk  
    Title: Aliens tried to warn US and Russia they were playing with fire during Cold War  
-   Link: <a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/8029045/Aliens-tried-to-warn-US-and-Russia-they-were-playing-with-fire-during-Cold-War.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/8029045/Aliens-tried-to-warn-US-and-Russia-they-were-playing-with-fire-during-Cold-War.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens &#x27;tried to warn US and Russia they were playing with...28 Sept 2010 — Mr Hastings stated that beings from UFOs had also tinkered w...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/8029045/Aliens-tried-to-warn-US-and-Russia-they-were-playing-with-fire-during-Cold-War.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/8029045/Aliens-tried-to-warn-US-and-Russia-they-were-playing-with-fire-during-Cold-War.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens &#x27;tried to warn US and Russia they were playing with...28 Sept 2010 — Mr Hastings stated that beings from UFOs had also tinkered w...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: templetonworldcharity.org  
    Title: Templeton World Charity Foundation, Inc.Why Do People Cling to False Beliefs?  
-   Link: <a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary resident, was the cult&#x27;s leader who claimed she could communicate with alie...</p></details>
+   Link:<a href="https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video" target="_blank" rel="noopener noreferrer nofollow">https://www.templetonworldcharity.org/blog/why-do-people-cling-false-beliefs-power-us-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Us…Dorothy Martin, who seemingly was an ordinary resident, was the cult&#x27;s leader who claimed she could communicate with alie...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Dorothy Martin's “The Seekers” And The Psychology Behind  
-   Link: <a href="https://www.facebook.com/wmhainsights/posts/dorothy-martins-the-seekers-and-the-psychology-behind-doomsday-propheciesprophec/615688880581042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmhainsights/posts/dorothy-martins-the-seekers-and-the-psychology-behind-doomsday-propheciesprophec/615688880581042/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO religion in Chicago called the Seekers that believed in an imminent apocalypse. The authors took a particular interest in the members...</p></details>
+   Link:<a href="https://www.facebook.com/wmhainsights/posts/dorothy-martins-the-seekers-and-the-psychology-behind-doomsday-propheciesprophec/615688880581042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmhainsights/posts/dorothy-martins-the-seekers-and-the-psychology-behind-doomsday-propheciesprophec/615688880581042/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO religion in Chicago called the Seekers that believed in an imminent apocalypse. The authors took a particular interest in the members...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: andzwa.medium.com  
    Title: [cognitive dissonance](&#123;&#123; 'dissonance/' | relative_url &#125;&#125;) and doomsday cults 785c9403cae5  
-   Link: <a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerThe buzz of excitement as people pondered what aliens look like. What colour sky would wait...</p></details>
+   Link:<a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerThe buzz of excitement as people pondered what aliens look like. What colour sky would wait...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pfrhx2/why_do_aliens_warn_very_little_people_who_were/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pfrhx2/why_do_aliens_warn_very_little_people_who_were/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do aliens warn very little people who were abducted...2nd, why would random nobodies abducted by aliens get warnings about nuclear w...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pfrhx2/why_do_aliens_warn_very_little_people_who_were/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pfrhx2/why_do_aliens_warn_very_little_people_who_were/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do aliens warn very little people who were abducted...2nd, why would random nobodies abducted by aliens get warnings about nuclear w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/23195740" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/23195740</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The alleged encounter was conspicuous by its...Read more...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/23195740" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/23195740</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The alleged encounter was conspicuous by its...Read more...</p></details>

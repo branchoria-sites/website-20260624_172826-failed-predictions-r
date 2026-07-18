@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery
 
 ## Introduction
 
-When a predicted UFO rescue, alien landing, or divine appearance fails to occur, disappointment is only part of the [aftermath]({{ 'aftermath/' | relative_url }}). Public mockery often becomes a second event layered on top of the failed prophecy itself. In highly publicised UFO movements, believers do not merely confront an unmet prediction; they face journalists, [neighbours]({{ 'neighbours/' | relative_url }}), comedians, sceptics, and sometimes hostile crowds asking what went wrong. The result is that the social consequences of ridicule can become as important as the failed prediction. Research on famous UFO prophecy movements suggests that mockery can push some followers to leave, encourage others to reinterpret events, and leave behind a public memory that is far simpler than the complicated reality experienced by participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia802802.us.archive.org">[ia802802.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia802802.us.archive.org</span><span class="citation-popover-title">Festinger Riecken Schachter When Prophecy Fails 1956</span><span class="citation-popover-snippet">Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</span></span></span>
+When a predicted UFO rescue, alien landing, or divine appearance fails to occur, disappointment is only part of the [aftermath]({{ 'aftermath/' | relative_url }}). Public mockery often becomes a second event layered on top of the failed prophecy itself. In highly publicised UFO movements, believers do not merely confront an unmet prediction; they face journalists, [neighbours]({{ 'neighbours/' | relative_url }}), comedians, sceptics, and sometimes hostile crowds asking what went wrong. The result is that the social consequences of ridicule can become as important as the failed prediction. Research on famous UFO prophecy movements suggests that mockery can push some followers to leave, encourage others to reinterpret events, and leave behind a public memory that is far simpler than the complicated reality experienced by participants.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia802802.us.archive.org">[ia802802.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia802802.us.archive.org</span><span class="citation-popover-title">Festinger Riecken Schachter When Prophecy Fails 1956</span><span class="citation-popover-snippet">Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be-Illustration-1-dark.svg" | relative_url }}" alt="Mockery illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Wikipedia
@@ -291,7 +291,7 @@ The history of failed UFO prophecies is therefore not only about belief and disa
 
 A private prediction can fail quietly. A public prediction creates witnesses.
 
-One of the most influential examples is the 1954 flying-saucer group around [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), later analysed in When Prophecy Fails. Members expected rescue by extraterrestrial craft before a catastrophic flood. When the prediction failed, participants faced not only personal disappointment but also increasing [ridicule]({{ 'ridicule/' | relative_url }}) from outsiders. Contemporary accounts describe growing public mockery directed at the group and its leaders after the expected events did not occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia802802.us.archive.org">[ia802802.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia802802.us.archive.org</span><span class="citation-popover-title">Festinger Riecken Schachter When Prophecy Fails 1956</span><span class="citation-popover-snippet">Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</span></span></span>
+One of the most influential examples is the 1954 flying-saucer group around [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}), later analysed in When Prophecy Fails. Members expected rescue by extraterrestrial craft before a catastrophic flood. When the prediction failed, participants faced not only personal disappointment but also increasing [ridicule]({{ 'ridicule/' | relative_url }}) from outsiders. Contemporary accounts describe growing public mockery directed at the group and its leaders after the expected events did not occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia802802.us.archive.org">[ia802802.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia802802.us.archive.org</span><span class="citation-popover-title">Festinger Riecken Schachter When Prophecy Fails 1956</span><span class="citation-popover-snippet">Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</span></span></span>
 
 This matters because failed UFO prophecies often require unusually visible commitments. Followers may relocate, quit jobs, spend money, publicly defend extraordinary claims, or distance themselves from sceptical relatives. When the prediction fails, these actions become evidence that can be used against them in public conversation. The embarrassment is not simply intellectual; it is social.
 
@@ -328,9 +328,9 @@ The important point is that ridicule becomes part of the event. The prophecy is 
 
 The Taiwanese UFO-oriented movement Chen Tao, also known as God's Salvation Church, demonstrates how media exposure magnifies the effects of failed prophecy.
 
-Leader Hon-Ming Chen announced that God would appear on television and later manifest physically in [Garland]({{ 'garland/' | relative_url }}), Texas, in March 1998. The predictions attracted international media attention, with frequent press conferences and extensive coverage before the deadline. Researchers have described the movement as unusually media-oriented, partly because the prophecy itself involved a television appearance and was therefore inherently newsworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
+Leader Hon-Ming Chen announced that God would appear on television and later manifest physically in [Garland]({{ 'garland/' | relative_url }}), Texas, in March 1998. The predictions attracted international media attention, with frequent press conferences and extensive coverage before the deadline. Researchers have described the movement as unusually media-oriented, partly because the prophecy itself involved a television appearance and was therefore inherently newsworthy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-title">chen cook</span><span class="citation-popover-snippet">Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</span></span></span>
 
-When the predicted events failed to occur, media interest rapidly evaporated. Yet the public image created during the countdown remained. Scholars examining the case have noted that the movement became widely associated with failure and sensationalism despite the more complex reality of how members responded internally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
+When the predicted events failed to occur, media interest rapidly evaporated. Yet the public image created during the countdown remained. Scholars examining the case have noted that the movement became widely associated with failure and sensationalism despite the more complex reality of how members responded internally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
 ## JSTOR
 
 This illustrates a recurring pattern in failed UFO prophecies:
@@ -354,7 +354,7 @@ Public memory is rarely as detailed as the events themselves.
 
 After a failed UFO prophecy, journalists, comedians, and sceptical commentators frequently reduce a complicated sequence of beliefs, revisions, and personal experiences into a single punchline: "they predicted aliens would come, and nothing happened." This simplification is attractive because it is easy to understand and easy to repeat.
 
-Yet the historical record is usually messier. Some believers leave. Some reinterpret the prophecy spiritually. Some maintain parts of the worldview while abandoning specific predictions. Others continue practising their religion with little public attention. Chen Tao, for example, did not simply vanish overnight after March 1998; members continued religious activities even as media interest declined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
+Yet the historical record is usually messier. Some believers leave. Some reinterpret the prophecy spiritually. Some maintain parts of the worldview while abandoning specific predictions. Others continue practising their religion with little public attention. Chen Tao, for example, did not simply vanish overnight after March 1998; members continued religious activities even as media interest declined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</span></span></span>
 
 The public, however, often remembers only the failed deadline. In this way, ridicule acts as a filter on collective memory. Nuanced developments disappear, while the joke survives.
 
@@ -365,201 +365,201 @@ The public, however, often remembers only the failed deadline. In this way, ridi
 
 Mockery is sometimes treated as a harmless after-effect of a failed prediction, but it can actively shape what happens next. It influences whether believers stay or leave, how leaders explain failure, how journalists frame the story, and how future generations remember the event. The aftermath of a failed UFO prophecy is therefore not determined solely by the absence of a UFO. It is also shaped by the reactions of the audience watching from outside.
 
-In many famous cases, the prediction failed only once. The ridicule, however, lasted much longer. Public jokes, media shorthand, and cultural stereotypes often became the most enduring legacy, overshadowing the more complicated human story of how believers coped with disappointment, social pressure, and the need to rebuild meaning after a highly visible failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia802802.us.archive.org">[ia802802.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia802802.us.archive.org</span><span class="citation-popover-title">Festinger Riecken Schachter When Prophecy Fails 1956</span><span class="citation-popover-snippet">Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</span></span></span>
+In many famous cases, the prediction failed only once. The ridicule, however, lasted much longer. Public jokes, media shorthand, and cultural stereotypes often became the most enduring legacy, overshadowing the more complicated human story of how believers coped with disappointment, social pressure, and the need to rebuild meaning after a highly visible failure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia802802.us.archive.org">[ia802802.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia802802.us.archive.org</span><span class="citation-popover-title">Festinger Riecken Schachter When Prophecy Fails 1956</span><span class="citation-popover-snippet">Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</span></span></span>
 Wikipedia
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be-Illustration-3-dark.svg" | relative_url }}" alt="Mockery illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_mockery_after_failed_f796be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Public Ridicule Does After No UFO Arrives. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Public Ridicule Does After No UFO Arrives. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly relevant to reactions after disappointment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to reactions after disappointment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains self-justification after public embarrassment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-justification after public embarrassment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Thaler Singer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
+</h4>
+<p class="fr-book-author">By Margaret Thaler Singer</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="mockery-what-public-ridicule-does-after-no-ufo-arrives-failed-predictions-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ Wikipedia
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ Wikipedia
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ Wikipedia
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ Wikipedia
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ Wikipedia
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,111 +765,111 @@ Wikipedia
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ia802802.us.archive.org  
    Title: Festinger Riecken Schachter When Prophecy Fails 1956  
-   Link: <a href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</p></details>
+   Link:<a href="https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802802.us.archive.org/4/items/pdfy-eDNpDzTy_dR1b0iB/Festinger-Riecken-Schachter-When-Prophecy-Fails-1956.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Armstrong and. Mrs. Keech were... December 16 following the public lecture to the flying saucer club; and...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNBGod&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — In March of 1998 God&#x27;s Salvation Church, also kno...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bps.org.uk  
    Title: when when prophecy fails fails  
-   Link: <a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/when-when-prophecy-fails-fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When &#x27;when prophecy fails&#x27; fails | BPS10 Mar 2026 — According to the researchers, the cult responded to the failure of their prophecy by...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cesnur.org  
    Title: chen cook  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasChen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25 th of March, 1998, a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Szu-kuan Lo after the “failed” March 25, 1998 prophetic press conference (Anthony 1998a). Yet even in the form of...Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Szu-kuan Lo after the “failed” March 25, 1998 prophetic press conference (Anthony 1998a). Yet even in the form of...Read more...</p></details>
    Published: March 25, 1998  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (UFO religion)Members later moved to Texas in 1997, where they became notorious for a highly publicized failed millennial pro...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao (UFO religion)Members later moved to Texas in 1997, where they became notorious for a highly publicized failed millennial pro...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2009.12.4.72</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perhaps this was the sign of...Read m...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2009.12.4.72" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2009.12.4.72</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perhaps this was the sign of...Read m...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>coverage again in December when it announced...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/HowProphecyLives/How%20Prophecy%20Lives_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>coverage again in December when it announced...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-lede/is-cognitive-dissonance-actually-a-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The theory posits that people experience psychological discomfort when confronted with contradictions between their beliefs and behaviors...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger/dp/1578988527?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger/dp/1578988527?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on, examining how members coped when their prophecy failed to materialise.Read more...</p></details>
+   Link:<a href="https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger/dp/1578988527?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/When-Prophecy-Fails-Leon-Festinger/dp/1578988527?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on, examining how members coped when their prophecy failed to materialise.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: andzwa.medium.com  
    Title: cognitive dissonance and doomsday cults 785c9403cae5  
-   Link: <a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive dissonance based on his experience called When Prophecy Fails.... They just wanted a ride on a UFO as the rest of humanity dro...</p></details>
+   Link:<a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive dissonance based on his experience called When Prophecy Fails.... They just wanted a ride on a UFO as the rest of humanity dro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: a foundational 1956 study of cognitive dissonance  
-   Link: <a href="https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist Leon Festinger coined the term after infiltrating a 1954 UFO cult whose members became more devoted when their prophecy fail...</p></details>
+   Link:<a href="https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/1ppr9dm/a_foundational_1956_study_of_cognitive_dissonance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist Leon Festinger coined the term after infiltrating a 1954 UFO cult whose members became more devoted when their prophecy fail...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t-prophecy failure. Youths mocked the group publicly, and...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t-prophecy failure. Youths mocked the group publicly, and...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jonestown.sdsu.edu  
    Title: How the Millennium Comes Violently From  
-   Link: <a href="https://jonestown.sdsu.edu/wp-content/uploads/2021/10/How_the_Millennium_Comes_Violently_From.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jonestown.sdsu.edu/wp-content/uploads/2021/10/How_the_Millennium_Comes_Violently_From.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Millennium Comes Violentlytana Freemen, or the failed prophecy in 1998 of the Chen Tao community, we must examine the same combinatio...</p></details>
+   Link:<a href="https://jonestown.sdsu.edu/wp-content/uploads/2021/10/How_the_Millennium_Comes_Violently_From.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jonestown.sdsu.edu/wp-content/uploads/2021/10/How_the_Millennium_Comes_Violently_From.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Millennium Comes Violentlytana Freemen, or the failed prophecy in 1998 of the Chen Tao community, we must examine the same combinatio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theory-practice.sydney.edu.au  
    Title: leon festinger when prophecy fails 1956  
-   Link: <a href="https://theory-practice.sydney.edu.au/2016/08/leon-festinger-when-prophecy-fails-1956/" target="_blank" rel="noopener noreferrer nofollow">https://theory-practice.sydney.edu.au/2016/08/leon-festinger-when-prophecy-fails-1956/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ridicule of outsiders, these combine to strengthen the commitment... mockery of social media types to dislodge it. Indeed the mockery...</p></details>
+   Link:<a href="https://theory-practice.sydney.edu.au/2016/08/leon-festinger-when-prophecy-fails-1956/" target="_blank" rel="noopener noreferrer nofollow">https://theory-practice.sydney.edu.au/2016/08/leon-festinger-when-prophecy-fails-1956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ridicule of outsiders, these combine to strengthen the commitment... mockery of social media types to dislodge it. Indeed the mockery...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: He argued that, when people encounter  
-   Link: <a href="https://www.facebook.com/newyorker/posts/in-the-1950s-the-psychologist-leon-festinger-began-developing-the-now-ubiquitous/1267732078560646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newyorker/posts/in-the-1950s-the-psychologist-leon-festinger-began-developing-the-now-ubiquitous/1267732078560646/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1950s, the psychologist Leon Festinger began...In the 1950s, the psychologist Leon Festinger began developing the now ubiquitous...</p></details>
+   Link:<a href="https://www.facebook.com/newyorker/posts/in-the-1950s-the-psychologist-leon-festinger-began-developing-the-now-ubiquitous/1267732078560646/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newyorker/posts/in-the-1950s-the-psychologist-leon-festinger-began-developing-the-now-ubiquitous/1267732078560646/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1950s, the psychologist Leon Festinger began...In the 1950s, the psychologist Leon Festinger began developing the now ubiquitous...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaLeon Festinger - Cognitive Dissonance, Social Psychology...4 May 2026 — The believers shunned publicity while the...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaLeon Festinger - Cognitive Dissonance, Social Psychology...4 May 2026 — The believers shunned publicity while the...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Prophecy Failed. But the Movement Grew Anyway  
-   Link: <a href="https://www.youtube.com/watch?v=Q_qJ5zfVjM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_qJ5zfVjM4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot; cognitive dissonance failed prediction 10 Doomsday Cults That Got It Wrong | When Prophecy Fails MythVision Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q_qJ5zfVjM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_qJ5zfVjM4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot; cognitive dissonance failed prediction 10 Doomsday Cults That Got It Wrong | When Prophecy Fails MythVision Podcast...</p></details>

@@ -280,38 +280,38 @@ image: /assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_gar
 
 ## Introduction
 
-Chen Tao’s choice of [Garland]({{ 'garland/' | relative_url }}), Texas was not accidental. For leader Hon-Ming Chen, Garland was transformed from an ordinary Dallas suburb into a prophetic location through a combination of linguistic symbolism, revealed geography and public verifiability. In the movement’s teachings, Garland was presented as “God’s Land”, a place with cosmic significance where a predicted divine appearance would occur. By attaching a supernatural claim to a specific suburban address, Chen created a prophecy that could be openly tested by followers, [neighbours]({{ 'neighbours/' | relative_url }}) and journalists alike. When the prediction failed in March 1998, Garland became one of the clearest examples in UFO-related prophetic history of how a symbolic idea was converted into a publicly falsifiable claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
+Chen Tao’s choice of [Garland]({{ 'garland/' | relative_url }}), Texas was not accidental. For leader Hon-Ming Chen, Garland was transformed from an ordinary Dallas suburb into a prophetic location through a combination of linguistic symbolism, revealed geography and public verifiability. In the movement’s teachings, Garland was presented as “God’s Land”, a place with cosmic significance where a predicted divine appearance would occur. By attaching a supernatural claim to a specific suburban address, Chen created a prophecy that could be openly tested by followers, [neighbours]({{ 'neighbours/' | relative_url }}) and journalists alike. When the prediction failed in March 1998, Garland became one of the clearest examples in UFO-related prophetic history of how a symbolic idea was converted into a publicly falsifiable claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-1-dark.svg" | relative_url }}" alt="God s Land illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Taiwan-to-Texas Move
 
-Before arriving in Texas, Chen Tao had developed in Taiwan as a syncretic movement combining elements of Buddhism, Christianity, Taoist ideas, UFO beliefs and Chen’s own revelations. During the mid-1990s, Chen increasingly taught that North America would play a special role in humanity’s salvation from an approaching catastrophe. The group first relocated to California and then shifted many of its members to Garland in 1997. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
+Before arriving in Texas, Chen Tao had developed in Taiwan as a syncretic movement combining elements of Buddhism, Christianity, Taoist ideas, UFO beliefs and Chen’s own revelations. During the mid-1990s, Chen increasingly taught that North America would play a special role in humanity’s salvation from an approaching catastrophe. The group first relocated to California and then shifted many of its members to Garland in 1997.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chen Tao (UFO religion</span><span class="citation-popover-snippet">Chen Tao (UFO religion</span></span></span>
 
-Chen presented the move as obedience to divine revelation rather than a practical migration decision. Contemporary accounts report that he taught that the Dallas area had been designated as a location connected to God’s plan for humanity. Garland therefore functioned not merely as a place to live but as a destination chosen because it supposedly occupied a special position in sacred history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
+Chen presented the move as obedience to divine revelation rather than a practical migration decision. Contemporary accounts report that he taught that the Dallas area had been designated as a location connected to God’s plan for humanity. Garland therefore functioned not merely as a place to live but as a destination chosen because it supposedly occupied a special position in sacred history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
 
-This distinction matters because Chen did not select a recognised pilgrimage site, a famous religious centre or a location associated with UFO sightings. Instead, he assigned meaning to an otherwise ordinary American suburb through prophetic interpretation. That process turned a local place into a stage for a global prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...Chen Tao is a Buddhist-Christian new religious movement from Taiw...</span></span></span>
+This distinction matters because Chen did not select a recognised pilgrimage site, a famous religious centre or a location associated with UFO sightings. Instead, he assigned meaning to an otherwise ordinary American suburb through prophetic interpretation. That process turned a local place into a stage for a global prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reporters in God-land, Texas: The Role of the Mass Media...Chen Tao is a Buddhist-Christian new religious movement from Taiw...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8nGLzE-vA18" title="God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer">God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8nGLzE-vA18">Open on YouTube</a></p></div></div></div>
 
 ## Garland as Symbolic Wordplay
 
-The most frequently cited reason for choosing Garland was Chen’s claim that the city’s name sounded like “God-Land” or “God’s Land”. He repeated this explanation in public statements and correspondence, presenting the similarity in sound as evidence that the location possessed divine significance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
+The most frequently cited reason for choosing Garland was Chen’s claim that the city’s name sounded like “God-Land” or “God’s Land”. He repeated this explanation in public statements and correspondence, presenting the similarity in sound as evidence that the location possessed divine significance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
 
-The wordplay was more than a memorable slogan. Within Chen Tao’s worldview, names could reveal hidden spiritual truths. By interpreting “Garland” as “God’s Land”, Chen provided followers with an apparently simple explanation for why a suburban Texas city should become the centre of a cosmic drama. The linguistic connection helped bridge the gap between an extraordinary prophecy and a mundane geographical location. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
+The wordplay was more than a memorable slogan. Within Chen Tao’s worldview, names could reveal hidden spiritual truths. By interpreting “Garland” as “God’s Land”, Chen provided followers with an apparently simple explanation for why a suburban Texas city should become the centre of a cosmic drama. The linguistic connection helped bridge the gap between an extraordinary prophecy and a mundane geographical location.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
 
-Chen went even further. Researchers studying the movement noted that he taught Garland was the location where humans had originally been created millions of years ago. In this narrative, the city was not only the place of a future divine appearance but also a location tied to humanity’s distant beginnings. That interpretation reinforced the idea that history was coming full circle, making Garland the setting for both creation and final revelation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
+Chen went even further. Researchers studying the movement noted that he taught Garland was the location where humans had originally been created millions of years ago. In this narrative, the city was not only the place of a future divine appearance but also a location tied to humanity’s distant beginnings. That interpretation reinforced the idea that history was coming full circle, making Garland the setting for both creation and final revelation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-2-dark.svg" | relative_url }}" alt="God s Land illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How One Address Made the Claim Checkable
 
-The most important mechanism behind Garland’s selection was not merely symbolism but specificity. Chen did not leave the prophecy vague. He purchased a house at 3513 [Ridgedale]({{ 'ridgedale/' | relative_url }}) Drive and later identified that address as the exact site where God would physically appear. Most of the movement’s members subsequently bought homes nearby, concentrating the community around the prophetic centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
+The most important mechanism behind Garland’s selection was not merely symbolism but specificity. Chen did not leave the prophecy vague. He purchased a house at 3513 [Ridgedale]({{ 'ridgedale/' | relative_url }}) Drive and later identified that address as the exact site where God would physically appear. Most of the movement’s members subsequently bought homes nearby, concentrating the community around the prophetic centre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
 
-This decision changed the nature of the prediction. Many UFO and apocalyptic prophecies rely on broad claims that can be reinterpreted after the fact. Chen instead fixed the prophecy to a place, a date and a visible event. Journalists, police, neighbours and curious observers all knew where to go and when to watch. The prediction could not easily be spiritualised or relocated if it failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</span></span></span>
+This decision changed the nature of the prediction. Many UFO and apocalyptic prophecies rely on broad claims that can be reinterpreted after the fact. Chen instead fixed the prophecy to a place, a date and a visible event. Journalists, police, neighbours and curious observers all knew where to go and when to watch. The prediction could not easily be spiritualised or relocated if it failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</span></span></span>
 
-The location also fit Chen Tao’s broader [media]({{ 'media/' | relative_url }}) strategy. Scholars who studied the group noted that Chen actively sought publicity and treated the news media as a vehicle for spreading his message. A suburban neighbourhood in the Dallas metropolitan area was far more accessible to reporters than a remote compound. Garland therefore served both symbolic and practical purposes: it was “God’s Land” in the movement’s theology and a highly visible setting for public prophecy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</span></span></span>
+The location also fit Chen Tao’s broader [media]({{ 'media/' | relative_url }}) strategy. Scholars who studied the group noted that Chen actively sought publicity and treated the news media as a vehicle for spreading his message. A suburban neighbourhood in the Dallas metropolitan area was far more accessible to reporters than a remote compound. Garland therefore served both symbolic and practical purposes: it was “God’s Land” in the movement’s theology and a highly visible setting for public prophecy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KaJ35xn1YU" title="USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer">USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE</a></p><p class="youtube-embed-meta">Channel: AP Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KaJ35xn1YU">Open on YouTube</a></p></div></div></div>
@@ -321,204 +321,204 @@ The location also fit Chen Tao’s broader [media]({{ 'media/' | relative_url }}
 
 ## Why the Choice Matters in the History of Failed UFO Prophecies
 
-Garland became significant because Chen Tao transformed a linguistic association into a real-world test. The city’s importance did not come from any independent religious status or UFO tradition. It came from Chen’s decision to connect a supernatural prediction to a location that outsiders could verify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
+Garland became significant because Chen Tao transformed a linguistic association into a real-world test. The city’s importance did not come from any independent religious status or UFO tradition. It came from Chen’s decision to connect a supernatural prediction to a location that outsiders could verify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
 
-That mechanism helps explain why the Garland episode remains notable among failed UFO-related predictions. The prophecy was anchored to a publicly identifiable place, an exact address and a fixed timetable. When the predicted appearances on television and at the Garland residence failed to occur, the discrepancy was immediately visible to everyone present. The very feature that made Garland attractive as “God’s Land” also made the prophecy unusually vulnerable to disconfirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Watchman Fellowship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</span></span></span>
+That mechanism helps explain why the Garland episode remains notable among failed UFO-related predictions. The prophecy was anchored to a publicly identifiable place, an exact address and a fixed timetable. When the predicted appearances on television and at the Garland residence failed to occur, the discrepancy was immediately visible to everyone present. The very feature that made Garland attractive as “God’s Land” also made the prophecy unusually vulnerable to disconfirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR+2Watchman Fellowship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</span></span></span>
 
-In that sense, Garland’s role was not simply geographical. It was the mechanism through which an abstract prophetic belief became a concrete, testable claim. The city’s symbolic reinterpretation as “God’s Land” provided the rationale, while the specific Texas address supplied the means by which the prophecy could succeed—or fail—in full public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
+In that sense, Garland’s role was not simply geographical. It was the mechanism through which an abstract prophetic belief became a concrete, testable claim. The city’s symbolic reinterpretation as “God’s Land” provided the rationale, while the specific Texas address supplied the means by which the prophecy could succeed—or fail—in full public view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-3-dark.svg" | relative_url }}" alt="God s Land illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97_garland_gods_land_fd4a66-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Garland Became God&#x27;s Land. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Garland Became God&#x27;s Land. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how religious and UFO-related groups react when public predictions fail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how religious and UFO-related groups react when public predictions fail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Thaler Singer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
+</h4>
+<p class="fr-book-author">By Margaret Thaler Singer</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural"><img src="{{ '/assets/images/marketplace-covers/3d733175583c46b8d50a.jpg' | relative_url }}" alt="Listing image for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural"><img src="{{ '/assets/images/marketplace-covers/3d733175583c46b8d50a.jpg' | relative_url }}" alt="Listing image for Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Space Wall Decal - Galaxy Planets 3D Smashed Art Sticker Kids Decor Vinyl Mural</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism"><img src="{{ '/assets/images/marketplace-covers/dc92bd4eb6cee821beab.jpg' | relative_url }}" alt="Listing image for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism"><img src="{{ '/assets/images/marketplace-covers/dc92bd4eb6cee821beab.jpg' | relative_url }}" alt="Listing image for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6d8cd506eb8e87457fb6.jpg' | relative_url }}" alt="Listing image for Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6d8cd506eb8e87457fb6.jpg' | relative_url }}" alt="Listing image for Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rockets Space Of The World Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/9ee10cc73ecd30aa2ef5.jpg' | relative_url }}" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/9ee10cc73ecd30aa2ef5.jpg' | relative_url }}" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: space wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="god-s-land-why-garland-became-god-s-land-failed-predictions-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ In that sense, Garland’s role was not simply geographical. It was the mechanis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ In that sense, Garland’s role was not simply geographical. It was the mechanis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ In that sense, Garland’s role was not simply geographical. It was the mechanis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ In that sense, Garland’s role was not simply geographical. It was the mechanis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ In that sense, Garland’s role was not simply geographical. It was the mechanis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,94 +724,94 @@ In that sense, Garland’s role was not simply geographical. It was the mechanis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</p></details>
+   Link:<a href="https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227664/Chen_Tao_and_the_Mass_Mediation_Of_Prophetic_End_time_Dating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao and the Mass Mediation Of Prophetic End-time...In letters and public pronouncements, Chen has said that Garland (which...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Chen Tao ([UFO religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;))  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...Chen Tao is a Buddhist-Christian new religious movement from Taiw...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reporters in God-land, Texas: The Role of the Mass Media...Chen Tao is a Buddhist-Christian new religious movement from Taiw...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cesnur.org  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</p></details>
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chen Tao in TexasWhen in Garland, Chen Tao&#x27;s leader announced that God the Heavenly Father would appear on television on the 25th o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teacher Chen emphasized the soul&#x27;s cultivation as central...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30227667/_God_s_Descending_in_Clouds_Flying_Saucers_on_Earth_to_Save_People_Mass_Mediation_of_Prophecy_in_a_Taiwanese_Syncretic_Movement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teacher Chen emphasized the soul&#x27;s cultivation as central...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: watchman.org  
-   Link: <a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), assured t...</p></details>
+   Link:<a href="https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/" target="_blank" rel="noopener noreferrer nofollow">https://www.watchman.org/articles/cults-alternative-religions/gods-salvation-church/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watchman FellowshipGod&#x27;s Salvation ChurchTeacher Chen, the prophetic leader of Chen Tao (also known as God&#x27;s Salvation Church), assured t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy and Group Demise: The Case of Chen TaoFailed prophecy may lead to religious demise as Wright and Greil (2011) have shown...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292144959_Failed_Prophecy_and_Group_Demise_The_Case_of_Chen_Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failed Prophecy and Group Demise: The Case of Chen TaoFailed prophecy may lead to religious demise as Wright and Greil (2011) have shown...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: USA: TAIWANESE CULT DISAPPOINTED AT GOD'S FAILURE TO APPEAR ON TV  
-   Link: <a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sPyWo4Ei5vU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sPyWo4Ei5vU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tcsidewalks.blogspot.com  
-   Link: <a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin City SidewalksTexan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — He chose the Dallas suburb of Garland because, to him, it s...</p></details>
+   Link:<a href="https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html" target="_blank" rel="noopener noreferrer nofollow">https://tcsidewalks.blogspot.com/2009/03/texan-cult-of-week-gods-salvation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twin City SidewalksTexan Cult of the Week: God&#x27;s Salvation Church3 Mar 2009 — He chose the Dallas suburb of Garland because, to him, it s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: caymancompass.com  
    Title: waiting for god in garland texas  
-   Link: <a href="https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Waiting for God in Garland, Texas26 Mar 1998 — The good news, according to Chen, is that God will land in Garland on March 31 to prepare...</p></details>
+   Link:<a href="https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/1998/03/26/waiting-for-god-in-garland-texas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Waiting for God in Garland, Texas26 Mar 1998 — The good news, according to Chen, is that God will land in Garland on March 31 to prepare...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.45" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.45</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting God in Garland: A Model of Religious Tolerance1by LD Kliever · 1999 · Cited by 11 — The questions were hostile and incredulous, b...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.45" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.45</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting God in Garland: A Model of Religious Tolerance1by LD Kliever · 1999 · Cited by 11 — The questions were hostile and incredulous, b...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: USA: GARLAND: TAIWANESE CULT GROUP PRESS CONFERENCE  
-   Link: <a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_KaJ35xn1YU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KaJ35xn1YU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USA: TAIWANESE CULT DISAPPOINTED AT GOD&#x27;S FAILURE TO APPEAR ON TV...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — Chen Tao, held the attention of the international me...</p></details>
+   Link:<a href="https://d-nb.info/1115332651/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1115332651/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>God&#x27;s Salvation Church: Past, Present and Futureby CH Prather · 1999 · Cited by 10 — Chen Tao, held the attention of the international me...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Chen Tao Became a “Suicide Cult”1by RJ Cook · 2014 — This article examines the process through which Chen Tao was inaccurately portra...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671417" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Chen Tao Became a “Suicide Cult”1by RJ Cook · 2014 — This article examines the process through which Chen Tao was inaccurately portra...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: God's Salvation Church  
-   Link: <a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When “When Prophecy Fails” Fails (E350)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8nGLzE-vA18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When “When Prophecy Fails” Fails (E350)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: When “When Prophecy Fails” Fails (E350)  
-   Link: <a href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhblbZDXfZU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy Fails...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IhblbZDXfZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhblbZDXfZU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy Fails...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: 10 Doomsday Cults That Got It Wrong | When Prophecy Fails  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  

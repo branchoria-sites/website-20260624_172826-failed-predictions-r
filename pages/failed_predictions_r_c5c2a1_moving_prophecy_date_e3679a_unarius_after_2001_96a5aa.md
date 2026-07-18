@@ -280,50 +280,50 @@ image: /assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_un
 
 ## Introduction
 
-Among [UFO religions]({{ 'ufo-religion/' | relative_url }}) that repeatedly revised [failed predictions]({{ 'failed-predictions/' | relative_url }}), Unarius provides one of the clearest examples of how a specific landing prophecy evolved into an open-ended future expectation. By the time the year 2001 arrived, Unarius had spent decades teaching that extraterrestrial “Space Brothers” would eventually land on Earth and inaugurate a new era for humanity. When no public landing occurred, the movement did not abandon the expectation. Instead, it softened the claim by shifting emphasis from a fixed date to a conditional future: the landing would happen when humanity became spiritually prepared. This transition illustrates a classic pattern in failed UFO prophecies, where a missed deadline becomes a reason to reinterpret the conditions of fulfilment rather than a reason to reject the prophecy itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
+Among [UFO religions]({{ 'ufo-religion/' | relative_url }}) that repeatedly revised [failed predictions]({{ 'failed-predictions/' | relative_url }}), Unarius provides one of the clearest examples of how a specific landing prophecy evolved into an open-ended future expectation. By the time the year 2001 arrived, Unarius had spent decades teaching that extraterrestrial “Space Brothers” would eventually land on Earth and inaugurate a new era for humanity. When no public landing occurred, the movement did not abandon the expectation. Instead, it softened the claim by shifting emphasis from a fixed date to a conditional future: the landing would happen when humanity became spiritually prepared. This transition illustrates a classic pattern in failed UFO prophecies, where a missed deadline becomes a reason to reinterpret the conditions of fulfilment rather than a reason to reject the prophecy itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-1-dark.svg" | relative_url }}" alt="Unarius 2001 illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Ruth Norman's Revised Landing Dates
 
-The expectation of a future extraterrestrial arrival had long been central to [Unarius]({{ 'unarius/' | relative_url }}) teaching. During the 1970s, leader Ruth Norman publicly promoted the idea that spacecraft would soon arrive on Earth. One highly publicised prediction anticipated a landing within a year of 1976. When that failed to occur, the expected arrival date was eventually moved forward to 2001. According to accounts by scholars of the movement, this was not treated as a rejection of the underlying message but as a recalibration of timing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
+The expectation of a future extraterrestrial arrival had long been central to [Unarius]({{ 'unarius/' | relative_url }}) teaching. During the 1970s, leader Ruth Norman publicly promoted the idea that spacecraft would soon arrive on Earth. One highly publicised prediction anticipated a landing within a year of 1976. When that failed to occur, the expected arrival date was eventually moved forward to 2001. According to accounts by scholars of the movement, this was not treated as a rejection of the underlying message but as a recalibration of timing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
 
-The year 2001 became increasingly important in Unarius literature and public presentations. Promotional materials, books, videos and ceremonies referred to the coming arrival of a large contingent of Space Brothers who would help usher in an age of peace, scientific advancement and spiritual transformation. Some narratives envisioned thousands of extraterrestrial visitors arriving as representatives of an interplanetary confederation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/9789004435537/BP000030.xml?srsltid=AfmBOooNjo4tGb0jRuLX01PJ3MNy3brnW4hkja-yVEPEcQD_DPGzTfoM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill+2Dangerous Minds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 18 A Retrospective on the Unarius Academy of...22 Feb 2021 — Unarius claimed that in 2001 a large contingent of Space Broth...</span></span></span>
+The year 2001 became increasingly important in Unarius literature and public presentations. Promotional materials, books, videos and ceremonies referred to the coming arrival of a large contingent of Space Brothers who would help usher in an age of peace, scientific advancement and spiritual transformation. Some narratives envisioned thousands of extraterrestrial visitors arriving as representatives of an interplanetary confederation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/9789004435537/BP000030.xml?srsltid=AfmBOooNjo4tGb0jRuLX01PJ3MNy3brnW4hkja-yVEPEcQD_DPGzTfoM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[Brill+2Dangerous Minds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 18 A Retrospective on the Unarius Academy of...22 Feb 2021 — Unarius claimed that in 2001 a large contingent of Space Broth...</span></span></span>
 
-A complication emerged when Ruth Norman died in 1993. Earlier expectations had often implied that she would personally witness or participate in the landing. Her death therefore created an additional prophetic challenge before 2001 had even arrived. Nevertheless, the movement maintained the expectation, with later [leaders]({{ 'leaders/' | relative_url }}) and publications continuing to point toward the millennium-era fulfilment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
+A complication emerged when Ruth Norman died in 1993. Earlier expectations had often implied that she would personally witness or participate in the landing. Her death therefore created an additional prophetic challenge before 2001 had even arrived. Nevertheless, the movement maintained the expectation, with later [leaders]({{ 'leaders/' | relative_url }}) and publications continuing to point toward the millennium-era fulfilment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C0gileo_Y2k" title="They Claimed to Speak With Aliens, and America Watched | Welcome Space Brothers Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C0gileo_Y2k" target="_blank" rel="noopener noreferrer">They Claimed to Speak With Aliens, and America Watched | Welcome Space Brothers Official Trailer</a></p><p class="youtube-embed-meta">Channel: Trailer HQ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C0gileo_Y2k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C0gileo_Y2k">Open on YouTube</a></p></div></div></div>
 
 ## Why 2001 Became a Symbolic Endpoint
 
-The significance of 2001 was never entirely arbitrary. Within Unarius teaching, the end of the twentieth century was associated with the completion of a historical cycle and the beginning of a higher stage of human development. Ruth Norman linked the approaching millennium to a broader transformation of consciousness and civilisation. In this framework, the landing was not merely an isolated event but a visible sign of humanity entering a new era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
+The significance of 2001 was never entirely arbitrary. Within Unarius teaching, the end of the twentieth century was associated with the completion of a historical cycle and the beginning of a higher stage of human development. Ruth Norman linked the approaching millennium to a broader transformation of consciousness and civilisation. In this framework, the landing was not merely an isolated event but a visible sign of humanity entering a new era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
 
-Because the date carried symbolic meaning as well as predictive force, its failure did not necessarily destroy its value within the movement. Scholars examining Unarius have noted that after 2001 passed without a landing, the organisation increasingly treated the date as part of a larger spiritual narrative rather than as a definitive empirical test. The anticipated transformation remained important even though the public manifestation had not occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unarius_Academy_of_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unarius Academy of Science</span><span class="citation-popover-snippet">Unarius Academy of Science</span></span></span>
+Because the date carried symbolic meaning as well as predictive force, its failure did not necessarily destroy its value within the movement. Scholars examining Unarius have noted that after 2001 passed without a landing, the organisation increasingly treated the date as part of a larger spiritual narrative rather than as a definitive empirical test. The anticipated transformation remained important even though the public manifestation had not occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unarius_Academy_of_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unarius Academy of Science</span><span class="citation-popover-snippet">Unarius Academy of Science</span></span></span>
 
-This shift mirrors a common pattern in UFO prophetic movements. A date that originally functioned as a deadline is retrospectively reframed as a milestone, a misunderstood sign, or a stage in an ongoing process. The symbolic meaning survives even when the literal prediction does not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/3712078" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">1 cc)uld find no public record of distress over the second failure. To some</span><span class="citation-popover-snippet">How Prophecy Never Fails: Interpretive Reason in a Flying-...by D Tumminia · 1998 · Cited by 67 — Unarius simply pushed back the da...</span></span></span>
+This shift mirrors a common pattern in UFO prophetic movements. A date that originally functioned as a deadline is retrospectively reframed as a milestone, a misunderstood sign, or a stage in an ongoing process. The symbolic meaning survives even when the literal prediction does not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/3712078" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">1 cc)uld find no public record of distress over the second failure. To some</span><span class="citation-popover-snippet">How Prophecy Never Fails: Interpretive Reason in a Flying-...by D Tumminia · 1998 · Cited by 67 — Unarius simply pushed back the da...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-2-dark.svg" | relative_url }}" alt="Unarius 2001 illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Readiness Language After No Fleet Arrived
 
-The most important change after 2001 was the movement's increasing reliance on readiness language. Rather than insisting that observers had somehow missed the arrival, Unarius representatives commonly argued that humanity had not yet achieved the spiritual development necessary for open extraterrestrial contact. The failure was therefore relocated from the prediction itself to the condition of the world receiving it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
+The most important change after 2001 was the movement's increasing reliance on readiness language. Rather than insisting that observers had somehow missed the arrival, Unarius representatives commonly argued that humanity had not yet achieved the spiritual development necessary for open extraterrestrial contact. The failure was therefore relocated from the prediction itself to the condition of the world receiving it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
 
 This approach allowed several ideas to coexist:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The Space Brothers remained real. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004435537/BP000030.xml?srsltid=AfmBOooNjo4tGb0jRuLX01PJ3MNy3brnW4hkja-yVEPEcQD_DPGzTfoM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[brill.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 18 A Retrospective on the Unarius Academy of...22 Feb 2021 — Unarius claimed that in 2001 a large contingent of Space Broth...</span></span></span>
+* The Space Brothers remained real.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brill.com/display/book/9789004435537/BP000030.xml?srsltid=AfmBOooNjo4tGb0jRuLX01PJ3MNy3brnW4hkja-yVEPEcQD_DPGzTfoM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[brill.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 18 A Retrospective on the Unarius Academy of...22 Feb 2021 — Unarius claimed that in 2001 a large contingent of Space Broth...</span></span></span>
 * The promised landing remained expected.
 * The date had passed.
 * The fulfilment depended on human readiness rather than a fixed timetable.
 
 </div>
 
-By redefining the landing as contingent rather than scheduled, the prophecy became harder to falsify. A future arrival could always be presented as awaiting sufficient spiritual progress among Earth's population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">unarius academy science</span><span class="citation-popover-snippet">Unarius Academy of ScienceDespite the fact that no ships landed in 2001 as predicted, Unarians believe that the landing will take place &quot;...</span></span></span>
+By redefining the landing as contingent rather than scheduled, the prophecy became harder to falsify. A future arrival could always be presented as awaiting sufficient spiritual progress among Earth's population.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">unarius academy science</span><span class="citation-popover-snippet">Unarius Academy of ScienceDespite the fact that no ships landed in 2001 as predicted, Unarians believe that the landing will take place &quot;...</span></span></span>
 
-Reference works describing the movement after 2001 repeatedly note this adjustment. Accounts of Unarius state that, despite the absence of the predicted landing, members continued to believe extraterrestrials would arrive when Earth people were ready. The organisation also continued publishing material about future contact, extraterrestrial guidance and preparation for humanity's eventual integration into a wider cosmic community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2Unarius - Academy of Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">unarius academy science</span><span class="citation-popover-snippet">Unarius Academy of ScienceDespite the fact that no ships landed in 2001 as predicted, Unarians believe that the landing will take place &quot;...</span></span></span>
+Reference works describing the movement after 2001 repeatedly note this adjustment. Accounts of Unarius state that, despite the absence of the predicted landing, members continued to believe extraterrestrials would arrive when Earth people were ready. The organisation also continued publishing material about future contact, extraterrestrial guidance and preparation for humanity's eventual integration into a wider cosmic community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2Unarius - Academy of Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">unarius academy science</span><span class="citation-popover-snippet">Unarius Academy of ScienceDespite the fact that no ships landed in 2001 as predicted, Unarians believe that the landing will take place &quot;...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ve0dqOR4gDU" title="Preparation for the Landing Clip.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ve0dqOR4gDU" target="_blank" rel="noopener noreferrer">Preparation for the Landing Clip.mp4</a></p><p class="youtube-embed-meta">Channel: Unarius Academy of Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ve0dqOR4gDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ve0dqOR4gDU">Open on YouTube</a></p></div></div></div>
@@ -333,204 +333,204 @@ Reference works describing the movement after 2001 repeatedly note this adjustme
 
 ## How Unarius Changed After the Missed Date
 
-The organisational response was notable because Unarius did not [collapse]({{ 'collapse/' | relative_url }}) after 2001. Following the deaths of Ruth Norman and later leader Charles Spiegel, leadership became more collective. At the same time, observers noted a renewed emphasis on the movement's therapeutic and spiritual teachings, especially past-life therapy and personal transformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unarius_Academy_of_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ufopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unarius Academy of Science</span><span class="citation-popover-snippet">Unarius Academy of Science</span></span></span>
+The organisational response was notable because Unarius did not [collapse]({{ 'collapse/' | relative_url }}) after 2001. Following the deaths of Ruth Norman and later leader Charles Spiegel, leadership became more collective. At the same time, observers noted a renewed emphasis on the movement's therapeutic and spiritual teachings, especially past-life therapy and personal transformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unarius_Academy_of_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ufopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unarius Academy of Science</span><span class="citation-popover-snippet">Unarius Academy of Science</span></span></span>
 
-Researchers have argued that this reduced the practical importance of any single prophetic deadline. If spiritual growth and healing became the primary focus, then the landing could remain part of the worldview without requiring immediate [verification]({{ 'verification/' | relative_url }}). The extraterrestrial future stayed alive, but it functioned increasingly as an aspirational horizon rather than a date-specific prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
+Researchers have argued that this reduced the practical importance of any single prophetic deadline. If spiritual growth and healing became the primary focus, then the landing could remain part of the worldview without requiring immediate [verification]({{ 'verification/' | relative_url }}). The extraterrestrial future stayed alive, but it functioned increasingly as an aspirational horizon rather than a date-specific prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2markfoster.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ruth Norman</span><span class="citation-popover-snippet">Ruth Norman</span></span></span>
 
-This is what makes the post-2001 phase of Unarius particularly relevant to the study of failed UFO predictions. The movement did not simply replace one date with another. Instead, it moved toward a more elastic expectation in which extraterrestrial arrival remained certain in principle but indefinite in timing. The landing promise survived because it was transformed from a scheduled event into a readiness-based hope for the future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2Ufopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">unarius academy science</span><span class="citation-popover-snippet">Unarius Academy of ScienceDespite the fact that no ships landed in 2001 as predicted, Unarians believe that the landing will take place &quot;...</span></span></span>
+This is what makes the post-2001 phase of Unarius particularly relevant to the study of failed UFO predictions. The movement did not simply replace one date with another. Instead, it moved toward a more elastic expectation in which extraterrestrial arrival remained certain in principle but indefinite in timing. The landing promise survived because it was transformed from a scheduled event into a readiness-based hope for the future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com+2Ufopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">unarius academy science</span><span class="citation-popover-snippet">Unarius Academy of ScienceDespite the fact that no ships landed in 2001 as predicted, Unarians believe that the landing will take place &quot;...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-3-dark.svg" | relative_url }}" alt="Unarius 2001 illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_moving_prophecy_date_e3679a_unarius_after_2001_96a5aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Unarius Kept the Landing After 2001. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Unarius Kept the Landing After 2001. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Explains how expectations survive missed deadlines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how expectations survive missed deadlines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Directly relevant to groups such as Unarius and similar traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to groups such as Unarius and similar traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Useful for understanding belief persistence after 2001.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding belief persistence after 2001.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Provides historical context for collective belief and failed predictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Provides historical context for collective belief and failed predictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="unarius-2001-how-unarius-kept-the-landing-after-2001-failed-predictions-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ This is what makes the post-2001 phase of Unarius particularly relevant to the s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ This is what makes the post-2001 phase of Unarius particularly relevant to the s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ This is what makes the post-2001 phase of Unarius particularly relevant to the s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ This is what makes the post-2001 phase of Unarius particularly relevant to the s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ This is what makes the post-2001 phase of Unarius particularly relevant to the s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,126 +736,126 @@ This is what makes the post-2001 phase of Unarius particularly relevant to the s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ruth Norman  
-   Link: <a href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ruth_Norman</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ruth_Norman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ruth_Norman</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: encyclopedia.com  
    Title: unarius academy science  
-   Link: <a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unarius Academy of ScienceDespite the fact that no ships landed in 2001 as predicted, Unarians believe that the landing will take place &quot;...</p></details>
+   Link:<a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/unarius-academy-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unarius Academy of ScienceDespite the fact that no ships landed in 2001 as predicted, Unarians believe that the landing will take place &quot;...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jstor.org  
    Title: 1 cc)uld find no public record of distress over the second failure. To some  
-   Link: <a href="https://www.jstor.org/stable/3712078" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/3712078</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Prophecy Never Fails: Interpretive Reason in a Flying-...by D Tumminia · 1998 · Cited by 67 — Unarius simply pushed back the da...</p></details>
+   Link:<a href="https://www.jstor.org/stable/3712078" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/3712078</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Prophecy Never Fails: Interpretive Reason in a Flying-...by D Tumminia · 1998 · Cited by 67 — Unarius simply pushed back the da...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/9789004435537/BP000030.xml?srsltid=AfmBOooNjo4tGb0jRuLX01PJ3MNy3brnW4hkja-yVEPEcQD_DPGzTfoM" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004435537/BP000030.xml?srsltid=AfmBOooNjo4tGb0jRuLX01PJ3MNy3brnW4hkja-yVEPEcQD_DPGzTfoM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 18 A Retrospective on the Unarius Academy of...22 Feb 2021 — Unarius claimed that in 2001 a large contingent of Space Broth...</p></details>
+   Link:<a href="https://brill.com/display/book/9789004435537/BP000030.xml?srsltid=AfmBOooNjo4tGb0jRuLX01PJ3MNy3brnW4hkja-yVEPEcQD_DPGzTfoM" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/9789004435537/BP000030.xml?srsltid=AfmBOooNjo4tGb0jRuLX01PJ3MNy3brnW4hkja-yVEPEcQD_DPGzTfoM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 18 A Retrospective on the Unarius Academy of...22 Feb 2021 — Unarius claimed that in 2001 a large contingent of Space Broth...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Unarius Academy of Science  
-   Link: <a href="https://en.wikipedia.org/wiki/Unarius_Academy_of_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unarius_Academy_of_Science</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unarius_Academy_of_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unarius_Academy_of_Science</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: brill.com  
    Title: B9789004222687 s010  
-   Link: <a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s010.pdf?srsltid=AfmBOooRjILZxuyIuftgcH7WKfnZOt164Ukrrhmv36nbADWYjfRtr1OF" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s010.pdf?srsltid=AfmBOooRjILZxuyIuftgcH7WKfnZOt164Ukrrhmv36nbADWYjfRtr1OF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter eightRuth Norman died several years before the revised landing date of. 2001. Followers kept the Science going, even after a spli...</p></details>
+   Link:<a href="https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s010.pdf?srsltid=AfmBOooRjILZxuyIuftgcH7WKfnZOt164Ukrrhmv36nbADWYjfRtr1OF" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789004222687/B9789004222687-s010.pdf?srsltid=AfmBOooRjILZxuyIuftgcH7WKfnZOt164Ukrrhmv36nbADWYjfRtr1OF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chapter eightRuth Norman died several years before the revised landing date of. 2001. Followers kept the Science going, even after a spli...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unarius.org  
    Title: Academy of Science The Extraterrestrial Phenomenon Preparation for the Landing  
-   Link: <a href="https://unarius.org/additional-reading/" target="_blank" rel="noopener noreferrer nofollow">https://unarius.org/additional-reading/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Extraterrestrial PhenomenonPreparation for the Landing. Ruth Norman and Charles Spaegel. An interstellar starship carrying 1,000 spac...</p></details>
+   Link:<a href="https://unarius.org/additional-reading/" target="_blank" rel="noopener noreferrer nofollow">https://unarius.org/additional-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Extraterrestrial PhenomenonPreparation for the Landing. Ruth Norman and Charles Spaegel. An interstellar starship carrying 1,000 spac...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufopedia.it  
    Title: Unarius Academy of Science  
-   Link: <a href="https://www.ufopedia.it/Unarius_Academy_of_Science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufopedia.it/Unarius_Academy_of_Science.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2001. With 2001 having come and gone, and no space fleet landing having occurred, Unarius as an organization demonstrates both a...</p></details>
+   Link:<a href="https://www.ufopedia.it/Unarius_Academy_of_Science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufopedia.it/Unarius_Academy_of_Science.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2001. With 2001 having come and gone, and no space fleet landing having occurred, Unarius as an organization demonstrates both a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: markfoster.net  
    Title: Understanding the Teachings of Ernest L  
-   Link: <a href="https://www.markfoster.net/dcf/Unarius.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/dcf/Unarius.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Norman10 Jan 2021 — organization has struggled, particularly since 2001, when a space-fleet landing predicted by Charles Spiegel in. 1980...</p></details>
+   Link:<a href="https://www.markfoster.net/dcf/Unarius.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/dcf/Unarius.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Norman10 Jan 2021 — organization has struggled, particularly since 2001, when a space-fleet landing predicted by Charles Spiegel in. 1980...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unarius.org  
    Title: preparation for the landing  
-   Link: <a href="https://unarius.org/product/preparation-for-the-landing/" target="_blank" rel="noopener noreferrer nofollow">https://unarius.org/product/preparation-for-the-landing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UNARIUS Academy of Science, founded in 1954 by cosmic visionaries Ernest L. and Ruth E. Norman, is a nonprofit educational foundation...</p></details>
+   Link:<a href="https://unarius.org/product/preparation-for-the-landing/" target="_blank" rel="noopener noreferrer nofollow">https://unarius.org/product/preparation-for-the-landing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UNARIUS Academy of Science, founded in 1954 by cosmic visionaries Ernest L. and Ruth E. Norman, is a nonprofit educational foundation...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wrldrels.org  
-   Link: <a href="https://wrldrels.org/2025/01/14/unarius/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2025/01/14/unarius/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WRSPby D Tumminia — 2001: The long-awaited millennial prophecy of a spacefleet landing was disconfirmed. Unarius explained that the warli...</p></details>
+   Link:<a href="https://wrldrels.org/2025/01/14/unarius/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2025/01/14/unarius/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WRSPby D Tumminia — 2001: The long-awaited millennial prophecy of a spacefleet landing was disconfirmed. Unarius explained that the warli...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dangerousminds.net  
    Title: the unarius academy of science americas zaniest ufo cult  
-   Link: <a href="https://dangerousminds.net/comments/the_unarius_academy_of_science_americas_zaniest_ufo_cult/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/the_unarius_academy_of_science_americas_zaniest_ufo_cult/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Brothers who would arrive here in 2001. A tin spaceship contained 33 doves who were supposed to spill out into the sky at the...Re...</p></details>
+   Link:<a href="https://dangerousminds.net/comments/the_unarius_academy_of_science_americas_zaniest_ufo_cult/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/the_unarius_academy_of_science_americas_zaniest_ufo_cult/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Brothers who would arrive here in 2001. A tin spaceship contained 33 doves who were supposed to spill out into the sky at the...Re...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unidir.org  
-   Link: <a href="https://unidir.org/files/publication/pdfs/testing-the-waters-en-634.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/files/publication/pdfs/testing-the-waters-en-634.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDIR RESOURCESNo longer limited by a physical tether to a human operator, today increasingly autonomous systems are widely used as unma...</p></details>
+   Link:<a href="https://unidir.org/files/publication/pdfs/testing-the-waters-en-634.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/files/publication/pdfs/testing-the-waters-en-634.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDIR RESOURCESNo longer limited by a physical tether to a human operator, today increasingly autonomous systems are widely used as unma...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: figshare.le.ac.uk  
-   Link: <a href="https://figshare.le.ac.uk/articles/thesis/Failing_School_or_Failing_System_A_complexity-led_exploration_of_organisational_failure_in_the_context_of_an_English/31055902" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/articles/thesis/Failing_School_or_Failing_System_A_complexity-led_exploration_of_organisational_failure_in_the_context_of_an_English/31055902</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>School or Failing System? A complexity-led...by N Spencelayh · 2026 — Failing School or Failing System? A complexity-led exploration of...</p></details>
+   Link:<a href="https://figshare.le.ac.uk/articles/thesis/Failing_School_or_Failing_System_A_complexity-led_exploration_of_organisational_failure_in_the_context_of_an_English/31055902" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/articles/thesis/Failing_School_or_Failing_System_A_complexity-led_exploration_of_organisational_failure_in_the_context_of_an_English/31055902</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>School or Failing System? A complexity-led...by N Spencelayh · 2026 — Failing School or Failing System? A complexity-led exploration of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0jjijd1WScA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jjijd1WScA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cult That Turned Sci-Fi Into FaithThe fascinating and lesser-known history of the Unarius Academy of Science, a spiritual movement th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0jjijd1WScA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0jjijd1WScA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cult That Turned Sci-Fi Into FaithThe fascinating and lesser-known history of the Unarius Academy of Science, a spiritual movement th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: my.rusi.org  
    Title: the semantics of defeat strategic language obscures continuous conflict  
-   Link: <a href="https://my.rusi.org/resource/the-semantics-of-defeat-strategic-language-obscures-continuous-conflict.html" target="_blank" rel="noopener noreferrer nofollow">https://my.rusi.org/resource/the-semantics-of-defeat-strategic-language-obscures-continuous-conflict.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantics of Defeat: Strategic Language Obscures...9 Feb 2026 — At a recent international security conference, a retired British general...</p></details>
+   Link:<a href="https://my.rusi.org/resource/the-semantics-of-defeat-strategic-language-obscures-continuous-conflict.html" target="_blank" rel="noopener noreferrer nofollow">https://my.rusi.org/resource/the-semantics-of-defeat-strategic-language-obscures-continuous-conflict.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantics of Defeat: Strategic Language Obscures...9 Feb 2026 — At a recent international security conference, a retired British general...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: csbaonline.org  
    Title: CSBA8411 (Navy of Necessity Report) Final Web  
-   Link: <a href="https://csbaonline.org/uploads/documents/CSBA8411_%28Navy_of_Necessity_Report%29_Final_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/CSBA8411_%28Navy_of_Necessity_Report%29_Final_Web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A NAVY OF NECESSITY23 Apr 2024 — The Center for Strategic and Budgetary Assessments is an independent, nonpartisan policy research instit...</p></details>
+   Link:<a href="https://csbaonline.org/uploads/documents/CSBA8411_%28Navy_of_Necessity_Report%29_Final_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csbaonline.org/uploads/documents/CSBA8411_%28Navy_of_Necessity_Report%29_Final_Web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A NAVY OF NECESSITY23 Apr 2024 — The Center for Strategic and Budgetary Assessments is an independent, nonpartisan policy research instit...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZa7z29O_gm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZa7z29O_gm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The belief that spaceships will land in Jamul and that she herself is...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZa7z29O_gm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZa7z29O_gm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The belief that spaceships will land in Jamul and that she herself is...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: the state of starfleet circa 2400 how it got  
-   Link: <a href="https://www.reddit.com/r/DaystromInstitute/comments/1r09sre/the_state_of_starfleet_circa_2400_how_it_got/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DaystromInstitute/comments/1r09sre/the_state_of_starfleet_circa_2400_how_it_got/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The State of Starfleet Circa 2400, How it Got There, and...Updated to clean up some factual errors. With the latest series (Starfleet Ac...</p></details>
+   Link:<a href="https://www.reddit.com/r/DaystromInstitute/comments/1r09sre/the_state_of_starfleet_circa_2400_how_it_got/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DaystromInstitute/comments/1r09sre/the_state_of_starfleet_circa_2400_how_it_got/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The State of Starfleet Circa 2400, How it Got There, and...Updated to clean up some factual errors. With the latest series (Starfleet Ac...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ding neared in 2001. However, the spaceships did not show up [31]...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249981760_When_Prophecy_Never_Fails_Myth_and_Reality_in_a_Flying-Saucer_Group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ding neared in 2001. However, the spaceships did not show up [31]...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: jasonpwoodbury.substack.com  
    Title: the space brother within the space  
-   Link: <a href="https://jasonpwoodbury.substack.com/p/the-space-brother-within-the-space" target="_blank" rel="noopener noreferrer nofollow">https://jasonpwoodbury.substack.com/p/the-space-brother-within-the-space</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Brother Within, The Space Brother WithoutAn extraterrestrial-[channeling](&amp;#123;&amp;#123; &#x27;channeling/&#x27; | relative_url &amp;#125;&amp;#125;) spiritual school and self-healing community founded in El C...</p></details>
+   Link:<a href="https://jasonpwoodbury.substack.com/p/the-space-brother-within-the-space" target="_blank" rel="noopener noreferrer nofollow">https://jasonpwoodbury.substack.com/p/the-space-brother-within-the-space</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Brother Within, The Space Brother WithoutAn extraterrestrial-[channeling](&amp;#123;&amp;#123; &#x27;channeling/&#x27; | relative_url &amp;#125;&amp;#125;) spiritual school and self-healing community founded in El C...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: unols.org  
-   Link: <a href="https://www.unols.org/sites/default/files/fltplan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unols.org/sites/default/files/fltplan.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intermediate ships are nearest to their retirement...</p></details>
+   Link:<a href="https://www.unols.org/sites/default/files/fltplan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unols.org/sites/default/files/fltplan.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intermediate ships are nearest to their retirement...</p></details>

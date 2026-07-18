@@ -284,7 +284,7 @@ When a UFO prediction is still in the future, the strongest evidence is not the 
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22-Illustration-1-dark.svg" | relative_url }}" alt="Source Trail illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For claims about predicted landings, mass sightings, government [disclosure]({{ 'disclosure/' | relative_url }}) dates, or other scheduled UFO events, a reliable source trail usually combines archived pages, timestamped screenshots, preserved files, and independent references from people who discussed the prediction before the deadline passed. Modern fact-checking guidance consistently emphasises tracing claims back to their earliest available source and comparing multiple records rather than relying on later summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library How to check facts</span><span class="citation-popover-snippet">House of Commons LibraryHow to check facts - The House of Commons Library5 May 2026 — Fact-checking usually involves following a claim ba...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+For claims about predicted landings, mass sightings, government [disclosure]({{ 'disclosure/' | relative_url }}) dates, or other scheduled UFO events, a reliable source trail usually combines archived pages, timestamped screenshots, preserved files, and independent references from people who discussed the prediction before the deadline passed. Modern fact-checking guidance consistently emphasises tracing claims back to their earliest available source and comparing multiple records rather than relying on later summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library How to check facts</span><span class="citation-popover-snippet">House of Commons LibraryHow to check facts - The House of Commons Library5 May 2026 — Fact-checking usually involves following a claim ba...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 ## What Counts as a Pre-Deadline Record?
 
@@ -307,7 +307,7 @@ The goal is not merely to show that a claim existed. It is to show that the word
 
 For example, if a claimant predicts that extraterrestrial craft will appear over a specific city on a specific day, an archived copy of the original post is stronger than a screenshot shared months later. A screenshot may still be useful, but it gains credibility when it matches archived copies and independent references from the same period.
 
-The Internet Archive's Wayback Machine remains one of the most widely used tools for preserving public web pages and viewing earlier versions of content. Its "Save Page Now" function can also create contemporaneous captures of pages before a prediction's deadline arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.archive.org">[Internet Archive Help Center+2Wayback Machine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.archive.org</span><span class="citation-popover-title">Internet Archive Help Center Using the Wayback Machine This</span><span class="citation-popover-snippet">Internet Archive Help CenterUsing the Wayback MachineThis introduction video provides an overview for how to use the Wayback Machine, inc...</span></span></span>
+The Internet Archive's Wayback Machine remains one of the most widely used tools for preserving public web pages and viewing earlier versions of content. Its "Save Page Now" function can also create contemporaneous captures of pages before a prediction's deadline arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.archive.org">[Internet Archive Help Center+2Wayback Machine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.archive.org</span><span class="citation-popover-title">Internet Archive Help Center Using the Wayback Machine This</span><span class="citation-popover-snippet">Internet Archive Help CenterUsing the Wayback MachineThis introduction video provides an overview for how to use the Wayback Machine, inc...</span></span></span>
 
 ## How Archives and Screenshots Can Still Mislead
 
@@ -318,9 +318,9 @@ Archiving improves [verification]({{ 'verification/' | relative_url }}), but arc
 
 ### Archives Do Not Capture Everything
 
-Many UFO predictions now spread through social [media]({{ 'media/' | relative_url }}) platforms, private groups, newsletters, livestreams, and image-based posts. These formats are often difficult to archive completely. Researchers studying archived social-media content have repeatedly found missing images, redirects, incomplete captures, and replay errors that can alter what later viewers see. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2301.09188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Discovering the Traces of Disinformation on Instagram in the Internet ArchiveJanuary 22, 2023...</span><span class="citation-popover-meta">Published: January 22, 2023</span></span></span>
+Many UFO predictions now spread through social [media]({{ 'media/' | relative_url }}) platforms, private groups, newsletters, livestreams, and image-based posts. These formats are often difficult to archive completely. Researchers studying archived social-media content have repeatedly found missing images, redirects, incomplete captures, and replay errors that can alter what later viewers see.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2301.09188" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Discovering the Traces of Disinformation on Instagram in the Internet ArchiveJanuary 22, 2023...</span><span class="citation-popover-meta">Published: January 22, 2023</span></span></span>
 
-Some platforms have also become harder to archive over time. Reddit, for example, has restricted large portions of its content from being archived by the Wayback Machine, reducing the availability of independent historical captures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge Reddit will block the Internet Archive</span><span class="citation-popover-snippet">The move comes after Reddit discovered AI companies scraping data from archived Reddit pages hosted by the Internet Archive, violating Re...</span></span></span>
+Some platforms have also become harder to archive over time. Reddit, for example, has restricted large portions of its content from being archived by the Wayback Machine, reducing the availability of independent historical captures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge Reddit will block the Internet Archive</span><span class="citation-popover-snippet">The move comes after Reddit discovered AI companies scraping data from archived Reddit pages hosted by the Internet Archive, violating Re...</span></span></span>
 
 This means that the absence of an archived prediction is not necessarily proof that it never existed. Equally, a single archived capture should not automatically be treated as conclusive.
 
@@ -328,7 +328,7 @@ This means that the absence of an archived prediction is not necessarily proof t
 
 Screenshots are often the first evidence shared in UFO communities because they are easy to distribute. Yet screenshots can be cropped, edited, stripped of context, or reposted without metadata.
 
-Recent research on verifying social-media screenshots shows that archived web resources can sometimes help confirm whether a screenshot reflects a real post, but verification requires matching details such as timestamps, usernames, text, and archived versions rather than trusting the image alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
+Recent research on verifying social-media screenshots shows that archived web resources can sometimes help confirm whether a screenshot reflects a real post, but verification requires matching details such as timestamps, usernames, text, and archived versions rather than trusting the image alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Web Archives for Verifying Attribution in Twitter Screenshots</span><span class="citation-popover-snippet">Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</span><span class="citation-popover-meta">Published: October 27, 2025</span></span></span>
 
 A screenshot becomes much more persuasive when:
 
@@ -348,7 +348,7 @@ A screenshot standing entirely on its own is usually weak evidence.
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22-Illustration-2-dark.svg" | relative_url }}" alt="Source Trail illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Archived Pages Can Contain Their Own Errors
 
-Researchers studying web archives have documented situations where archived social-media pages display content imperfectly or reconstruct pages in ways that differ from the original live version. This can create "temporal violations" in which archived displays do not perfectly reflect what users actually saw at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2108.12092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Researchers studying web archives have documented situations where archived social-media pages display content imperfectly or reconstruct pages in ways that differ from the original live version. This can create "temporal violations" in which archived displays do not perfectly reflect what users actually saw at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2108.12092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 For UFO prediction verification, this means archived material should be treated as evidence to compare against other records, not as an infallible historical record.
 
@@ -379,7 +379,7 @@ Independent references help answer several critical questions:
 
 This is especially important because many failed UFO predictions undergo reinterpretation after the fact. A prediction that originally promised a visible public event may later be reframed as a symbolic event, a hidden event, or a spiritual event. Contemporary references preserve what observers understood the prediction to mean before failure became apparent.
 
-General fact-checking guidance similarly stresses tracing claims back to original sources while checking how multiple independent sources described them at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library+2Falmouth University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library How to check facts</span><span class="citation-popover-snippet">House of Commons LibraryHow to check facts - The House of Commons Library5 May 2026 — Fact-checking usually involves following a claim ba...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+General fact-checking guidance similarly stresses tracing claims back to original sources while checking how multiple independent sources described them at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library+2Falmouth University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library How to check facts</span><span class="citation-popover-snippet">House of Commons LibraryHow to check facts - The House of Commons Library5 May 2026 — Fact-checking usually involves following a claim ba...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b8O0i9lQ4Hc" title="Government UFO secrets? Director says disclosure is a &#x27;dead end&#x27; | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b8O0i9lQ4Hc" target="_blank" rel="noopener noreferrer">Government UFO secrets? Director says disclosure is a &#x27;dead end&#x27; | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 100.2K &middot; Uploaded: June 2026</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b8O0i9lQ4Hc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b8O0i9lQ4Hc">Open on YouTube</a></p></div></div></div>
@@ -415,181 +415,181 @@ When the deadline passes, the archived source trail becomes the benchmark agains
 
 A prediction can only be fairly judged if the original claim, date, and expected outcome are preserved in advance. Without that trail, debates often shift from what was predicted to what participants remember being predicted. With it, the discussion becomes much clearer: the archived record shows exactly what was promised, exactly when it was promised, and whether the predicted UFO event occurred.
 
-For failed predictions, that preserved trail is often more important than the prediction itself. It provides the evidence needed to distinguish a genuinely missed forecast from a claim that was quietly rewritten after the fact. House of Commons Library+2Internet Archive Help Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[commonslibrary.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library How to check facts</span><span class="citation-popover-snippet">House of Commons LibraryHow to check facts - The House of Commons Library5 May 2026 — Fact-checking usually involves following a claim ba...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+For failed predictions, that preserved trail is often more important than the prediction itself. It provides the evidence needed to distinguish a genuinely missed forecast from a claim that was quietly rewritten after the fact. House of Commons Library+2Internet Archive Help Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[commonslibrary.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library How to check facts</span><span class="citation-popover-snippet">House of Commons LibraryHow to check facts - The House of Commons Library5 May 2026 — Fact-checking usually involves following a claim ba...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Prove the Prediction Came First?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Prove the Prediction Came First?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes skeptical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes skeptical evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Encourages rigorous checking of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages rigorous checking of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Web+Archiving+Julien+Masan%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Web Archiving on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1018417-M.jpg" alt="Cover for Web Archiving" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Web+Archiving+Julien+Masan%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Archiving">Web Archiving</a>
-        </h4>
-        <p class="fr-book-author">By Julien Masanès</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Web+Archiving+Julien+Masan%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Web Archiving on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1018417-M.jpg" alt="Cover for Web Archiving" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Web+Archiving+Julien+Masan%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Archiving">Web Archiving</a>
+</h4>
+<p class="fr-book-author">By Julien Masanès</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Web archiving, Archives Internet, Internet, Web site development, Web sites, design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Web+Archiving+Julien+Masan%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Web archiving, Archives Internet, Internet, Web site development, Web sites, design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Web+Archiving+Julien+Masan%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
-        </h4>
-        <p class="fr-book-author">By Tim Harford</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10673522-M.jpg" alt="Cover for Data Detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
+</h4>
+<p class="fr-book-author">By Tim Harford</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Web+Archiving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Web Archiving</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Web+Archiving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Web Archiving</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="source-trail-can-you-prove-the-prediction-came-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ For failed predictions, that preserved trail is often more important than the pr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ For failed predictions, that preserved trail is often more important than the pr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ For failed predictions, that preserved trail is often more important than the pr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ For failed predictions, that preserved trail is often more important than the pr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ For failed predictions, that preserved trail is often more important than the pr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,153 +795,153 @@ For failed predictions, that preserved trail is often more important than the pr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: help.archive.org  
    Title: Internet Archive Help Center Using the Wayback Machine This  
-   Link: <a href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/using-the-wayback-machine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive Help CenterUsing the Wayback MachineThis introduction video provides an overview for how to use the Wayback Machine, inc...</p></details>
+   Link:<a href="https://help.archive.org/help/using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://help.archive.org/help/using-the-wayback-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive Help CenterUsing the Wayback MachineThis introduction video provides an overview for how to use the Wayback Machine, inc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: web.archive.org  
-   Link: <a href="https://web.archive.org/" target="_blank" rel="noopener noreferrer nofollow">https://web.archive.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wayback MachineWayback Machine - Internet ArchiveArchive-It enables you to capture, manage and search collections of digital content with...</p></details>
+   Link:<a href="https://web.archive.org/" target="_blank" rel="noopener noreferrer nofollow">https://web.archive.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wayback MachineWayback Machine - Internet ArchiveArchive-It enables you to capture, manage and search collections of digital content with...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2301.09188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.09188</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovering the Traces of Disinformation on Instagram in the Internet ArchiveJanuary 22, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2301.09188" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.09188</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovering the Traces of Disinformation on Instagram in the Internet ArchiveJanuary 22, 2023...</p></details>
    Published: January 22, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2108.12092" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.12092</a>  
+   Link:<a href="https://arxiv.org/abs/2108.12092" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.12092</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Web Archives for Verifying Attribution in Twitter Screenshots  
-   Link: <a href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22939</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2510.22939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.22939</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Web Archives for Verifying Attribution in Twitter ScreenshotsOctober 27, 2025...</p></details>
    Published: October 27, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I do not own the website the page is on. I emailed info@archive.org on Thursday...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/privacy/comments/eut3na/can_i_get_personal_information_removed_from_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I do not own the website the page is on. I emailed info@archive.org on Thursday...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nederlands/comments/1lkig22/hoe_bewijs_je_wat_er_online_stond_als_het_later/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nederlands/comments/1lkig22/hoe_bewijs_je_wat_er_online_stond_als_het_later/?tl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s visible before. And you want to be able to prove what it said...</p></details>
+   Link:<a href="https://www.reddit.com/r/nederlands/comments/1lkig22/hoe_bewijs_je_wat_er_online_stond_als_het_later/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nederlands/comments/1lkig22/hoe_bewijs_je_wat_er_online_stond_als_het_later/?tl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s visible before. And you want to be able to prove what it said...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gaur9a/more_interesting_images_from_the_national_archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gaur9a/more_interesting_images_from_the_national_archive/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More interesting images from the National Archive: r/UFOsUFOs in these pics share designs and shapes of the time they are photographed i...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gaur9a/more_interesting_images_from_the_national_archive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gaur9a/more_interesting_images_from_the_national_archive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More interesting images from the National Archive: r/UFOsUFOs in these pics share designs and shapes of the time they are photographed i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/DataHoarder/comments/hbmoh7/how_to_prove_that_a_specific_page_of_a_site_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DataHoarder/comments/hbmoh7/how_to_prove_that_a_specific_page_of_a_site_was/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e the public behaviors of a certain website owner and possibly to vindicate...</p></details>
+   Link:<a href="https://www.reddit.com/r/DataHoarder/comments/hbmoh7/how_to_prove_that_a_specific_page_of_a_site_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DataHoarder/comments/hbmoh7/how_to_prove_that_a_specific_page_of_a_site_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e the public behaviors of a certain website owner and possibly to vindicate...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/internetarchive/comments/1ehfknc/how_to_use_the_save_screen_shot_feature_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/internetarchive/comments/1ehfknc/how_to_use_the_save_screen_shot_feature_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>x that says &quot;Save screen shot&quot;. I imagined that this checkbox would...</p></details>
+   Link:<a href="https://www.reddit.com/r/internetarchive/comments/1ehfknc/how_to_use_the_save_screen_shot_feature_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/internetarchive/comments/1ehfknc/how_to_use_the_save_screen_shot_feature_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>x that says &quot;Save screen shot&quot;. I imagined that this checkbox would...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/PrettyPastelProof/comments/1dyqzbc/does_anyone_know_how_to_properly_save_to_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PrettyPastelProof/comments/1dyqzbc/does_anyone_know_how_to_properly_save_to_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es entirely save for preservation of Alex&#x27;s stuff.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/PrettyPastelProof/comments/1dyqzbc/does_anyone_know_how_to_properly_save_to_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PrettyPastelProof/comments/1dyqzbc/does_anyone_know_how_to_properly_save_to_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es entirely save for preservation of Alex&#x27;s stuff.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — This page provides a list of moving images and sound recording...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC AD0688332: UFOs AND RELATED...This is believed to be the most comprehensive bibliography published to date on the sub...</p></details>
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC AD0688332: UFOs AND RELATED...This is believed to be the most comprehensive bibliography published to date on the sub...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: commonslibrary.parliament.uk  
    Title: House of Commons Library How to check facts  
-   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10820/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryHow to check facts - The House of Commons Library5 May 2026 — Fact-checking usually involves following a claim ba...</p></details>
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10820/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10820/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryHow to check facts - The House of Commons Library5 May 2026 — Fact-checking usually involves following a claim ba...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theverge.com  
    Title: The Verge Reddit will block the Internet Archive  
-   Link: <a href="https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The move comes after Reddit discovered AI companies scraping data from archived Reddit pages hosted by the Internet Archive, violating Re...</p></details>
+   Link:<a href="https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The move comes after Reddit discovered AI companies scraping data from archived Reddit pages hosted by the Internet Archive, violating Re...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: falmouth.ac.uk  
-   Link: <a href="https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ctics to fact-check stories in the age of fake news. Read more...</p></details>
+   Link:<a href="https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ctics to fact-check stories in the age of fake news. Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Wayback Machine  
-   Link: <a href="https://en.wikipedia.org/wiki/Wayback_Machine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wayback_Machine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wayback MachineThe Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive, an American nonprofit o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Wayback_Machine" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wayback_Machine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wayback MachineThe Wayback Machine is a digital archive of the World Wide Web founded by the Internet Archive, an American nonprofit o...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gijn.org  
-   Link: <a href="https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 More Essential Tips for Using the Wayback MachineClick on “Archive URLs.” Image: Screenshot, Internet Archive. Now you can insert a lin...</p></details>
+   Link:<a href="https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/4-more-essential-tips-for-using-the-wayback-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 More Essential Tips for Using the Wayback MachineClick on “Archive URLs.” Image: Screenshot, Internet Archive. Now you can insert a lin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kit.exposingtheinvisible.org  
-   Link: <a href="https://kit.exposingtheinvisible.org/en/fact-checking.html" target="_blank" rel="noopener noreferrer nofollow">https://kit.exposingtheinvisible.org/en/fact-checking.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing the Invisible KitGet Your Facts Straight: The Basics of Fact-CheckingThe digital revolution has empowered not only the media and...</p></details>
+   Link:<a href="https://kit.exposingtheinvisible.org/en/fact-checking.html" target="_blank" rel="noopener noreferrer nofollow">https://kit.exposingtheinvisible.org/en/fact-checking.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing the Invisible KitGet Your Facts Straight: The Basics of Fact-CheckingThe digital revolution has empowered not only the media and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: savetheproof.com  
-   Link: <a href="https://www.savetheproof.com/en/screenshot-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://www.savetheproof.com/en/screenshot-wayback-machine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshot: SaveTheProof vs. Wayback MachineIf you have needed a screenshot of a website and considered using Wayback Machine, here we ex...</p></details>
+   Link:<a href="https://www.savetheproof.com/en/screenshot-wayback-machine/" target="_blank" rel="noopener noreferrer nofollow">https://www.savetheproof.com/en/screenshot-wayback-machine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshot: SaveTheProof vs. Wayback MachineIf you have needed a screenshot of a website and considered using Wayback Machine, here we ex...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/webarchive/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Web ArchiveLearn about the limitations of archived websites and see legal information about re-using web archive content. F...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/webarchive/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/webarchive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Government Web ArchiveLearn about the limitations of archived websites and see legal information about re-using web archive content. F...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ND2rYqaX7a8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND2rYqaX7a8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use the Wayback Machine in LitigationBest Practice Utilizing Web Archive Data in Legal Cases With the exponential growth of data o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND2rYqaX7a8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND2rYqaX7a8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use the Wayback Machine in LitigationBest Practice Utilizing Web Archive Data in Legal Cases With the exponential growth of data o...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>greatest-ufo t World War, several important UFO sightings that predate this time are found in the Song...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>greatest-ufo t World War, several important UFO sightings that predate this time are found in the Song...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: osint.industries  
-   Link: <a href="https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>data with other sources, such as Google Cache, DNS records, and social media...Read more...</p></details>
+   Link:<a href="https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>data with other sources, such as Google Cache, DNS records, and social media...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: discuss.privacyguides.net  
-   Link: <a href="https://discuss.privacyguides.net/t/the-internet-archive-the-double-edged-sword-of-information-freedom-and-privacy/31785" target="_blank" rel="noopener noreferrer nofollow">https://discuss.privacyguides.net/t/the-internet-archive-the-double-edged-sword-of-information-freedom-and-privacy/31785</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive: The Double-Edged Sword of...Sep 29, 2025 — The Internet Archive is, let&#x27;s be real, a very good website...</p></details>
+   Link:<a href="https://discuss.privacyguides.net/t/the-internet-archive-the-double-edged-sword-of-information-freedom-and-privacy/31785" target="_blank" rel="noopener noreferrer nofollow">https://discuss.privacyguides.net/t/the-internet-archive-the-double-edged-sword-of-information-freedom-and-privacy/31785</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive: The Double-Edged Sword of...Sep 29, 2025 — The Internet Archive is, let&#x27;s be real, a very good website...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: blog.lukaszwojcik.net  
    Title: how to delete personal data from wayback machine  
-   Link: <a href="https://blog.lukaszwojcik.net/how-to-delete-personal-data-from-wayback-machine" target="_blank" rel="noopener noreferrer nofollow">https://blog.lukaszwojcik.net/how-to-delete-personal-data-from-wayback-machine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to delete personal data from Wayback Machine11 Mar 2024 — To get our data removed from Wayback Machine, we should start with compiling th...</p></details>
+   Link:<a href="https://blog.lukaszwojcik.net/how-to-delete-personal-data-from-wayback-machine" target="_blank" rel="noopener noreferrer nofollow">https://blog.lukaszwojcik.net/how-to-delete-personal-data-from-wayback-machine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to delete personal data from Wayback Machine11 Mar 2024 — To get our data removed from Wayback Machine, we should start with compiling th...</p></details>

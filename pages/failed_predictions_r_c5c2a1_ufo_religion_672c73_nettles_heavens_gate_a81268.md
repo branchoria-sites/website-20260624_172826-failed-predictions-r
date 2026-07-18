@@ -274,7 +274,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_nettles_he
 
 ## Introduction
 
-Among failed UFO-related predictions, few events were as consequential as the death of Bonnie Nettles in 1985. Heaven’s Gate had long taught that its [leaders]({{ 'leaders/' | relative_url }}), Nettles (“Ti”) and Marshall Applewhite (“Do”), would be taken alive to a higher extraterrestrial realm. When Nettles died from cancer instead of being physically collected by a spacecraft, the movement faced a direct contradiction between prophecy and reality. Rather than collapsing, Heaven’s Gate reinterpreted the meaning of ascension. That theological adjustment became one of the most important examples of how a UFO-centred religious movement responded to prophetic failure and ultimately laid the groundwork for its later interpretation of the Hale-Bopp comet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+Among failed UFO-related predictions, few events were as consequential as the death of Bonnie Nettles in 1985. Heaven’s Gate had long taught that its [leaders]({{ 'leaders/' | relative_url }}), Nettles (“Ti”) and Marshall Applewhite (“Do”), would be taken alive to a higher extraterrestrial realm. When Nettles died from cancer instead of being physically collected by a spacecraft, the movement faced a direct contradiction between prophecy and reality. Rather than collapsing, Heaven’s Gate reinterpreted the meaning of ascension. That theological adjustment became one of the most important examples of how a UFO-centred religious movement responded to prophetic failure and ultimately laid the groundwork for its later interpretation of the Hale-Bopp comet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_nettles_heavens_gate_a81268-Illustration-1-dark.svg" | relative_url }}" alt="Nettles Shift illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_nettles_heavens_gate_a81268-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73_nettles_heavens_gate_a81268-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,11 +282,11 @@ Among failed UFO-related predictions, few events were as consequential as the de
 
 ### The problem her death created
 
-Before 1985, Heaven’s Gate generally taught that faithful members would undergo a literal transformation and be transported to the “Next Level” by advanced extraterrestrial beings. The expectation was not merely spiritual survival after death but a physical transition involving living bodies. Nettles herself occupied a central place in this vision, as she and Applewhite were regarded as divinely appointed messengers whose mission would culminate in that transition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[JSTOR Daily+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">behind the curtain of the heavens gate cult</span><span class="citation-popover-snippet">JSTOR DailyBehind the Curtain of the Heaven&#x27;s Gate CultMar 25, 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a...</span></span></span>
+Before 1985, Heaven’s Gate generally taught that faithful members would undergo a literal transformation and be transported to the “Next Level” by advanced extraterrestrial beings. The expectation was not merely spiritual survival after death but a physical transition involving living bodies. Nettles herself occupied a central place in this vision, as she and Applewhite were regarded as divinely appointed messengers whose mission would culminate in that transition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[JSTOR Daily+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">behind the curtain of the heavens gate cult</span><span class="citation-popover-snippet">JSTOR DailyBehind the Curtain of the Heaven&#x27;s Gate CultMar 25, 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a...</span></span></span>
 
-Nettles’ illness therefore posed a serious challenge. Diagnosed with cancer that eventually spread to her liver, she died on 19 June 1985. Her death created an observable problem: one of the movement’s most important leaders had not been taken bodily into the Next Level. The event directly contradicted expectations that the chosen would leave Earth alive. Scholars of new religious movements frequently identify this moment as the major turning point in Heaven’s Gate’s development because it forced the group to explain why a central prophecy had apparently failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+Nettles’ illness therefore posed a serious challenge. Diagnosed with cancer that eventually spread to her liver, she died on 19 June 1985. Her death created an observable problem: one of the movement’s most important leaders had not been taken bodily into the Next Level. The event directly contradicted expectations that the chosen would leave Earth alive. Scholars of new religious movements frequently identify this moment as the major turning point in Heaven’s Gate’s development because it forced the group to explain why a central prophecy had apparently failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
-The significance of the crisis is difficult to overstate. [Failed predictions]({{ 'failed-predictions/' | relative_url }}) often test a movement’s authority structure. In Heaven’s Gate, the contradiction was especially severe because it involved not an ordinary follower but a founder whose role was embedded in the movement’s sacred narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">behind the curtain of the heavens gate cult</span><span class="citation-popover-snippet">JSTOR DailyBehind the Curtain of the Heaven&#x27;s Gate CultMar 25, 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a...</span></span></span>
+The significance of the crisis is difficult to overstate. [Failed predictions]({{ 'failed-predictions/' | relative_url }}) often test a movement’s authority structure. In Heaven’s Gate, the contradiction was especially severe because it involved not an ordinary follower but a founder whose role was embedded in the movement’s sacred narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">behind the curtain of the heavens gate cult</span><span class="citation-popover-snippet">JSTOR DailyBehind the Curtain of the Heaven&#x27;s Gate CultMar 25, 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1S6GkrNhPes" title="The UFO cult that led to 39 deaths: HEAVEN&#x27;S GATE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1S6GkrNhPes" target="_blank" rel="noopener noreferrer">The UFO cult that led to 39 deaths: HEAVEN&#x27;S GATE</a></p><p class="youtube-embed-meta">Channel: Georgia Marie</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1S6GkrNhPes" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1S6GkrNhPes">Open on YouTube</a></p></div></div></div>
@@ -295,7 +295,7 @@ The significance of the crisis is difficult to overstate. [Failed predictions]({
 
 Applewhite’s solution was not to abandon the movement’s extraterrestrial framework. Instead, he redefined the relationship between the self and the body.
 
-Following Nettles’ death, he increasingly taught that the physical body was only a temporary “vehicle” used by a higher consciousness. According to this revised interpretation, Nettles had not failed to reach the Next Level. Rather, she had discarded an earthly container that had become unusable and continued her existence beyond it. Applewhite reportedly explained to followers that her “vehicle” had been left behind while she herself had advanced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+Following Nettles’ death, he increasingly taught that the physical body was only a temporary “vehicle” used by a higher consciousness. According to this revised interpretation, Nettles had not failed to reach the Next Level. Rather, she had discarded an earthly container that had become unusable and continued her existence beyond it. Applewhite reportedly explained to followers that her “vehicle” had been left behind while she herself had advanced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
 This reinterpretation solved several theological problems at once:
 
@@ -305,13 +305,13 @@ This reinterpretation solved several theological problems at once:
 * It explained why Nettles’ body remained on Earth.
 * It preserved the belief that she had successfully reached the Next Level.
 * It protected the authority of earlier teachings by presenting the event as a deeper revelation rather than a refutation.
-* It allowed Applewhite to continue leading the group despite the apparent failure of previous expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+* It allowed Applewhite to continue leading the group despite the apparent failure of previous expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
 </div>
 
-Scholars have repeatedly identified this shift as a move away from expectations of physical ascension and towards a stronger separation between consciousness and the body. Heaven’s Gate survived the prophetic challenge because the meaning of “departure” changed. Ascension no longer required a living body to be visibly transported into a spacecraft. The essential self could leave while the body remained behind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">behind the curtain of the heavens gate cult</span><span class="citation-popover-snippet">JSTOR DailyBehind the Curtain of the Heaven&#x27;s Gate CultMar 25, 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a...</span></span></span>
+Scholars have repeatedly identified this shift as a move away from expectations of physical ascension and towards a stronger separation between consciousness and the body. Heaven’s Gate survived the prophetic challenge because the meaning of “departure” changed. Ascension no longer required a living body to be visibly transported into a spacecraft. The essential self could leave while the body remained behind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">behind the curtain of the heavens gate cult</span><span class="citation-popover-snippet">JSTOR DailyBehind the Curtain of the Heaven&#x27;s Gate CultMar 25, 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a...</span></span></span>
 
-The new emphasis also altered the movement’s language. Members increasingly referred to bodies as vehicles rather than as the true self. What had once been expected as a dramatic public event became a process in which consciousness could transfer to a more advanced existence beyond ordinary human limitations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+The new emphasis also altered the movement’s language. Members increasingly referred to bodies as vehicles rather than as the true self. What had once been expected as a dramatic public event became a process in which consciousness could transfer to a more advanced existence beyond ordinary human limitations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dju4F0twu0A" title="Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer">Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dju4F0twu0A">Open on YouTube</a></p></div></div></div>
@@ -324,205 +324,205 @@ The new emphasis also altered the movement’s language. Members increasingly re
 
 The later Heaven’s Gate interpretation of the Hale-Bopp comet becomes easier to understand when viewed through the lens of the 1985 crisis.
 
-Had the original expectation remained unchanged, followers would still have anticipated a visible bodily pickup by extraterrestrials. Nettles’ death made that position difficult to sustain. The revised doctrine instead taught that the body was merely a temporary vessel and that entrance into the Next Level involved leaving it behind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+Had the original expectation remained unchanged, followers would still have anticipated a visible bodily pickup by extraterrestrials. Nettles’ death made that position difficult to sustain. The revised doctrine instead taught that the body was merely a temporary vessel and that entrance into the Next Level involved leaving it behind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
-By the mid-1990s, Applewhite incorporated the appearance of Hale-Bopp into this transformed theology. The comet was interpreted as a sign or marker associated with the arrival of the Next Level. Crucially, members no longer needed to expect public physical transport in the way earlier teachings had implied. The body itself could be abandoned while consciousness moved onward. What appeared in 1997 was therefore not a sudden new doctrine but the culmination of a reinterpretive process that had begun with Nettles’ death twelve years earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</span></span></span>
+By the mid-1990s, Applewhite incorporated the appearance of Hale-Bopp into this transformed theology. The comet was interpreted as a sign or marker associated with the arrival of the Next Level. Crucially, members no longer needed to expect public physical transport in the way earlier teachings had implied. The body itself could be abandoned while consciousness moved onward. What appeared in 1997 was therefore not a sudden new doctrine but the culmination of a reinterpretive process that had begun with Nettles’ death twelve years earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</span></span></span>
 
-Religion scholars often point to this sequence as a textbook example of prophetic adaptation. A failed expectation did not destroy the movement. Instead, the failure generated a theological innovation that preserved core beliefs while changing their meaning. In Heaven’s Gate, the death of Bonnie Nettles transformed a doctrine of bodily rescue into a doctrine of transcending the body, creating the conceptual framework through which the Hale-Bopp episode was later understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[SAGE Knowledge+3Wikipedia+3JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
+Religion scholars often point to this sequence as a textbook example of prophetic adaptation. A failed expectation did not destroy the movement. Instead, the failure generated a theological innovation that preserved core beliefs while changing their meaning. In Heaven’s Gate, the death of Bonnie Nettles transformed a doctrine of bodily rescue into a doctrine of transcending the body, creating the conceptual framework through which the Hale-Bopp episode was later understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[SAGE Knowledge+3Wikipedia+3JSTOR Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bonnie Nettles</span><span class="citation-popover-snippet">Bonnie Nettles</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lj_cyTt4SxE" title="The BRUTALITY Of The Heaven&#x27;s Gate Cult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer">The BRUTALITY Of The Heaven&#x27;s Gate Cult</a></p><p class="youtube-embed-meta">Channel: Kallmekris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lj_cyTt4SxE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Death That Changed Heaven&#x27;s Gate. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Death That Changed Heaven&#x27;s Gate. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Provides the framework for understanding adaptation after prophetic setbacks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the framework for understanding adaptation after prophetic setbacks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
-        </h4>
-        <p class="fr-book-author">By Gregory L. Reece</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
+</h4>
+<p class="fr-book-author">By Gregory L. Reece</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HEAVEN&#x27;S GATE - ADVANCE US ONE SHEET ROLLED POSTER KRIS KRISTOFFERSON 1980"><img src="{{ '/assets/images/marketplace-covers/26b964d0c4039dd172cf.jpg' | relative_url }}" alt="Listing image for HEAVEN&#x27;S GATE - ADVANCE US ONE SHEET ROLLED POSTER KRIS KRISTOFFERSON 1980" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">HEAVEN&#x27;S GATE - ADVANCE US ONE SHEET ROLLED POSTER KRIS KRISTOFFERSON 1980</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heavens Gate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Heavens Gate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HEAVEN&#x27;S GATE - ADVANCE US ONE SHEET ROLLED POSTER KRIS KRISTOFFERSON 1980"><img src="{{ '/assets/images/marketplace-covers/26b964d0c4039dd172cf.jpg' | relative_url }}" alt="Listing image for HEAVEN&#x27;S GATE - ADVANCE US ONE SHEET ROLLED POSTER KRIS KRISTOFFERSON 1980" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">HEAVEN&#x27;S GATE - ADVANCE US ONE SHEET ROLLED POSTER KRIS KRISTOFFERSON 1980</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heavens Gate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Heavens Gate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HEAVENS GATE - KRIS KRISTOFFERSON - 1981 USA 13X10&quot; ADVERT POSTER L194"><img src="{{ '/assets/images/marketplace-covers/e14c3fa4d10c730c7a43.jpg' | relative_url }}" alt="Listing image for HEAVENS GATE - KRIS KRISTOFFERSON - 1981 USA 13X10&quot; ADVERT POSTER L194" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">HEAVENS GATE - KRIS KRISTOFFERSON - 1981 USA 13X10&quot; ADVERT POSTER L194</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heavens Gate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Heavens Gate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HEAVENS GATE - KRIS KRISTOFFERSON - 1981 USA 13X10&quot; ADVERT POSTER L194"><img src="{{ '/assets/images/marketplace-covers/e14c3fa4d10c730c7a43.jpg' | relative_url }}" alt="Listing image for HEAVENS GATE - KRIS KRISTOFFERSON - 1981 USA 13X10&quot; ADVERT POSTER L194" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">HEAVENS GATE - KRIS KRISTOFFERSON - 1981 USA 13X10&quot; ADVERT POSTER L194</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heavens Gate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Heavens Gate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Heavens Gate Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c99cd6341e3acb1d2b96.jpg' | relative_url }}" alt="Listing image for Heavens Gate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">Heavens Gate Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heavens Gate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Heavens Gate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Heavens Gate Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c99cd6341e3acb1d2b96.jpg' | relative_url }}" alt="Listing image for Heavens Gate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">Heavens Gate Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heavens Gate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Heavens Gate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HEAVEN&#x27;S GATE 1980 Original Advance One-Sheet Poster Kris Kristofferson Unfolded"><img src="{{ '/assets/images/marketplace-covers/85ac82e07c7db0f26efe.jpg' | relative_url }}" alt="Listing image for HEAVEN&#x27;S GATE 1980 Original Advance One-Sheet Poster Kris Kristofferson Unfolded" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">HEAVEN&#x27;S GATE 1980 Original Advance One-Sheet Poster Kris Kristofferson Unfolded</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heavens Gate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Heavens Gate poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HEAVEN&#x27;S GATE 1980 Original Advance One-Sheet Poster Kris Kristofferson Unfolded"><img src="{{ '/assets/images/marketplace-covers/85ac82e07c7db0f26efe.jpg' | relative_url }}" alt="Listing image for HEAVEN&#x27;S GATE 1980 Original Advance One-Sheet Poster Kris Kristofferson Unfolded" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">HEAVEN&#x27;S GATE 1980 Original Advance One-Sheet Poster Kris Kristofferson Unfolded</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Heavens Gate poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Heavens Gate poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Heavens+Gate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Heavens Gate poster" data-ebay-reference="nettles-shift-the-death-that-changed-heaven-s-gate-failed-predictions-heavens-gate-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ Religion scholars often point to this sequence as a textbook example of propheti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ Religion scholars often point to this sequence as a textbook example of propheti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ Religion scholars often point to this sequence as a textbook example of propheti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ Religion scholars often point to this sequence as a textbook example of propheti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ Religion scholars often point to this sequence as a textbook example of propheti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,119 +728,119 @@ Religion scholars often point to this sequence as a textbook example of propheti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bonnie Nettles  
-   Link: <a href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonnie_Nettles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bonnie_Nettles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bonnie_Nettles</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: daily.jstor.org  
    Title: behind the curtain of the heavens gate cult  
-   Link: <a href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR DailyBehind the Curtain of the Heaven&#x27;s Gate CultMar 25, 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a...</p></details>
+   Link:<a href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR DailyBehind the Curtain of the Heaven&#x27;s Gate CultMar 25, 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Bonnie Nettles | American religious leader  
-   Link: <a href="https://www.britannica.com/biography/Bonnie-Nettles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Bonnie-Nettles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaBonnie Nettles | American religious leaderMay 13, 2026 — A major shift in the community and their perspective occu...</p></details>
+   Link:<a href="https://www.britannica.com/biography/Bonnie-Nettles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Bonnie-Nettles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaBonnie Nettles | American religious leaderMay 13, 2026 — A major shift in the community and their perspective occu...</p></details>
    Published: May 13, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 Mar 2026 — Heaven&#x27;s Gate was a new religious movement that...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 Mar 2026 — Heaven&#x27;s Gate was a new religious movement that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2006.10.2.75" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2006.10.2.75</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Heaven&#x27;s Gateby BE Zeller · 2006 · Cited by 19 — Heaven&#x27;s Gate might portray Applewhite&#x27;s or Nettles&#x27; muddled sexuality as a prim...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2006.10.2.75" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2006.10.2.75</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Heaven&#x27;s Gateby BE Zeller · 2006 · Cited by 19 — Heaven&#x27;s Gate might portray Applewhite&#x27;s or Nettles&#x27; muddled sexuality as a prim...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/26671570" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Suicide, Suicidology, and Heaven&#x27;s Gateby GD Chryssides · 2018 · Cited by 3 — Abstract: There are insufficient examples of collective rel...</p></details>
+   Link:<a href="https://www.jstor.org/stable/26671570" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26671570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suicide, Suicidology, and Heaven&#x27;s Gateby GD Chryssides · 2018 · Cited by 3 — Abstract: There are insufficient examples of collective rel...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sk.sagepub.com  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-sociology-of-religion/chpt/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-sociology-of-religion/chpt/[heaven-s-gate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate is the best known of a wave of [UFO religions](&amp;#123;&amp;#123; &#x27;ufo-religion/&#x27; | relative_url &amp;#125;&amp;#125;) founded...Read more...</p></details>
+   Link:<a href="https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-sociology-of-religion/chpt/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/the-sage-encyclopedia-of-sociology-of-religion/chpt/[heaven-s-gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate is the best known of a wave of [UFO religions](&amp;#123;&amp;#123; &#x27;ufo-religion/&#x27; | relative_url &amp;#125;&amp;#125;) founded...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridge.org  
    Title: Heaven's Gate  
-   Link: <a href="https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/heavens-gate-postmodernity-and-popular-culture-in-a-suicide-group-edited-by-george-d-chryssides-ashgate-new-religions-pp-xi2152-colour-frontispieces-farnhamburlington-vt-ashgate-2011-50-978-0-7546-6374-4/CFBEA5F961EF0C884198CDBFC0BB889D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/heavens-gate-postmodernity-and-popular-culture-in-a-suicide-group-edited-by-george-d-chryssides-ashgate-new-religions-pp-xi2152-colour-frontispieces-farnhamburlington-vt-ashgate-2011-50-978-0-7546-6374-4/CFBEA5F961EF0C884198CDBFC0BB889D</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Postmodernity and popular culture in a...by AH Anderson · 2012 — Hale-Bopp comet. This useful collection of essays by sociologists and r...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/heavens-gate-postmodernity-and-popular-culture-in-a-suicide-group-edited-by-george-d-chryssides-ashgate-new-religions-pp-xi2152-colour-frontispieces-farnhamburlington-vt-ashgate-2011-50-978-0-7546-6374-4/CFBEA5F961EF0C884198CDBFC0BB889D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/heavens-gate-postmodernity-and-popular-culture-in-a-suicide-group-edited-by-george-d-chryssides-ashgate-new-religions-pp-xi2152-colour-frontispieces-farnhamburlington-vt-ashgate-2011-50-978-0-7546-6374-4/CFBEA5F961EF0C884198CDBFC0BB889D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Postmodernity and popular culture in a...by AH Anderson · 2012 — Hale-Bopp comet. This useful collection of essays by sociologists and r...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/bonnie-nettles" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/bonnie-nettles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bonnie Nettles | History | Research StartersBonnie Nettles earned notoriety as the cofounder of Heaven&#x27;s Gate (the name of the cult she a...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/bonnie-nettles" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/bonnie-nettles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bonnie Nettles | History | Research StartersBonnie Nettles earned notoriety as the cofounder of Heaven&#x27;s Gate (the name of the cult she a...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/heavens-gate-cult-history-leader-members.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/heavens-gate-cult-history-leader-members.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate Cult | History, Leader &amp; MembersHeaven&#x27;s Gate was a cult, or religious group, founded by Marshall Applewhite and Bonnie Net...</p></details>
+   Link:<a href="https://study.com/academy/lesson/heavens-gate-cult-history-leader-members.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/heavens-gate-cult-history-leader-members.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate Cult | History, Leader &amp; MembersHeaven&#x27;s Gate was a cult, or religious group, founded by Marshall Applewhite and Bonnie Net...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-031-38971-9_1414-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-031-38971-9_1414-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkCults: Heaven&#x27;s Gate | Springer Nature Link&#x27;Cults: Heaven&#x27;s Gate&#x27; published in &#x27;Encyclopedia of Religious Psychology...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978-3-031-38971" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-031-38971</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkCults: Heaven&#x27;s Gate | Springer Nature Link&#x27;Cults: Heaven&#x27;s Gate&#x27; published in &#x27;Encyclopedia of Religious Psychology...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — From cult members&#x27; eating habits to the sneakers the group wore duri...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — From cult members&#x27; eating habits to the sneakers the group wore duri...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: idosr.org  
    Title: They chose to leave their physical bodies behind  
-   Link: <a href="https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: the End, a religious belief Ibrahim Mohamedby I Mohamed — Heaven&#x27;s Gate cult believed that a flying saucer was traveling b...</p></details>
+   Link:<a href="https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate: the End, a religious belief Ibrahim Mohamedby I Mohamed — Heaven&#x27;s Gate cult believed that a flying saucer was traveling b...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: b-mag.bhasvic.ac.uk  
    Title: It centred around Marshall Applewhite and Bonnie Nettles.Read more  
-   Link: <a href="https://b-mag.bhasvic.ac.uk/blog/221-tragic-manipulation-at-the-heart-of-a-cult-heavens-gate" target="_blank" rel="noopener noreferrer nofollow">https://b-mag.bhasvic.ac.uk/blog/221-tragic-manipulation-at-the-heart-of-a-cult-heavens-gate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>manipulation at the heart of a cult: Heaven&#x27;s Gate - B-Mag22 Oct 2024 — Heaven&#x27;s Gate is perhaps one of the most famous and tragic cults...</p></details>
+   Link:<a href="https://b-mag.bhasvic.ac.uk/blog/221-tragic-manipulation-at-the-heart-of-a-cult-heavens-gate" target="_blank" rel="noopener noreferrer nofollow">https://b-mag.bhasvic.ac.uk/blog/221-tragic-manipulation-at-the-heart-of-a-cult-heavens-gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>manipulation at the heart of a cult: Heaven&#x27;s Gate - B-Mag22 Oct 2024 — Heaven&#x27;s Gate is perhaps one of the most famous and tragic cults...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dju4F0twu0A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Heaven&#x27;s Gate Cult&quot; With Former Members (Still Believers) Sawyer &amp; Cathy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dju4F0twu0A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Heaven&#x27;s Gate Cult&quot; With Former Members (Still Believers) Sawyer &amp; Cathy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Heaven&#x27;s Gate “Exit Statements” to...19 Nov 2025 — Overall, Heaven&#x27;s Gate exit statements contained significantly fewer emotion keyw...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/sltb.70059</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Heaven&#x27;s Gate “Exit Statements” to...19 Nov 2025 — Overall, Heaven&#x27;s Gate exit statements contained significantly fewer emotion keyw...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The BRUTALITY Of The Heaven's Gate Cult  
-   Link: <a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult documentary Bonnie Nettles death What Really Happened in the Heaven&#x27;s Gate Cult? (REUPLOAD) Sommer Sanchez...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult documentary Bonnie Nettles death What Really Happened in the Heaven&#x27;s Gate Cult? (REUPLOAD) Sommer Sanchez...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The UFO cult that led to 39 deaths: HEAVEN'S GATE  
-   Link: <a href="https://www.youtube.com/watch?v=1S6GkrNhPes" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1S6GkrNhPes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1S6GkrNhPes" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1S6GkrNhPes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: encompass.eku.edu  
-   Link: <a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=2147&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow">https://encompass.eku.edu/cgi/viewcontent.cgi?article=2147&amp;context=honors_theses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Psychology of Group Dynamics in Cultsby MLN Douglas · 2025 — After Nettles&#x27; death, he characterized himself as an embodiment of Je...</p></details>
+   Link:<a href="https://encompass.eku.edu/cgi/viewcontent.cgi?article=2147&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow">https://encompass.eku.edu/cgi/viewcontent.cgi?article=2147&amp;context=honors_theses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Psychology of Group Dynamics in Cultsby MLN Douglas · 2025 — After Nettles&#x27; death, he characterized himself as an embodiment of Je...</p></details>

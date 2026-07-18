@@ -447,7 +447,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-overview-s
 
 ## Introduction
 
-Failed UFO predictions become religious movements when alien contact is not just a claim about unusual objects in the sky, but a promise of salvation, judgement, rescue or transformation. In these cases, the failed date is theologically charged: no spaceship arrives, no cosmic broadcast appears, no visible rescue happens, yet the group must decide whether the message was false, delayed, misunderstood, spiritual rather than physical, or fulfilled invisibly. The most revealing cases are [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue prophecy, Heaven’s Gate’s interpretation of Hale-Bopp as a departure marker, Chen Tao’s failed 1998 expectation that God would appear on American television and then in Texas, and the looser Ashtar tradition of promised landings, warnings and [spiritual rescue]({{ 'spiritual-rescue/' | relative_url }}). Together, they show why failed UFO predictions are not only errors of evidence; they can become crises of meaning, authority and commitment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
+Failed UFO predictions become religious movements when alien contact is not just a claim about unusual objects in the sky, but a promise of salvation, judgement, rescue or transformation. In these cases, the failed date is theologically charged: no spaceship arrives, no cosmic broadcast appears, no visible rescue happens, yet the group must decide whether the message was false, delayed, misunderstood, spiritual rather than physical, or fulfilled invisibly. The most revealing cases are [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})’s 1954 flying-saucer rescue prophecy, Heaven’s Gate’s interpretation of Hale-Bopp as a departure marker, Chen Tao’s failed 1998 expectation that God would appear on American television and then in Texas, and the looser Ashtar tradition of promised landings, warnings and [spiritual rescue]({{ 'spiritual-rescue/' | relative_url }}). Together, they show why failed UFO predictions are not only errors of evidence; they can become crises of meaning, authority and commitment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety+2OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-overview.webp" | relative_url }}" alt="Overview image for UFO Religion" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,13 +455,13 @@ Failed UFO predictions become religious movements when alien contact is not just
 
 The religious turn in UFO prophecy begins when aliens are treated as more than visitors. They become messengers, saviours, teachers, judges or higher beings who can deliver humanity from disaster. This is why a failed UFO prediction inside a religious movement has a different emotional force from a failed sighting claim. The prophecy is not merely “a craft will appear”; it is often “the faithful will be rescued”, “the world will be transformed”, or “a higher order will reveal itself”.
 
-Dorothy Martin’s group, later made famous through *When Prophecy Fails*, is the classic template. Martin claimed to receive messages from beings associated with the planet Clarion, and followers expected a catastrophic flood before dawn on 21 December 1954. The saving mechanism was not evacuation by human authorities but rescue by flying saucer. When the flood and rescue did not occur, the failure struck at the heart of the group’s claimed revelation: the extraterrestrial message had promised both disaster and deliverance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — A recently published book, Aboard a Flying Saucer by UFO contactee Truman... flying saucers and extraterrestrial visitors...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+Dorothy Martin’s group, later made famous through *When Prophecy Fails*, is the classic template. Martin claimed to receive messages from beings associated with the planet Clarion, and followers expected a catastrophic flood before dawn on 21 December 1954. The saving mechanism was not evacuation by human authorities but rescue by flying saucer. When the flood and rescue did not occur, the failure struck at the heart of the group’s claimed revelation: the extraterrestrial message had promised both disaster and deliverance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — A recently published book, Aboard a Flying Saucer by UFO contactee Truman... flying saucers and extraterrestrial visitors...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-The [Aetherius]({{ 'aetherius/' | relative_url }}) Society shows a broader, less date-centred version of the same religious pattern. Founded in the flying-saucer age, it interprets extraterrestrials as spiritually advanced beings and links UFOs with prayer, karma, reincarnation, the future of Earth and spiritual service. Its official presentation still frames “UFOs & Spiritual Aliens” as part of a larger religious worldview rather than a narrow evidence claim about aircraft or astronomy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aetherius.org/?srsltid=AfmBOoproQeaQT3amP19NG2PcyZwdZCTCVqZ-rZNUkEeWxIQuoIrQ4yw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aetherius.org">[The Aetherius Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aetherius.org</span><span class="citation-popover-title">UFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they here?Read more</span><span class="citation-popover-snippet">The Aetherius SocietyThe Aetherius Society - Official International SiteApril 25, 2026 — Invoking spiritual energy to charge a spiritual...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+The [Aetherius]({{ 'aetherius/' | relative_url }}) Society shows a broader, less date-centred version of the same religious pattern. Founded in the flying-saucer age, it interprets extraterrestrials as spiritually advanced beings and links UFOs with prayer, karma, reincarnation, the future of Earth and spiritual service. Its official presentation still frames “UFOs & Spiritual Aliens” as part of a larger religious worldview rather than a narrow evidence claim about aircraft or astronomy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aetherius.org/?srsltid=AfmBOoproQeaQT3amP19NG2PcyZwdZCTCVqZ-rZNUkEeWxIQuoIrQ4yw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aetherius.org">[The Aetherius Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aetherius.org</span><span class="citation-popover-title">UFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they here?Read more</span><span class="citation-popover-snippet">The Aetherius SocietyThe Aetherius Society - Official International SiteApril 25, 2026 — Invoking spiritual energy to charge a spiritual...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
-Heaven’s Gate made the salvation logic much starker. In its own final website statement, the group described Hale-Bopp as the “marker” for the arrival of a spacecraft from the “Evolutionary Level Above Human” that would take members “home” to the literal heavens. The prediction’s religious force came from the fusion of cosmic travel, Christian vocabulary, bodily [renunciation]({{ 'renunciation/' | relative_url }}) and group discipline: leaving Earth was framed as graduation, not exploration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-title">Heaven&#x27;s Gate</span><span class="citation-popover-snippet">How and When It May Be Entered...</span></span></span>
+Heaven’s Gate made the salvation logic much starker. In its own final website statement, the group described Hale-Bopp as the “marker” for the arrival of a spacecraft from the “Evolutionary Level Above Human” that would take members “home” to the literal heavens. The prediction’s religious force came from the fusion of cosmic travel, Christian vocabulary, bodily [renunciation]({{ 'renunciation/' | relative_url }}) and group discipline: leaving Earth was framed as graduation, not exploration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-title">Heaven&#x27;s Gate</span><span class="citation-popover-snippet">How and When It May Be Entered...</span></span></span>
 
-Chen Tao, also known as God’s Salvation Church, mixed UFO motifs with a millennial religious drama. Its leader, Hon-Ming Chen, predicted that God would appear on US television channel 18 on 25 March 1998 and then physically manifest in Garland, Texas, on 31 March. The larger story involved divine preparation for tribulation and cosmic rescue, including later references to a “God plane” that would save followers from nuclear catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Garland, Texas, would be the place where God would come, Chen pr...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Chen Tao, also known as God’s Salvation Church, mixed UFO motifs with a millennial religious drama. Its leader, Hon-Ming Chen, predicted that God would appear on US television channel 18 on 25 March 1998 and then physically manifest in Garland, Texas, on 31 March. The larger story involved divine preparation for tribulation and cosmic rescue, including later references to a “God plane” that would save followers from nuclear catastrophe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Garland, Texas, would be the place where God would come, Chen pr...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-1-dark.svg" | relative_url }}" alt="UFO Religion illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -469,13 +469,13 @@ Chen Tao, also known as God’s Salvation Church, mixed UFO motifs with a millen
 
 UFO religions built around failed predictions usually depend on a leader or channel who claims special access to non-human or higher intelligence. That authority can come through telepathic messages, revelation, interpretation of scripture, cosmic science, or the ability to decode signs that outsiders supposedly misunderstand. The prediction then tests not only an event but a chain of trust: the source, the channel, the leader’s interpretation and the group’s willingness to act.
 
-In Martin’s case, the key claim was channelled communication from superior beings. The group’s practical choices were shaped by messages that were treated as more authoritative than ordinary evidence. Later scholarship has complicated the famous cognitive-dissonance story around the case, arguing that the original researchers may have influenced events and that the group’s reaction was less cleanly captured than the standard account suggested. That matters because the case is often used too simplistically: not every failed prophecy automatically produces stronger belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
+In Martin’s case, the key claim was channelled communication from superior beings. The group’s practical choices were shaped by messages that were treated as more authoritative than ordinary evidence. Later scholarship has complicated the famous cognitive-dissonance story around the case, arguing that the original researchers may have influenced events and that the group’s reaction was less cleanly captured than the standard account suggested. That matters because the case is often used too simplistically: not every failed prophecy automatically produces stronger belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
 
-Heaven’s Gate relied on the authority of Marshall Applewhite and Bonnie Nettles, known within the movement as Do and Ti. The group’s teaching blended Christian millenarianism, New Age ideas, science-fiction imagery and UFO belief. A scholarly account published soon after the deaths emphasised that the group was not simply an internet oddity: it had a long pre-web history, a developed theology, and a disciplined community life before Hale-Bopp became the final sign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span>
+Heaven’s Gate relied on the authority of Marshall Applewhite and Bonnie Nettles, known within the movement as Do and Ti. The group’s teaching blended Christian millenarianism, New Age ideas, science-fiction imagery and UFO belief. A scholarly account published soon after the deaths emphasised that the group was not simply an internet oddity: it had a long pre-web history, a developed theology, and a disciplined community life before Hale-Bopp became the final sign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academic...</span></span></span>
 
-Commitment was also practical, not just intellectual. Heaven’s Gate members lived under demanding rules and interpreted ordinary human life as something to be overcome. The group’s own materials presented Earth as a temporary classroom and spoke of “graduation” from the human level. By the time Hale-Bopp was interpreted as the departure marker, belief had been reinforced by years of communal discipline, shared language and separation from ordinary social anchors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-title">Heaven&#x27;s Gate</span><span class="citation-popover-snippet">How and When It May Be Entered...</span></span></span>
+Commitment was also practical, not just intellectual. Heaven’s Gate members lived under demanding rules and interpreted ordinary human life as something to be overcome. The group’s own materials presented Earth as a temporary classroom and spoke of “graduation” from the human level. By the time Hale-Bopp was interpreted as the departure marker, belief had been reinforced by years of communal discipline, shared language and separation from ordinary social anchors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-title">Heaven&#x27;s Gate</span><span class="citation-popover-snippet">How and When It May Be Entered...</span></span></span>
 
-Chen Tao shows a different pattern: a leader with public, date-specific predictions, a visible residential presence, and intense [media]({{ 'media/' | relative_url }}) attention. Members moved from Taiwan to the United States, settled in Garland, wore distinctive white clothing and cowboy hats, and attracted concern from local residents and police because the failed dates came only a year after Heaven’s Gate. Yet Chen’s failed prophecy did not end in mass death; he reportedly acknowledged that he had misunderstood God’s plans, and the movement rapidly lost many members. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Garland, Texas, would be the place where God would come, Chen pr...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Chen Tao shows a different pattern: a leader with public, date-specific predictions, a visible residential presence, and intense [media]({{ 'media/' | relative_url }}) attention. Members moved from Taiwan to the United States, settled in Garland, wore distinctive white clothing and cowboy hats, and attracted concern from local residents and police because the failed dates came only a year after Heaven’s Gate. Yet Chen’s failed prophecy did not end in mass death; he reportedly acknowledged that he had misunderstood God’s plans, and the movement rapidly lost many members.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Garland, Texas, would be the place where God would come, Chen pr...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8nGLzE-vA18" title="God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer">God&#x27;s Salvation Church - The UFO Cult of Chen Tao | Episode 40 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8nGLzE-vA18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8nGLzE-vA18">Open on YouTube</a></p></div></div></div>
@@ -484,13 +484,13 @@ Chen Tao shows a different pattern: a leader with public, date-specific predicti
 
 A failed UFO prophecy is especially destabilising when it has required costly commitment. Members may have moved house, left jobs, cut family ties, given money, accepted ridicule or reorganised daily life around the promised event. Once the date passes, admitting simple error may mean admitting that those sacrifices were built on a false revelation. That pressure helps explain why failure can produce very different outcomes: collapse, reinterpretation, escalation, quiet survival or a new date.
 
-The famous cognitive-dissonance lesson from *When Prophecy Fails* is that committed believers may respond to disconfirmation by proselytising more intensely. The idea became influential because it offered a clean psychological mechanism: when reality contradicts a costly belief, people may reduce the discomfort by finding new reasons to believe. But newer archival criticism of the Martin case warns against treating that one episode as a universal law. Some failed prophecies harden; others dissolve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — A recently published book, Aboard a Flying Saucer by UFO contactee Truman... flying saucers and extraterrestrial visitors...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+The famous cognitive-dissonance lesson from *When Prophecy Fails* is that committed believers may respond to disconfirmation by proselytising more intensely. The idea became influential because it offered a clean psychological mechanism: when reality contradicts a costly belief, people may reduce the discomfort by finding new reasons to believe. But newer archival criticism of the Martin case warns against treating that one episode as a universal law. Some failed prophecies harden; others dissolve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — A recently published book, Aboard a Flying Saucer by UFO contactee Truman... flying saucers and extraterrestrial visitors...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
-Heaven’s Gate illustrates reinterpretation under extreme conditions. Earlier expectations of bodily transformation were challenged by the 1985 death of Bonnie Nettles, which forced the movement to rethink what “leaving” and transformation meant. By 1997, the body could be framed as a temporary vehicle rather than the thing that had to be physically carried away. This shift made Hale-Bopp less like a failed astronomical claim and more like a ritualised exit point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+Heaven’s Gate illustrates reinterpretation under extreme conditions. Earlier expectations of bodily transformation were challenged by the 1985 death of Bonnie Nettles, which forced the movement to rethink what “leaving” and transformation meant. By 1997, the body could be framed as a temporary vehicle rather than the thing that had to be physically carried away. This shift made Hale-Bopp less like a failed astronomical claim and more like a ritualised exit point.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-Chen Tao shows failure becoming public theology in real time. The failed channel 18 prediction was not a private disappointment; it unfolded under cameras, police preparation and international curiosity. Chen’s response was not to deny that nothing had happened, but to treat the failed prediction as a misunderstanding. According to later accounts, the group did not simply vanish overnight, but the failure weakened it severely and many members left. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Open source on cesnur.org.</span></span></span>
+Chen Tao shows failure becoming public theology in real time. The failed channel 18 prediction was not a private disappointment; it unfolded under cameras, police preparation and international curiosity. Chen’s response was not to deny that nothing had happened, but to treat the failed prediction as a misunderstanding. According to later accounts, the group did not simply vanish overnight, but the failure weakened it severely and many members left.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cesnur.org">[CESNUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cesnur.org</span><span class="citation-popover-snippet">Open source on cesnur.org.</span></span></span>
 
-The Ashtar tradition shows how a UFO prophecy can survive repeated failed expectations by becoming less dependent on one physical landing. Scholarship and specialist summaries describe a shift from predicted space fleets and dramatic intervention towards a more diffuse idea of ascended masters, spiritual advancement and cosmic guidance. In that form, failed material predictions can be absorbed into a larger spiritual mythology rather than ending the movement outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
+The Ashtar tradition shows how a UFO prophecy can survive repeated failed expectations by becoming less dependent on one physical landing. Scholarship and specialist summaries describe a shift from predicted space fleets and dramatic intervention towards a more diffuse idea of ascended masters, spiritual advancement and cosmic guidance. In that form, failed material predictions can be absorbed into a larger spiritual mythology rather than ending the movement outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ashtar Sheran</span><span class="citation-popover-snippet">Ashtar Sheran</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-2-dark.svg" | relative_url }}" alt="UFO Religion illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -498,13 +498,13 @@ The Ashtar tradition shows how a UFO prophecy can survive repeated failed expect
 
 The strongest cases do not all end the same way. That is the main reason to treat failed UFO predictions as religious movements rather than as a single psychology trick. The failure matters, but the aftermath depends on leadership, social structure, cost of commitment, media pressure, doctrinal flexibility and whether members can reinterpret the event without destroying the whole belief system.
 
-**Dorothy Martin and the Seekers:** the predicted flood and saucer rescue failed in December 1954. The case became famous because researchers used it to develop cognitive-dissonance theory, but recent criticism makes the after-story more contested than the textbook version. Its lasting value is not that it proves all believers double down; it shows how a dated UFO rescue prophecy can become a laboratory for studying religious disconfirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
+**Dorothy Martin and the Seekers:** the predicted flood and saucer rescue failed in December 1954. The case became famous because researchers used it to develop cognitive-dissonance theory, but recent criticism makes the after-story more contested than the textbook version. Its lasting value is not that it proves all believers double down; it shows how a dated UFO rescue prophecy can become a laboratory for studying religious disconfirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciety.org">[Sciety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciety.org</span><span class="citation-popover-title">Debunking &quot;When Prophecy Fails</span><span class="citation-popover-snippet">Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</span></span></span>
 
-**Heaven’s Gate:** the group did not simply predict a public landing that failed to appear. It interpreted Hale-Bopp as the sign that members could leave the human world for the “Next Level”. The tragedy in March 1997 therefore sits at the most dangerous end of UFO religious prophecy: the promised craft was linked to salvation through death rather than public verification by outsiders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-title">Heaven&#x27;s Gate</span><span class="citation-popover-snippet">How and When It May Be Entered...</span></span></span>
+**Heaven’s Gate:** the group did not simply predict a public landing that failed to appear. It interpreted Hale-Bopp as the sign that members could leave the human world for the “Next Level”. The tragedy in March 1997 therefore sits at the most dangerous end of UFO religious prophecy: the promised craft was linked to salvation through death rather than public verification by outsiders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-title">Heaven&#x27;s Gate</span><span class="citation-popover-snippet">How and When It May Be Entered...</span></span></span>
 
-**Chen Tao:** the failed March 1998 television and Garland predictions are important because they did not produce the same outcome as Heaven’s Gate. The dates failed, the leader revised or acknowledged error, and the group fragmented. This makes Chen Tao a useful comparison case: failed UFO religion can collapse or shrink rather than intensify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Garland, Texas, would be the place where God would come, Chen pr...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+**Chen Tao:** the failed March 1998 television and Garland predictions are important because they did not produce the same outcome as Heaven’s Gate. The dates failed, the leader revised or acknowledged error, and the group fragmented. This makes Chen Tao a useful comparison case: failed UFO religion can collapse or shrink rather than intensify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Chen Tao</span><span class="citation-popover-snippet">Encyclopedia BritannicaChen Tao &#124; History, Beliefs, &amp; Facts22 May 2026 — Garland, Texas, would be the place where God would come, Chen pr...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-**Ashtar and related command traditions:** these are harder to assess because they are decentralised, channelled and often diffuse. The 1977 Southern Television interruption, in which an unauthorised broadcast claimed to speak for the “Ashtar Galactic Command”, shows how Ashtar language could enter public media as a warning about weapons and spiritual evolution. But the broader movement’s resilience comes partly from flexibility: predictions of intervention can become messages of guidance, ascension or awakening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">Southern Television broadcast interruption</span></span></span>
+**Ashtar and related command traditions:** these are harder to assess because they are decentralised, channelled and often diffuse. The 1977 Southern Television interruption, in which an unauthorised broadcast claimed to speak for the “Ashtar Galactic Command”, shows how Ashtar language could enter public media as a warning about weapons and spiritual evolution. But the broader movement’s resilience comes partly from flexibility: predictions of intervention can become messages of guidance, ascension or awakening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Southern Television broadcast interruption</span><span class="citation-popover-snippet">Southern Television broadcast interruption</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yJ3ilyecMBU" title="When Prophecy Fails — The System Behind Doubling Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer">When Prophecy Fails — The System Behind Doubling Down</a></p><p class="youtube-embed-meta">Channel: Crisis in Perception</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yJ3ilyecMBU">Open on YouTube</a></p></div></div></div>
@@ -515,7 +515,7 @@ Ordinary UFO belief can remain evidentially vague: a witness saw something, a re
 
 This matters for failed predictions because the question after failure is not simply “was the object real?” It becomes “was the revelation false?”, “was the leader mistaken?”, “did the group fail a test?”, or “did the event occur on another plane?” A scientific or official review can say that no extraterrestrial explanation has been confirmed, but a religious movement can move the claim into a framework where absence of [public evidence]({{ 'public-evidence/' | relative_url }}) is explained as secrecy, spiritual timing, human unworthiness or hidden fulfilment.
 
-The most durable UFO religions often make that move early. The Aetherius Society’s public theology, for example, centres spiritual energy, prayer, karma and advanced cosmic beings more than a single testable landing date. Heaven’s Gate, by contrast, locked its final meaning to a specific cosmic sign. Chen Tao locked its public credibility to exact March 1998 events. The more a movement attaches salvation to a checkable date, the more explosive the failure becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aetherius.org/?srsltid=AfmBOoproQeaQT3amP19NG2PcyZwdZCTCVqZ-rZNUkEeWxIQuoIrQ4yw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aetherius.org">[The Aetherius Society+2heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aetherius.org</span><span class="citation-popover-title">UFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they here?Read more</span><span class="citation-popover-snippet">The Aetherius SocietyThe Aetherius Society - Official International SiteApril 25, 2026 — Invoking spiritual energy to charge a spiritual...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+The most durable UFO religions often make that move early. The Aetherius Society’s public theology, for example, centres spiritual energy, prayer, karma and advanced cosmic beings more than a single testable landing date. Heaven’s Gate, by contrast, locked its final meaning to a specific cosmic sign. Chen Tao locked its public credibility to exact March 1998 events. The more a movement attaches salvation to a checkable date, the more explosive the failure becomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aetherius.org/?srsltid=AfmBOoproQeaQT3amP19NG2PcyZwdZCTCVqZ-rZNUkEeWxIQuoIrQ4yw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aetherius.org">[The Aetherius Society+2heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aetherius.org</span><span class="citation-popover-title">UFOs &amp; Spiritual Aliens. Where do UFOs come from? Why are they here?Read more</span><span class="citation-popover-snippet">The Aetherius SocietyThe Aetherius Society - Official International SiteApril 25, 2026 — Invoking spiritual energy to charge a spiritual...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-3-dark.svg" | relative_url }}" alt="UFO Religion illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_ufo_religion_672c73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -530,194 +530,194 @@ The comparison also prevents a common mistake. “Failed prophecy” does not ha
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Claims Become Religion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Claims Become Religion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly examines Dorothy Martin&#x27;s flying-saucer prophecy and how believers responded when predictions failed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Dorothy Martin&#x27;s flying-saucer prophecy and how believers responded when predictions failed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford handbook of new religious movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/125689-M.jpg" alt="Cover for The Oxford handbook of new religious movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
-        </h4>
-        <p class="fr-book-author">By James R Lewis, James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford handbook of new religious movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/125689-M.jpg" alt="Cover for The Oxford handbook of new religious movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
+</h4>
+<p class="fr-book-author">By James R Lewis, James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Cults, Sectes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Cults, Sectes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+new+religious+movements+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of new religious movements books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+new+religious+movements+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of new religious movements books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="{{ '/assets/images/marketplace-covers/6b15c2830d86d971cff6.jpg' | relative_url }}" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="{{ '/assets/images/marketplace-covers/338af33276410882a5b1.jpg' | relative_url }}" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch" data-ebay-reference="ufo-religion-when-ufo-claims-become-religion-failed-predictions-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -733,7 +733,7 @@ The comparison also prevents a common mistake. “Failed prophecy” does not ha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -753,7 +753,7 @@ The comparison also prevents a common mistake. “Failed prophecy” does not ha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -785,7 +785,7 @@ The comparison also prevents a common mistake. “Failed prophecy” does not ha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -837,7 +837,7 @@ The comparison also prevents a common mistake. “Failed prophecy” does not ha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -882,7 +882,7 @@ The comparison also prevents a common mistake. “Failed prophecy” does not ha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -923,176 +923,176 @@ The comparison also prevents a common mistake. “Failed prophecy” does not ha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciety.org  
    Title: Debunking "When Prophecy Fails"  
-   Link: <a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</p></details>
+   Link:<a href="https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.31235/osf.io/9j7qc_v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot; - Sciety5 Oct 2025 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her follow...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Chen Tao  
-   Link: <a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Garland, Texas, would be the place where God would come, Chen pr...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Chen-Tao" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Chen-Tao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaChen Tao | History, Beliefs, &amp; Facts22 May 2026 — Garland, Texas, would be the place where God would come, Chen pr...</p></details>
    Published: May 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — A recently published book, Aboard a Flying Saucer by UFO contactee Truman... flying saucers and extraterrestrial visitors...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — A recently published book, Aboard a Flying Saucer by UFO contactee Truman... flying saucers and extraterrestrial visitors...</p></details>
    Published: May 3, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aetherius.org  
    Title: UFOs & Spiritual Aliens. Where do UFOs come from? Why are they here?Read more  
-   Link: <a href="https://www.aetherius.org/?srsltid=AfmBOoproQeaQT3amP19NG2PcyZwdZCTCVqZ-rZNUkEeWxIQuoIrQ4yw" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/?srsltid=AfmBOoproQeaQT3amP19NG2PcyZwdZCTCVqZ-rZNUkEeWxIQuoIrQ4yw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aetherius SocietyThe Aetherius Society - Official International SiteApril 25, 2026 — Invoking spiritual energy to charge a spiritual...</p></details>
+   Link:<a href="https://www.aetherius.org/?srsltid=AfmBOoproQeaQT3amP19NG2PcyZwdZCTCVqZ-rZNUkEeWxIQuoIrQ4yw" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/?srsltid=AfmBOoproQeaQT3amP19NG2PcyZwdZCTCVqZ-rZNUkEeWxIQuoIrQ4yw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aetherius SocietyThe Aetherius Society - Official International SiteApril 25, 2026 — Invoking spiritual energy to charge a spiritual...</p></details>
    Published: April 25, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: heavensgate.com  
    Title: Heaven's Gate  
-   Link: <a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How and When It May Be Entered...</p></details>
+   Link:<a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How and When It May Be Entered...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Chen Tao (UFO religion)  
-   Link: <a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chen_Tao_%28UFO_religion%29</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cesnur.org  
-   Link: <a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
+   Link:<a href="https://www.cesnur.org/testi/bryn/chen_cook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cesnur.org/testi/bryn/chen_cook.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Southern Television broadcast interruption  
-   Link: <a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Marshall Applewhite  
-   Link: <a href="https://en.wikipedia.org/wiki/Marshall_Applewhite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marshall_Applewhite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Marshall_Applewhite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marshall_Applewhite</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of UFO religions  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO_religions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_religions</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_UFO_religions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_religions</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Aetherius Society  
-   Link: <a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aetherius_Society</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aetherius_Society</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aetherius.org  
-   Link: <a href="https://www.aetherius.org/cooperating-with-the-gods/operation-prayer-power/?srsltid=AfmBOoqnEz92beeXyxad6CFSONYdixk_DhektZKpyRoSU52PSLyfoiRz" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/cooperating-with-the-gods/operation-prayer-power/?srsltid=AfmBOoqnEz92beeXyxad6CFSONYdixk_DhektZKpyRoSU52PSLyfoiRz</a>  
+   Link:<a href="https://www.aetherius.org/cooperating-with-the-gods/operation-prayer-power/?srsltid=AfmBOoqnEz92beeXyxad6CFSONYdixk_DhektZKpyRoSU52PSLyfoiRz" target="_blank" rel="noopener noreferrer nofollow">https://www.aetherius.org/cooperating-with-the-gods/operation-prayer-power/?srsltid=AfmBOoqnEz92beeXyxad6CFSONYdixk_DhektZKpyRoSU52PSLyfoiRz</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
+   Link:<a href="https://www.britannica.com/list/10-failed-doomsday-predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/list/10-failed-doomsday-predictions</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: britannica.com  
    Title: Leon Festinger  
-   Link: <a href="https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance</a>  
+   Link:<a href="https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: time.com  
    Title: the man who spread the myth  
-   Link: <a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
+   Link:<a href="https://time.com/archive/6730620/the-man-who-spread-the-myth/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6730620/the-man-who-spread-the-myth/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: space.com  
    Title: 19931 hale bopp  
-   Link: <a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
+   Link:<a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: history.com  
    Title: heavens gate mass suicide  
-   Link: <a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
+   Link:<a href="https://www.history.com/articles/heavens-gate-mass-suicide" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/heavens-gate-mass-suicide</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
+   Link:<a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
+   Link:<a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ashtar</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: books.google.com  
    Title: [Heaven s Gate](&#123;&#123; 'heaven-s-gate/' | relative_url &#125;&#125;)  
-   Link: <a href="https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: books.google.com  
    Title: UFO Religions  
-   Link: <a href="https://books.google.com/books/about/UFO_Religions.html?hl=ru&amp;id=6-kkOBKTjK0C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/UFO_Religions.html?hl=ru&amp;id=6-kkOBKTjK0C</a>  
+   Link:<a href="https://books.google.com/books/about/UFO_Religions.html?hl=ru&amp;id=6-kkOBKTjK0C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/UFO_Religions.html?hl=ru&amp;id=6-kkOBKTjK0C</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archiv.ub.uni-marburg.de  
-   Link: <a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3762/3578/7599" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3762/3578/7599</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World View of the Aetherius Societypaper1 examines a contemporary flying saucer religion, namely, the Aetherius Society, and attempts...</p></details>
+   Link:<a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3762/3578/7599" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3762/3578/7599</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World View of the Aetherius Societypaper1 examines a contemporary flying saucer religion, namely, the Aetherius Society, and attempts...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — One coauthor, Henry Riecken, posed as a spiritual authority and lat...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — One coauthor, Henry Riecken, posed as a spiritual authority and lat...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: When Prophecy Fails — The System Behind Doubling Down  
-   Link: <a href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yJ3ilyecMBU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — Why Failed Beliefs Get Stronger...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yJ3ilyecMBU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yJ3ilyecMBU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Prophecy Fails — Why Failed Beliefs Get Stronger...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
+   Link:<a href="https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/111166558/UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
+   Link:<a href="https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/216661364_Reporters_in_God-land_Texas_The_Role_of_the_Mass_Media_in_a_New_Religious_Movement%27s_Adaptation_to_Suburban_America</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
+   Link:<a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
+   Link:<a href="https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714759_Individual_Suicide_and_the_End_of_the_World_Destruction_and_Transformation_in_UFO_and_Alien-Based_Religions</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: uvm.edu  
-   Link: <a href="https://www.uvm.edu/~lkaelber/teaching/Aetherius.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.uvm.edu/~lkaelber/teaching/Aetherius.docx</a>  
+   Link:<a href="https://www.uvm.edu/~lkaelber/teaching/Aetherius.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.uvm.edu/~lkaelber/teaching/Aetherius.docx</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/158r3si/ashtar_command_good_or_evil_evacuation_or_harvest/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/961193407/Untitled-Document" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/961193407/Untitled-Document</a>  
+   Link:<a href="https://www.scribd.com/document/961193407/Untitled-Document" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/961193407/Untitled-Document</a>  

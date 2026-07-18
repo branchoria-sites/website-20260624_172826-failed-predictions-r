@@ -280,268 +280,268 @@ image: /assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens
 
 ## Introduction
 
-Among failed UFO-related predictions, few cases became as culturally durable as Heaven’s Gate. After the deaths of 39 members in California in March 1997, public memory quickly condensed a complex religious movement into a handful of images: the Hale–Bopp comet, a rented mansion, identical clothing, a surviving website, and the idea of an “internet cult”. The resulting [media]({{ 'media/' | relative_url }}) narrative was powerful because it connected two late-1990s anxieties at once: fears about unconventional religions and fears about the rapidly expanding internet. Yet scholars of new religious movements have repeatedly argued that the “internet cult” label obscured more than it explained. Heaven’s Gate used the web, but its origins, beliefs, leadership structure and UFO theology predated the commercial internet by decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
+Among failed UFO-related predictions, few cases became as culturally durable as Heaven’s Gate. After the deaths of 39 members in California in March 1997, public memory quickly condensed a complex religious movement into a handful of images: the Hale–Bopp comet, a rented mansion, identical clothing, a surviving website, and the idea of an “internet cult”. The resulting [media]({{ 'media/' | relative_url }}) narrative was powerful because it connected two late-1990s anxieties at once: fears about unconventional religions and fears about the rapidly expanding internet. Yet scholars of new religious movements have repeatedly argued that the “internet cult” label obscured more than it explained. Heaven’s Gate used the web, but its origins, beliefs, leadership structure and UFO theology predated the commercial internet by decades.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-1-dark.svg" | relative_url }}" alt="Internet Cult illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader story of failed UFO predictions, Heaven’s Gate illustrates how media coverage can transform a prophetic failure into a lasting cultural symbol. The comet became the headline, while the group’s longer history largely disappeared from popular memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
+Within the broader story of failed UFO predictions, Heaven’s Gate illustrates how media coverage can transform a prophetic failure into a lasting cultural symbol. The comet became the headline, while the group’s longer history largely disappeared from popular memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dju4F0twu0A" title="Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer">Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dju4F0twu0A">Open on YouTube</a></p></div></div></div>
 
 ## Hale–Bopp as a Public Symbol
 
-The immediate media story centred on the belief that a spacecraft was associated with the Hale–Bopp comet and that departure from Earth was imminent. Because the comet was visible to the public and widely discussed in news coverage, it offered journalists a simple visual hook. A complicated religious worldview could be reduced to a single memorable image: believers expecting salvation through a spacecraft linked to a famous comet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idosr.org">[idosr.org+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idosr.org</span><span class="citation-popover-snippet">eling behind the Hale-Bopp comet.Much more than a Net cult, Heaven&#x27;s Gate was a UFO cult.Read more...</span></span></span>
+The immediate media story centred on the belief that a spacecraft was associated with the Hale–Bopp comet and that departure from Earth was imminent. Because the comet was visible to the public and widely discussed in news coverage, it offered journalists a simple visual hook. A complicated religious worldview could be reduced to a single memorable image: believers expecting salvation through a spacecraft linked to a famous comet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idosr.org">[idosr.org+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idosr.org</span><span class="citation-popover-snippet">eling behind the Hale-Bopp comet.Much more than a Net cult, Heaven&#x27;s Gate was a UFO cult.Read more...</span></span></span>
 
-That simplification mattered. Heaven’s Gate had evolved through multiple doctrinal phases since the 1970s, drawing on UFO beliefs, apocalyptic expectations, Christian themes and the teachings of [leaders]({{ 'leaders/' | relative_url }}) Marshall Applewhite and Bonnie Nettles. By 1997, however, many reports focused almost exclusively on the final prophetic moment connected to Hale–Bopp. The failed expectation and the group’s deaths became inseparable in public memory, overshadowing the movement’s longer development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+That simplification mattered. Heaven’s Gate had evolved through multiple doctrinal phases since the 1970s, drawing on UFO beliefs, apocalyptic expectations, Christian themes and the teachings of [leaders]({{ 'leaders/' | relative_url }}) Marshall Applewhite and Bonnie Nettles. By 1997, however, many reports focused almost exclusively on the final prophetic moment connected to Hale–Bopp. The failed expectation and the group’s deaths became inseparable in public memory, overshadowing the movement’s longer development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
 
-The process resembles other media spectacles around [failed predictions]({{ 'failed-predictions/' | relative_url }}). A movement may spend decades constructing a theology, but public attention often arrives only when a visible prediction appears to reach a deadline. In Heaven’s Gate’s case, Hale–Bopp became the symbol through which the entire movement was remembered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
+The process resembles other media spectacles around [failed predictions]({{ 'failed-predictions/' | relative_url }}). A movement may spend decades constructing a theology, but public attention often arrives only when a visible prediction appears to reach a deadline. In Heaven’s Gate’s case, Hale–Bopp became the symbol through which the entire movement was remembered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gNBhI2lIkw8" title="Followers followed strict routines inside Heaven&#x27;s Gate mansion: 20/20 ‘The Cult Next Door’ Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gNBhI2lIkw8" target="_blank" rel="noopener noreferrer">Followers followed strict routines inside Heaven&#x27;s Gate mansion: 20/20 ‘The Cult Next Door’ Preview</a></p><p class="youtube-embed-meta">Channel: ABC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gNBhI2lIkw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gNBhI2lIkw8">Open on YouTube</a></p></div></div></div>
 
 ## Why the Internet Angle Dominated Coverage
 
-The internet was still relatively new to many news audiences in 1997. Reporters discovered that Heaven’s Gate maintained a website, used email and had recruited some members through online channels. Those details immediately attracted attention because they connected a shocking event to a technology that many people were only beginning to encounter in everyday life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Heaven&#x27;s Gate: The End</span><span class="citation-popover-snippet">Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 — This paper looks at online material produced by the cult and th...</span></span></span>
+The internet was still relatively new to many news audiences in 1997. Reporters discovered that Heaven’s Gate maintained a website, used email and had recruited some members through online channels. Those details immediately attracted attention because they connected a shocking event to a technology that many people were only beginning to encounter in everyday life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Heaven&#x27;s Gate: The End</span><span class="citation-popover-snippet">Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 — This paper looks at online material produced by the cult and th...</span></span></span>
 
-Media accounts frequently portrayed Heaven’s Gate as a uniquely digital phenomenon. Contemporary observers even described the case as a potential “first great Internet mystery”, reflecting the sense that cyberspace itself might be implicated in the tragedy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Heaven&#x27;s Gate: The End</span><span class="citation-popover-snippet">Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 — This paper looks at online material produced by the cult and th...</span></span></span>
+Media accounts frequently portrayed Heaven’s Gate as a uniquely digital phenomenon. Contemporary observers even described the case as a potential “first great Internet mystery”, reflecting the sense that cyberspace itself might be implicated in the tragedy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Heaven&#x27;s Gate: The End</span><span class="citation-popover-snippet">Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 — This paper looks at online material produced by the cult and th...</span></span></span>
 
 Several factors made the internet frame attractive:
 
 * It was novel and easy to explain.
 * It linked the story to broader public concerns about online influence.
 * The group’s website provided a visible artefact that journalists could show audiences.
-* The website survived after the deaths, creating an unusually tangible digital remnant of the movement. Heaven's Gate+2TNW | The heart of tech <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
+* The website survived after the deaths, creating an unusually tangible digital remnant of the movement. Heaven's Gate+2TNW | The heart of tech<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[heavensgate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
 
-The persistence of the site reinforced the association. Decades later, articles and social-media discussions still highlight the fact that the Heaven’s Gate website remains online, often treating it as evidence of the group’s supposedly unique connection to internet culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thenextweb.com/news/the-gate-is-closed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenextweb.com">[TNW &#124; The heart of tech+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenextweb.com</span><span class="citation-popover-title">the gate is closed</span><span class="citation-popover-snippet">TNW &#124; The heart of techThe Curious Online Afterlife of a 20th Century Suicide CultApr 30, 2015 — On May 8, 2014, I sent an email to the i...</span><span class="citation-popover-meta">Published: May 8, 2014</span></span></span>
+The persistence of the site reinforced the association. Decades later, articles and social-media discussions still highlight the fact that the Heaven’s Gate website remains online, often treating it as evidence of the group’s supposedly unique connection to internet culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thenextweb.com/news/the-gate-is-closed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenextweb.com">[TNW &#124; The heart of tech+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenextweb.com</span><span class="citation-popover-title">the gate is closed</span><span class="citation-popover-snippet">TNW &#124; The heart of techThe Curious Online Afterlife of a 20th Century Suicide CultApr 30, 2015 — On May 8, 2014, I sent an email to the i...</span><span class="citation-popover-meta">Published: May 8, 2014</span></span></span>
 
-This emphasis fit a broader late-1990s media pattern. News organisations were trying to understand the social consequences of digital communication, and Heaven’s Gate offered a dramatic case through which those concerns could be expressed. The internet became part of the explanation even when it was not the primary cause of the group’s beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Heaven&#x27;s Gate: The End</span><span class="citation-popover-snippet">Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 — This paper looks at online material produced by the cult and th...</span></span></span>
+This emphasis fit a broader late-1990s media pattern. News organisations were trying to understand the social consequences of digital communication, and Heaven’s Gate offered a dramatic case through which those concerns could be expressed. The internet became part of the explanation even when it was not the primary cause of the group’s beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Heaven&#x27;s Gate: The End</span><span class="citation-popover-snippet">Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 — This paper looks at online material produced by the cult and th...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-2-dark.svg" | relative_url }}" alt="Internet Cult illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Simplified Memory Leaves Out
 
-The strongest scholarly criticism of the “internet cult” label is that it reverses the chronology of the movement. Heaven’s Gate emerged in the early 1970s, long before the World Wide Web existed. Its leadership, doctrines, communal practices and UFO theology developed over decades rather than through online interaction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
+The strongest scholarly criticism of the “internet cult” label is that it reverses the chronology of the movement. Heaven’s Gate emerged in the early 1970s, long before the World Wide Web existed. Its leadership, doctrines, communal practices and UFO theology developed over decades rather than through online interaction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
 
-Researchers examining the group have argued that media coverage often treated internet use as more significant than the evidence justified. Douglas Cowan, for example, criticised the widespread assumption that Heaven’s Gate was fundamentally an internet cult, noting that the label reflected media framing more than the movement’s actual history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259732143_Review_Heaven%27s_Gate_Postmodernity_and_Popular_Culture_in_a_Suicide_Group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Review: Heaven&#x27;s Gate: Postmodernity and Popular</span><span class="citation-popover-snippet">false presupposition created by the media that Heaven&#x27;s Gate was an. Internet cult, and that the diffusion of online technological innova...</span></span></span>
+Researchers examining the group have argued that media coverage often treated internet use as more significant than the evidence justified. Douglas Cowan, for example, criticised the widespread assumption that Heaven’s Gate was fundamentally an internet cult, noting that the label reflected media framing more than the movement’s actual history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259732143_Review_Heaven%27s_Gate_Postmodernity_and_Popular_Culture_in_a_Suicide_Group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Review: Heaven&#x27;s Gate: Postmodernity and Popular</span><span class="citation-popover-snippet">false presupposition created by the media that Heaven&#x27;s Gate was an. Internet cult, and that the diffusion of online technological innova...</span></span></span>
 
 Several important aspects of the movement were pushed into the background:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Its long pre-internet history.** The group had existed for more than twenty years before the events of 1997. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
-* **Its religious roots.** Beliefs drew not only from UFO narratives but also from Christian apocalyptic themes and millenarian expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
-* **The role of leadership.** Marshall Applewhite’s authority and the earlier influence of Bonnie Nettles were central to the movement’s evolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
-* **Doctrinal change over time.** The group repeatedly revised its teachings, including its understanding of bodily transformation and salvation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">This dark event quickly became the subject of mockery, notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</span></span></span>
+* **Its long pre-internet history.** The group had existed for more than twenty years before the events of 1997.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+* **Its religious roots.** Beliefs drew not only from UFO narratives but also from Christian apocalyptic themes and millenarian expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
+* **The role of leadership.** Marshall Applewhite’s authority and the earlier influence of Bonnie Nettles were central to the movement’s evolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Heaven&#x27;s Gate (religious group</span><span class="citation-popover-snippet">Heaven&#x27;s Gate (religious group</span></span></span>
+* **Doctrinal change over time.** The group repeatedly revised its teachings, including its understanding of bodily transformation and salvation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">This dark event quickly became the subject of mockery, notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</span></span></span>
 
 </div>
 
-When these elements disappear, the story becomes easier to tell but less accurate. The internet frame encourages the impression that online technology created the movement, when the historical evidence shows that the movement largely adapted existing beliefs to new communication tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/nr/article-pdf/16/4/135/317375/nr_2013_16_4_135.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[UC Press Online+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-snippet">UC Press OnlineHeaven&#x27;s GateDouglas E. Cowan explores the false presupposition created by the media that Heaven&#x27;s Gate was an. Internet c...</span></span></span>
+When these elements disappear, the story becomes easier to tell but less accurate. The internet frame encourages the impression that online technology created the movement, when the historical evidence shows that the movement largely adapted existing beliefs to new communication tools.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://online.ucpress.edu/nr/article-pdf/16/4/135/317375/nr_2013_16_4_135.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[UC Press Online+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-snippet">UC Press OnlineHeaven&#x27;s GateDouglas E. Cowan explores the false presupposition created by the media that Heaven&#x27;s Gate was an. Internet c...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lj_cyTt4SxE" title="The BRUTALITY Of The Heaven&#x27;s Gate Cult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer">The BRUTALITY Of The Heaven&#x27;s Gate Cult</a></p><p class="youtube-embed-meta">Channel: Kallmekris</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lj_cyTt4SxE">Open on YouTube</a></p></div></div></div>
 
 ## How the Internet-Cult Narrative Endured
 
-The durability of the internet-cult label demonstrates how media memory often works. Public recollections tend to preserve a few striking symbols rather than a detailed historical record. For Heaven’s Gate, those symbols became the comet, the website, the mansion, and the idea of technologically mediated belief. TNW | The heart of tech+2ABC7 New York <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thenextweb.com/news/the-gate-is-closed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenextweb.com">[thenextweb.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenextweb.com</span><span class="citation-popover-title">the gate is closed</span><span class="citation-popover-snippet">TNW &#124; The heart of techThe Curious Online Afterlife of a 20th Century Suicide CultApr 30, 2015 — On May 8, 2014, I sent an email to the i...</span><span class="citation-popover-meta">Published: May 8, 2014</span></span></span>
+The durability of the internet-cult label demonstrates how media memory often works. Public recollections tend to preserve a few striking symbols rather than a detailed historical record. For Heaven’s Gate, those symbols became the comet, the website, the mansion, and the idea of technologically mediated belief. TNW | The heart of tech+2ABC7 New York<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thenextweb.com/news/the-gate-is-closed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenextweb.com">[thenextweb.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenextweb.com</span><span class="citation-popover-title">the gate is closed</span><span class="citation-popover-snippet">TNW &#124; The heart of techThe Curious Online Afterlife of a 20th Century Suicide CultApr 30, 2015 — On May 8, 2014, I sent an email to the i...</span><span class="citation-popover-meta">Published: May 8, 2014</span></span></span>
 
-The irony is that the website’s continued existence has helped sustain the very interpretation many scholars question. Because people can still visit the site, it remains a visible reminder of the movement’s online presence. The longer religious history behind it is far less visible and therefore easier to forget. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
+The irony is that the website’s continued existence has helped sustain the very interpretation many scholars question. Because people can still visit the site, it remains a visible reminder of the movement’s online presence. The longer religious history behind it is far less visible and therefore easier to forget.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavensgate.com">[Heaven&#x27;s Gate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavensgate.com</span><span class="citation-popover-snippet">Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</span></span></span>
 
-As a case within the history of failed UFO predictions, Heaven’s Gate shows how media spectacle can reshape collective memory. The failed expectation associated with Hale–Bopp was real and historically significant, but the enduring image of an “internet cult” emerged from a second process: the conversion of a complex religious movement into a concise, technologically themed news story. Scholars continue to regard that simplification as one of the most revealing aspects of Heaven’s Gate’s public afterlife. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
+As a case within the history of failed UFO predictions, Heaven’s Gate shows how media spectacle can reshape collective memory. The failed expectation associated with Hale–Bopp was real and historically significant, but the enduring image of an “internet cult” emerged from a second process: the conversion of a complex religious movement into a concise, technologically themed news story. Scholars continue to regard that simplification as one of the most revealing aspects of Heaven’s Gate’s public afterlife.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2UC Press Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Heaven&#x27;s Gate: the End</span><span class="citation-popover-snippet">Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-3-dark.svg" | relative_url }}" alt="Internet Cult illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_media_spectacle_1aedf5_heavens_gate_interne_6540a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Heaven&#x27;s Gate Became an Internet Cult Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Heaven&#x27;s Gate Became an Internet Cult Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Thaler Singer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
+</h4>
+<p class="fr-book-author">By Margaret Thaler Singer</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Religion, Cults, Heaven&#x27;s Gate (Organization), Heaven&#x27;s Gate, UFO-Bewegung.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s Gate: America&#x27;s UFO Religion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s Gate: America&#x27;s UFO Religion">Heaven&#x27;s Gate: America&#x27;s UFO Religion</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin E. Zeller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s Gate: America&#x27;s UFO Religion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s Gate: America&#x27;s UFO Religion">Heaven&#x27;s Gate: America&#x27;s UFO Religion</a>
+</h4>
+<p class="fr-book-author">By Benjamin E. Zeller</p>
         
-        <p class="fr-book-desc">Directly addresses the movement and its beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the movement and its beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="internet-cult-how-heaven-s-gate-became-an-internet-cult-story-failed-predictions-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ As a case within the history of failed UFO predictions, Heaven’s Gate shows ho
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ As a case within the history of failed UFO predictions, Heaven’s Gate shows ho
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ As a case within the history of failed UFO predictions, Heaven’s Gate shows ho
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ As a case within the history of failed UFO predictions, Heaven’s Gate shows ho
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ As a case within the history of failed UFO predictions, Heaven’s Gate shows ho
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,191 +747,191 @@ As a case within the history of failed UFO predictions, Heaven’s Gate shows ho
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
    Title: Academic Heaven's Gate: the End  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marshall Herff... Cult members had insurance against alien abduction [Online]. Available...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Heaven's Gate: The End  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 — This paper looks at online material produced by the cult and th...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.1997.tb00077.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHeaven&#x27;s Gate: The End - Robinson - 199723 Jun 2006 — This paper looks at online material produced by the cult and th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: idosr.org  
-   Link: <a href="https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eling behind the Hale-Bopp comet.Much more than a Net cult, Heaven&#x27;s Gate was a UFO cult.Read more...</p></details>
+   Link:<a href="https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idosr.org/wp-content/uploads/2021/03/IDOSR-JCE-61-24-34-2021..pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eling behind the Hale-Bopp comet.Much more than a Net cult, Heaven&#x27;s Gate was a UFO cult.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: heavens gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: people.com  
    Title: heavens gate cult suicide anniversary 11914222  
-   Link: <a href="https://people.com/heavens-gate-cult-suicide-anniversary-11914222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/heavens-gate-cult-suicide-anniversary-11914222</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mass suicide was carried out over three days in Rancho Santa Fe, California, with members ingesting barbiturates mixed with applesauc...</p></details>
+   Link:<a href="https://people.com/heavens-gate-cult-suicide-anniversary-11914222" target="_blank" rel="noopener noreferrer nofollow">https://people.com/heavens-gate-cult-suicide-anniversary-11914222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mass suicide was carried out over three days in Rancho Santa Fe, California, with members ingesting barbiturates mixed with applesauc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thenextweb.com  
    Title: the gate is closed  
-   Link: <a href="https://thenextweb.com/news/the-gate-is-closed" target="_blank" rel="noopener noreferrer nofollow">https://thenextweb.com/news/the-gate-is-closed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TNW | The heart of techThe Curious Online Afterlife of a 20th Century Suicide CultApr 30, 2015 — On May 8, 2014, I sent an email to the i...</p></details>
+   Link:<a href="https://thenextweb.com/news/the-gate-is-closed" target="_blank" rel="noopener noreferrer nofollow">https://thenextweb.com/news/the-gate-is-closed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TNW | The heart of techThe Curious Online Afterlife of a 20th Century Suicide CultApr 30, 2015 — On May 8, 2014, I sent an email to the i...</p></details>
    Published: May 8, 2014  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: the heavens gate website from 1997 is still  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1sjolkd/the_heavens_gate_website_from_1997_is_still/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1sjolkd/the_heavens_gate_website_from_1997_is_still/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate website from 1997 is STILL online and...2.5K votes, 253 comments. Unironically really cool to see scraps of the old In...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1sjolkd/the_heavens_gate_website_from_1997_is_still/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1sjolkd/the_heavens_gate_website_from_1997_is_still/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate website from 1997 is STILL online and...2.5K votes, 253 comments. Unironically really cool to see scraps of the old In...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: the heavens gate cult website is still up after  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archived post. New comments cannot be posted and votes cannot be cast.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1b5xetm/the_heavens_gate_cult_website_is_still_up_after/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archived post. New comments cannot be posted and votes cannot be cast.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Review: Heaven's Gate: Postmodernity and Popular  
-   Link: <a href="https://www.researchgate.net/publication/259732143_Review_Heaven%27s_Gate_Postmodernity_and_Popular_Culture_in_a_Suicide_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259732143_Review_Heaven%27s_Gate_Postmodernity_and_Popular_Culture_in_a_Suicide_Group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>false presupposition created by the media that Heaven&#x27;s Gate was an. Internet cult, and that the diffusion of online technological innova...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259732143_Review_Heaven%27s_Gate_Postmodernity_and_Popular_Culture_in_a_Suicide_Group" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259732143_Review_Heaven%27s_Gate_Postmodernity_and_Popular_Culture_in_a_Suicide_Group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>false presupposition created by the media that Heaven&#x27;s Gate was an. Internet cult, and that the diffusion of online technological innova...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1083 6101.1997.tb00077.x  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1083-6101.1997.tb00077.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comHeaven&#x27;s Gate: The End - Robinson - 1997by WG Robinson · 1997 · Cited by 46 — This paper looks at online material produced by th...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1083-6101.1997.tb00077.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1083-6101.1997.tb00077.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comHeaven&#x27;s Gate: The End - Robinson - 1997by WG Robinson · 1997 · Cited by 46 — This paper looks at online material produced by th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: Journal of the American Medical Association, 278(3), 191  
-   Link: <a href="https://www.researchgate.net/publication/328343722_Metaphorical_Re-Framing_as_Equipment_for_Living_Confronting_Death_with_Exuberance_in_the_Exit_Interviews_of_Heaven%27s_Gate_Followers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328343722_Metaphorical_Re-Framing_as_Equipment_for_Living_Confronting_Death_with_Exuberance_in_the_Exit_Interviews_of_Heaven%27s_Gate_Followers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Metaphorical Re-Framing as &quot;Equipment for Living&quot;Oct 17, 2018 — Psychiatrist explores Apocalyptic violence in Heaven&#x27;s Gate and Aum...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/328343722_Metaphorical_Re-Framing_as_Equipment_for_Living_Confronting_Death_with_Exuberance_in_the_Exit_Interviews_of_Heaven%27s_Gate_Followers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328343722_Metaphorical_Re-Framing_as_Equipment_for_Living_Confronting_Death_with_Exuberance_in_the_Exit_Interviews_of_Heaven%27s_Gate_Followers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Metaphorical Re-Framing as &quot;Equipment for Living&quot;Oct 17, 2018 — Psychiatrist explores Apocalyptic violence in Heaven&#x27;s Gate and Aum...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article-abstract/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article-abstract/3/3/JCMC334/4584381</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oup.comHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — This paper looks at online material produced by the...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article-abstract/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article-abstract/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oup.comHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 45 — This paper looks at online material produced by the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The BRUTALITY Of The Heaven's Gate Cult  
-   Link: <a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Heaven&#x27;s Gate&quot; media coverage news Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview AB...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lj_cyTt4SxE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lj_cyTt4SxE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Heaven&#x27;s Gate&quot; media coverage news Videos inside Heaven&#x27;s Gate house reveal those lured into cult: 20/20 ‘The Cult Next Door’ Preview AB...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: online.ucpress.edu  
-   Link: <a href="https://online.ucpress.edu/nr/article-pdf/16/4/135/317375/nr_2013_16_4_135.pdf" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/nr/article-pdf/16/4/135/317375/nr_2013_16_4_135.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Press OnlineHeaven&#x27;s GateDouglas E. Cowan explores the false presupposition created by the media that Heaven&#x27;s Gate was an. Internet c...</p></details>
+   Link:<a href="https://online.ucpress.edu/nr/article-pdf/16/4/135/317375/nr_2013_16_4_135.pdf" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/nr/article-pdf/16/4/135/317375/nr_2013_16_4_135.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC Press OnlineHeaven&#x27;s GateDouglas E. Cowan explores the false presupposition created by the media that Heaven&#x27;s Gate was an. Internet c...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: heavensgate.com  
-   Link: <a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</p></details>
+   Link:<a href="https://www.heavensgate.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavensgate.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateHeaven&#x27;s Gate - How and When It May Be EnteredHow and When Heaven&#x27;s Gate, the Door to the Physical Kingdom Level Above Human...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This dark event quickly became the subject of [mockery](&amp;#123;&amp;#123; &#x27;mockery/&#x27; | relative_url &amp;#125;&amp;#125;), notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2020/12/heavens-gate-cult-of-cults-docuseries-hbo-max</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This dark event quickly became the subject of [mockery](&amp;#123;&amp;#123; &#x27;mockery/&#x27; | relative_url &amp;#125;&amp;#125;), notably on Saturday Night Live. HBO Max&#x27;s documentary series &quot;Heaven&#x27;s Gate: The C...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abc7ny.com  
    Title: This is how ABC7 covered the story.Read more  
-   Link: <a href="https://abc7ny.com/videoClip/11620186/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/videoClip/11620186/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 New YorkHeaven&#x27;s Gate: Original 1997 coverage from Eyewitness...11 Mar 2022 — &quot;The Cult Next Door: The Mystery and Madness of Heave...</p></details>
+   Link:<a href="https://abc7ny.com/videoClip/11620186/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/videoClip/11620186/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 New YorkHeaven&#x27;s Gate: Original 1997 coverage from Eyewitness...11 Mar 2022 — &quot;The Cult Next Door: The Mystery and Madness of Heave...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t KnowMar 24, 2017 — From cult members&#x27; eating habits to the sneakers the group wore dur...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t KnowMar 24, 2017 — From cult members&#x27; eating habits to the sneakers the group wore dur...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cult started in the early 1970s.... On March 26, 1997, an anonymous...Read more...</p></details>
+   Link:<a href="https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/heavens-gate-survivor-reflects-cults-mass-suicide-25/story?id=83213680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The cult started in the early 1970s.... On March 26, 1997, an anonymous...Read more...</p></details>
    Published: March 26, 1997  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: userblogs.fu-berlin.de  
    Title: the heavens gate cult website as a study in internet abandonment  
-   Link: <a href="https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/2023/03/24/the-heavens-gate-cult-website-as-a-study-in-internet-abandonment/" target="_blank" rel="noopener noreferrer nofollow">https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/2023/03/24/the-heavens-gate-cult-website-as-a-study-in-internet-abandonment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate Cult Website as a Study in Internet...24 Mar 2023 — I focus on the still-running website of &#x27;Heaven&#x27;s Gate&#x27;, an infamous U...</p></details>
+   Link:<a href="https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/2023/03/24/the-heavens-gate-cult-website-as-a-study-in-internet-abandonment/" target="_blank" rel="noopener noreferrer nofollow">https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/2023/03/24/the-heavens-gate-cult-website-as-a-study-in-internet-abandonment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate Cult Website as a Study in Internet...24 Mar 2023 — I focus on the still-running website of &#x27;Heaven&#x27;s Gate&#x27;, an infamous U...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dokumen.pub  
    Title: heavens gate americas [ufo religion](&#123;&#123; 'ufo-religion/' | relative_url &#125;&#125;) 9781479825394  
-   Link: <a href="https://dokumen.pub/heavens-gate-americas-ufo-religion-9781479825394.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/heavens-gate-americas-ufo-religion-9781479825394.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien spacecraft trailing Hale-Bopp comet. Members of Heaven&#x27;s Gate would have... Heaven&#x27;s Gate, “&#x27;UFO Cult&#x27; Resurfaces with Final Offer...</p></details>
+   Link:<a href="https://dokumen.pub/heavens-gate-americas-ufo-religion-9781479825394.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/heavens-gate-americas-ufo-religion-9781479825394.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien spacecraft trailing Hale-Bopp comet. Members of Heaven&#x27;s Gate would have... Heaven&#x27;s Gate, “&#x27;UFO Cult&#x27; Resurfaces with Final Offer...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sdsheriff.gov  
-   Link: <a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation by the San Diego County Sheriff&#x27;s Office determined they all took part in a mass...Read more...</p></details>
+   Link:<a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation by the San Diego County Sheriff&#x27;s Office determined they all took part in a mass...Read more...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ojs.zrc-sazu.si  
-   Link: <a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESThe Cult of Alien Gods: H. P. Lovecraft and Extraterrestrial Pop Culture.... Heaven&#x27;s Gate: America&#x27;s UFO Religion. New York...</p></details>
+   Link:<a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESThe Cult of Alien Gods: H. P. Lovecraft and Extraterrestrial Pop Culture.... Heaven&#x27;s Gate: America&#x27;s UFO Religion. New York...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: digitalcommons.library.umaine.edu  
-   Link: <a href="https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1639&amp;context=honors" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1639&amp;context=honors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examination of the Rhetorical Environments of Cultsby K Camille · 2021 · Cited by 2 — The information that follows in this chapter sectio...</p></details>
+   Link:<a href="https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1639&amp;context=honors" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1639&amp;context=honors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examination of the Rhetorical Environments of Cultsby K Camille · 2021 · Cited by 2 — The information that follows in this chapter sectio...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: the heavens gate cult was founded in the 1970s and became obsessed with the hale  
-   Link: <a href="https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult was founded in the 1970s and...... alien spacecraft hidden behind the Hale-Bopp comet. The cult was led... The T...</p></details>
+   Link:<a href="https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/irishmirror/posts/the-heavens-gate-cult-was-founded-in-the-1970s-and-became-obsessed-with-the-hale/1333234748832540/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Heaven&#x27;s Gate cult was founded in the 1970s and...... alien spacecraft hidden behind the Hale-Bopp comet. The cult was led... The T...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/4881331/The_Gods_of_Outer_Space_The_UFO_Cult_Culture_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4881331/The_Gods_of_Outer_Space_The_UFO_Cult_Culture_Phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, there... Zeller (2006) states that it is religious cults such as Heaven&#x27;s Gate...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/4881331/The_Gods_of_Outer_Space_The_UFO_Cult_Culture_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4881331/The_Gods_of_Outer_Space_The_UFO_Cult_Culture_Phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, there... Zeller (2006) states that it is religious cults such as Heaven&#x27;s Gate...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dju4F0twu0A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Followers followed strict routines inside Heaven&#x27;s Gate mansion: 20/20 ‘The Cult Next Door’ Preview...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Dju4F0twu0A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dju4F0twu0A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Followers followed strict routines inside Heaven&#x27;s Gate mansion: 20/20 ‘The Cult Next Door’ Preview...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: journals.uts.edu  
    Title: 333 new religions cult experts and the media  
-   Link: <a href="https://www.journals.uts.edu/volume-xxii-2021/333-new-religions-cult-experts-and-the-media" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uts.edu/volume-xxii-2021/333-new-religions-cult-experts-and-the-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Religions, Cult Experts, and the MediaRon Loomis, a former President of the ACM&#x27;s once prominent Cult Awareness Network (CAN), sharply di...</p></details>
+   Link:<a href="https://www.journals.uts.edu/volume-xxii-2021/333-new-religions-cult-experts-and-the-media" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uts.edu/volume-xxii-2021/333-new-religions-cult-experts-and-the-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Religions, Cult Experts, and the MediaRon Loomis, a former President of the ACM&#x27;s once prominent Cult Awareness Network (CAN), sharply di...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: daily.jstor.org  
    Title: behind the curtain of the heavens gate cult  
-   Link: <a href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Curtain of the Heaven&#x27;s Gate Cult25 Mar 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a religion scholar e...</p></details>
+   Link:<a href="https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/behind-the-curtain-of-the-heavens-gate-cult/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Curtain of the Heaven&#x27;s Gate Cult25 Mar 2022 — On the 25th anniversary of UFO cult Heaven&#x27;s Gate&#x27;s mass suicide, a religion scholar e...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dash.harvard.edu  
-   Link: <a href="https://dash.harvard.edu/bitstreams/7312037e-6f25-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstreams/7312037e-6f25-6bd4-e053-0100007fdf3b/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social and Cultural Beliefs That Drive Dooms Day...by K Kovach · 2016 · Cited by 1 — Another type of doomsday cult that focuses on alien...</p></details>
+   Link:<a href="https://dash.harvard.edu/bitstreams/7312037e-6f25-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstreams/7312037e-6f25-6bd4-e053-0100007fdf3b/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social and Cultural Beliefs That Drive Dooms Day...by K Kovach · 2016 · Cited by 1 — Another type of doomsday cult that focuses on alien...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ksat.com  
    Title: What Was Heaven's Gate?  
-   Link: <a href="https://www.ksat.com/inside-edition/2020/03/14/what-was-heavens-gate-inside-the-cult-that-shocked-america/?outputType=amp" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/inside-edition/2020/03/14/what-was-heavens-gate-inside-the-cult-that-shocked-america/?outputType=amp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Cult that Shocked...Mar 14, 2020 — In March 1997, 39 members of the cult Heaven&#x27;s Gate were found dead in their beds in a man...</p></details>
+   Link:<a href="https://www.ksat.com/inside-edition/2020/03/14/what-was-heavens-gate-inside-the-cult-that-shocked-america/?outputType=amp" target="_blank" rel="noopener noreferrer nofollow">https://www.ksat.com/inside-edition/2020/03/14/what-was-heavens-gate-inside-the-cult-that-shocked-america/?outputType=amp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Cult that Shocked...Mar 14, 2020 — In March 1997, 39 members of the cult Heaven&#x27;s Gate were found dead in their beds in a man...</p></details>
    Published: March 1997  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gNBhI2lIkw8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gNBhI2lIkw8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in the Heaven&#x27;s Gate Cult? (REUPLOAD)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gNBhI2lIkw8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gNBhI2lIkw8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in the Heaven&#x27;s Gate Cult? (REUPLOAD)...</p></details>

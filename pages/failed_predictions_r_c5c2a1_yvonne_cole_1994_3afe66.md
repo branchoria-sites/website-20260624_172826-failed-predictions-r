@@ -441,7 +441,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-overvi
 
 ## Introduction
 
-Yvonne Cole’s 1994 Ashtar landing claim is a compact example of a failed UFO prediction: a channelled message attached to a definite year, a public expectation of extraterrestrial arrival, and a later absence of the promised event. Cole, presented in New Age and [UFO-religion]({{ 'ufo-religion/' | relative_url }}) sources as a channel for the [Ashtar Command]({{ 'ashtar-command/' | relative_url }}), predicted that the Ashtar fleet and other alien cultures would arrive in 1994, that governments had been preparing humanity for contact, and that the landing would be carried by global media. When no public landing, broadcast message, or world transformation occurred, the claim did not simply disappear. It became part of a wider Ashtar pattern in which physical landing expectations were softened into spiritual contact, ascension, hidden intervention, or inner “voyage” experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+Yvonne Cole’s 1994 Ashtar landing claim is a compact example of a failed UFO prediction: a channelled message attached to a definite year, a public expectation of extraterrestrial arrival, and a later absence of the promised event. Cole, presented in New Age and [UFO-religion]({{ 'ufo-religion/' | relative_url }}) sources as a channel for the [Ashtar Command]({{ 'ashtar-command/' | relative_url }}), predicted that the Ashtar fleet and other alien cultures would arrive in 1994, that governments had been preparing humanity for contact, and that the landing would be carried by global media. When no public landing, broadcast message, or world transformation occurred, the claim did not simply disappear. It became part of a wider Ashtar pattern in which physical landing expectations were softened into spiritual contact, ascension, hidden intervention, or inner “voyage” experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-overview.webp" | relative_url }}" alt="Overview image for 1994 Ashtar" loading="eager" decoding="sync" fetchpriority="high">
@@ -449,11 +449,11 @@ That makes the Cole case useful within the history of failed UFO predictions. It
 
 ## The 1994 prediction
 
-Yvonne Cole appears in the [Ashtar]({{ 'ashtar/' | relative_url }}) tradition as one of several late twentieth-century channelers who claimed to receive communications from Ashtar or the Ashtar Command. A Timeless Voyager programme page describes a circa-1992 interview with Cole in which she is introduced as a “fully conscious telepathic receiver” for the Ashtar Command, and summarises her teaching as involving a galactic organisation assisting humanity’s ascension during a coming planetary change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://timeless-voyager-series.captivate.fm/episode/yvonne-cole-fully-conscious-telepathic-receiver-for-the-ashtar-command-an-organization-of-volunteers-from-all-over-the-galaxy-from-many-planetary-systems-and-intergalactic-sources-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeless-voyager-series.captivate.fm">[timeless-voyager-series.captivate.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeless-voyager-series.captivate.fm</span><span class="citation-popover-snippet">Timeless Voyager Series...</span></span></span>
+Yvonne Cole appears in the [Ashtar]({{ 'ashtar/' | relative_url }}) tradition as one of several late twentieth-century channelers who claimed to receive communications from Ashtar or the Ashtar Command. A Timeless Voyager programme page describes a circa-1992 interview with Cole in which she is introduced as a “fully conscious telepathic receiver” for the Ashtar Command, and summarises her teaching as involving a galactic organisation assisting humanity’s ascension during a coming planetary change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://timeless-voyager-series.captivate.fm/episode/yvonne-cole-fully-conscious-telepathic-receiver-for-the-ashtar-command-an-organization-of-volunteers-from-all-over-the-galaxy-from-many-planetary-systems-and-intergalactic-sources-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeless-voyager-series.captivate.fm">[timeless-voyager-series.captivate.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeless-voyager-series.captivate.fm</span><span class="citation-popover-snippet">Timeless Voyager Series...</span></span></span>
 
-The dated claim most relevant here centres on 1994. Gregory Reece’s account in *UFO Religion: Inside Flying Saucer Cults and Culture* says Cole predicted that the Ashtar Command fleet would arrive on Earth in 1994 and that she trained followers for roles that would help the fleet with its mission. Reece places this after a shift by the earlier Ashtar writer Tuella away from literal evacuation and towards a more spiritualised interpretation of Ashtar teachings, making Cole an example of a continuing literalist strand inside the movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+The dated claim most relevant here centres on 1994. Gregory Reece’s account in *UFO Religion: Inside Flying Saucer Cults and Culture* says Cole predicted that the Ashtar Command fleet would arrive on Earth in 1994 and that she trained followers for roles that would help the fleet with its mission. Reece places this after a shift by the earlier Ashtar writer Tuella away from literal evacuation and towards a more spiritualised interpretation of Ashtar teachings, making Cole an example of a continuing literalist strand inside the movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
-A related account, citing Cole in the spring 1994 issue of *Connecting Link Magazine*, says she claimed world governments had been interacting with extraterrestrials for years and had worked with “light workers” to prepare the public for [disclosure]({{ 'disclosure/' | relative_url }}). In that passage, the conditioning role is assigned to television, newspapers, books, radio and New Age light workers, culminating in the message that the public was ready to be told, “WE ARE HERE.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theprophecies.com/alien-response-to-the-rapture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprophecies.com">[World News + Prophecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprophecies.com</span><span class="citation-popover-title">World News + Prophecy Alien Response to the Rapture &#124; World News + Prophecy</span><span class="citation-popover-snippet">World News + Prophecy Alien Response to the Rapture &#124; World News + Prophecy</span></span></span>
+A related account, citing Cole in the spring 1994 issue of *Connecting Link Magazine*, says she claimed world governments had been interacting with extraterrestrials for years and had worked with “light workers” to prepare the public for [disclosure]({{ 'disclosure/' | relative_url }}). In that passage, the conditioning role is assigned to television, newspapers, books, radio and New Age light workers, culminating in the message that the public was ready to be told, “WE ARE HERE.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theprophecies.com/alien-response-to-the-rapture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprophecies.com">[World News + Prophecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprophecies.com</span><span class="citation-popover-title">World News + Prophecy Alien Response to the Rapture &#124; World News + Prophecy</span><span class="citation-popover-snippet">World News + Prophecy Alien Response to the Rapture &#124; World News + Prophecy</span></span></span>
 
 The prediction therefore had several testable elements:
 
@@ -461,36 +461,36 @@ The prediction therefore had several testable elements:
 * **A public event:** an Ashtar-related arrival or landing on Earth.
 * **Institutional involvement:** governments supposedly knew and had prepared the world.
 * **[Media]({{ 'media/' | relative_url }}) visibility:** the revelation or landing was expected to be broadcast through global channels.
-* **Follower roles:** believers were not just spectators but prospective helpers, advisers or intermediaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+* **Follower roles:** believers were not just spectators but prospective helpers, advisers or intermediaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-1-dark.svg" | relative_url }}" alt="1994 Ashtar illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What did not happen
 
-The promised public landing did not occur in 1994. There was no verified arrival of an Ashtar Command fleet, no global media broadcast delivering an Ashtar message, and no publicly documented transformation of world civilisation caused by open extraterrestrial contact. Reece states the failure plainly: when the fleet failed to materialise, Cole’s prophecy joined the longer list of failed Ashtar predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+The promised public landing did not occur in 1994. There was no verified arrival of an Ashtar Command fleet, no global media broadcast delivering an Ashtar message, and no publicly documented transformation of world civilisation caused by open extraterrestrial contact. Reece states the failure plainly: when the fleet failed to materialise, Cole’s prophecy joined the longer list of failed Ashtar predictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
 The failure matters because Cole’s claim was not merely a private mystical experience. A private channelled message can be impossible for outsiders to test. A public landing, government-assisted disclosure, and global media announcement are different: they would leave visible traces. In that ordinary evidential sense, the prediction failed because the central public event did not happen.
 
-The wider UFO evidence context also reinforces the difference between unresolved aerial reports and claims of confirmed alien arrival. NASA’s 2023 UAP independent study said there was no conclusive evidence in peer-reviewed literature for an extraterrestrial origin of UAP, while calling for better data and more rigorous study. The US Air Force’s Project Blue Book fact sheet likewise concluded that sightings classed as “unidentified” had not been shown to be extraterrestrial vehicles. These official assessments do not adjudicate Cole’s theology, but they do underline that no recognised public evidence emerged to support a 1994 Ashtar landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+The wider UFO evidence context also reinforces the difference between unresolved aerial reports and claims of confirmed alien arrival. NASA’s 2023 UAP independent study said there was no conclusive evidence in peer-reviewed literature for an extraterrestrial origin of UAP, while calling for better data and more rigorous study. The US Air Force’s Project Blue Book fact sheet likewise concluded that sightings classed as “unidentified” had not been shown to be extraterrestrial vehicles. These official assessments do not adjudicate Cole’s theology, but they do underline that no recognised public evidence emerged to support a 1994 Ashtar landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pMDXEapH_sk" title="Ashtar Sheran: The Eastern European UFO Cult (Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pMDXEapH_sk" target="_blank" rel="noopener noreferrer">Ashtar Sheran: The Eastern European UFO Cult (Documentary)</a></p><p class="youtube-embed-meta">Channel: Anomaly Documentaries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pMDXEapH_sk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pMDXEapH_sk">Open on YouTube</a></p></div></div></div>
 
 ## Why Cole’s claim stood out inside Ashtar belief
 
-The Ashtar tradition had already developed a pattern of failed or deferred arrival claims before Cole’s 1994 prediction. Reece describes early Ashtar material as involving a galactic command and space fleet, but notes that some later teachers, especially Tuella, increasingly emphasised spiritual liberation rather than a literal evacuation of Earth. In that setting, Cole’s 1994 claim stands out because it kept the more concrete expectation alive: a fleet would come, followers would have work to do, and the event would be part of a public transformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+The Ashtar tradition had already developed a pattern of failed or deferred arrival claims before Cole’s 1994 prediction. Reece describes early Ashtar material as involving a galactic command and space fleet, but notes that some later teachers, especially Tuella, increasingly emphasised spiritual liberation rather than a literal evacuation of Earth. In that setting, Cole’s 1994 claim stands out because it kept the more concrete expectation alive: a fleet would come, followers would have work to do, and the event would be part of a public transformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
 This made the claim vulnerable to a straightforward test. If Ashtar’s work was defined mainly as subtle spiritual guidance, a believer could interpret almost any inner change as confirmation. Cole’s version raised the evidential stakes. A fleet arriving on Earth in 1994 was not merely symbolic language; it was a claim about the shared public world.
 
-The prediction also linked UFO religion to late twentieth-century media culture. The claim that governments and media had prepared humanity through gradual “conditioning” made popular UFO coverage itself part of the prophecy. Films, books, radio programmes and New Age networks were not treated as ordinary cultural interest in extraterrestrials, but as preparation for imminent disclosure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theprophecies.com/alien-response-to-the-rapture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprophecies.com">[World News + Prophecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprophecies.com</span><span class="citation-popover-title">World News + Prophecy Alien Response to the Rapture &#124; World News + Prophecy</span><span class="citation-popover-snippet">World News + Prophecy Alien Response to the Rapture &#124; World News + Prophecy</span></span></span>
+The prediction also linked UFO religion to late twentieth-century media culture. The claim that governments and media had prepared humanity through gradual “conditioning” made popular UFO coverage itself part of the prophecy. Films, books, radio programmes and New Age networks were not treated as ordinary cultural interest in extraterrestrials, but as preparation for imminent disclosure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theprophecies.com/alien-response-to-the-rapture/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprophecies.com">[World News + Prophecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprophecies.com</span><span class="citation-popover-title">World News + Prophecy Alien Response to the Rapture &#124; World News + Prophecy</span><span class="citation-popover-snippet">World News + Prophecy Alien Response to the Rapture &#124; World News + Prophecy</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-2-dark.svg" | relative_url }}" alt="1994 Ashtar illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the movement absorbed the failure
 
-The most revealing part of the case is not only that the landing did not happen, but how Ashtar belief continued afterwards. Reece argues that Cole’s failed prediction became another mark against literalist Ashtar expectations and another mark in favour of the spiritualising tendency already visible in the movement. In this later form, Ashtar became less like a commander expected to arrive publicly with ships and more like a high spiritual figure associated with ascension, transformation and subtle guidance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+The most revealing part of the case is not only that the landing did not happen, but how Ashtar belief continued afterwards. Reece argues that Cole’s failed prediction became another mark against literalist Ashtar expectations and another mark in favour of the spiritualising tendency already visible in the movement. In this later form, Ashtar became less like a commander expected to arrive publicly with ships and more like a high spiritual figure associated with ascension, transformation and subtle guidance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
-A second 1994 development helped make that shift possible: the Ashtar “Pioneer Voyage”. Reece, drawing on Christopher Helland, describes a small group of Ashtar Command members who claimed in 1994 that they had undergone a “lift-off experience” in which consciousness, or sometimes the etheric body, was transferred to “ships of Light” during meditation. A later December 1994 event reportedly involved more than 250 participants and was declared by [leaders]({{ 'leaders/' | relative_url }}) to have opened a permanent portal to the Ashtar Command ships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+A second 1994 development helped make that shift possible: the Ashtar “Pioneer Voyage”. Reece, drawing on Christopher Helland, describes a small group of Ashtar Command members who claimed in 1994 that they had undergone a “lift-off experience” in which consciousness, or sometimes the etheric body, was transferred to “ships of Light” during meditation. A later December 1994 event reportedly involved more than 250 participants and was declared by [leaders]({{ 'leaders/' | relative_url }}) to have opened a permanent portal to the Ashtar Command ships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
 That reinterpretation changed the evidential problem. A failed public landing could be judged by anyone who noticed that no ships had arrived. A meditative voyage to a spiritual or etheric ship could be validated internally, through memory, feeling, testimony and group ritual. The object of belief moved from the sky to the devotee’s experience.
 
@@ -503,11 +503,11 @@ This is why Cole’s failed prediction belongs in the broader pattern of failed 
 
 Cole’s 1994 Ashtar claim shows three recurring features of failed UFO predictions.
 
-First, precise dates create evidential risk. A claim that alien helpers are “near” can float indefinitely; a claim that a fleet will arrive in 1994 can fail. Cole’s prediction included enough concrete detail — arrival, media disclosure, government preparation and follower roles — to be judged after the fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+First, precise dates create evidential risk. A claim that alien helpers are “near” can float indefinitely; a claim that a fleet will arrive in 1994 can fail. Cole’s prediction included enough concrete detail — arrival, media disclosure, government preparation and follower roles — to be judged after the fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
-Second, failed predictions can expose divisions inside a movement. Reece presents Cole as part of a literalist strand that persisted even as other Ashtar teachings moved towards a less physical, more spiritual framework. The failure therefore did not simply damage an isolated claim; it strengthened the movement’s drift away from publicly testable landings and towards ascension language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+Second, failed predictions can expose divisions inside a movement. Reece presents Cole as part of a literalist strand that persisted even as other Ashtar teachings moved towards a less physical, more spiritual framework. The failure therefore did not simply damage an isolated claim; it strengthened the movement’s drift away from publicly testable landings and towards ascension language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
-Third, the aftermath shows how disappointment can be absorbed without ending belief. The 1994 Pioneer Voyage material offered a way to preserve “contact” while relocating it to meditation, vibration and inner experience. The result was not a clean abandonment of Ashtar belief, but a change in what counted as fulfilment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
+Third, the aftermath shows how disappointment can be absorbed without ending belief. The 1994 Pioneer Voyage material offered a way to preserve “contact” while relocating it to meditation, vibration and inner experience. The result was not a clean abandonment of Ashtar belief, but a change in what counted as fulfilment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">UF O Religion: Inside Flying Saucer Cults and Culture</span><span class="citation-popover-snippet">9780755624867, 9781845114510 - DOKUMEN.PUB...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-3-dark.svg" | relative_url }}" alt="1994 Ashtar illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -522,194 +522,194 @@ The case is best understood neither as proof that all UFO reports are worthless 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Ashtar Landing That Did Not Arrive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Ashtar Landing That Did Not Arrive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly explains how groups respond when a public prophecy does not occur, matching the article&#x27;s focus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how groups respond when a public prophecy does not occur, matching the article&#x27;s focus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Partridge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6-kkOBKTjK0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
+</h4>
+<p class="fr-book-author">By Christopher Partridge</p>
         
-        <p class="fr-book-desc">Covers UFO-based belief systems and movements similar to the Ashtar tradition discussed in the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers UFO-based belief systems and movements similar to the Ashtar tradition discussed in the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides broader context for UFO claims, contact narratives, and public expectations surrounding extraterrestrial visitation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for UFO claims, contact narratives, and public expectations surrounding extraterrestrial visitation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Enamel Lapel Pin Badge"><img src="{{ '/assets/images/marketplace-covers/0c90c3ed5b7c092da259.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Enamel Lapel Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Enamel Lapel Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="1994-ashtar-the-ashtar-landing-that-did-not-arrive-failed-predictions-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -725,7 +725,7 @@ The case is best understood neither as proof that all UFO reports are worthless 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -745,7 +745,7 @@ The case is best understood neither as proof that all UFO reports are worthless 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -777,7 +777,7 @@ The case is best understood neither as proof that all UFO reports are worthless 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -829,7 +829,7 @@ The case is best understood neither as proof that all UFO reports are worthless 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -874,7 +874,7 @@ The case is best understood neither as proof that all UFO reports are worthless 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -915,114 +915,114 @@ The case is best understood neither as proof that all UFO reports are worthless 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dokumen.pub  
    Title: UF O Religion: Inside Flying Saucer Cults and Culture  
-   Link: <a href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9780755624867, 9781845114510 - DOKUMEN.PUB...</p></details>
+   Link:<a href="https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufo-religion-inside-flying-saucer-cults-and-culture-9780755624867-9781845114510.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9780755624867, 9781845114510 - DOKUMEN.PUB...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: timeless-voyager-series.captivate.fm  
-   Link: <a href="https://timeless-voyager-series.captivate.fm/episode/yvonne-cole-fully-conscious-telepathic-receiver-for-the-ashtar-command-an-organization-of-volunteers-from-all-over-the-galaxy-from-many-planetary-systems-and-intergalactic-sources-/" target="_blank" rel="noopener noreferrer nofollow">https://timeless-voyager-series.captivate.fm/episode/yvonne-cole-fully-conscious-telepathic-receiver-for-the-ashtar-command-an-organization-of-volunteers-from-all-over-the-galaxy-from-many-planetary-systems-and-intergalactic-sources-/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeless Voyager Series...</p></details>
+   Link:<a href="https://timeless-voyager-series.captivate.fm/episode/yvonne-cole-fully-conscious-telepathic-receiver-for-the-ashtar-command-an-organization-of-volunteers-from-all-over-the-galaxy-from-many-planetary-systems-and-intergalactic-sources-/" target="_blank" rel="noopener noreferrer nofollow">https://timeless-voyager-series.captivate.fm/episode/yvonne-cole-fully-conscious-telepathic-receiver-for-the-ashtar-command-an-organization-of-volunteers-from-all-over-the-galaxy-from-many-planetary-systems-and-intergalactic-sources-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timeless Voyager Series...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
    Published: September 13, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theprophecies.com  
    Title: World News + Prophecy Alien Response to the Rapture | World News + Prophecy  
-   Link: <a href="https://www.theprophecies.com/alien-response-to-the-rapture/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprophecies.com/alien-response-to-the-rapture/</a>  
+   Link:<a href="https://www.theprophecies.com/alien-response-to-the-rapture/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprophecies.com/alien-response-to-the-rapture/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://vi.wikipedia.org/wiki/Ashtar" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Ashtar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar – Wikipedia tiếng ViệtPhong trào Ashtar từng được giới học giả nghiên cứu như một dạng tôn giáo UFO nổi bật nửa cuối thế kỷ 20...</p></details>
+   Link:<a href="https://vi.wikipedia.org/wiki/Ashtar" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Ashtar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar – Wikipedia tiếng ViệtPhong trào Ashtar từng được giới học giả nghiên cứu như một dạng tôn giáo UFO nổi bật nửa cuối thế kỷ 20...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: books.google.com  
    Title: Connecting Link  
-   Link: <a href="https://books.google.com/books/about/Connecting_Link.html?id=1i7ZAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Connecting_Link.html?id=1i7ZAAAAMAAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Connecting_Link.html?id=1i7ZAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Connecting_Link.html?id=1i7ZAAAAMAAJ</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wrldrels.org  
    Title: ashtar command  
-   Link: <a href="https://wrldrels.org/2016/12/05/ashtar-command/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2016/12/05/ashtar-command/</a>  
+   Link:<a href="https://wrldrels.org/2016/12/05/ashtar-command/" target="_blank" rel="noopener noreferrer nofollow">https://wrldrels.org/2016/12/05/ashtar-command/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: worldnews123.one  
-   Link: <a href="https://worldnews123.one/ratgeber/item/928-ashtar-kommander-des-aufstiegs-der-menschheit-in-das-goldene-zeitalter" target="_blank" rel="noopener noreferrer nofollow">https://worldnews123.one/ratgeber/item/928-ashtar-kommander-des-aufstiegs-der-menschheit-in-das-goldene-zeitalter</a>  
+   Link:<a href="https://worldnews123.one/ratgeber/item/928-ashtar-kommander-des-aufstiegs-der-menschheit-in-das-goldene-zeitalter" target="_blank" rel="noopener noreferrer nofollow">https://worldnews123.one/ratgeber/item/928-ashtar-kommander-des-aufstiegs-der-menschheit-in-das-goldene-zeitalter</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and... There was no evidence indicatin...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookNo UFO reported, investigated and... There was no evidence indicatin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Psychologist Infiltrated UFO Cult When Prophecy Failed  
-   Link: <a href="http://www.youtube.com/watch?v=mcj8M6KuAmc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mcj8M6KuAmc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Sheran: The Eastern European UFO Cult (Documentary) Anomaly Documentaries · 68K views...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mcj8M6KuAmc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mcj8M6KuAmc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Sheran: The Eastern European UFO Cult (Documentary) Anomaly Documentaries · 68K views...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Ashtar Sheran: The Eastern European UFO Cult (Documentary)  
-   Link: <a href="http://www.youtube.com/watch?v=pMDXEapH_sk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pMDXEapH_sk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy Fails...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=pMDXEapH_sk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pMDXEapH_sk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy Fails...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Ashtar Sheran  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Sheran1986 prediction of 1994 [apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;). edit. Yvonne Cole, who claimed to be channeling Ashtar messages from 1986, predicted...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Sheran1986 prediction of 1994 [apocalypse](&amp;#123;&amp;#123; &#x27;apocalypse/&#x27; | relative_url &amp;#125;&amp;#125;). edit. Yvonne Cole, who claimed to be channeling Ashtar messages from 1986, predicted...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lawteacher.net  
    Title: R v Cole  
-   Link: <a href="https://www.lawteacher.net/cases/r-v-cole.php" target="_blank" rel="noopener noreferrer nofollow">https://www.lawteacher.net/cases/r-v-cole.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1994The appellant (C) was convicted of two robberies. He claimed the defence of duress on the basis that he was “desperate” for money as...</p></details>
+   Link:<a href="https://www.lawteacher.net/cases/r-v-cole.php" target="_blank" rel="noopener noreferrer nofollow">https://www.lawteacher.net/cases/r-v-cole.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1994The appellant (C) was convicted of two robberies. He claimed the defence of duress on the basis that he was “desperate” for money as...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/45083759/AZ_UFO_KULT%C3%9ARA_T%C3%81RSADALOMTUDOM%C3%81NYI_ELEMZ%C3%89SE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45083759/AZ_UFO_KULT%C3%9ARA_T%C3%81RSADALOMTUDOM%C3%81NYI_ELEMZ%C3%89SE</a>  
+   Link:<a href="https://www.academia.edu/45083759/AZ_UFO_KULT%C3%9ARA_T%C3%81RSADALOMTUDOM%C3%81NYI_ELEMZ%C3%89SE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45083759/AZ_UFO_KULT%C3%9ARA_T%C3%81RSADALOMTUDOM%C3%81NYI_ELEMZ%C3%89SE</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/InternetMysteries/comments/q0xuu4/hello_reddit_i_have_been_investigating_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/InternetMysteries/comments/q0xuu4/hello_reddit_i_have_been_investigating_on_this/</a>  
+   Link:<a href="https://www.reddit.com/r/InternetMysteries/comments/q0xuu4/hello_reddit_i_have_been_investigating_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/InternetMysteries/comments/q0xuu4/hello_reddit_i_have_been_investigating_on_this/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/avpgalaxy/posts/25278739061760295/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/avpgalaxy/posts/25278739061760295/</a>  
+   Link:<a href="https://www.facebook.com/groups/avpgalaxy/posts/25278739061760295/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/avpgalaxy/posts/25278739061760295/</a>  

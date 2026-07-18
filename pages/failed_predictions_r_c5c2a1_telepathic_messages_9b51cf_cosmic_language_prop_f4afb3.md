@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cos
 
 ## Introduction
 
-One reason UFO prophecies often sounded persuasive in the decades after the Second World War is that they rarely invented entirely new stories. Instead, they translated familiar religious and esoteric themes into the language of the Space Age. Angels became extraterrestrials, heavenly realms became other planets, divine revelation became telepathic transmission, and salvation became evacuation by spacecraft. The underlying narrative structure remained recognisably prophetic, but the vocabulary was updated to fit a culture fascinated by rockets, atomic science and the possibility of life beyond Earth. Scholars of [UFO religions]({{ 'ufo-religion/' | relative_url }}) have repeatedly noted that contactee movements blended older Christian, occult and Theosophical ideas with modern technological imagery, creating belief systems that felt both futuristic and strangely familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
+One reason UFO prophecies often sounded persuasive in the decades after the Second World War is that they rarely invented entirely new stories. Instead, they translated familiar religious and esoteric themes into the language of the Space Age. Angels became extraterrestrials, heavenly realms became other planets, divine revelation became telepathic transmission, and salvation became evacuation by spacecraft. The underlying narrative structure remained recognisably prophetic, but the vocabulary was updated to fit a culture fascinated by rockets, atomic science and the possibility of life beyond Earth. Scholars of [UFO religions]({{ 'ufo-religion/' | relative_url }}) have repeatedly noted that contactee movements blended older Christian, occult and Theosophical ideas with modern technological imagery, creating belief systems that felt both futuristic and strangely familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-1-dark.svg" | relative_url }}" alt="Cosmic Language illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -306,9 +306,9 @@ The typical contactee narrative included several recurring elements:
 
 </div>
 
-These themes were already common in Christian apocalyptic traditions, spiritualism and Theosophy long before flying saucers entered popular culture. Researchers examining early UFO religions have shown that Christian and Theosophical motifs remained visible beneath the extraterrestrial surface, particularly in teachings about cosmic hierarchies, spiritual evolution and coming world transformations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
+These themes were already common in Christian apocalyptic traditions, spiritualism and Theosophy long before flying saucers entered popular culture. Researchers examining early UFO religions have shown that Christian and Theosophical motifs remained visible beneath the extraterrestrial surface, particularly in teachings about cosmic hierarchies, spiritual evolution and coming world transformations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
 
-The famous 1954 Seekers group centred on [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) illustrates the process. According to contemporary accounts, Martin's beliefs combined Theosophy, spiritualist ideas, Christianity, flying-saucer lore and automatic writing. The beings communicating with her were presented as extraterrestrial guardians from planets such as Clarion, yet the system also included spiritual vibrations, ascended teachers and a figure identified with Jesus under the name Sananda. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+The famous 1954 Seekers group centred on [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }}) illustrates the process. According to contemporary accounts, Martin's beliefs combined Theosophy, spiritualist ideas, Christianity, flying-saucer lore and automatic writing. The beings communicating with her were presented as extraterrestrial guardians from planets such as Clarion, yet the system also included spiritual vibrations, ascended teachers and a figure identified with Jesus under the name Sananda.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
 In practical terms, the cosmic vocabulary altered the appearance of the prophecy more than its basic storyline.
 
@@ -321,11 +321,11 @@ The appeal of UFO prophecy depended partly on its ability to make supernatural c
 
 Earlier religious traditions described divine intervention through miracles, heavenly journeys or angelic messengers. Contactee movements often expressed similar ideas through scientific-sounding mechanisms. Spacecraft replaced chariots of heaven. Telepathic communication replaced prophetic visions. Cosmic councils replaced angelic courts. Interplanetary rescue missions replaced divine deliverance.
 
-This was not merely decorative language. UFO religions frequently presented extraterrestrials as materially real beings possessing advanced technology rather than explicitly supernatural powers. In doing so, they framed traditional religious expectations in terms that seemed compatible with modern scientific culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_religion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO religion</span><span class="citation-popover-snippet">May 5, 2026 — A UFO religion, also called a UFO cult, flying saucer cult, or extraterrestrial religion, is a religion that&#x27;s primarily fo...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
+This was not merely decorative language. UFO religions frequently presented extraterrestrials as materially real beings possessing advanced technology rather than explicitly supernatural powers. In doing so, they framed traditional religious expectations in terms that seemed compatible with modern scientific culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_religion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO religion</span><span class="citation-popover-snippet">May 5, 2026 — A UFO religion, also called a UFO cult, flying saucer cult, or extraterrestrial religion, is a religion that&#x27;s primarily fo...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>
 
 The result was a hybrid form of prophecy. A prediction about world destruction might be justified not by biblical revelation but by warnings from space visitors. A coming age of peace might be explained through guidance from enlightened extraterrestrial civilisations. Salvation itself could be described as physical transport aboard a spacecraft.
 
-For audiences living through the atomic age, this language resonated with contemporary anxieties. Nuclear weapons, space exploration and rapid technological change all encouraged the belief that humanity stood at a historic turning point. Scholars studying early UFO religions have linked their apocalyptic expectations to Cold War fears and concerns about nuclear catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
+For audiences living through the atomic age, this language resonated with contemporary anxieties. Nuclear weapons, space exploration and rapid technological change all encouraged the belief that humanity stood at a historic turning point. Scholars studying early UFO religions have linked their apocalyptic expectations to Cold War fears and concerns about nuclear catastrophe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-2-dark.svg" | relative_url }}" alt="Cosmic Language illustration 2" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,11 +337,11 @@ A prophecy framed in medieval imagery could seem disconnected from modern life. 
 
 Several features increased the persuasive power of this translation:
 
-**Scientific prestige.** Spaceflight and scientific progress enjoyed enormous cultural authority during the 1950s and 1960s. Associating revelations with advanced extraterrestrials allowed prophetic claims to borrow some of that prestige. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compass.onlinelibrary.wiley.com">[Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compass.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">At the Nexus of Science and Religion: UFO Religions - 20111 Nov 2011 — By virtue of their very nature, UFO religions combine belie...</span></span></span>
+**Scientific prestige.** Spaceflight and scientific progress enjoyed enormous cultural authority during the 1950s and 1960s. Associating revelations with advanced extraterrestrials allowed prophetic claims to borrow some of that prestige.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compass.onlinelibrary.wiley.com">[Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compass.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">At the Nexus of Science and Religion: UFO Religions - 20111 Nov 2011 — By virtue of their very nature, UFO religions combine belie...</span></span></span>
 
-**Flexibility.** Technological language could absorb contradictions more easily than fixed religious doctrine. If a prediction failed, believers could claim that cosmic plans had changed, that messages were misunderstood, or that higher intelligences had intervened. The same channel that delivered the prophecy could deliver the explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+**Flexibility.** Technological language could absorb contradictions more easily than fixed religious doctrine. If a prediction failed, believers could claim that cosmic plans had changed, that messages were misunderstood, or that higher intelligences had intervened. The same channel that delivered the prophecy could deliver the explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-**Familiarity beneath novelty.** Although the surface imagery was modern, the emotional structure remained recognisable. People encountered stories about chosen communities, coming judgment, rescue and transformation—motifs deeply rooted in older prophetic traditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
+**Familiarity beneath novelty.** Although the surface imagery was modern, the emotional structure remained recognisable. People encountered stories about chosen communities, coming judgment, rescue and transformation—motifs deeply rooted in older prophetic traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
 
 The combination of novelty and familiarity helped contactee teachings feel revolutionary without demanding entirely new ways of understanding the world.
 
@@ -352,204 +352,204 @@ The combination of novelty and familiarity helped contactee teachings feel revol
 
 When UFO predictions failed, the technological language often proved surprisingly resilient because the deeper prophetic framework had existed for centuries.
 
-In the Seekers case, believers expected rescue by flying saucer before a catastrophic flood. When the event did not occur, explanations emerged that resembled long-standing religious responses to failed prophecies: humanity had been spared, higher powers had intervened, or the meaning of the prediction had been misunderstood. The spacecraft imagery was modern, but the pattern of reinterpretation was ancient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
+In the Seekers case, believers expected rescue by flying saucer before a catastrophic flood. When the event did not occur, explanations emerged that resembled long-standing religious responses to failed prophecies: humanity had been spared, higher powers had intervened, or the meaning of the prediction had been misunderstood. The spacecraft imagery was modern, but the pattern of reinterpretation was ancient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">When Prophecy Fails</span></span></span>
 
-This helps explain why failed UFO prophecies frequently survived disconfirmation. The emotional and narrative foundations of the belief system were not dependent on any particular technological claim. Spacecraft, telepathic transmissions and interplanetary councils supplied modern packaging, but underneath lay enduring prophetic themes of crisis, redemption and special knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Several dates...Read more...</span></span></span>
+This helps explain why failed UFO prophecies frequently survived disconfirmation. The emotional and narrative foundations of the belief system were not dependent on any particular technological claim. Spacecraft, telepathic transmissions and interplanetary councils supplied modern packaging, but underneath lay enduring prophetic themes of crisis, redemption and special knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Several dates...Read more...</span></span></span>
 
-Viewed historically, cosmic language did not create an entirely new form of prophecy. It modernised older prophetic traditions for an age shaped by rockets, radio signals and dreams of the stars. That translation allowed ancient expectations to continue operating within apparently modern UFO narratives, including many that later produced [failed predictions]({{ 'failed-predictions/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
+Viewed historically, cosmic language did not create an entirely new form of prophecy. It modernised older prophetic traditions for an age shaped by rockets, radio signals and dreams of the stars. That translation allowed ancient expectations to continue operating within apparently modern UFO narratives, including many that later produced [failed predictions]({{ 'failed-predictions/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Compass]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Christian and posited that aliens were benevolent beings ...Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-3-dark.svg" | relative_url }}" alt="Cosmic Language illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_telepathic_messages_9b51cf_cosmic_language_prop_f4afb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Old Prophecy Became Space Age. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Old Prophecy Became Space Age. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how religious ideas become expressed through UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how religious ideas become expressed through UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Links modern UFO stories with older folklore and spiritual traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links modern UFO stories with older folklore and spiritual traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Explains why prophetic frameworks endure after failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why prophetic frameworks endure after failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Vallee</p>
         
-        <p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="cosmic-language-when-old-prophecy-became-space-age-failed-predictions-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ Viewed historically, cosmic language did not create an entirely new form of prop
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ Viewed historically, cosmic language did not create an entirely new form of prop
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ Viewed historically, cosmic language did not create an entirely new form of prop
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ Viewed historically, cosmic language did not create an entirely new form of prop
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ Viewed historically, cosmic language did not create an entirely new form of prop
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,117 +755,117 @@ Viewed historically, cosmic language did not create an entirely new form of prop
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714001_[Apocalypse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_[Apocalypse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — Apocalypse in Early UFO and Alien-Based Religions: Chris...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Several dates...Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.1999.3.1.60" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.1999.3.1.60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several dates...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO religion  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_religion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_religion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — A UFO religion, also called a UFO cult, flying saucer cult, or extraterrestrial religion, is a religion that&#x27;s primarily fo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_religion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_religion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — A UFO religion, also called a UFO cult, flying saucer cult, or extraterrestrial religion, is a religion that&#x27;s primarily fo...</p></details>
    Published: May 5, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/295375302_Waiting_for_the_Big_Beam_UFO_Religions_and_Ufological_Themes_in_New_Religious_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295375302_Waiting_for_the_Big_Beam_UFO_Religions_and_Ufological_Themes_in_New_Religious_Movements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Saliba, “Religious Dimensions of UFO Phenomena”, in: Lewis...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/295375302_Waiting_for_the_Big_Beam_UFO_Religions_and_Ufological_Themes_in_New_Religious_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/295375302_Waiting_for_the_Big_Beam_UFO_Religions_and_Ufological_Themes_in_New_Religious_Movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saliba, “Religious Dimensions of UFO Phenomena”, in: Lewis...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1525/nr.2006.10.2.103" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2006.10.2.103</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>,12 UFO religions are inclined to look on extraterrestrials as beneficent, even though the...Read mor...</p></details>
+   Link:<a href="https://www.jstor.org/stable/10.1525/nr.2006.10.2.103" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1525/nr.2006.10.2.103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>,12 UFO religions are inclined to look on extraterrestrials as beneficent, even though the...Read mor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of UFO religions  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO_religions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_religions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of UFO religionsUFO religions are religious groups that deal with alleged communication between humans and extraterrestrial being...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_UFO_religions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_religions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of UFO religionsUFO religions are religious groups that deal with alleged communication between humans and extraterrestrial being...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Contactee&quot;The UFO Contactee Movement&quot;. In Lewis, James R. (ed.). Odd Gods: New... Alien Worlds: Social and Religious Dimensions of Ex...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contactee&quot;The UFO Contactee Movement&quot;. In Lewis, James R. (ed.). Odd Gods: New... Alien Worlds: Social and Religious Dimensions of Ex...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gence of a small UFO religion, including the...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gence of a small UFO religion, including the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: compass.onlinelibrary.wiley.com  
-   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the Nexus of Science and Religion: UFO Religions - 20111 Nov 2011 — By virtue of their very nature, UFO religions combine belie...</p></details>
+   Link:<a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1749-8171.2011.00313.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the Nexus of Science and Religion: UFO Religions - 20111 Nov 2011 — By virtue of their very nature, UFO religions combine belie...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jhbs.70043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes including Riecken&#x27;s criticism of Martin After no aliens...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: degruyterbrill.com  
-   Link: <a href="https://www.degruyterbrill.com/document/doi/10.1525/9780520930278-006/html?srsltid=AfmBOor_waF-HgkOaJjtb65N_bgyjIghaYoScUgSGeyMeEhsKqj2JzSN" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1525/9780520930278-006/html?srsltid=AfmBOor_waF-HgkOaJjtb65N_bgyjIghaYoScUgSGeyMeEhsKqj2JzSN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4. Ufology and the ImaginalDowning, “The Second Coming of Marshall Applewhite,”MUFON UFO Journal103In many ways the study of UFOs has exe...</p></details>
+   Link:<a href="https://www.degruyterbrill.com/document/doi/10.1525/9780520930278-006/html?srsltid=AfmBOor_waF-HgkOaJjtb65N_bgyjIghaYoScUgSGeyMeEhsKqj2JzSN" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1525/9780520930278-006/html?srsltid=AfmBOor_waF-HgkOaJjtb65N_bgyjIghaYoScUgSGeyMeEhsKqj2JzSN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4. Ufology and the ImaginalDowning, “The Second Coming of Marshall Applewhite,”MUFON UFO Journal103In many ways the study of UFOs has exe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/museodellereligioni/posts/4473082942786320/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/museodellereligioni/posts/4473082942786320/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook of UFO Religions Volume Editor: Ben Zeller...UFO Contact Religions A UFO religion is any religion in which the existence of ext...</p></details>
+   Link:<a href="https://www.facebook.com/groups/museodellereligioni/posts/4473082942786320/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/museodellereligioni/posts/4473082942786320/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook of UFO Religions Volume Editor: Ben Zeller...UFO Contact Religions A UFO religion is any religion in which the existence of ext...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReligionsYet many of the aliens are similar and at times identical to the masters of the Theosophical Movement.... &quot;Christian Theolo...</p></details>
+   Link:<a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ufo-religions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReligionsYet many of the aliens are similar and at times identical to the masters of the Theosophical Movement.... &quot;Christian Theolo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ojs.zrc-sazu.si  
-   Link: <a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESThe mythologies associated with UFOs are protean and shape-shifting, as are the aliens that have materialized in the extraterr...</p></details>
+   Link:<a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESThe mythologies associated with UFOs are protean and shape-shifting, as are the aliens that have materialized in the extraterr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers r...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers r...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ed. Amy S. Davidson. Tucson... Extraterrestrial Contact Movement, though not in the modern sense of contact with aliens.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ed. Amy S. Davidson. Tucson... Extraterrestrial Contact Movement, though not in the modern sense of contact with aliens.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: socialecologies.wordpress.com  
    Title: d w pasulka the religious operating system of ufo belief  
-   Link: <a href="https://socialecologies.wordpress.com/2025/11/18/d-w-pasulka-the-religious-operating-system-of-ufo-belief/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/11/18/d-w-pasulka-the-religious-operating-system-of-ufo-belief/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pasulka: The Religious Operating System of UFO Belief18 Nov 2025 — Pasulka comes at the UFO problem from the one angle almost no one in t...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/11/18/d-w-pasulka-the-religious-operating-system-of-ufo-belief/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/11/18/d-w-pasulka-the-religious-operating-system-of-ufo-belief/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pasulka: The Religious Operating System of UFO Belief18 Nov 2025 — Pasulka comes at the UFO problem from the one angle almost no one in t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: andzwa.medium.com  
    Title: [cognitive dissonance](&#123;&#123; 'dissonance/' | relative_url &#125;&#125;) and doomsday cults 785c9403cae5  
-   Link: <a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerThe buzz of excitement as people pondered what aliens look like. What colour sky would wait...</p></details>
+   Link:<a href="https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5" target="_blank" rel="noopener noreferrer nofollow">https://andzwa.medium.com/cognitive-dissonance-and-doomsday-cults-785c9403cae5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dissonance and Doomsday Cults | by Andy WalkerThe buzz of excitement as people pondered what aliens look like. What colour sky would wait...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.openchristian.education  
    Title: Modern alien discourse regularly offers the elements a religion offers.Read more  
-   Link: <a href="https://journals.openchristian.education/index.php/oj-spt/article/download/107/97" target="_blank" rel="noopener noreferrer nofollow">https://journals.openchristian.education/index.php/oj-spt/article/download/107/97</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Science, Philosophy &amp; Theology (OJ-SPT)by S SANGWA · 2026 — Scholars of religion have long noted that UFO discourse routinely...</p></details>
+   Link:<a href="https://journals.openchristian.education/index.php/oj-spt/article/download/107/97" target="_blank" rel="noopener noreferrer nofollow">https://journals.openchristian.education/index.php/oj-spt/article/download/107/97</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Science, Philosophy &amp; Theology (OJ-SPT)by S SANGWA · 2026 — Scholars of religion have long noted that UFO discourse routinely...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: skepticalscience.com  
    Title: The Person Who Lies To You The Most…  
-   Link: <a href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=5174</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is You8 Sept 2021 — On the morning of July 23, 1954, the Guardians sent Dorothy a message.... rescue the chosen ones and take them away...</p></details>
+   Link:<a href="https://skepticalscience.com/print.php?n=5174" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=5174</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is You8 Sept 2021 — On the morning of July 23, 1954, the Guardians sent Dorothy a message.... rescue the chosen ones and take them away...</p></details>
    Published: July 23, 1954  

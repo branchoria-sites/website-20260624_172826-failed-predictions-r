@@ -280,7 +280,7 @@ image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_sa
 
 ## Introduction
 
-One of the most distinctive features of UFO [apocalypse]({{ 'apocalypse/' | relative_url }}) prophecies is that they rarely predict catastrophe alone. They also promise an escape route. In these narratives, flying saucers are not simply visiting Earth; they are rescue vehicles sent to remove the faithful before floods, war, planetary upheaval or civilisational [collapse]({{ 'collapse/' | relative_url }}). The logic is simple but powerful: disaster becomes bearable because survival has already been arranged. Believers are not merely warned about the end of the world; they are offered a place on the evacuation craft. This rescue mechanism became a recurring pattern in UFO-based religious movements and helps explain why failed prophecies often survived even after the predicted catastrophe never arrived. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
+One of the most distinctive features of UFO [apocalypse]({{ 'apocalypse/' | relative_url }}) prophecies is that they rarely predict catastrophe alone. They also promise an escape route. In these narratives, flying saucers are not simply visiting Earth; they are rescue vehicles sent to remove the faithful before floods, war, planetary upheaval or civilisational [collapse]({{ 'collapse/' | relative_url }}). The logic is simple but powerful: disaster becomes bearable because survival has already been arranged. Believers are not merely warned about the end of the world; they are offered a place on the evacuation craft. This rescue mechanism became a recurring pattern in UFO-based religious movements and helps explain why failed prophecies often survived even after the predicted catastrophe never arrived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc-Illustration-1-dark.svg" | relative_url }}" alt="Evacuation illustration 1" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,9 +288,9 @@ One of the most distinctive features of UFO [apocalypse]({{ 'apocalypse/' | rela
 
 Most UFO claims concern sightings, encounters or messages. Evacuation prophecies go much further. They transform extraterrestrials from observers into saviours.
 
-In this framework, humanity faces an imminent crisis that ordinary institutions cannot prevent. Governments, scientists and religious authorities are either unaware of the danger or unable to respond. Salvation therefore comes from an external source: advanced beings who possess superior technology and moral knowledge. Flying saucers function as the equivalent of lifeboats during a cosmic emergency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
+In this framework, humanity faces an imminent crisis that ordinary institutions cannot prevent. Governments, scientists and religious authorities are either unaware of the danger or unable to respond. Salvation therefore comes from an external source: advanced beings who possess superior technology and moral knowledge. Flying saucers function as the equivalent of lifeboats during a cosmic emergency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
 
-The classic example is the 1954 prophecy associated with [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s group in Chicago. Followers expected a catastrophic flood and believed they would be rescued beforehand by a flying saucer. Members altered their lives in preparation for departure, expecting a physical extraction from the doomed world. When neither the flood nor the spacecraft appeared, the rescue promise failed alongside the catastrophe prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The prophecy came from Dorothy Martin (1900–1992), a Chicago... flying saucer, which they believed would rescue them and o...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
+The classic example is the 1954 prophecy associated with [Dorothy Martin]({{ 'dorothy-martin/' | relative_url }})'s group in Chicago. Followers expected a catastrophic flood and believed they would be rescued beforehand by a flying saucer. Members altered their lives in preparation for departure, expecting a physical extraction from the doomed world. When neither the flood nor the spacecraft appeared, the rescue promise failed alongside the catastrophe prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">When Prophecy Fails</span><span class="citation-popover-snippet">May 3, 2026 — The prophecy came from Dorothy Martin (1900–1992), a Chicago... flying saucer, which they believed would rescue them and o...</span><span class="citation-popover-meta">Published: May 3, 2026</span></span></span>
 
 This structure differs from ordinary UFO contact stories because the spacecraft is not evidence of alien existence. It is the mechanism through which a chosen group survives while the wider population faces destruction.
 
@@ -301,9 +301,9 @@ This structure differs from ordinary UFO contact stories because the spacecraft 
 
 Apocalyptic predictions create fear, but evacuation narratives add hope. This combination helps explain their appeal.
 
-A prophecy that simply announces disaster offers little agency. A prophecy that includes rescue creates a meaningful role for believers. They become participants in a cosmic drama rather than passive victims. Their commitment, faith or spiritual development is presented as preparation for boarding the craft when the critical moment arrives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
+A prophecy that simply announces disaster offers little agency. A prophecy that includes rescue creates a meaningful role for believers. They become participants in a cosmic drama rather than passive victims. Their commitment, faith or spiritual development is presented as preparation for boarding the craft when the critical moment arrives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
 
-The rescue narrative also resolves a psychological tension. If extraterrestrials are portrayed as wise and benevolent, why would they allow humanity to suffer? Evacuation provides the answer. The aliens may not prevent catastrophe, but they will preserve those who are spiritually ready. In many UFO religious movements, this creates a distinction between the enlightened and the unprepared, echoing older religious ideas of a chosen remnant surviving the end times. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[Universitätsbibliothek Marburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">Universitätsbibliothek MarburgWhen we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New R...</span></span></span>
+The rescue narrative also resolves a psychological tension. If extraterrestrials are portrayed as wise and benevolent, why would they allow humanity to suffer? Evacuation provides the answer. The aliens may not prevent catastrophe, but they will preserve those who are spiritually ready. In many UFO religious movements, this creates a distinction between the enlightened and the unprepared, echoing older religious ideas of a chosen remnant surviving the end times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[Universitätsbibliothek Marburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">Universitätsbibliothek MarburgWhen we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New R...</span></span></span>
 
 Because of this structure, believers often focus as much on readiness for rescue as on the catastrophe itself. The spacecraft becomes a symbol of certainty amid uncertainty. Rather than asking whether disaster will occur, followers concentrate on whether they will be among those selected to leave.
 
@@ -311,9 +311,9 @@ Because of this structure, believers often focus as much on readiness for rescue
 
 The idea of mass evacuation became especially visible in movements linked to [Ashtar]({{ 'ashtar/' | relative_url }}) and related contactee traditions.
 
-Beginning in the post-war flying saucer era, Ashtar was presented as the commander of a vast extraterrestrial fleet monitoring Earth. Different channelled messages varied in detail, but many described spacecraft standing ready to remove selected humans if global catastrophe became unavoidable. Predictions included nuclear war, planetary destruction, environmental collapse or a dramatic transition in human consciousness. Rescue ships were portrayed as both technologically advanced and spiritually guided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-snippet">GWDG UserAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</span></span></span>
+Beginning in the post-war flying saucer era, Ashtar was presented as the commander of a vast extraterrestrial fleet monitoring Earth. Different channelled messages varied in detail, but many described spacecraft standing ready to remove selected humans if global catastrophe became unavoidable. Predictions included nuclear war, planetary destruction, environmental collapse or a dramatic transition in human consciousness. Rescue ships were portrayed as both technologically advanced and spiritually guided.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwuser.gwdguser.de">[GWDG User]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwuser.gwdguser.de</span><span class="citation-popover-snippet">GWDG UserAshtar&#x27;s communications to George Van Tassel in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</span></span></span>
 
-The evacuation concept became so central that entire texts were devoted to the subject, including works explicitly describing a future "world evacuation" and a "great exodus" assisted by UFOs. In these narratives, spacecraft functioned as the practical solution to apocalypse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books+2AbeBooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Project: World Evacuation</span><span class="citation-popover-snippet">Google BooksProject: World Evacuation - Ashtar CommandProject World Evacuation: UFOs to Assist in the &quot;Great Exodus&quot; of Human... Tuella...</span></span></span>
+The evacuation concept became so central that entire texts were devoted to the subject, including works explicitly describing a future "world evacuation" and a "great exodus" assisted by UFOs. In these narratives, spacecraft functioned as the practical solution to apocalypse.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books+2AbeBooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Books Project: World Evacuation</span><span class="citation-popover-snippet">Google BooksProject: World Evacuation - Ashtar CommandProject World Evacuation: UFOs to Assist in the &quot;Great Exodus&quot; of Human... Tuella...</span></span></span>
 
 What makes these cases significant is not whether such fleets existed, but how the promise operated socially. The evacuation scenario transformed frightening predictions into survivable futures. Catastrophe remained imminent, yet believers could imagine a protected pathway through it.
 
@@ -323,11 +323,11 @@ What makes these cases significant is not whether such fleets existed, but how t
 
 Some movements pushed evacuation logic beyond temporary survival and into permanent transcendence.
 
-Heaven's Gate represents an extreme example. Members believed that a spacecraft associated with the Hale-Bopp comet would provide passage to a higher extraterrestrial realm. The vehicle was not merely an escape from earthly disaster but a route to a more advanced existence beyond the human condition. The group interpreted signs around the comet as evidence that the craft had arrived and that departure was imminent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[SFGATE+3Space+3epicmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">They also thought that an alien spacecraft was following Hale-Bopp.Read more</span><span class="citation-popover-snippet">Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Aliens · Missions · International Space Station · Space Shuttle · Ap...</span></span></span>
+Heaven's Gate represents an extreme example. Members believed that a spacecraft associated with the Hale-Bopp comet would provide passage to a higher extraterrestrial realm. The vehicle was not merely an escape from earthly disaster but a route to a more advanced existence beyond the human condition. The group interpreted signs around the comet as evidence that the craft had arrived and that departure was imminent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[SFGATE+3Space+3epicmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">They also thought that an alien spacecraft was following Hale-Bopp.Read more</span><span class="citation-popover-snippet">Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Aliens · Missions · International Space Station · Space Shuttle · Ap...</span></span></span>
 
-Although Heaven's Gate differed from earlier contactee groups in theology and practice, the underlying mechanism remained recognisable. A superior extraterrestrial civilisation offered salvation from a corrupted world. Earth was portrayed as a place nearing the end of its usefulness, while the spacecraft represented transition to a higher level of reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Although Heaven's Gate differed from earlier contactee groups in theology and practice, the underlying mechanism remained recognisable. A superior extraterrestrial civilisation offered salvation from a corrupted world. Earth was portrayed as a place nearing the end of its usefulness, while the spacecraft represented transition to a higher level of reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Heavens Gate religious group</span><span class="citation-popover-snippet">Encyclopedia BritannicaHeaven&#x27;s Gate &#124; UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-The tragic outcome illustrates how powerful evacuation narratives can become when believers see rescue not as a metaphor but as an imminent physical event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdsheriff.gov">[sdsheriff.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdsheriff.gov</span><span class="citation-popover-title">Heaven&#x27;s Gate Case &#124; San Diego County Sheriff39 members of the &quot;Heaven&#x27;s Gate&quot; cult were found dead</span><span class="citation-popover-snippet">An investigation by the San Diego County Sheriff&#x27;s Office determined they all took part in a mass ...Read more</span></span></span>
+The tragic outcome illustrates how powerful evacuation narratives can become when believers see rescue not as a metaphor but as an imminent physical event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/heaven-s-gate-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdsheriff.gov">[sdsheriff.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdsheriff.gov</span><span class="citation-popover-title">Heaven&#x27;s Gate Case &#124; San Diego County Sheriff39 members of the &quot;Heaven&#x27;s Gate&quot; cult were found dead</span><span class="citation-popover-snippet">An investigation by the San Diego County Sheriff&#x27;s Office determined they all took part in a mass ...Read more</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZllYeVajahE" title="Vrillon 1977 ET Live Interruption Broadcast francais sub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZllYeVajahE" target="_blank" rel="noopener noreferrer">Vrillon 1977 ET Live Interruption Broadcast francais sub</a></p><p class="youtube-embed-meta">Channel: Theodisc</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZllYeVajahE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZllYeVajahE">Open on YouTube</a></p></div></div></div>
@@ -336,11 +336,11 @@ The tragic outcome illustrates how powerful evacuation narratives can become whe
 
 When a predicted evacuation does not occur, movements face a problem similar to any failed apocalypse. The expected event was supposed to be publicly visible. The spacecraft never arrived, and the catastrophe never happened.
 
-One common response is postponement. New dates are introduced, conditions are revised, or hidden obstacles are blamed. The rescue fleet is still present, believers are told, but humanity is not yet ready. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alexquigley.co.uk">[Alex Quigley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alexquigley.co.uk</span><span class="citation-popover-title">when prophecies fail and evidence backfires</span><span class="citation-popover-snippet">Instead of rejecting Martin and her failed prophecies, the group quickly adapted and found a...Read more...</span></span></span>
+One common response is postponement. New dates are introduced, conditions are revised, or hidden obstacles are blamed. The rescue fleet is still present, believers are told, but humanity is not yet ready.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alexquigley.co.uk">[Alex Quigley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alexquigley.co.uk</span><span class="citation-popover-title">when prophecies fail and evidence backfires</span><span class="citation-popover-snippet">Instead of rejecting Martin and her failed prophecies, the group quickly adapted and found a...Read more...</span></span></span>
 
-Another response is spiritualisation. The evacuation is redefined as an invisible process rather than a physical extraction. Instead of boarding a literal craft, followers are said to have entered a higher vibration, dimension or state of consciousness. The rescue therefore occurred internally rather than externally. The spacecraft shifts from transportation technology to symbolic spiritual reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[Universitätsbibliothek Marburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">Universitätsbibliothek MarburgWhen we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New R...</span></span></span>
+Another response is spiritualisation. The evacuation is redefined as an invisible process rather than a physical extraction. Instead of boarding a literal craft, followers are said to have entered a higher vibration, dimension or state of consciousness. The rescue therefore occurred internally rather than externally. The spacecraft shifts from transportation technology to symbolic spiritual reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiv.ub.uni-marburg.de">[Universitätsbibliothek Marburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiv.ub.uni-marburg.de</span><span class="citation-popover-snippet">Universitätsbibliothek MarburgWhen we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New R...</span></span></span>
 
-This reinterpretation is particularly important within UFO-related ascension movements. The original prophecy may have described a visible departure from Earth, yet [after failure]({{ 'after-failure/' | relative_url }}) the emphasis moves toward energetic transformation, hidden intervention or spiritual rebirth. The rescue remains true, but only in a less observable form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/161847971/Ashtar-Command-Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Ashtar Command: Messages for Humanity &#124; PDFWorld evacuation has primarily been planned because of threats from other sources. I ref...</span></span></span>
+This reinterpretation is particularly important within UFO-related ascension movements. The original prophecy may have described a visible departure from Earth, yet [after failure]({{ 'after-failure/' | relative_url }}) the emphasis moves toward energetic transformation, hidden intervention or spiritual rebirth. The rescue remains true, but only in a less observable form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/161847971/Ashtar-Command-Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Ashtar Command: Messages for Humanity &#124; PDFWorld evacuation has primarily been planned because of threats from other sources. I ref...</span></span></span>
 
 
 <img src="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc-Illustration-3-dark.svg" | relative_url }}" alt="Evacuation illustration 3" data-theme-src-dark="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,187 +348,187 @@ This reinterpretation is particularly important within UFO-related ascension mov
 
 The recurring appeal of flying saucer evacuation lies in its ability to combine fear and reassurance in a single narrative.
 
-The catastrophe explains why the world feels unstable. The rescue explains why believers need not despair. Flying saucers become modern versions of older salvation vehicles found in religious traditions: arks, heavenly chariots, ascensions and divine deliverance stories. The technological imagery makes the promise feel contemporary, while the underlying structure remains familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Universitätsbibliothek Marburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
+The catastrophe explains why the world feels unstable. The rescue explains why believers need not despair. Flying saucers become modern versions of older salvation vehicles found in religious traditions: arks, heavenly chariots, ascensions and divine deliverance stories. The technological imagery makes the promise feel contemporary, while the underlying structure remains familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Universitätsbibliothek Marburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</span></span></span>
 
-Within the history of failed UFO predictions, this rescue logic is one of the most durable mechanisms. It transforms extraterrestrials into protectors, catastrophe into a test, and spacecraft into the bridge between destruction and survival. Even when specific evacuation prophecies fail, the underlying idea often survives because it offers something more emotionally compelling than disaster alone: the promise that someone, somewhere, has already prepared a way out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
+Within the history of failed UFO predictions, this rescue logic is one of the most durable mechanisms. It transforms extraterrestrials into protectors, catastrophe into a test, and spacecraft into the bridge between destruction and survival. Even when specific evacuation prophecies fail, the underlying idea often survives because it offers something more emotionally compelling than disaster alone: the promise that someone, somewhere, has already prepared a way out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicAvertive Apocalypticism &#124; The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vvFV1v8l-PI" title="The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer">The UFO Cult That Inspired Cognitive Dissonance | Dorothy Martin &amp; The Seekers</a></p><p class="youtube-embed-meta">Channel: Queens Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vvFV1v8l-PI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vvFV1v8l-PI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Apocalypses Promise Rescue First. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Apocalypses Promise Rescue First. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-        </h4>
-        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+</h4>
+<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-        <p class="fr-book-desc">Directly examines Dorothy Martin&#x27;s flying-saucer rescue prophecy and explains why believers maintained faith after predicted catastrophe...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines Dorothy Martin&#x27;s flying-saucer rescue prophecy and explains why believers maintained faith after predicted catastrophe...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Michael Barkun</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Culture of Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-0wFZRWKdfoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Culture of Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Michael Barkun</p>
         
-        <p class="fr-book-desc">Helps readers understand why rescue narratives and extraordinary salvation claims gain traction in end-times worldviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why rescue narratives and extraordinary salvation claims gain traction in end-times worldviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
-        </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+</h4>
+<p class="fr-book-author">By James R. Lewis</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
-        </h4>
-        <p class="fr-book-author">By John R. Hall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apocalypse Observed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1209181-M.jpg" alt="Cover for Apocalypse Observed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
+</h4>
+<p class="fr-book-author">By John R. Hall</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Culture of Conspiracy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Culture of Conspiracy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evacuation-why-ufo-apocalypses-promise-rescue-first-failed-predictions-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,194 +734,194 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/313714001_Apocalypse_in_Early_UFO_and_Alien-Based_Religions_Christian_and_Theosophical_Themes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Apocalypse in Early UFO and Alien-Based Religions15 Feb 2017 — This chapter examines the apocalyptic expectations of se...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: When Prophecy Fails  
-   Link: <a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — The prophecy came from Dorothy Martin (1900–1992), a Chicago... flying saucer, which they believed would rescue them and o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 3, 2026 — The prophecy came from Dorothy Martin (1900–1992), a Chicago... flying saucer, which they believed would rescue them and o...</p></details>
    Published: May 3, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicAvertive Apocalypticism | The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/34365/chapter/327331833?login=false</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicAvertive Apocalypticism | The Oxford Handbook of MillennialismFor more than fifty years, beliefs about UFOs have been charact...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar SheranThe Ashtar movement is studied by academics [who?] as a prominent form of [UFO religion](&amp;#123;&amp;#123; &#x27;ufo-religion/&#x27; | relative_url &amp;#125;&amp;#125;).... Earth civilizations and the a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ashtar_Sheran" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ashtar_Sheran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar SheranThe Ashtar movement is studied by academics [who?] as a prominent form of [UFO religion](&amp;#123;&amp;#123; &#x27;ufo-religion/&#x27; | relative_url &amp;#125;&amp;#125;).... Earth civilizations and the a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: books.google.com  
    Title: Books Project: World Evacuation  
-   Link: <a href="https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksProject: World Evacuation - Ashtar CommandProject World Evacuation: UFOs to Assist in the &quot;Great Exodus&quot; of Human... Tuella...</p></details>
+   Link:<a href="https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_World_Evacuation.html?id=-nFizgEACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksProject: World Evacuation - Ashtar CommandProject World Evacuation: UFOs to Assist in the &quot;Great Exodus&quot; of Human... Tuella...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: abebooks.com  
-   Link: <a href="https://www.abebooks.com/book-search/title/project-world-evacuation-ufos/author/command-ashtar/" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/book-search/title/project-world-evacuation-ufos/author/command-ashtar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project World Evacuation Ufos by Command AshtarProject World Evacuation: UFOs To Assist In The &quot;Great Exodus&quot; Of Human Souls Off This Pla...</p></details>
+   Link:<a href="https://www.abebooks.com/book-search/title/project-world-evacuation-ufos/author/command-ashtar/" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/book-search/title/project-world-evacuation-ufos/author/command-ashtar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project World Evacuation Ufos by Command AshtarProject World Evacuation: UFOs To Assist In The &quot;Great Exodus&quot; Of Human Souls Off This Pla...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: They also thought that an alien spacecraft was following Hale-Bopp.Read more  
-   Link: <a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Aliens · Missions · International Space Station · Space Shuttle · Ap...</p></details>
+   Link:<a href="https://www.space.com/19931-hale-bopp.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19931-hale-bopp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp: The Bright and Tragic Comet of the 1990s9 Feb 2022 — Aliens · Missions · International Space Station · Space Shuttle · Ap...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: epicmagazine.com  
    Title: The sole survivor of Heaven's Gate has a message for you  
-   Link: <a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp showing an elongated fuzzy brightness lurking in the tail, word quickly spread in UFO circles that there was an alien spacecraf...</p></details>
+   Link:<a href="https://epicmagazine.com/heavensgate/" target="_blank" rel="noopener noreferrer nofollow">https://epicmagazine.com/heavensgate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale-Bopp showing an elongated fuzzy brightness lurking in the tail, word quickly spread in UFO circles that there was an alien spacecraf...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/3/3/JCMC334/4584381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeaven&#x27;s Gate: the End - Oxford Academicby WG Robinson · 1997 · Cited by 46 — Led by Marshall Applewhite, the Heaven&#x27;s Gate c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sfgate.com  
    Title: Cultists Saw Hale Bopp as a Heavenly Sign It 2848671  
-   Link: <a href="https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultists Saw Hale-Bopp as a Heavenly Sign / It meant UFO...28 Mar 1997 — Rumors of an impending UFO encounter, the arrival of the Hale-B...</p></details>
+   Link:<a href="https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/news/article/Cultists-Saw-Hale-Bopp-as-a-Heavenly-Sign-It-2848671.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cultists Saw Hale-Bopp as a Heavenly Sign / It meant UFO...28 Mar 1997 — Rumors of an impending UFO encounter, the arrival of the Hale-B...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britannica.com  
    Title: Heavens Gate religious group  
-   Link: <a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Heavens-Gate-religious-group" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Heavens-Gate-religious-group</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaHeaven&#x27;s Gate | UFOs, Mass Suicide, New Religious...26 May 2026 — Heaven&#x27;s Gate was a new religious movement that...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: books.google.com  
    Title: Books Heaven's Gate: America's UFO Religion  
-   Link: <a href="https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zeller31 Oct 2014 — The group emerged out of engagement with Evangelical Christianity, the New Age movement, science fiction and UFOs, an...</p></details>
+   Link:<a href="https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Heaven_s_Gate.html?id=kGiWBAAAQBAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zeller31 Oct 2014 — The group emerged out of engagement with Evangelical Christianity, the New Age movement, science fiction and UFOs, an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sdsheriff.gov  
-   Link: <a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation by the San Diego County Sheriff&#x27;s Office determined they all took part in a mass...Read more...</p></details>
+   Link:<a href="https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate" target="_blank" rel="noopener noreferrer nofollow">https://www.sdsheriff.gov/bureaus/media-relations/common-questions/[heaven-s-gate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation by the San Diego County Sheriff&#x27;s Office determined they all took part in a mass...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/161847971/Ashtar-Command-Project" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/161847971/Ashtar-Command-Project</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command: Messages for Humanity | PDFWorld evacuation has primarily been planned because of threats from other sources. I ref...</p></details>
+   Link:<a href="https://www.scribd.com/document/161847971/Ashtar-Command-Project" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/161847971/Ashtar-Command-Project</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ashtar Command: Messages for Humanity | PDFWorld evacuation has primarily been planned because of threats from other sources. I ref...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Dorothy Martin (spiritualist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Following the notoriety surrounding the failed prophecy, Martin left Chicago... &quot;A Call To Arms: Sister...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dorothy_Martin_%28spiritualist%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dorothy Martin (spiritualist)Following the notoriety surrounding the failed prophecy, Martin left Chicago... &quot;A Call To Arms: Sister...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Heaven's Gate (religious group)  
-   Link: <a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)Heaven&#x27;s Gate was an American new religious movement known primarily for the mass suicide of its member...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven%27s_Gate_%28religious_group%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate (religious group)Heaven&#x27;s Gate was an American new religious movement known primarily for the mass suicide of its member...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 292491570 Avertive Apocalypticism  
-   Link: <a href="https://www.researchgate.net/publication/292491570_Avertive_Apocalypticism" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292491570_Avertive_Apocalypticism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Avertive Apocalypticism27 Dec 2020 — belief system. Often within UFO religious movements, avertive apocalyptic strategies are. pres...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292491570_Avertive_Apocalypticism" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292491570_Avertive_Apocalypticism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Avertive Apocalypticism27 Dec 2020 — belief system. Often within UFO religious movements, avertive apocalyptic strategies are. pres...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 397254906 Debunking When Prophecy Fails  
-   Link: <a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397254906_Debunking_When_Prophecy_Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “When Prophecy Fails”In 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
    Title: Debunking When Prophecy Fails  
-   Link: <a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrived, she...</p></details>
+   Link:<a href="https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987665255/Debunking-When-Prophecy-Fails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDFIn 1954, Dorothy Martin predicted an apocalyptic flood and promised her followers rescue by flying saucers. When neither arrived, she...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: history.com  
    Title: heavens gate cult members found dead  
-   Link: <a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/march-26/heavens-gate-cult-members-found-dead</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate cult members found dead | March 26, 1997Police enter a mansion in Rancho Santa Fe, an exclusive suburb of San Diego, Califo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archiv.ub.uni-marburg.de  
-   Link: <a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universitätsbibliothek MarburgWhen we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New R...</p></details>
+   Link:<a href="https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624" target="_blank" rel="noopener noreferrer nofollow">https://archiv.ub.uni-marburg.de/ep/0004/article/download/3771/3587/7624</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universitätsbibliothek MarburgWhen we enter into my Father&#x27;s spacecraft«by A Grünschloß · 1998 · Cited by 14 — In many contemporary New R...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41186060/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41186060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking &quot;When Prophecy Fails&quot;by T Kelly · 2026 · Cited by 5 — In 1954, Dorothy Martin predicted an apocalyptic flood and promised...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wwwuser.gwdguser.de  
-   Link: <a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GWDG UserAshtar&#x27;s communications to [George Van Tassel](&amp;#123;&amp;#123; &#x27;van-tassel/&#x27; | relative_url &amp;#125;&amp;#125;) in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</p></details>
+   Link:<a href="https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html" target="_blank" rel="noopener noreferrer nofollow">https://wwwuser.gwdguser.de/~agruens/UFO/ufo_apdx/ashtar_muw.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GWDG UserAshtar&#x27;s communications to [George Van Tassel](&amp;#123;&amp;#123; &#x27;van-tassel/&#x27; | relative_url &amp;#125;&amp;#125;) in the years...&quot;Ashtar Command&quot; was started by a man named Robert Short (or also k...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: alexquigley.co.uk  
    Title: when prophecies fail and evidence backfires  
-   Link: <a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of rejecting Martin and her failed prophecies, the group quickly adapted and found a...Read more...</p></details>
+   Link:<a href="https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://alexquigley.co.uk/when-prophecies-fail-and-evidence-backfires/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of rejecting Martin and her failed prophecies, the group quickly adapted and found a...Read more...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Project-World-Evacuation-Assist-Exodus/dp/0938294377?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Project-World-Evacuation-Assist-Exodus/dp/0938294377?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project World Evacuation: UFOs To Assist In The &quot;Great...Buy Project World Evacuation: UFOs To Assist In The &quot;Great Exodus&quot; Of Human Sou...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Project-World-Evacuation-Assist-Exodus/dp/0938294377?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Project-World-Evacuation-Assist-Exodus/dp/0938294377?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project World Evacuation: UFOs To Assist In The &quot;Great...Buy Project World Evacuation: UFOs To Assist In The &quot;Great Exodus&quot; Of Human Sou...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/x1pzh2/hale_bopp_phoenix_lights_and_heavens_gate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/x1pzh2/hale_bopp_phoenix_lights_and_heavens_gate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp, Phoenix Lights and Heaven&#x27;s gateHeaven&#x27;s gate claimed there would be an Alien ship traveling with the Hale Bopp comet that wo...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/x1pzh2/hale_bopp_phoenix_lights_and_heavens_gate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/x1pzh2/hale_bopp_phoenix_lights_and_heavens_gate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hale Bopp, Phoenix Lights and Heaven&#x27;s gateHeaven&#x27;s gate claimed there would be an Alien ship traveling with the Hale Bopp comet that wo...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateA charismatic leader convinces his devoted followers that salvation awaits aboard an alien spacecraft trailing a comet—leadi...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZGAmBlEV7g/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGAmBlEV7g/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s GateA charismatic leader convinces his devoted followers that salvation awaits aboard an alien spacecraft trailing a comet—leadi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillion The Ashtar Galactic CommandFamous UFO sightings and their impact. Theories on ancient... r/aliens - Galactic Federation of Ligh...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1imw42b/vrillion_the_ashtar_galactic_command_television/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vrillion The Ashtar Galactic CommandFamous UFO sightings and their impact. Theories on ancient... r/aliens - Galactic Federation of Ligh...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ojs.zrc-sazu.si  
-   Link: <a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESThe mythologies associated with UFOs are protean and shape-shifting, as are the aliens that have materialized in the extraterr...</p></details>
+   Link:<a href="https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031" target="_blank" rel="noopener noreferrer nofollow">https://ojs.zrc-sazu.si/traditiones/article/download/10542/9702/36031</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYTHOLOGIESThe mythologies associated with UFOs are protean and shape-shifting, as are the aliens that have materialized in the extraterr...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5V6FmVS_Gr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5V6FmVS_Gr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Doomsday Cults That Got It Wrong | When Prophecy FailsWe&#x27;ll explore 10 remarkable cases that reveal this pattern across centuries from...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: you.stonybrook.edu  
    Title: chocolate pudding and space aliens how the heavens gate cult propagated  
-   Link: <a href="https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/" target="_blank" rel="noopener noreferrer nofollow">https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Heaven&#x27;s Gate Cult Propagated9 Oct 2022 — Chocolate Pudding and Space Aliens: How the Heaven&#x27;s Gate Cult Propagated. An image depicti...</p></details>
+   Link:<a href="https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/" target="_blank" rel="noopener noreferrer nofollow">https://you.stonybrook.edu/undergraduatehistoryjournal/2022/10/09/chocolate-pudding-and-space-aliens-how-the-heavens-gate-cult-propagated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Heaven&#x27;s Gate Cult Propagated9 Oct 2022 — Chocolate Pudding and Space Aliens: How the Heaven&#x27;s Gate Cult Propagated. An image depicti...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: yorku.ca  
    Title: hale bopp claims lives of york university board of governors  
-   Link: <a href="https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mass suicide and the earlier one of the heaven&#x27;s gate cultists last month. First, in both cases, plastic bags had been placed over the he...</p></details>
+   Link:<a href="https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/caitlin/ioan/ata/issue1/hale.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mass suicide and the earlier one of the heaven&#x27;s gate cultists last month. First, in both cases, plastic bags had been placed over the he...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: rollingstone.com  
    Title: heavens gate 20 years later 10 things you didnt know 114563  
-   Link: <a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — From cult members&#x27; eating habits to the sneakers the group wore duri...</p></details>
+   Link:<a href="https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/feature/heavens-gate-20-years-later-10-things-you-didnt-know-114563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate 20 Years Later: 10 Things You Didn&#x27;t Know24 Mar 2017 — From cult members&#x27; eating habits to the sneakers the group wore duri...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: crimeandinvestigation.co.uk  
    Title: heavens gate ufo cult largest mass suicide us history  
-   Link: <a href="https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate UFO Cult: The largest mass suicide in US...39 members of Heaven&#x27;s Gate took their lives in 1997 believing it would help th...</p></details>
+   Link:<a href="https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history" target="_blank" rel="noopener noreferrer nofollow">https://www.crimeandinvestigation.co.uk/articles/heavens-gate-ufo-cult-largest-mass-suicide-us-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heaven&#x27;s Gate UFO Cult: The largest mass suicide in US...39 members of Heaven&#x27;s Gate took their lives in 1997 believing it would help th...</p></details>

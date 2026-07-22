@@ -525,16 +525,16 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The cult at the end of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6638130-M.jpg" alt="Cover for The cult at the end of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cult at the end of the world">The cult at the end of the world</a>
+          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides comparative insight into prophetic certainty, failed expectations, and religious movements under public scrutiny.</p>
+        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+
+        <p class="fr-book-desc">Directly explains the social and psychological dynamics seen after Chen Tao&#x27;s failed Channel 18 prediction.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -548,7 +548,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
           <a href="https://www.amazon.com/s?k=UFO+Religions+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
         </h4>
         <p class="fr-book-author">By Christopher Partridge</p>
-        
+
         <p class="fr-book-desc">Addresses religious groups built around UFO beliefs, prophecy, and contact expectations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFO+Religions+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -565,7 +565,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
           <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
         </h4>
         <p class="fr-book-author">By James R. Lewis</p>
-        
+
         <p class="fr-book-desc">Places Chen Tao within the broader context of UFO-based religious movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -582,7 +582,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
         </h4>
         <p class="fr-book-author">By John R. Hall</p>
-        
+
         <p class="fr-book-desc">Examines apocalyptic and millenarian movements, offering context for public prophecy failures and reinterpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -593,7 +593,7 @@ Finally, the aftermath complicates the simple idea that failed prophecy always s
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cult at the end of the world</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

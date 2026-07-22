@@ -346,7 +346,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By D.W. Pasulka</p>
-        
+
         <p class="fr-book-desc">Places extraordinary claims and cosmic narratives in a broader UFO context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
           <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
         </h4>
         <p class="fr-book-author">By Gregory L. Reece</p>
-        
+
         <p class="fr-book-desc">Provides context for apocalyptic UFO movements and rescue narratives like Chen Tao.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
           <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
         </h4>
         <p class="fr-book-author">By James R. Lewis</p>
-        
+
         <p class="fr-book-desc">Surveys movements that combine extraterrestrial and salvational beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ As a result, the movement’s emphasis shifted from proving a specific prophecy 
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
         </h4>
         <p class="fr-book-author">By John R. Hall</p>
-        
+
         <p class="fr-book-desc">Useful for understanding post-failure reinterpretation and end-times expectations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -352,7 +352,7 @@ The episode highlights an often-overlooked aspect of failed UFO prophecies. The 
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Useful framework for understanding public reactions to prophecy failure.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ The episode highlights an often-overlooked aspect of failed UFO prophecies. The 
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
 </h4>
 <p class="fr-book-author">By Christopher Partridge</p>
-        
+
 <p class="fr-book-desc">Provides context for Chen Tao and similar movements.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The episode highlights an often-overlooked aspect of failed UFO prophecies. The 
 <a href="https://www.amazon.com/s?k=The+Culture+of+Fear+Barry+Glassner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture of Fear">The Culture of Fear</a>
 </h4>
 <p class="fr-book-author">By Barry Glassner</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Anxiety, Fear, Social perception, Social problems, Social psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Culture+of+Fear+Barry+Glassner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The episode highlights an often-overlooked aspect of failed UFO prophecies. The 
 <a href="https://www.amazon.com/s?k=Extraordinary+Beliefs+Peter+Lamont&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Beliefs">Extraordinary Beliefs</a>
 </h4>
 <p class="fr-book-author">By Peter Lamont</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Mediums, Psychics, Mesmerism, Parapsychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Extraordinary+Beliefs+Peter+Lamont&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

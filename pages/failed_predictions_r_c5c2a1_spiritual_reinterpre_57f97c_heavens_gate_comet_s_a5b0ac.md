@@ -348,7 +348,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">Explains how believers reinterpret disconfirming evidence, a core theme of the Hale-Bopp and Heaven&#x27;s Gate story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
           <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
         </h4>
         <p class="fr-book-author">By Benjamin E. Zeller</p>
-        
+
         <p class="fr-book-desc">Directly explains Heaven&#x27;s Gate theology, UFO beliefs, and the Hale-Bopp era that frames the article.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
           <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults Inside Out">Cults Inside Out</a>
         </h4>
         <p class="fr-book-author">By Rick Ross</p>
-        
+
         <p class="fr-book-desc">Provides broader context for understanding high-commitment groups and belief persistence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ As a case within the history of failed UFO predictions, Hale–Bopp shows how be
           <a href="https://www.amazon.com/s?k=Handbook+of+UFO+Religions+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Handbook of UFO Religions">Handbook of UFO Religions</a>
         </h4>
         <p class="fr-book-author">By Benjamin E. Zeller</p>
-        
+
         <p class="fr-book-desc">Places Heaven&#x27;s Gate within the broader history of UFO religions and spiritual interpretations of astronomical events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Handbook+of+UFO+Religions+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -370,7 +370,7 @@ By purchasing dozens of homes, concentrating families in one neighbourhood and f
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">Provides the key framework for understanding costly commitment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,27 +387,10 @@ By purchasing dozens of homes, concentrating families in one neighbourhood and f
           <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
         </h4>
         <p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
-        
+
         <p class="fr-book-desc">Provides context for collective dedication to movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
-        </h4>
-        <p class="fr-book-author">By Amanda Montell</p>
-        
-        <p class="fr-book-desc">Explains how groups build commitment and belonging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -421,7 +404,7 @@ By purchasing dozens of homes, concentrating families in one neighbourhood and f
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
         </h4>
         <p class="fr-book-author">By John R. Hall</p>
-        
+
         <p class="fr-book-desc">Examines prophecy, disappointment, and adaptation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,9 +413,26 @@ By purchasing dozens of homes, concentrating families in one neighbourhood and f
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
+        </h4>
+        <p class="fr-book-author">By Amanda Montell</p>
+
+        <p class="fr-book-desc">Explains how groups build commitment and belonging.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The True Believer:Thoughts on the Nature of Mass Movements</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cultish</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The True Believer:Thoughts on the Nature of Mass Movements</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

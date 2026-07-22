@@ -352,7 +352,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Provides the framework for understanding public countdowns and failure.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
 <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
 </h4>
 <p class="fr-book-author">By Neil Postman</p>
-        
+
 <p class="fr-book-desc">Useful for understanding prophecy staged through television and media.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
 </h4>
 <p class="fr-book-author">By Christopher Partridge</p>
-        
+
 <p class="fr-book-desc">Places Chen Tao within broader UFO religious movements.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The public nature of the failure mattered as much as the failure itself. Had the
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
 </h4>
 <p class="fr-book-author">By Michael Shermer</p>
-        
+
 <p class="fr-book-desc">Explains audience reception of extraordinary claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -352,7 +352,7 @@ That outcome is precisely what makes the Garland case significant in the history
           <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
         </h4>
         <p class="fr-book-author">By Benjamin E. Zeller</p>
-        
+
         <p class="fr-book-desc">Directly explains the event that influenced Garland police.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ That outcome is precisely what makes the Garland case significant in the history
           <a href="https://www.amazon.com/s?k=UFO+Religions+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
         </h4>
         <p class="fr-book-author">By Christopher Partridge</p>
-        
+
         <p class="fr-book-desc">Provides wider context for UFO-centered religious movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFO+Religions+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ That outcome is precisely what makes the Garland case significant in the history
           <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
         </h4>
         <p class="fr-book-author">By Steven Hassan</p>
-        
+
         <p class="fr-book-desc">Useful background on commitment, influence and group behavior.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ That outcome is precisely what makes the Garland case significant in the history
           <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults Inside Out">Cults Inside Out</a>
         </h4>
         <p class="fr-book-author">By Rick Ross</p>
-        
+
         <p class="fr-book-desc">Addresses warning signs and intervention concerns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

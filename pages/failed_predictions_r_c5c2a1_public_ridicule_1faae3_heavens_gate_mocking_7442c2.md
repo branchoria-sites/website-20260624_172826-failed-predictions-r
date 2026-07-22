@@ -356,7 +356,7 @@ The aftermath suggests that not all ridicule functions the same way. Satire dire
           <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
         </h4>
         <p class="fr-book-author">By Benjamin E. Zeller</p>
-        
+
         <p class="fr-book-desc">Examines the beliefs, members, and aftermath of the movement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,16 +367,16 @@ The aftermath suggests that not all ridicule functions the same way. Satire dire
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The cult at the end of the world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6638130-M.jpg" alt="Cover for The cult at the end of the world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cult at the end of the world">The cult at the end of the world</a>
+          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Explores the human cost behind sensationalized tragedies.</p>
+        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+
+        <p class="fr-book-desc">Explains how failed prophecy affects believers and observers.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -390,7 +390,7 @@ The aftermath suggests that not all ridicule functions the same way. Satire dire
           <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The road to Jonestown">The road to Jonestown</a>
         </h4>
         <p class="fr-book-author">By Jeff Guinn</p>
-        
+
         <p class="fr-book-desc">Provides comparative insight into public reactions to tragic cult events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The aftermath suggests that not all ridicule functions the same way. Satire dire
           <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
         </h4>
         <p class="fr-book-author">By Steven Hassan</p>
-        
+
         <p class="fr-book-desc">Offers perspective on followers rather than simply mocking them.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The aftermath suggests that not all ridicule functions the same way. Satire dire
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cult+at+the+end+of+the+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cult at the end of the world</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+road+to+Jonestown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The road to Jonestown</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+road+to+Jonestown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The road to Jonestown</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

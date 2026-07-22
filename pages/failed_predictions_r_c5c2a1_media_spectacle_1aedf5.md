@@ -537,7 +537,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Foundational study of a failed UFO prophecy and public reaction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -554,7 +554,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
 <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
 </h4>
 <p class="fr-book-author">By Margaret Thaler Singer</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -571,7 +571,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
 <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
 </h4>
 <p class="fr-book-author">By John R. Hall</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -588,7 +588,7 @@ The lasting lesson is not that reporters should ignore failed UFO predictions. P
 <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
 </h4>
 <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
-        
+
 <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

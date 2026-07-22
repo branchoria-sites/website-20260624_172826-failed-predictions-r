@@ -374,7 +374,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
           <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
         </h4>
         <p class="fr-book-author">By James R. Lewis</p>
-        
+
         <p class="fr-book-desc">Covers UFO-based religious movements, salvation narratives and apocalyptic expectations tied to extraterrestrial rescuers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">Directly examines Dorothy Martin&#x27;s flying-saucer rescue prophecy and explains why believers maintained faith after predicted catastrophe...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
           <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
         </h4>
         <p class="fr-book-author">By Michael Barkun</p>
-        
+
         <p class="fr-book-desc">Helps readers understand why rescue narratives and extraordinary salvation claims gain traction in end-times worldviews.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Within the history of failed UFO predictions, this rescue logic is one of the mo
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
         </h4>
         <p class="fr-book-author">By John R. Hall</p>
-        
+
         <p class="fr-book-desc">Explains recurring patterns in millennial expectations, catastrophe narratives and responses to prophetic disappointment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

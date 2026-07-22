@@ -371,7 +371,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">Directly addresses rationalizations and blame after prophetic failure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
           <a href="https://www.amazon.com/s?k=UFO+Religions+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
         </h4>
         <p class="fr-book-author">By Christopher Partridge</p>
-        
+
         <p class="fr-book-desc">Includes UFO groups that invoke cosmic conflict narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFO+Religions+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Explains why external enemies become persuasive explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Within UFO prophecy traditions, this mechanism also adds dramatic meaning. A mis
           <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
         </h4>
         <p class="fr-book-author">By Steven Hassan</p>
-        
+
         <p class="fr-book-desc">Shows how closed belief systems handle contradiction and blame.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

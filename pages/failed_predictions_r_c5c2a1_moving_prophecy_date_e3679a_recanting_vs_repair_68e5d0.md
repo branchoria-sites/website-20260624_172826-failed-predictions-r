@@ -384,16 +384,16 @@ For the narrower question of prophecy dates that move after failure, the case se
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of Millennialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7241983-M.jpg" alt="Cover for The Oxford Handbook of Millennialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Millennialism">The Oxford Handbook of Millennialism</a>
+          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
         </h4>
-        <p class="fr-book-author">By Catherine Wessinger</p>
-        
-        <p class="fr-book-desc">Covers millennial expectations and the dynamics of prophetic belief across many traditions.</p>
+        <p class="fr-book-author">By Gregory L. Reece</p>
+
+        <p class="fr-book-desc">Places the Dorothy Martin episode within the wider history of UFO-based religious movements and prophecy claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -401,16 +401,16 @@ For the narrower question of prophecy dates that move after failure, the case se
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of Millennialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7241983-M.jpg" alt="Cover for The Oxford Handbook of Millennialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
+          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Millennialism">The Oxford Handbook of Millennialism</a>
         </h4>
-        <p class="fr-book-author">By Gregory L. Reece</p>
-        
-        <p class="fr-book-desc">Places the Dorothy Martin episode within the wider history of UFO-based religious movements and prophecy claims.</p>
+        <p class="fr-book-author">By Catherine Wessinger</p>
+
+        <p class="fr-book-desc">Covers millennial expectations and the dynamics of prophetic belief across many traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,7 +424,7 @@ For the narrower question of prophecy dates that move after failure, the case se
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
         </h4>
         <p class="fr-book-author">By John R. Hall</p>
-        
+
         <p class="fr-book-desc">Examines prophetic and apocalyptic movements, helping readers compare different responses to failed expectations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ For the narrower question of prophecy dates that move after failure, the case se
           <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
         </h4>
         <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
-        
+
         <p class="fr-book-desc">Provides broader context for how prophetic movements react when anticipated events do not occur.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ For the narrower question of prophecy dates that move after failure, the case se
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+Millennialism+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of Millennialism books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+of+Millennialism+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford of Millennialism books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apocalypse+Observed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apocalypse Observed</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

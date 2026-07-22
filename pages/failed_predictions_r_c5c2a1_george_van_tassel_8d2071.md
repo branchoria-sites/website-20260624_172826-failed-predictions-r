@@ -556,7 +556,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
 <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
 </h4>
 <p class="fr-book-author">By Michael Barkun</p>
-        
+
 <p class="fr-book-desc">Examines how prophetic, conspiratorial, and unverifiable claims persist and adapt when predictions fail.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -573,7 +573,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
 </h4>
 <p class="fr-book-author">By Christopher Partridge</p>
-        
+
 <p class="fr-book-desc">Explains how contactee narratives and prophetic expectations developed into organized belief systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -590,7 +590,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Provides historical background on the UFO era that produced contactees such as George Van Tassel and the early Ashtar tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -607,7 +607,7 @@ That is Van Tassel’s branch-specific significance in the history of failed UFO
 <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
 </h4>
 <p class="fr-book-author">By James R. Lewis</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

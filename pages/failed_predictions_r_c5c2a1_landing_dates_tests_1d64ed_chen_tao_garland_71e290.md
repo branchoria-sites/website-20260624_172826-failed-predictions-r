@@ -375,7 +375,7 @@ That specificity transformed belief into a testable claim. The failure of the Ch
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Explains how groups respond when specific public prophecies fail, directly matching the Garland episode.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ That specificity transformed belief into a testable claim. The failure of the Ch
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
 </h4>
 <p class="fr-book-author">By Christopher Partridge</p>
-        
+
 <p class="fr-book-desc">Covers religious movements built around extraterrestrial beliefs and prophetic claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ That specificity transformed belief into a testable claim. The failure of the Ch
 <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
 </h4>
 <p class="fr-book-author">By James R Lewis, James R. Lewis</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Cults, Sectes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ That specificity transformed belief into a testable claim. The failure of the Ch
 <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
 </h4>
 <p class="fr-book-author">By John R. Hall</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

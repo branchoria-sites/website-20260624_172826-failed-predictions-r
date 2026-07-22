@@ -435,7 +435,7 @@ For failed predictions, that preserved trail is often more important than the pr
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Promotes skeptical evaluation of extraordinary claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ For failed predictions, that preserved trail is often more important than the pr
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
 </h4>
 <p class="fr-book-author">By Ben Goldacre</p>
-        
+
 <p class="fr-book-desc">Encourages rigorous checking of evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -469,7 +469,7 @@ For failed predictions, that preserved trail is often more important than the pr
 <a href="https://www.amazon.com/s?k=Web+Archiving+Julien+Masan%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Web Archiving">Web Archiving</a>
 </h4>
 <p class="fr-book-author">By Julien Masanès</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Web archiving, Archives Internet, Internet, Web site development, Web sites, design.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Web+Archiving+Julien+Masan%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -486,7 +486,7 @@ For failed predictions, that preserved trail is often more important than the pr
 <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Detective">Data Detective</a>
 </h4>
 <p class="fr-book-author">By Tim Harford</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Statistics, Methodology, Social sciences, Statistical methods, Business.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Data+Detective+Tim+Harford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

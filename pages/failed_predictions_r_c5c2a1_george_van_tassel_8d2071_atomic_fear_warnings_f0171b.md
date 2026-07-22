@@ -362,7 +362,7 @@ For students of failed UFO predictions, this is the lasting significance of Van 
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
         </h4>
         <p class="fr-book-author">By Eric Schlosser</p>
-        
+
         <p class="fr-book-desc">Explains the nuclear anxieties that helped make atomic warnings compelling during the Cold War.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For students of failed UFO predictions, this is the lasting significance of Van 
           <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The making of the atomic bomb">The making of the atomic bomb</a>
         </h4>
         <p class="fr-book-author">By Richard Rhodes</p>
-        
+
         <p class="fr-book-desc">Provides the historical foundation for understanding postwar fears surrounding atomic technology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For students of failed UFO predictions, this is the lasting significance of Van 
           <a href="https://www.amazon.com/s?k=By+the+bomb%27s+early+light+Paul+S.+Boyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By the bomb&#x27;s early light">By the bomb&#x27;s early light</a>
         </h4>
         <p class="fr-book-author">By Paul S. Boyer</p>
-        
+
         <p class="fr-book-desc">Shows how atomic fears shaped public imagination, including religious and apocalyptic interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=By+the+bomb%27s+early+light+Paul+S.+Boyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For students of failed UFO predictions, this is the lasting significance of Van 
           <a href="https://www.amazon.com/s?k=Atomic+obsession+John+E.+Mueller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic obsession">Atomic obsession</a>
         </h4>
         <p class="fr-book-author">By John E. Mueller</p>
-        
+
         <p class="fr-book-desc">Directly addresses the social and political power of nuclear fear, a key theme of the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Atomic+obsession+John+E.+Mueller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

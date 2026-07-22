@@ -559,7 +559,7 @@ Ashtar Command belongs to the narrower category of UFO-related prophecy: predict
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">The foundational study of how believers respond when predictions do not come true.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -576,7 +576,7 @@ Ashtar Command belongs to the narrower category of UFO-related prophecy: predict
 <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
 </h4>
 <p class="fr-book-author">By Michael Barkun</p>
-        
+
 <p class="fr-book-desc">Explains how fringe beliefs, apocalyptic expectations, and reinterpretations spread and persist.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -593,7 +593,7 @@ Ashtar Command belongs to the narrower category of UFO-related prophecy: predict
 <a href="https://www.amazon.com/s?k=The+UFO+Phenomenon+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Phenomenon">The UFO Phenomenon</a>
 </h4>
 <p class="fr-book-author">By John Michael Greer</p>
-        
+
 <p class="fr-book-desc">Places contactees, UFO belief systems, and evolving narratives into a broader historical framework.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Phenomenon+by+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -610,7 +610,7 @@ Ashtar Command belongs to the narrower category of UFO-related prophecy: predict
 <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
 </h4>
 <p class="fr-book-author">By James R. Lewis</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

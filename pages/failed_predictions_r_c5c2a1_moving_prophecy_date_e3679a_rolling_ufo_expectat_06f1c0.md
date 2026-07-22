@@ -388,7 +388,7 @@ This is why the history of failed UFO predictions often moves from countdowns to
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">Built around the famous flying-saucer prophecy case and explains how believers respond when predicted events do not occur.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ This is why the history of failed UFO predictions often moves from countdowns to
           <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
         </h4>
         <p class="fr-book-author">By Gregory L. Reece</p>
-        
+
         <p class="fr-book-desc">Examines UFO belief systems, contactee movements, and the social dynamics surrounding prophetic expectations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ This is why the history of failed UFO predictions often moves from countdowns to
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
         </h4>
         <p class="fr-book-author">By John R. Hall</p>
-        
+
         <p class="fr-book-desc">Provides broader context for how apocalyptic groups adapt after expectations fail or change.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,16 +433,16 @@ This is why the history of failed UFO predictions often moves from countdowns to
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Handbook of Millennialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7241983-M.jpg" alt="Cover for The Oxford Handbook of Millennialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Millennialism">The Oxford Handbook of Millennialism</a>
         </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
-        
-        <p class="fr-book-desc">Explains recurring patterns of prophetic expectation, disappointment, and renewed anticipation across movements.</p>
+        <p class="fr-book-author">By Catherine Wessinger</p>
+
+        <p class="fr-book-desc">Covers millennial and apocalyptic belief systems, including mechanisms that sustain expectation after predicted dates pass.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Millennialism+Catherine+Wessinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

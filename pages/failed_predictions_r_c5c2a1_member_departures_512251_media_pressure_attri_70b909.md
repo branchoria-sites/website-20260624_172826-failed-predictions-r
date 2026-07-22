@@ -400,7 +400,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">The case involved extensive outside observation and publicity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
           <a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Theory of Cognitive Dissonance">A Theory of Cognitive Dissonance</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger</p>
-        
+
         <p class="fr-book-desc">Useful for understanding reactions to public embarrassment and contradiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Theory+of+Cognitive+Dissonance+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
           <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
         </h4>
         <p class="fr-book-author">By Steven Hassan</p>
-        
+
         <p class="fr-book-desc">Addresses social pressures affecting commitment and exit.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ For wavering believers, ridicule can make departure easier by exposing the gap b
           <a href="https://www.amazon.com/s?k=Going+Clear+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Going Clear">Going Clear</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Explores media scrutiny and its effects on controversial movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Going+Clear+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

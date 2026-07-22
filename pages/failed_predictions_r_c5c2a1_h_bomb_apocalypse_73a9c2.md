@@ -530,16 +530,16 @@ That comfort came at a cost. Once invisible intervention can explain non-destruc
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
+          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
         </h4>
-        <p class="fr-book-author">By Gregory L. Reece</p>
-        
-        <p class="fr-book-desc">Examines how UFO movements developed prophetic narratives and responded to failed expectations.</p>
+        <p class="fr-book-author">By James R. Lewis</p>
+
+        <p class="fr-book-desc">Directly addresses UFO-derived belief systems, prophecy, and contactee movements such as those surrounding Ashtar-linked claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -547,16 +547,16 @@ That comfort came at a cost. Once invisible intervention can explain non-destruc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gods have landed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4668244-M.jpg" alt="Cover for The Gods have landed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14339975-M.jpg" alt="Cover for UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
+          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
         </h4>
-        <p class="fr-book-author">By James R. Lewis</p>
-        
-        <p class="fr-book-desc">Directly addresses UFO-derived belief systems, prophecy, and contactee movements such as those surrounding Ashtar-linked claims.</p>
+        <p class="fr-book-author">By Gregory L. Reece</p>
+
+        <p class="fr-book-desc">Examines how UFO movements developed prophetic narratives and responded to failed expectations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -570,7 +570,7 @@ That comfort came at a cost. Once invisible intervention can explain non-destruc
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">Provides the foundational framework for understanding why believers reinterpret failed apocalypse predictions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -587,7 +587,7 @@ That comfort came at a cost. Once invisible intervention can explain non-destruc
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
         </h4>
         <p class="fr-book-author">By Eric Schlosser</p>
-        
+
         <p class="fr-book-desc">Provides essential context for the nuclear anxieties that made hydrogen-bomb apocalypse warnings culturally plausible.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -598,7 +598,7 @@ That comfort came at a cost. Once invisible intervention can explain non-destruc
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gods+have+landed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gods have landed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

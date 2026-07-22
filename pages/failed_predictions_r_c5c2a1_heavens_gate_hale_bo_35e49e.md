@@ -550,7 +550,7 @@ The case warns against treating all failed UFO predictions as harmless eccentric
           <a href="https://www.amazon.com/s?k=Under+the+Banner+of+Heaven+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the Banner of Heaven">Under the Banner of Heaven</a>
         </h4>
         <p class="fr-book-author">By Jon Krakauer</p>
-        
+
         <p class="fr-book-desc">Investigates the consequences of absolute belief and apocalyptic thinking, themes closely related to the Heaven&#x27;s Gate story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+Banner+of+Heaven+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -567,7 +567,7 @@ The case warns against treating all failed UFO predictions as harmless eccentric
           <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The road to Jonestown">The road to Jonestown</a>
         </h4>
         <p class="fr-book-author">By Jeff Guinn</p>
-        
+
         <p class="fr-book-desc">Explores how closed belief systems and charismatic leadership can culminate in catastrophe, providing useful context for understanding He...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -584,7 +584,7 @@ The case warns against treating all failed UFO predictions as harmless eccentric
           <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
         </h4>
         <p class="fr-book-author">By Benjamin E. Zeller</p>
-        
+
         <p class="fr-book-desc">Directly examines the Heaven&#x27;s Gate movement, its beliefs, UFO theology, and the events surrounding the 1997 deaths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -601,7 +601,7 @@ The case warns against treating all failed UFO predictions as harmless eccentric
           <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults Inside Out">Cults Inside Out</a>
         </h4>
         <p class="fr-book-author">By Rick Ross</p>
-        
+
         <p class="fr-book-desc">Helps explain recruitment, commitment, and group dynamics that can make failed predictions resistant to disconfirmation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cults+Inside+Out+Rick+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

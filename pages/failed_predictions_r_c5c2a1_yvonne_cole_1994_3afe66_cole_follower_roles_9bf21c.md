@@ -364,7 +364,7 @@ The follower-role aspect of the prophecy nevertheless remains revealing. It show
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Directly explains why followers take active roles and often deepen commitment around failed predictions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The follower-role aspect of the prophecy nevertheless remains revealing. It show
 <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE">UFO RELIGION: INSIDE FLYING SAUCER CULTS AND CULTURE</a>
 </h4>
 <p class="fr-book-author">By Gregory L. Reece</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Unidentified flying object cults, Religious calendars, Popular beliefs &amp; controversial knowledge.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+RELIGION%3A+INSIDE+FLYING+SAUCER+CULTS+AND+CULTURE+Gregory+L.+Reece&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The follower-role aspect of the prophecy nevertheless remains revealing. It show
 <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
 </h4>
 <p class="fr-book-author">By James R. Lewis</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Unidentified flying objects, Religion, Religious aspects, Unidentified flying object cults, United states...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The follower-role aspect of the prophecy nevertheless remains revealing. It show
 <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
 </h4>
 <p class="fr-book-author">By John R. Hall</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

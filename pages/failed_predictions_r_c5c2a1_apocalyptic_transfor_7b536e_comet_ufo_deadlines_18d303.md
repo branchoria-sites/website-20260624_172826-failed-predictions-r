@@ -360,7 +360,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Explores extraordinary claims, pseudoscience, UFO beliefs, and public interpretation of astronomical events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Religions">UFO Religions</a>
 </h4>
 <p class="fr-book-author">By Christopher Partridge</p>
-        
+
 <p class="fr-book-desc">Provides context for UFO prophecy, salvation narratives, and failed expectations tied to cosmic signs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Religions+by+Christopher+Partridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Foundational study of what happens when dramatic predictions fail to occur.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ The Hale–Bopp episode demonstrates how a genuine astronomical event can be tra
 <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apocalypse Observed">Apocalypse Observed</a>
 </h4>
 <p class="fr-book-author">By John R. Hall</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Nativistic movements, Violence, Case studies, History, Violence, religious aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Apocalypse+Observed+John+R.+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

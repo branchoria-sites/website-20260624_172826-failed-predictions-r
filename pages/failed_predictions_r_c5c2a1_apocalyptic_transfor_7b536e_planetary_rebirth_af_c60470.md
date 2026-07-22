@@ -371,7 +371,7 @@ Within the history of failed UFO predictions, this shift from public catastrophe
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Directly examines how believers reinterpret failed predictions and preserve meaning after expected events do not occur.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Within the history of failed UFO predictions, this shift from public catastrophe
 <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Culture of Conspiracy">A Culture of Conspiracy</a>
 </h4>
 <p class="fr-book-author">By Michael Barkun</p>
-        
+
 <p class="fr-book-desc">Provides context for how UFO, New Age, and apocalyptic ideas merge into narratives of hidden transformation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Culture+of+Conspiracy+by+Michael+Barkun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Within the history of failed UFO predictions, this shift from public catastrophe
 <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The road to Jonestown">The road to Jonestown</a>
 </h4>
 <p class="fr-book-author">By Jeff Guinn</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Large type books, Jonestown Mass Suicide, Jonestown, Guyana, 1978, Peoples Temple, Criminals, united stat...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Within the history of failed UFO predictions, this shift from public catastrophe
 <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
 </h4>
 <p class="fr-book-author">By Norman Rufus Colin Cohn</p>
-        
+
 <p class="fr-book-desc">First published 1961. Subjects: Church history, Medieval Sects, Millennium (Eschatology), History of doctrines.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

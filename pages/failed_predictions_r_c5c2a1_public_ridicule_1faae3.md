@@ -545,7 +545,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Explains what happens inside groups after public failure.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -562,7 +562,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
 </h4>
 <p class="fr-book-author">By Michael Shermer</p>
-        
+
 <p class="fr-book-desc">Helps explain belief, embarrassment, and persistence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -579,7 +579,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
 <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
 </h4>
 <p class="fr-book-author">By Steven Hassan</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -596,7 +596,7 @@ Mockery has a limited place. It can puncture inflated certainty, challenge manip
 <a href="https://www.amazon.com/s?k=Leaving+the+fold+Marlene+Winell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Leaving the fold">Leaving the fold</a>
 </h4>
 <p class="fr-book-author">By Marlene Winell</p>
-        
+
 <p class="fr-book-desc">First published 1993. Subjects: Ex-church members, Fundamentalism, Psychology, Psychology and religion, Faith.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Leaving+the+fold+Marlene+Winell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

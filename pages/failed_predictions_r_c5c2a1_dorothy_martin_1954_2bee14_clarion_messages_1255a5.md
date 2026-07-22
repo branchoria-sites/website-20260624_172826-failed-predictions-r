@@ -354,7 +354,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">Discusses the messages, believers, and failed prediction at the center of the story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
           <a href="https://www.amazon.com/s?k=Oahspe+John+Ballou+Newbrough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oahspe">Oahspe</a>
         </h4>
         <p class="fr-book-author">By John Ballou Newbrough</p>
-        
+
         <p class="fr-book-desc">A channeled text specifically associated with influences on Dorothy Martin&#x27;s worldview.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oahspe+John+Ballou+Newbrough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
           <a href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts+Joe+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The siren call of hungry ghosts">The siren call of hungry ghosts</a>
         </h4>
         <p class="fr-book-author">By Joe Fisher</p>
-        
+
         <p class="fr-book-desc">Directly engages with claims of receiving messages from nonphysical intelligences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+siren+call+of+hungry+ghosts+Joe+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The Clarion messages therefore occupy a distinctive place in the history of fail
           <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gods have landed">The Gods have landed</a>
         </h4>
         <p class="fr-book-author">By James R. Lewis</p>
-        
+
         <p class="fr-book-desc">Provides broader context for extraterrestrial message movements like the Clarion communications.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gods+have+landed+James+R.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

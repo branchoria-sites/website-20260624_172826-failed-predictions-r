@@ -359,16 +359,16 @@ The crucial lesson is not that followers invariably “double down” after disa
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s gate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s gate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Heaven&#x27;s Gate: America&#x27;s UFO Religion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12538964-M.jpg" alt="Cover for Heaven&#x27;s Gate: America&#x27;s UFO Religion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s gate">Heaven&#x27;s gate</a>
+          <a href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Heaven&#x27;s Gate: America&#x27;s UFO Religion">Heaven&#x27;s Gate: America&#x27;s UFO Religion</a>
         </h4>
         <p class="fr-book-author">By Benjamin E. Zeller</p>
 
         <p class="fr-book-desc">Directly covers the movement&#x27;s history, attrition and belief revisions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Heaven%27s+gate+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion+Benjamin+E.+Zeller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,16 +410,16 @@ The crucial lesson is not that followers invariably “double down” after disa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford handbook of new religious movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/125689-M.jpg" alt="Cover for The Oxford handbook of new religious movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish%3A+The+Language+of+Fanaticism+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish: The Language of Fanaticism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish: The Language of Fanaticism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
+          <a href="https://www.amazon.com/s?k=Cultish%3A+The+Language+of+Fanaticism+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish: The Language of Fanaticism">Cultish: The Language of Fanaticism</a>
         </h4>
-        <p class="fr-book-author">By James R Lewis, James R. Lewis</p>
+        <p class="fr-book-author">By Amanda Montell</p>
 
-        <p class="fr-book-desc">Provides broader context for movement growth and decline.</p>
+        <p class="fr-book-desc">Helps explain group commitment and retention dynamics.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Cultish%3A+The+Language+of+Fanaticism+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -427,7 +427,7 @@ The crucial lesson is not that followers invariably “double down” after disa
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+gate&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s gate</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Heaven%27s+Gate%3A+America%27s+UFO+Religion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Heaven&#x27;s Gate: America&#x27;s UFO Religion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Combating+cult+mind+control&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Combating cult mind control</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

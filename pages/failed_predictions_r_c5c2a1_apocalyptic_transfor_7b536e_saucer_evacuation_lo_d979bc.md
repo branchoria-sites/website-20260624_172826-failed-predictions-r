@@ -272,6 +272,7 @@ next_link:
   short_title: Nuclear Fear
   heading_title: How Nuclear Fear Fueled UFO End Times
 date: '2026-06-24 16:48:38 '
+last_modified_at: '2026-06-24 16:48:38 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_saucer_evacuation_lo_d979bc-Illustration-1.webp

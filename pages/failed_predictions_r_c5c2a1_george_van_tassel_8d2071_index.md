@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-george-van/
 description: Focused pages that expand on Van Tassel.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_george_van_tassel_8d2071
 parent_title: Van Tassel

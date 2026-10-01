@@ -272,6 +272,7 @@ next_link:
   short_title: Sky Checks
   heading_title: Was It a UFO or a Known Sky Object?
 date: '2026-06-24 17:19:30 '
+last_modified_at: '2026-06-24 17:19:30 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_post_deadline_reinte_3820eb-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_post_deadline_reinte_3820eb-Illustration-1.webp

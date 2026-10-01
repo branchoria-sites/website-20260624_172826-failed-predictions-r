@@ -266,6 +266,7 @@ next_link:
   short_title: Lockport Remnant
   heading_title: Why Did Chen Tao Keep Waiting?
 date: '2026-06-24 16:17:38 '
+last_modified_at: '2026-06-24 16:17:38 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_chen_apology_authori_67a4e2-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_chen_apology_authori_67a4e2-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Success Test
   heading_title: What Would Count as a UFO Landing?
 date: '2026-06-24 17:18:12 '
+last_modified_at: '2026-06-24 17:18:12 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_archived_source_trai_93cc22-Illustration-1.webp

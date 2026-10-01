@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-official/
 description: Focused pages that expand on Official Reviews.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_official_ufo_reviews_2f37e9
 parent_title: Official Reviews

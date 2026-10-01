@@ -272,6 +272,7 @@ next_link:
   short_title: Evacuation
   heading_title: Why UFO Apocalypses Promise Rescue First
 date: '2026-06-24 16:21:50 '
+last_modified_at: '2026-06-24 16:21:50 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_comet_ufo_deadlines_18d303-Illustration-1.webp

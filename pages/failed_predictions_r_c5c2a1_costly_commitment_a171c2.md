@@ -439,6 +439,7 @@ next_link:
   short_title: Departures
   heading_title: Why Some Believers Leave After Failure
 date: '2026-06-24 14:42:50 '
+last_modified_at: '2026-06-24 14:42:50 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-overview-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2-overview.webp

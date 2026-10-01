@@ -439,6 +439,7 @@ next_link:
   short_title: Commitment
   heading_title: Why Costly Belief Changes the Aftermath
 date: '2026-06-24 14:51:16 '
+last_modified_at: '2026-06-24 14:51:16 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d-overview-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d-overview.webp

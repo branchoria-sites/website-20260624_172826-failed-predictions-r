@@ -272,6 +272,7 @@ next_link:
   short_title: Source Trail
   heading_title: Can You Prove the Prediction Came First?
 date: '2026-06-24 17:22:44 '
+last_modified_at: '2026-06-24 17:22:44 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_sky_object_verificat_328ed7-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_sky_object_verificat_328ed7-Illustration-1.webp

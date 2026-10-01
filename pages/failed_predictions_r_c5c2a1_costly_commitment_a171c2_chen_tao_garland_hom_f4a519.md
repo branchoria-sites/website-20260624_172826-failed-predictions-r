@@ -272,6 +272,7 @@ next_link:
   short_title: Group Support
   heading_title: Why Groups Can Cushion Failed Prophecies
 date: '2026-06-24 15:53:38 '
+last_modified_at: '2026-06-24 15:53:38 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_chen_tao_garland_hom_f4a519-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_chen_tao_garland_hom_f4a519-Illustration-1.webp

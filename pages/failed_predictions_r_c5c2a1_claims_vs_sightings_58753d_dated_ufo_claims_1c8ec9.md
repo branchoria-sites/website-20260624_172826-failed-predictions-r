@@ -272,6 +272,7 @@ next_link:
   short_title: Hale Bopp
   heading_title: How a comet became a deadline
 date: '2026-06-24 15:33:43 '
+last_modified_at: '2026-06-24 15:33:43 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_dated_ufo_claims_1c8ec9-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_dated_ufo_claims_1c8ec9-Illustration-1.webp

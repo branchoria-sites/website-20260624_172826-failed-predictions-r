@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-24 00:47:55'
+last_modified_at: '2026-06-24 00:47:55'
 parent_title: What Mockery Misses About Failed Prophecy
 parent_permalink: /ridicule/
 parent_nav_short_title: Ridicule

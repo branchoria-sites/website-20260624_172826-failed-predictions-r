@@ -266,6 +266,7 @@ prev_link:
   short_title: Public Pressure
   heading_title: How Outsiders Shape a Failed Prophecy
 date: '2026-06-24 16:21:14 '
+last_modified_at: '2026-06-24 16:21:14 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_timing_errors_save_b_a571cc-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_timing_errors_save_b_a571cc-Illustration-1.webp

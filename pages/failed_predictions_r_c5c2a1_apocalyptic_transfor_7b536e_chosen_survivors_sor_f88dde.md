@@ -266,6 +266,7 @@ next_link:
   short_title: Comet Signs
   heading_title: When a Comet Becomes a UFO Deadline
 date: '2026-06-24 16:45:22 '
+last_modified_at: '2026-06-24 16:45:22 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_chosen_survivors_sor_f88dde-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_chosen_survivors_sor_f88dde-Illustration-1.webp

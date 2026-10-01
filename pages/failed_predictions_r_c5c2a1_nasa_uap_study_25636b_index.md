@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-nasa-uap/
 description: Focused pages that expand on NASA UAP.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_nasa_uap_study_25636b
 parent_title: NASA UAP

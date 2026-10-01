@@ -272,6 +272,7 @@ next_link:
   short_title: Press Watch
   heading_title: When Reporters Make Failure Public
 date: '2026-06-24 15:57:17 '
+last_modified_at: '2026-06-24 15:57:17 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_social_support_costl_9b5d92-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_social_support_costl_9b5d92-Illustration-1.webp

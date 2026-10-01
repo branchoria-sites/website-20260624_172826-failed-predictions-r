@@ -439,6 +439,7 @@ next_link:
   short_title: Media
   heading_title: When Reporters Wait for the Saucer
 date: '2026-06-24 14:47:29 '
+last_modified_at: '2026-06-24 14:47:29 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-overview-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba-overview.webp

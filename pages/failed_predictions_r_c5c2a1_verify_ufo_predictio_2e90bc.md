@@ -433,6 +433,7 @@ prev_link:
   short_title: Van Tassel
   heading_title: The Contactee Roots of Ashtar Prophecy
 date: '2026-06-24 15:09:12 '
+last_modified_at: '2026-06-24 15:09:12 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc-overview-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc-overview.webp

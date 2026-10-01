@@ -272,6 +272,7 @@ next_link:
   short_title: Reinterpretation
   heading_title: How Failed UFO Dates Change Shape
 date: '2026-06-24 17:20:22 '
+last_modified_at: '2026-06-24 17:20:22 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_private_revelation_c_50f840-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_verify_ufo_predictio_2e90bc_private_revelation_c_50f840-Illustration-1.webp

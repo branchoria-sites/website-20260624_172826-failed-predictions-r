@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-garland/
 description: Focused pages that expand on Garland.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_garland_texas_stage_cf2f97
 parent_title: Garland

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-spiritual/
 description: Focused pages that expand on Reframing.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_spiritual_reinterpre_57f97c
 parent_title: Reframing

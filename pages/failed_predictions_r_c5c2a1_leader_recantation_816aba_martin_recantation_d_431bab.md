@@ -272,6 +272,7 @@ next_link:
   short_title: Partial Retreat
   heading_title: How Leaders Admit Error Without Quitting
 date: '2026-06-24 16:19:11 '
+last_modified_at: '2026-06-24 16:19:11 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_martin_recantation_d_431bab-Illustration-1.webp

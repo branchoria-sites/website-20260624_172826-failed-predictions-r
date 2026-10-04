@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-yvonne/
 description: Focused pages that expand on 1994 Ashtar.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_yvonne_cole_1994_3afe66
 parent_title: 1994 Ashtar

@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-claims-vs/
 description: Focused pages that expand on Claims vs Sightings.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_claims_vs_sightings_58753d
 parent_title: Claims vs Sightings

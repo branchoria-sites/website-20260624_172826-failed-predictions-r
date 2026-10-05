@@ -272,6 +272,7 @@ next_link:
   short_title: Selling Up
   heading_title: What Sacrifice Does Before the Date Passes
 date: '2026-06-24 15:55:13 '
+last_modified_at: '2026-06-24 15:55:13 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_heavens_gate_renunci_cb5b14-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_heavens_gate_renunci_cb5b14-Illustration-1.webp

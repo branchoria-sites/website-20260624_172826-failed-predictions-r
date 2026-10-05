@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-24 00:43:17'
+last_modified_at: '2026-06-24 00:43:17'
 parent_title: When UFO Messages Come by Telepathy
 parent_permalink: /channeling/
 parent_nav_short_title: Channeling

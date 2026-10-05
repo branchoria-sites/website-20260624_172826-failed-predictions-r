@@ -266,6 +266,7 @@ prev_link:
   short_title: Rebirth Claims
   heading_title: When Failed Catastrophe Becomes Spiritual Rebirth
 date: '2026-06-24 16:23:07 '
+last_modified_at: '2026-06-24 16:23:07 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_television_prophecy_1fc38b-Illustration-1.webp

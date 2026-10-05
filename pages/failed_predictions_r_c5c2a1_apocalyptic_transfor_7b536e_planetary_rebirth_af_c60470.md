@@ -272,6 +272,7 @@ next_link:
   short_title: TV Proof
   heading_title: The Risk of Predicting God on TV
 date: '2026-06-24 16:45:54 '
+last_modified_at: '2026-06-24 16:45:54 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_planetary_rebirth_af_c60470-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_apocalyptic_transfor_7b536e_planetary_rebirth_af_c60470-Illustration-1.webp

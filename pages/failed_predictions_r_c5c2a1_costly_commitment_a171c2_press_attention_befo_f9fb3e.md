@@ -272,6 +272,7 @@ next_link:
   short_title: Renunciation
   heading_title: When a Prophecy Organizes Everyday Life
 date: '2026-06-24 15:56:32 '
+last_modified_at: '2026-06-24 15:56:32 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_press_attention_befo_f9fb3e-Illustration-1.webp

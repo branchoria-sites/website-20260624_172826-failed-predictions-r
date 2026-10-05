@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-23 20:40:52'
+last_modified_at: '2026-06-23 20:40:52'
 parent_title: Project Blue Book and the Alien Evidence Gap
 parent_permalink: /blue-book/
 parent_nav_short_title: Blue Book

@@ -272,6 +272,7 @@ next_link:
   short_title: Timing Errors
   heading_title: When the Date Fails but Belief Survives
 date: '2026-06-24 16:19:31 '
+last_modified_at: '2026-06-24 16:19:31 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_police_media_pressur_9a2e2c-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_leader_recantation_816aba_police_media_pressur_9a2e2c-Illustration-1.webp

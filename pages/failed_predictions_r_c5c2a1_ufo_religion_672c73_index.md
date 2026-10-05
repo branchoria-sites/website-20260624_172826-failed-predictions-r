@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /failed-predictions-r-c5c2a1-ufo/
 description: Focused pages that expand on UFO Religion.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: failed_predictions_r_c5c2a1_ufo_religion_672c73
 parent_title: UFO Religion

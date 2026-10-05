@@ -272,6 +272,7 @@ next_link:
   short_title: Dated Claims
   heading_title: Why dates make UFO claims testable
 date: '2026-06-24 16:27:23 '
+last_modified_at: '2026-06-24 16:27:23 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_costly_ufo_predictio_f96d19-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_claims_vs_sightings_58753d_costly_ufo_predictio_f96d19-Illustration-1.webp

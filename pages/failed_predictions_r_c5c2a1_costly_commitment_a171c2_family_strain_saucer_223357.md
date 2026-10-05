@@ -266,6 +266,7 @@ next_link:
   short_title: Garland Homes
   heading_title: Why Garland Became Hard to Walk Away From
 date: '2026-06-24 15:54:05 '
+last_modified_at: '2026-06-24 15:54:05 '
 header:
   og_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_family_strain_saucer_223357-Illustration-1-social.jpg
   preview_image: /assets/images/failed_predictions_r_c5c2a1_costly_commitment_a171c2_family_strain_saucer_223357-Illustration-1.webp

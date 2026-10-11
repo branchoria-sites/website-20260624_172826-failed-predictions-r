@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /failed-predictions/
 - /verify-claims/
 nav_short_title: Chen Tao
-title: When God Did Not Appear on TV
-title_full: When God Did Not Appear on TV
+title: "When God Did Not Appear on TV (chen tao)"
+title_full: "When God Did Not Appear on TV (chen tao)"
 display_title_short: Chen Tao
 display_title: Chen Tao
 heading_title: When God Did Not Appear on TV

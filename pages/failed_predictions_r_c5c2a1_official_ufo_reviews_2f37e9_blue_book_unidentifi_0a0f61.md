@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /failed-predictions/
 - /official-reviews/
 nav_short_title: Blue Book
-title: Why Unidentified Did Not Mean Alien
-title_full: Why Unidentified Did Not Mean Alien
+title: "Why Unidentified Did Not Mean Alien (blue book)"
+title_full: "Why Unidentified Did Not Mean Alien (blue book)"
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: Why Unidentified Did Not Mean Alien

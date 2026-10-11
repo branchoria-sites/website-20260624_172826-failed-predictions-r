@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /failed-predictions/
 - /blue-book/
 nav_short_title: Unidentified Cases
-title: Why Unidentified Did Not Mean Alien
-title_full: Why Unidentified Did Not Mean Alien
+title: "Why Unidentified Did Not Mean Alien (unidentified cases)"
+title_full: "Why Unidentified Did Not Mean Alien (unidentified cases)"
 display_title_short: Unidentified Cases
 display_title: Unidentified Cases
 heading_title: Why Unidentified Did Not Mean Alien

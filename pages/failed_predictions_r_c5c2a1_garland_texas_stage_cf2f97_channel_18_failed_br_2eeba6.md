@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /failed-predictions/
 - /garland/
 nav_short_title: Channel 18
-title: When God Did Not Appear on TV
-title_full: When God Did Not Appear on TV
+title: "When God Did Not Appear on TV (channel 18)"
+title_full: "When God Did Not Appear on TV (channel 18)"
 display_title_short: Channel 18
 display_title: Channel 18
 heading_title: When God Did Not Appear on TV
